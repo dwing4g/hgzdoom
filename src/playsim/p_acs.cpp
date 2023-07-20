@@ -8642,7 +8642,15 @@ scriptwait:
 		case PCD_ENDLOG:
 			if (pcd == PCD_ENDLOG)
 			{
-				Printf ("%s\n", work.GetChars());
+				extern bool C_IsBlank(const char* msg);
+				extern const char* C_Translate(const char* msg);
+				if (!C_IsBlank(work.GetChars()))
+				{
+					Printf("%s\n", work.GetChars());
+					const char* msg1 = C_Translate(work.GetChars());
+					if (msg1)
+						Printf("%s\n", msg1);
+				}
 				STRINGBUILDER_FINISH(work);
 			}
 			else if (pcd != PCD_MOREHUDMESSAGE)
@@ -8711,17 +8719,33 @@ scriptwait:
 						color = (EColorRange)((unsigned)(c) >= NUM_TEXT_COLORS ? CR_UNTRANSLATED : (c));
 					}
 
+					extern bool C_IsBlank(const char* msg);
+					extern const char* C_Translate(const char* msg);
+					const char* work1 = C_Translate(work.GetChars());
+					static float lastY = 0, lastNewY = 0;
+					if (y > lastY && y - lastNewY < 0.04f)
+					{
+						lastY = y;
+						lastNewY = y = lastNewY + 0.04f;
+						while (y > 1) y -= 0.96f;
+					}
+					else
+					{
+						lastY = y;
+						lastNewY = y;
+					}
+
 					switch (type & 0xFF)
 					{
 					default:	// normal
 						alpha = (optstart < sp) ? ACSToFloat(Stack[optstart]) : 1.f;
-						msg = Create<DHUDMessage> (activefont, work, x, y, hudwidth, hudheight, color, holdTime);
+						msg = Create<DHUDMessage> (activefont, work1 ? work1 : work.GetChars(), x, y, hudwidth, hudheight, color, holdTime);
 						break;
 					case 1:		// fade out
 						{
 							float fadeTime = (optstart < sp) ? ACSToFloat(Stack[optstart]) : 0.5f;
 							alpha = (optstart < sp-1) ? ACSToFloat(Stack[optstart+1]) : 1.f;
-							msg = Create<DHUDMessageFadeOut> (activefont, work, x, y, hudwidth, hudheight, color, holdTime, fadeTime);
+							msg = Create<DHUDMessageFadeOut> (activefont, work1 ? work1 : work.GetChars(), x, y, hudwidth, hudheight, color, holdTime, fadeTime);
 						}
 						break;
 					case 2:		// type on, then fade out
@@ -8729,7 +8753,7 @@ scriptwait:
 							float typeTime = (optstart < sp) ? ACSToFloat(Stack[optstart]) : 0.05f;
 							float fadeTime = (optstart < sp-1) ? ACSToFloat(Stack[optstart+1]) : 0.5f;
 							alpha = (optstart < sp-2) ? ACSToFloat(Stack[optstart+2]) : 1.f;
-							msg = Create<DHUDMessageTypeOnFadeOut> (activefont, work, x, y, hudwidth, hudheight, color, typeTime, holdTime, fadeTime);
+							msg = Create<DHUDMessageTypeOnFadeOut> (activefont, work1 ? work1 : work.GetChars(), x, y, hudwidth, hudheight, color, typeTime, holdTime, fadeTime);
 						}
 						break;
 					case 3:		// fade in, then fade out
@@ -8737,7 +8761,7 @@ scriptwait:
 							float inTime = (optstart < sp) ? ACSToFloat(Stack[optstart]) : 0.5f;
 							float outTime = (optstart < sp-1) ? ACSToFloat(Stack[optstart+1]) : 0.5f;
 							alpha = (optstart < sp-2) ? ACSToFloat(Stack[optstart + 2]) : 1.f;
-							msg = Create<DHUDMessageFadeInOut> (activefont, work, x, y, hudwidth, hudheight, color, holdTime, inTime, outTime);
+							msg = Create<DHUDMessageFadeInOut> (activefont, work1 ? work1 : work.GetChars(), x, y, hudwidth, hudheight, color, holdTime, inTime, outTime);
 						}
 						break;
 					}
@@ -8761,10 +8785,13 @@ scriptwait:
 					}
 					StatusBar->AttachMessage (msg, id ? 0xff000000|id : 0,
 						(type & HUDMSG_LAYER_MASK) >> HUDMSG_LAYER_SHIFT);
-					if (type & HUDMSG_LOG)
+					if (!C_IsBlank(work.GetChars()))
 					{
 						int consolecolor = color >= CR_BRICK && color <= CR_YELLOW ? color + 'A' : '-';
-						Printf(PRINT_NONOTIFY, "\n" TEXTCOLOR_ESCAPESTR "%c%s\n%s\n%s\n", consolecolor, console_bar, work.GetChars(), console_bar);
+						if (work1)
+							Printf(PRINT_NONOTIFY, "\n" TEXTCOLOR_ESCAPESTR "%c%s\n%s\n%s\n", consolecolor, console_bar, work.GetChars(), work1);
+						else if (type & HUDMSG_LOG)
+							Printf(PRINT_NONOTIFY, "\n" TEXTCOLOR_ESCAPESTR "%c%s\n%s\n%s\n", consolecolor, console_bar, work.GetChars(), console_bar);
 					}
 				}
 			}
@@ -10237,8 +10264,8 @@ scriptwait:
 			else
 				pc += 3;
 			break;
- 		}
- 	}
+		}
+	}
 
 	if (runaway != 0 && InModuleScriptNumber >= 0)
 	{

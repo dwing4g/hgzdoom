@@ -915,9 +915,15 @@ void C_MidPrint(FFont* font, const char* msg, bool bold)
 	if (msg != nullptr)
 	{
 		auto color = (EColorRange)PrintColors[bold ? PRINTLEVELS + 1 : PRINTLEVELS];
-		Printf(PRINT_HIGH | PRINT_NONOTIFY, TEXTCOLOR_ESCAPESTR "%c%s\n%s\n%s\n", color, console_bar, msg, console_bar);
+		extern bool C_IsBlank(const char* msg);
+		extern const char* C_Translate(const char* msg);
+		const char* msg1 = C_Translate(msg);
+		if (!C_IsBlank(msg))
+		{
+			Printf(PRINT_HIGH | PRINT_NONOTIFY, TEXTCOLOR_ESCAPESTR "%c%s\n%s\n%s\n", color, console_bar, msg, msg1 ? msg1 : console_bar);
+		}
 
-		StatusBar->AttachMessage(Create<DHUDMessage>(font, msg, 1.5f, 0.375f, 0, 0, color, con_midtime), MAKE_ID('C', 'N', 'T', 'R'));
+		StatusBar->AttachMessage(Create<DHUDMessage>(font, msg1 ? msg1 : msg, 1.5f, 0.375f, 0, 0, color, con_midtime), MAKE_ID('C', 'N', 'T', 'R'));
 	}
 	else
 	{
@@ -925,3 +931,94 @@ void C_MidPrint(FFont* font, const char* msg, bool bold)
 	}
 }
 
+#include <stdio.h>
+#include <string.h>
+#include <string>
+#include <unordered_map>
+#include <windows.h>
+
+bool C_IsBlank(const char* msg)
+{
+	for (;;)
+	{
+		unsigned char c = (unsigned char)*msg++;
+		if (!c)
+			return true;
+		if (c > 0x20)
+			return false;
+	}
+}
+
+const char* C_Translate(const char* msg)
+{
+	const int MAX_BUF_SIZE = 4000;
+	char buf[MAX_BUF_SIZE];
+	static std::unordered_map<std::string, std::string>* trans = 0;
+	if (!trans)
+	{
+		trans = new std::unordered_map<std::string, std::string>;
+		int n = 0;
+		WIN32_FIND_DATAW fd;
+		HANDLE hf = FindFirstFileW(L"translation\\*.txt", &fd);
+		if (hf != INVALID_HANDLE_VALUE)
+		{
+			do
+				if (fd.cFileName[0] != '.')
+				{
+					wchar_t pathName[MAX_PATH];
+					wsprintf(pathName, L"translation\\%s", fd.cFileName);
+					FILE* fp = _wfopen(pathName, L"rb");
+					if (fp)
+					{
+						std::string bufe;
+						while (fgets(buf, MAX_BUF_SIZE, fp))
+						{
+							int n = (int)strlen(buf);
+							while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
+								n--;
+							buf[n] = 0;
+							if (*buf)
+							{
+								if (bufe.empty())
+									bufe = buf;
+								else
+								{
+									trans->insert(std::make_pair(bufe, buf));
+									bufe.clear();
+								}
+							}
+							else
+								bufe.clear();
+						}
+						fclose(fp);
+					}
+					n++;
+				}
+			while (FindNextFileW(hf, &fd));
+			FindClose(hf);
+		}
+		Printf(PRINT_HIGH | PRINT_NONOTIFY, "Loaded %d pairs in %d files\n", (int)trans->size(), n);
+	}
+	while (*msg && (unsigned char)*msg <= 0x20)
+		msg++;
+	int n = 0;
+	for (int i = 0, f = 0;;)
+	{
+		char c = msg[i++];
+		if (c == 0 || n >= MAX_BUF_SIZE - 1)
+			break;
+		if (c == TEXTCOLOR_ESCAPE)
+			f = 1;
+		else if (!f)
+			buf[n++] = c;
+		else if (c == ']' || c == '-')
+			f = 0;
+	}
+	while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
+		n--;
+	buf[n] = 0;
+	std::unordered_map<std::string, std::string>::const_iterator it = trans->find(buf);
+//	if (it == trans->end())
+//		Printf(PRINT_HIGH | PRINT_NONOTIFY, "[%s]\n", buf);
+	return it != trans->end() ? it->second.c_str() : 0;
+}

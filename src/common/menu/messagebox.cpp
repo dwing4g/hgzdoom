@@ -65,7 +65,9 @@ DMenu *CreateMessageBoxMenu(DMenu *parent, const char *message, int messagemode,
 	auto c = PClass::FindClass(MessageBoxClass);
 	if (!c->IsDescendantOf(NAME_MessageBoxMenu)) c = PClass::FindClass(NAME_MessageBoxMenu);
 	auto p = c->CreateNew();
-	FString namestr = message;
+	extern const char* C_Translate(const char* msg);
+	const char* message1 = C_Translate(message);
+	FString namestr = message1 ? message1 : message;
 
 	IFVIRTUALPTRNAME(p, NAME_MessageBoxMenu, Init)
 	{

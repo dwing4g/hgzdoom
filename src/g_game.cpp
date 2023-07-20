@@ -467,7 +467,10 @@ CCMD(invquery)
 	AActor *inv = players[consoleplayer].mo->PointerVar<AActor>(NAME_InvSel);
 	if (inv != NULL)
 	{
-		Printf(PRINT_HIGH, "%s (%dx)\n", inv->GetTag(), inv->IntVar(NAME_Amount));
+		const char* tag = inv->GetTag();
+		extern const char* C_Translate(const char* msg);
+		const char* tag1 = C_Translate(tag);
+		Printf(PRINT_HIGH, "%s (%dx)\n", tag1 ? tag1 : tag, inv->IntVar(NAME_Amount));
 	}
 }
 

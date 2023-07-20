@@ -1,0 +1,624 @@
+Bear Warrior:    You okay, sarge?
+熊战士：你没事吧，中士？
+
+Looks like we're at the Forge... hey, is that a Sentry? We could use one of these.
+看来我们到锻造场了……嘿，那是哨兵炮塔吗？我们可以用一个。
+
+Tiati:   ...sorry Zan, but I just can't trust you.
+蒂亚提：……对不起，瓒，但我不能相信你。
+
+Tiati:   How did you?... okay, go through the portal, I'll be right behind.
+蒂亚提：你怎么做到的？……好吧，穿过传送门，我随后就到。
+
+Bear Warrior:    Hey, is that Tiati? Looks like she's trapped in there...
+熊战士：嘿，那是蒂亚提吗？她好像被困在里面了……
+
+Bear Warrior:    Damn it, we're too late! Looks like we'll have to find yet another way around...
+熊战士：该死，我们来晚了！看来我们得另想办法了……
+
+Bear Warrior:    Now I'm glad I packed my lava shoes with me...
+熊战士：现在我很庆幸我带了熔岩鞋……
+
+The switch is out of power.
+开关没电了。
+
+This cracked wall looks like it could be broken with the right tool.
+这面裂开的墙看起来可以用合适的工具打破。
+
+You'll need a proper tool to mine this ore vein.
+你需要一个合适的工具来开采这个矿脉。
+
+The Forgotten One:   ...thank...you...
+被遗忘者：……谢……谢……
+
+Bear Warrior:    Rest well, ghost.
+熊战士：好好休息吧，幽灵。
+
+The lever won't budge.
+杠杆动不了。
+
+The Forgotten One:   *Ghastly* ...who steps into my maze?... a... fellow immortal?
+被遗忘者：*可怕的*……谁闯入了我的迷宫？……一名……同道？
+
+The Forgotten One:   Demonblood... you must help me...
+被遗忘者：恶魔之血……你必须帮我……
+
+Bear Warrior:    A Minotaur ghost? I wonder what he wants...
+熊战士：牛头人幽灵？我想知道他想要什么……
+
+The Forgotten One:   ...I was a legendary axesmith... they sealed away my anvil...
+被遗忘者：……我曾是传奇斧匠……他们封印了我的铁砧……
+
+The Forgotten One:   ...the walls here... they speak... they hold the key to freedom...
+被遗忘者：……这里的墙……它们会说话……它们掌握着自由的钥匙……
+
+Bear Warrior:    Well I did notice some odd looking walls around here.
+熊战士：我注意到这里的墙壁看起来很奇怪。
+
+The Forgotten One:   ...I cannot have rest... I need my anvil... help me...
+被遗忘者：……我不能休息…… 我需要我的铁砧……帮帮我……
+
+Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6)
+提示：按下药水发射器键（默认值：6）可切换弹药类型。
+
+Looks like the main power has been shut down.
+主电源好像被关闭了。
+
+The switch is stuck. Seems like you'll need the proper tools to unjam it without damaging it.
+开关被卡住了。看来您需要适当的工具才能在不损坏开关的情况下将其打开。
+
+This switch requires an Iron key to open the door.
+这个开关需要铁钥匙才能打开。
+
+This door requires an Earth key to open.
+这扇门需要地钥匙才能打开。
+
+This switch requires the Earth key to activate the lift.
+这个开关需要土钥匙才能启动电梯。
+
+This strange door has an axe-shaped keyhole to the side.
+这扇奇怪的门侧面有一个斧头形状的钥匙孔。
+
+Bear Warrior:    Fire in the hole!
+熊战士：向洞里开火！
+
+You should grab the gear from the anvil before you leave.
+你应该在离开前从铁砧上拿上装备。
+
+You don't have any Iron Ore to smelt.
+你没有铁矿石可以冶炼。
+
+You must claim the Iron Ingot before using the machine again.
+你必须在再次使用机器前领取铁锭。
+
+You already have an Iron Key.
+您已经有一把铁钥匙。
+
+You don't have any Iron Ingots.
+您没有铁锭。
+
+The Iron Key is ready to be picked.
+铁钥匙已准备好提取。
+
+You don't have any Iron Ingots.
+您没有铁锭。
+
+You must claim the Fragfire Can before using the machine again.
+再次使用机器前，您必须领取脆火罐。
+
+You don't have all the required materials.
+您没有所有需要的材料。
+
+You must claim the Boltmag before using the machine again.
+再次使用机器前，您必须领取 Boltmag。
+
+You don't have any Iron Ingots.
+您没有铁锭。
+
+You must claim all the Spikes before using the machine again.
+再次使用机器前，您必须认领所有尖刺。
+
+You don't have all the required materials.
+所需材料不全。
+
+You must claim the Fire Hammer before using the machine again.
+您必须在再次使用机器前领取火锤。
+
+You don't have enough Iron Ingots.
+您没有足够的铁锭。
+
+You must claim the Great Axe before using the machine again.
+再次使用机器前，您必须认领大斧。
+
+You don't have any Iron Ingots.
+您没有铁锭。
+
+You must claim the Axe before using the machine again.
+再次使用机器前，您必须认领大斧头。
+
+The Mithril Ingot is ready to be picked.
+米特尔金锭已准备好采摘。
+
+You don't have any Mithril Ore to smelt.
+您没有可以熔炼的米特尔矿石。
+
+You already have a Mithril Bar.
+您已经有了一个米特里尔棒。
+
+You need five lumps of Mithril Ore to smelt an Ingot.
+您需要五块米特尔矿石才能熔炼一块金属锭。
+
+The Mould is filled and ready to be picked.
+铸模已装满，可以提取。
+
+You must place the empty mould under the tap first.
+您必须先将空模具放在水龙头下。
+
+You don't have any Mithril Ingots to cast.
+您没有任何米索林铸锭可以铸造。
+
+The Gear Mould is placed and ready to be filled.
+齿轮模具已放置并准备填充。
+
+You don't have any Mould to place.
+您没有模具可放。
+
+The Mithril Gear has been finally finished and is ready to be picked up.
+米特尔齿轮已最终完成，可以拾取。
+
+You don't have anything that needs to be hammered on the Great Forge's Anvil.
+您没有任何需要在大锻造砧上敲打的东西。
+
+I couldn't help but see you struggle with herding the Forge Elementals by the lava pools.
+看到你在熔岩池边费力地驱赶锻造元素，我也忍不住了。
+
+Take this magic ring,  we dwarves use it to protect ourselves from the might of the fire...
+带上这枚魔戒，我们矮人用它来保护自己免受火焰的威力……
+
+Perhaps we could take a stroll through the caverns tomorrow? I'll show you how to use it.
+也许我们明天可以去洞穴走走？我教你怎么用它
+
+Maybe stop by the tavern to have a drink too?  I will wait for you by the forge. - Thorvald
+要不要也去酒馆喝一杯？ 我在锻造场等你。- 索瓦尔德
+
+Birth of the Earthborn - Chapter 7: The Pact
+大地之子的诞生 - 第七章：契约
+
+[...]    and now when they were forced to watch the ruins of their civilisation, both the Dwarves and
+[……]而现在，当他们被迫看着自己文明的废墟时，矮人和牛头人都明
+
+the Minotaurs understood that there was no more place for petty quarrels. Only now were their eyes
+白，再也没有地方可以用来争吵了。直到现在，他们才睁开眼睛，被
+
+open as they were forced to gaze over the smoldering ruins of their once great home towns. But alas,
+迫注视着他们曾经伟大的家乡那片正在燃烧的废墟。但可惜为时已晚
+
+t'was too late. The few who survived the Demon invasion were scattered throughout Hedon's caverns,
+。在恶魔入侵中幸存下来的少数人散落在海顿的洞穴中，被迫像瘦弱
+
+forced to live like scrawny nomads, struggling to survive day by day. No longer did they have the will
+的游牧民族一样生活，日复一日地挣扎求生。他们知道魔族是如何利
+
+to fight each other, knowing how the Demons used the seed of subterfuge to divide and conquer them.
+用潜伏的种子来分化和征服他们的，因此再也没有斗志互相争斗了。
+
+The incompetent and corrupt leaders were already dead. It was time for the strong to take lead once
+无能和腐败的领导者已经死去。是时候让强者再次领导了。而这些
+
+more. And those new leaders had a great thirst for vengeance. Great enough to forge an alliance with
+新的领导者对复仇有着极大的渴望。大到足以与他们曾经蔑视的人
+
+the ones they once despised. [...] Now both Dwarves and Minotaurs stand by the same purpose. To fight
+结盟 [……]现在，矮人和牛头人都抱着同样的目的。对抗恶魔，重
+
+the Demons and rebuild their fallen prosperity. And here, the Iron Division Orcs make them an offer[...]
+建衰落的繁荣。在这里，铁甲兽人向他们提出了一个提议[……]
+
+It will probably take days before the portal recharges enough power to be activated again.
+传送门可能需要好几天才能恢复足够的能量再次启动。
+
+(Tiati is gone, looks like you were too late and the portal has closed)
+(提亚提不见了，看来你来得太晚了，传送门已经关闭了）。
+
+(A new message lies on the glass, written in strange dark marks. Oddly enough, you can read it)
+(玻璃上有一条新信息，是用奇怪的黑笔写的。奇怪的是，你能读懂它）
+
+You will follow me... you will remember me...
+你会跟随我……你会记得我
+
+(You see Tiati on the other side of the window. She nods at you, but doesn't look
+(你看到蒂亚提在窗户的另一边。她对你点点头，但看到你并没
+
+very relieved to see you.  A finger-traced message lies on the reinforced glass)
+有松一口气的样子。 强化玻璃上有一条手指划过的信息）
+
+Locked me in. Threw key. Portal running out. Hurry.
+把我锁在里面 扔了钥匙。传送门即将关闭。快点。
+
+(You notice a rolled parchment right by the portal. Tiati's writing style is already familiar to you)
+(你注意到传送门旁有一张卷好的羊皮纸。蒂亚提的书写方式你已经很熟悉了）
+
+The portal gate is fading out, so I really have to go.  I'm not sure if you'll get here anytime soon,
+传送门正在消失，所以我真的得走了。 我不确定你是否很快就能到这里，但如果
+
+but if you read this, know that your only hope to reach the Crystal Heart now lies inside the Grove.
+你读到了这封信，你要知道，你现在到达水晶之心的唯一希望就在小树林里。
+
+The portal there should still be functional since it has a stronger power source... however, I think you
+那里的传送门应该还能用，因为它有更强的动力源……不过，我想你
+
+have also noticed that the park gate leading to it got sabotaged by the cultists back in the Plaza...
+也注意到了，通往那里的公园大门被广场上的邪教徒破坏了……
+
+The main gear that was operating the gate mechanism was broken. You will have to search around for
+操作大门装置的主齿轮坏了。你必须四处寻找备用零件。前往车间，
+
+spare parts. Head to the workshop, there has to be some information about what kind of gear you need
+那里一定有关于你需要更换哪种齿轮的信息。或者至少知道如何制
+
+to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them.
+作。拿着这把钥匙，还有我的几个备用弹夹。你会需要它们的。
+
+(You notice a rolled parchment right by the portal. Tiati's writing style is already familiar to you.)
+(你注意到传送门旁有一张卷好的羊皮纸。蒂亚提的书写风格你已经很熟悉了）。
+
+The portal gate is fading out, so I really have to go.  I'm not sure if you'll get here anytime soon,
+传送门快关了，我得走了  我不确定你是否很快就能到达这里，但如果你读
+
+but if you read this, know that your only hope to reach the Crystal Heart now lies inside the Grove.
+到了这封信，你要知道，现在你到达水晶之心的唯一希望就在小树林里。
+
+The portal there should still be functional since it has a stronger power source... however, I think you
+那里的传送门应该还能用，因为它有更强的动力源……不过，我想你
+
+have also noticed that the park gate leading to it got sabotaged by the cultists back in the Plaza...
+也注意到了，通往那里的公园大门被广场上的邪教徒破坏了……
+
+The main gear that was operating the gate mechanism was broken. You will have to search around for
+操作大门装置的主齿轮坏了。你必须四处寻找备用零件。前往车间
+
+spare parts. Head to the workshop, there has to be some information about what kind of gear you need
+，那里一定有关于你需要更换哪种齿轮的信息。或者至少知道如何
+
+to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them.
+制作。拿着这把钥匙，还有我的几个备用弹夹。你会需要它们的
+
+I can't take this pressure anymore!  First, the Forge Elementals suddenly tried to kill me
+我受不了这种压力了  先是锻造元素突然无缘无故要杀我，现在
+
+for no reason and now these giant hungry worms popped out of nowhere! Vica went out to
+又突然冒出这些巨大的饥饿蠕虫！薇卡出去查看一些奇怪的声
+
+inspect some odd noises and the next thing I know,  I'm running over her body towards
+音，紧接着我就越过她的身体，向最近的藏身洞跑去。  当然
+
+the nearest hiding hole.   Of course, I had no time to pick up my gun...  Oh, Fire and Iron,
+，我来不及拿起我的枪……  哦，铁与火，这次我们怎么惹你
+
+how have we angered you this time? Haven't we offered our best metal and flame to you?
+生气了？我们不是已经把最好的金属和火焰献给你们了吗？
+
+Maybe I can sneak by through the vents. Guess I'll have to leave my stuff here, then...
+也许我可以从通风口溜进去 看来我得把东西留在这里了……
+
+(You recover a burnt fragment of a scroll. Most of the text has been ruined)
+（你找到一个烧焦的卷轴碎片，大部分文字都被毁了）
+
+.. don't harves.. red crystal clusters..nly the single one ..n't explode when pulled o..
+红色水晶簇……只有一个……拉动时不会爆炸……
+
+GATE & DRAWBRIDGE CONTROL
+大门和吊桥控制
+
+WORKSHOP
+工作室
+
+MOULD FORGE
+模具锻造
+
+DWARVEN FORGE
+达文锻造场
+
+REPAIR BAY
+维修舱
+
+Some stupid Iron Urchin wandered into one of the testing caves yesterday and the Sentry
+昨天，一个愚蠢的铁胆怪物闯进了一个测试洞穴，哨兵开始向它射
+
+started shooting at it.     Little fucker didn't shy away and charged right at it,  blowing
+击。    小家伙毫不退缩，直接冲了过去，把它炸成了碎片。如你
+
+it to bits. As you can see,  the Sentry's messed up,  but I reckon you can fix the hull...
+所见，哨兵号被炸得一团糟，但我想你可以修好它的外壳……
+
+I'll handle its brain once you're done here.  Clearly I need to talk to the Lancers, since it
+等你忙完了，我来处理它的大脑  显然我得和长枪党谈谈 因为他们似
+
+seems they forgot to program the damn thing to not shoot at our own maintenance drones.
+乎忘了给那该死的东西编程 让它不向我们自己的维修无人机开火
+
+Anyway, I've dropped you a working Sentry for reference. Remember that once you deploy
+总之，我给你扔了个能用的哨兵供你参考。记住，一旦你部署了它，你就
+
+it, you will need the right tools to unpack it or it will self destruct.   Call me for help.   -V.
+需要合适的工具来拆开它，否则它会自毁。  打电话给我寻求帮助。  -V.
+
+It will be long until we return from the war against the demons, but as always, you
+距离我们从与恶魔的战争中归来还需要很长时间，但和往常一样
+
+have to learn the reins of patience, my son. You've been fulfilling your apprenticeship
+，你必须学会忍耐，我的孩子。你已经很好地完成了学徒的任务
+
+well, so I will allow you to finally reach beyond our old ways of smelting. At last, you
+，所以我允许你最终超越我们过去的冶炼方式。最后，你终于可
+
+may finally use the Smelting Machine to make precise iron bars.   Drop the iron ore into
+以用冶炼机制造精密的铁条了。  将铁矿石投入炽热的炉膛，当
+
+the red hot hearth and marvel as it melts and drips into the shape of an ingot.   Don't
+它熔化并滴落成铁锭的形状时，你会惊叹不已。  不要放弃你的
+
+forsake your duty, and do not envy mine.   Your task here is as difficult as fighting a
+职责，也不要羡慕我的职责。  你在这里的任务就像与一群凶猛
+
+horde of foul beasts, and I trust that you'll stand up to our name. Stone be with you.
+的野兽搏斗一样艰巨，我相信你会不辱使命。石头与你同在
+
+It will be long until we return from the war against the demons, but as always, you
+我们还要很久才能从与恶魔的战争中归来，但一如既往，你必
+
+have to learn the reins of patience, my son. You've been fulfilling your apprenticeship
+须学会忍耐，我的孩子。你已经很好地完成了学徒的任务 所以
+
+well, so I will allow you to finally reach beyond our old ways of smelting. At last, you
+我允许你最终超越我们古老的冶炼方式 最后，你终于可以用冶
+
+may finally use the Smelting Machine to make precise iron bars.   Drop the iron ore into
+炼机制造精密的铁条了。  将铁矿石投入炽热的炉膛，当它熔
+
+the red hot hearth and marvel as it melts and drips into the shape of an ingot.   Don't
+化并滴落成铁锭的形状时，你会惊叹不已。  不要放弃你的职
+
+forsake your duty, and do not envy mine.   Your task here is as difficult as fighting a
+责，也不要羡慕我的职责。  你在这里的任务就像与一群凶猛
+
+horde of foul beasts, and I trust that you'll stand up to our name. Stone be with you.
+的野兽搏斗一样艰巨，我相信你会不辱使命。石头与你同在。
+
+(This parchment bears the seal of Witch Chieftain Zura. It must be of some importance)
+(这张羊皮纸上有巫师酋长祖拉的印章。它一定很重要）
+
+My dear Fixer, I hope you have well received this new box of potions. You must be allured
+我亲爱的修复者，希望你收到了这盒新药水。你一定会被它们的气
+
+by their scent and color...  and so will our enemies be.  Ah, the sweet smell of death. But
+味和颜色所吸引……我们的敌人也会如此。 啊，死亡的香味 不过
+
+I digress. We've come up with a new bottle design, so the Potion Launcher must be tested
+我跑题了 我们想出了新的瓶子设计 所以药水发射器必须经过测试 才
+
+to shoot it accordingly. One week should be enough time for you to find any possible flaws.
+能发射出相应的药水 一周的时间应该足够你找出任何可能的缺陷。
+
+If not, then perhaps I can give you some incentive and let you know that we're looking for
+如果没有，也许我可以给你们一些奖励，告诉你们我们正在寻找妖精
+
+goblins to test our...  other products on.  Oh, and one final warning. Do not break the cans
+来测试我们的……其他产品。 哦，还有最后一个警告 如果附近有大
+
+if there is any big fire nearby. The pink gas can be quite volatile... such tragic outcomes...
+火，不要打破罐子。粉红色的气体很不稳定……结果会很悲惨……
+
+(The schematics depict some mechanisms the Fixers were working on)
+(示意图描述了修复者们正在研究的一些机制）
+
+I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
+我终于修好了钥匙机器。  叫牛头人把它拖回模具锻造
+
+to the mould forge, this thing makes so much noise I can't hear my own thoughts.
+室，这东西噪音太大了，我都听不清自己在想什么。
+
+I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
+我终于修好了钥匙机。  叫牛头人把它拖回铸模锻造场
+
+to the mould forge, this thing makes so much noise I can't hear my own thoughts.
+，这东西噪音太大，我都听不见自己在想什么了。
+
+IRON KEY MOULD MACHINE
+铁钥匙铸模机
+
+1. Insert an Iron Ingot inside the hearth and close the hatch
+1. 将一块铁锭放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Key from the mould
+2. 打开右侧舱门后，从模具中取出钥匙
+
+IRON KEY MOULD MACHINE
+铁钥匙模具机
+
+1. Insert an Iron Ingot inside the hearth and close the hatch
+1. 将一块铁锭放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Key from the mould
+2. 右舱门打开后，从模具中取出钥匙
+
+SPIKE MOULD MACHINE
+铁钉造型机
+
+1. Insert an Iron Ingot inside the hearth and close the hatch
+1. 将一块铁锭放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Spikes from the mould
+2. 右侧舱门打开后，从模具中取出钉子
+
+BOLTMAG MOULD MACHINE
+boltmag 铸模机
+
+1. Insert an Iron Ingot inside the hearth and three Red Crystals into the sockets
+1. 在炉膛中插入一块铁锭，在插座中插入三块红色晶体
+
+2. Once the crafting process is complete, remove the Boltmag from the mould
+2. 制作完成后，从模具中取出 Boltmag
+
+FRAGFIRE CAN MOULD MACHINE
+易碎火罐成型机
+
+1. Insert an Iron Ingot inside the hearth and close the hatch
+1. 将一块铁锭放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Fragfire Can from the mould
+2. 右侧舱门打开后，从模具中取出脆火罐
+
+FIRE HAMMER MOULD MACHINE
+火锤模具机
+
+1. Insert one Iron Ingot and six Red Crystals inside the hearth and close the hatch
+1. 将一块铁锭和六块红色晶体放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Fire Hammer from the mould
+2. 右侧舱门打开后，从模具中取出火锤
+
+GREAT AXE MOULD MACHINE
+巨斧模具机
+
+1. Insert Eight Iron Ingots inside the hearth and close the hatch
+1. 将八块铁锭放入炉床并关闭舱门
+
+2. Once the right hatch is open, remove the Great Axe from the mould
+2. 右舱门打开后，从模具中取出大斧头
+
+AXE MOULD MACHINE
+斧头模具机
+
+1. Insert an Iron Ingot inside the hearth and close the hatch
+1. 将一块铁锭放入炉膛并关闭舱门
+
+2. Once the right hatch is open, remove the Axe from the mould
+2. 右侧舱门打开后，从模具中取出斧头
+
+This machine does not appear to be functional.
+这台机器似乎无法使用。
+
+Gate Mechanisms - Gear A2
+浇口装置 - A2 型齿轮
+
+A2 type gears are the main component of many mechanical gate engines. Unlike the other
+A2 型齿轮是许多机械闸门引擎的主要部件。但与其他齿轮
+
+ones,  however,  they must be forged out of Mithril to be able to last through extended
+不同的是，它们必须由米索林锻造而成，才能在长时间使
+
+use without being deformed or damaged. Crafting Mithril Gears requires the Great Forge.
+用后不变形或损坏。制作米特里尔齿轮需要大锻造场。
+
+Firstly, drop five lumps of Mithril Ore into the Forge's Smelting Machine to obtain an Ingot.
+首先，将五块米特尔矿石投入锻造炉的熔炼机，获得一块铸锭。
+
+Secondly, you must place the corresponding Mould under the Forge's Cauldron and cast the Gear.
+其次，必须将相应的模具放在锻造炉的熔炉下，然后铸造齿轮。
+
+Last step involves hammering the crude gear on the Forge's Anvil, to correct any imperfections.
+最后一步是在锻造炉的铁砧上锤打粗齿轮，以修正任何瑕疵。
+
+Once the final notch is hammered, allow the finished gear to cool down before using it.
+锤打出最后一个缺口后，让成品齿轮冷却后再使用。
+
+(You notice a parchment with detailed diagrams sitting next to the instructions)
+(您注意到说明书旁边有一张羊皮纸，上面有详细的图解）
+
+(You've already taken the diagram parchment that was attached to the instructions)
+(您已经拿走了附在说明书上的羊皮纸图解）
+
+Gate Mechanisms - Gear A2
+闸门机构 - A2 齿轮
+
+A2 type gears are the main component of many mechanical gate engines. Unlike the other
+A2 型齿轮是许多机械闸门引擎的主要部件。但与其他齿轮
+
+ones,  however,  they must be forged out of Mithril to be able to last through extended
+不同的是，它们必须由米索利锻造而成，才能在长时间使
+
+use without being deformed or damaged. Crafting Mithril Gears requires the Great Forge.
+用后不变形或损坏。制作米特里尔齿轮需要大锻造场。
+
+Firstly, drop five lumps of Mithril Ore into the Forge's Smelting Machine to obtain an Ingot.
+首先，将五块米特尔矿石投入锻造炉的熔炼机，获得一块铸锭。
+
+Secondly, you must place the corresponding Mould under the Forge's Cauldron and cast the Gear.
+其次，必须将相应的模具放在锻造炉的熔炉下，然后铸造齿轮。
+
+Last step involves hammering the crude gear on the Forge's Anvil, to correct any imperfections.
+最后一步是在锻造炉的铁砧上锤打粗齿轮，以修正任何瑕疵。
+
+Once the final notch is hammered, allow the finished gear to cool down before using it.
+锤打出最后一个缺口后，让成品齿轮冷却后再使用。
+
+(You notice a parchment with detailed diagrams sitting next to the instructions)
+(您注意到说明书旁边有一张羊皮纸，上面有详细的图解）
+
+(You've already taken the diagram parchment that was attached to the instructions)
+(你已经拿走了附在说明书上的羊皮纸图解）
+
+Demons! Wretched scum, it all makes sense now... They waited for our forces to leave...
+恶魔 可恶的人渣，现在一切都说得通了…… 他们在等待我们的军队离开……
+
+They corrupted the Forge Elementals.    They have sent the giant worms to weaken our
+他们腐蚀了锻造元素。   他们派巨虫来削弱我们的水晶屏障……所有人
+
+crystal barriers...  everyone's been slain... if only I could warn the minotaurs...  Hell, if
+都被杀死了……要是我能警告牛头人就好了……  见鬼，要是我的腿没
+
+only my leg weren't a charred mess... if only I had that ring Thorvald gave me...  urgh...
+被烧成焦炭就好了……要是我还有索瓦尔德给我的戒指就好了……唉
+
+What a shitty way to go... at least I can write my last thoughts down... I'm so thirsty...
+真是个糟糕的死法……至少我还能把最后的想法写下来…… 我好渴……
+
+I saw a mithril vein gleaming in the dark while I was resting next to the dark chasm last
+上周我在黑暗峡谷旁休息时，看到一条米特尔矿脉在黑暗中闪闪发
+
+week.  No, not the one inside Iron's shrine which we don't mine due to stupid superstitions, I
+光。 不，不是铁神龛里的那个，因为愚蠢的迷信，我们没有开采
+
+already said I'd stop trying to convince our goblin friend to jump inside there and get it.
+它，我已经说过我不会再说服我们的妖精朋友跳进去拿它了。
+
+...come to think of it, maybe we can get her to climb around the chasm's walls and get this
+……仔细想想，也许我们可以让她爬过峡谷的墙壁，拿到另一条
+
+other vein! Maybe you can talk to her though, she's still upset over *that* incident. Heh.
+矿脉！也许你可以跟她谈谈，她还在为那件事生气呢。呵呵。
+
+P.S. What's with all the tension brewing up lately? Ever since the tremors started, you guys
+附注：最近怎么这么紧张？自从地震开始，你们就一直在发脾气。我甚
+
+have been losing your shit. I even saw the barkeeper haul in this weird looking gun along with
+至看到酒吧老板把这把奇怪的枪和几个大箱子一起拖了进来。我敢打
+
+some giant boxes. He's keeping it in his secret spot I bet. I also bet he'll never get to use it.
+赌，他肯定把枪藏在他的秘密地点了。我还打赌他永远也用不上了
+
+TO VALC'S PLAZA
+前往瓦尔克广场
+
+(The strange parchment seems to be written in demonic tongue. You easily translate it)
+(奇怪的羊皮纸上似乎写着恶魔之语。你很容易就能翻译出来）
+
+IDIOTS!  That's NOT the tunnel you were supposed to cave in! How are we supposed to get back
+白痴！ 那不是你们应该钻进去的隧道！我们现在怎么回到兽人广
+
+up to the orcish plaza now?    Get the spare powder kegs here RIGHT NOW.   And try not to blow
+场？   马上把备用火药桶拿过来。  还有，尽量别把自己炸飞了，
+
+yourselves up now, how many times do I have to tell you to get a longer fuse and STAY AWAY!!!
+我跟你们说过多少次了，买个长点的引线，然后离远点！！！
+
+Tip: You can pick up Sentry Turrets with (DEFAULT: E) and drop them with (DEFAULT: LMB)
+提示：您可以使用（默认：E）拾取哨兵炮塔，然后使用（默认：鼠标左键）丢弃它们。
+
+This door seems to be locked from the other side.
+这扇门似乎是从另一侧锁上的。
+
+ELEVATOR TO ICEPEAK
+电梯通往冰峰
+

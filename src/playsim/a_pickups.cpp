@@ -64,7 +64,12 @@ void PrintPickupMessage(bool localview, const FString &str)
 		const char *pstr = str.GetChars();
 		
 		if (pstr[0] == '$')	pstr = GStrings(pstr + 1);
-		if (pstr[0] != 0) Printf(PRINT_LOW, "%s\n", pstr);
+		if (pstr[0] != 0)
+		{
+			extern const char* C_Translate(const char* msg);
+			const char* pstr1 = C_Translate(pstr);
+			Printf(PRINT_LOW, "%s\n", pstr1 ? pstr1 : pstr);
+		}
 		StatusBar->FlashCrosshair();
 	}
 }

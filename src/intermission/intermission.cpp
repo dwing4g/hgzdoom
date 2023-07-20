@@ -315,7 +315,9 @@ void DIntermissionScreenText::Init(FIntermissionAction *desc, bool first)
 	for (auto& line : lines)
 	{
 		line.StripRight();
-		mText << line << "\n";
+		extern const char* C_Translate(const char* msg);
+		const char* line1 = C_Translate(line.GetChars());
+		mText << (line1 ? line1 : line.GetChars()) << "\n";
 	}
 
 	mTextSpeed = static_cast<FIntermissionActionTextscreen*>(desc)->mTextSpeed;
