@@ -1068,7 +1068,7 @@ Script 33 (void)
 		Delay(60);
 		SetActorAngle(86, 0.12);
 		SetActorAngle(87, 0.65);
-		Delay(175);
+		Delay(105);
 		SetActorAngle(87, 0.75);
 		Thing_SetGoal(86, 89, 0, 0);
 		Delay(35);

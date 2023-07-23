@@ -22,6 +22,8 @@ Script 1 ENTER
   SetActorFlag(226, "DONTTHRUST", 1);
   SetActorFlag(226, "SOLID", 0);
 
+  SetActorProperty(271, APROP_Health, 1);
+
   If(ThingCountName("IDBearWarrior", 0) > 0)
   {
 	  Delay(3*35);
@@ -137,6 +139,7 @@ Script 79 (void)
 	}
 }
 
+int spec74 = 0;
 Script 80 (void)
 {
 	If(IsTIDUsed(42))
@@ -144,18 +147,29 @@ Script 80 (void)
 	  Delay(35);
 	  PlaySound(42, "Reaver/Huh", CHAN_AUTO);
 	  Hudmessage(s:"Tiati:   How did you?... okay, go through the portal, I'll be right behind."; HUDMSG_FADEINOUT | HUDMSG_LOG, 10, CR_DARKRED, 1.5, 0.86, 5.0, 0.2, 0.5);
+	  spec74 += 1;
 	}
 }
-
 
 //BEAR DIALOGUE
 Script 74 (void)
 {
+  If(spec74 == 0 && IsTIDUsed(42))
+  {
+    Hudmessage(s:"Reaver Tiati:    *Knocks on glass*"; HUDMSG_FADEINOUT | HUDMSG_LOG, 10, CR_DARKRED, 1.5, 0.82, 3.0, 0.2, 1.5);
+    PlaySound(44, "Step/GlassLeft", CHAN_AUTO, 0.8, false, ATTN_NONE);
+    Delay(8);
+    PlaySound(44, "Step/GlassLeft", CHAN_AUTO, 0.9, false, ATTN_NONE);
+    Delay(12);
+    PlaySound(44, "Step/GlassRight", CHAN_AUTO, 1.0, false, ATTN_NONE);
+    Delay(50);
+  }
   If(CheckProximity(0, "IDBearWarrior", 320.0, 1) || CheckProximity(0, "IDBearWarriorGuarding", 320.0, 1) && IsTIDUsed(42))
   {
 	Hudmessage(s:"Bear Warrior:    Hey, is that Tiati? Looks like she's trapped in there..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 5.0, 0.2, 0.5);
 	SetLineSpecial(173, 0, 0, 0, 0, 0, 0);
   }
+    Delay(175);
 }
 
 Script 75 (void)
@@ -171,7 +185,7 @@ Script 104 (void)
 {
   If(CheckProximity(0, "IDBearWarrior", 620.0, 1) || CheckProximity(0, "IDBearWarriorGuarding", 620.0, 1))
   {
-	Hudmessage(s:"Bear Warrior:    Now I'm glad I packed my lava shoes with me..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 5.0, 0.2, 0.5);
+	Hudmessage(s:"Bear Warrior:    Now I'm glad I brought my fire boots along..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 5.0, 0.2, 0.5);
 	Thing_Remove(256);
   }
 }
@@ -351,6 +365,7 @@ Script 16 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && GetSectorFloorZ(55, 0, 0) > -374.0)
   {
+	SetWeapon("Fists");
     Floor_LowerByValue(55, 999, 80);
 	PlaySound(0, "Interaction/WallPick");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
@@ -369,6 +384,7 @@ Script 400 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(600))
   {
+	SetWeapon("Fists");
     Thing_Remove(600);
 	SpawnSpotForced("DustPuff", 601, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -387,6 +403,7 @@ Script 402 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(602) && GetActorZ(0) > -820.0)
   {
+	SetWeapon("Fists");
     Thing_Remove(602);
 	SpawnSpotForced("DustPuff", 603, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -405,6 +422,7 @@ Script 404 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(604))
   {
+	SetWeapon("Fists");
     Thing_Remove(604);
 	SpawnSpotForced("DustPuff", 605, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -427,6 +445,7 @@ Script 500 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(500))
   {
+	SetWeapon("Fists");
     Thing_Remove(500);
 	SpawnSpotForced("DustPuff", 501, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -445,6 +464,7 @@ Script 502 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(502))
   {
+	SetWeapon("Fists");
     Thing_Remove(502);
 	SpawnSpotForced("DustPuff", 503, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -463,6 +483,7 @@ Script 504 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(504))
   {
+	SetWeapon("Fists");
     Thing_Remove(504);
 	SpawnSpotForced("DustPuff", 505, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -481,6 +502,7 @@ Script 506 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(506))
   {
+	SetWeapon("Fists");
     Thing_Remove(506);
 	SpawnSpotForced("DustPuff", 507, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -499,6 +521,7 @@ Script 508 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(508))
   {
+	SetWeapon("Fists");
     Thing_Remove(508);
 	SpawnSpotForced("DustPuff", 509, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -517,6 +540,7 @@ Script 510 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(510))
   {
+	SetWeapon("Fists");
     Thing_Remove(510);
 	SpawnSpotForced("DustPuff", 511, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -535,6 +559,7 @@ Script 512 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(512))
   {
+	SetWeapon("Fists");
     Thing_Remove(512);
 	SpawnSpotForced("DustPuff", 513, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -553,6 +578,7 @@ Script 514 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(514))
   {
+	SetWeapon("Fists");
     Thing_Remove(514);
 	SpawnSpotForced("DustPuff", 515, 0, 0);
 	PlaySound(0, "Interaction/WallPick");
@@ -816,10 +842,13 @@ Script 8 (void)
 	ACS_NamedExecuteWithResult("TakeWeapons");
 	TakeInventory("InventoryToolkit", 1);
 	PlaySound(0, "Metal/Bounce2");
+	SpawnSpotForced("DustPuff", 270, 0, 0);
 	Delay(35);
 	PlaySound(0, "Metal/Bounce3");
+	SpawnSpotForced("DustPuff", 270, 0, 0);
 	Delay(16);
 	PlaySound(0, "Metal/Bounce2");
+	SpawnSpotForced("DustPuff", 270, 0, 0);
 	Delay(35);
 	SpawnSpotForced("IDToolkit", 32, 0, 0);
 	PlaySound(0, "Switches/Switch1");
@@ -985,6 +1014,7 @@ Script 41 (void)
 {
 	If(CheckInventory("InventoryMithrilGear") > 0)
 	{
+	SetWeapon("Fists");
 	SetLineSpecial(178, 0, 0, 0, 0, 0, 0);
 	TakeInventory("InventoryPowerCore", 1);
 	FloorAndCeiling_LowerByValue(94, 16, 16);
@@ -1556,18 +1586,25 @@ Script 52 (void)
 	  Thing_Remove(136);
 	  Delay(35);
 	  PlaySound(134, "Metal/Land");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(35);
 	  PlaySound(134, "Metal/Land");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(35);
 	  PlaySound(134, "Metal/Land");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(35);
 	  PlaySound(134, "Metal/Bounce3");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(16);
 	  PlaySound(134, "Metal/Bounce2");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(16);
 	  PlaySound(134, "Metal/Bounce1");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(16);
 	  PlaySound(134, "Metal/Bounce2");
+	  SpawnSpotForced("DustPuff", 134, 0, 0);
 	  Delay(16);
 	  Thing_Remove(414);
 	  Delay(1);
@@ -1642,6 +1679,7 @@ Script 11 (void)
 	    else
 		  If (CheckInventory("IronKey") == 0)
 		  {
+		  spec74 += 1;
 	      SetFont("SMALLFONT");
 	      Hudmessage(s:"(You see Tiati on the other side of the window. She nods at you, but doesn't look"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.48, 25.0);
           Hudmessage(s:"very relieved to see you.  A finger-traced message lies on the reinforced glass) "; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.5, 25.0);

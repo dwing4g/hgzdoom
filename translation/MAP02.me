@@ -1,6 +1,6 @@
 This cracked wall looks like it could be broken with the right tool. 
 This doesn't seem to open from this side. 
-You don't have any spell to break the magic ward with. 
+You don't have any spell scroll to dispel the magic ward. 
 This door requires a Vine key to open. 
 This door requires an Axe key to open. 
 This door requires a Vine key to open. 

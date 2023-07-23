@@ -1,7 +1,7 @@
 Loading... 
 The demonic well burns with hellfire oil. 
 The demonic well bubbles with sacrificial blood. 
-The decorative socle appears to be missing a gem. 
+The stone socle appears to be missing a gem. 
 The bottom of the font has a few drops of burning oil. 
 This switch requires an Iron key to operate. 
 The bottom of the font has a few drops of blood. 

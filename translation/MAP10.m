@@ -48,6 +48,7 @@ Bear Warrior - Sara Mears
 Lancer - Emaline Tuck
 Reaver - SB Steagall
 Brutal Friendly AI by Sgt_Mark_IV
+Improved Player Movement by Nash Muhandes
 Lith had already met her swift demise. She was prepared for cremation and stripped of all honor.
 Chieftain Zura was recovered from Lith's tank, and urgently put under intensive treatment.
 Cover art by Fragua Studio (Dario Martinez, Pau Barz)
@@ -59,7 +60,7 @@ GZDOOM ENGINE
 Graf Zahl - lead development
 The Doom Community - feedback and contributions
 John Carmack - original id Tech 1 Engine
-Rachael - hGZDoom (Hedon specific GZDoom fork)
+Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
 Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing
 Once a lively fort, Icepeak became nothing more but a frigid stone husk - a stern reminder of Lith's deeds.
 GZDOOM BUILDER
@@ -147,7 +148,7 @@ We've got to link back up with the defenders!
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
 Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Bear Warrior:    Hey, stop that! We need those bowls. 
+Bear Warrior:    Hey, stop that! We need these bowls. 
 Witch:    The fuck are you doing? Knock it off! 
 Earth Mother:    What are you doing, Zan?! I really need the mana... 
 Wounded Shieldguard:    Aye, aye, what good is a bottle if it's empty? 

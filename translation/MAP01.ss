@@ -146,6 +146,10 @@ Script 48 (void)
 }
 
 //LEVEL START
+Script 1337 (void) //old start spot
+{
+	Teleport_Nofog(69, 0, 0, 0);
+}
 
 script 9 (void) //Cave Start
 {
@@ -594,6 +598,17 @@ Script 61 (void) //Floor Hatch
 	}
 }
 
+//SECRET SHELF
+Script 93 (void)
+{
+	If (GetSectorFloorZ(165, 0, 0) == -248.0)
+	  {
+	      Print(s:"The shelf won't budge.");
+		  PlaySound(0, "Character/ZanFail2", CHAN_AUTO);
+		  Delay(70);
+	  }
+}
+
 //CATHEDRAL TELEPORTATION
 Script 62 (void)
 {
@@ -858,7 +873,7 @@ Script 66 (void)
 	If(GetActorProperty(199, APROP_Health) > 0)
 	{
 	SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
-	Hudmessage(s:"Bear Warrior:    Zan! Over here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 3.0, 0.2, 0.5);
+	Hudmessage(s:"Orc:    Zan! Over here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 5.0, 0.2, 1.5);
 	PlaySound(199, "BearWarrior/Huh", CHAN_AUTO, 1.0, false, 0.4);
 	Delay(1*35);
 	SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
@@ -869,7 +884,7 @@ Script 66 (void)
 	  If(GetActorProperty(200, APROP_Health) > 0)
 	  {
 	  SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
-	  Hudmessage(s:"Reaver:    Over here, sergeant!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 3.0, 0.2, 0.5);
+	  Hudmessage(s:"Goblin:    Over here, sergeant!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 5.0, 0.2, 1.5);
 	  PlaySound(200, "Reaver/Huh", CHAN_AUTO, 1.0, false, 0.4);
 	  Delay(1*35);
 	  SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
@@ -1406,6 +1421,16 @@ If (CheckInventory("InventoryPickAxe") > 0 && GetSectorFloorZ(19, 0, 0) > 223.0)
 	    }
 }
 
+Script 92 (void)
+{
+	If (GetSectorFloorZ(19, 0, 0) > 223.0)
+	     {
+	        Print(s:"This wall looks like it could be broken with a proper pickaxe.");
+			PlaySound(0, "Character/ZanThink", CHAN_AUTO);
+			Delay(50);
+	    }
+}
+
 Script 1 (void)
 {
 If (CheckInventory("InventoryPickAxe") > 0 && GetSectorFloorZ(29, 0, 0) > 209.0)
@@ -1761,6 +1786,7 @@ Script 15 (void)
 	Radius_Quake(3, 150, 0, 1, 0);
 	Thing_Spawn(21, 65003, 192, 0);
 	Thing_Spawn(23, 65003, 192, 0);
+	Thing_Spawn(261, 65003, 0, 0);
 	Thing_Spawn(27, 65003, 64, 0);
 	Thing_Spawn(80, 65003, 192, 0);
 	Line_SetBlocking(77, 0, BLOCKF_PLAYERS);
@@ -1778,7 +1804,7 @@ Script 41 (void)
 	If(GetCVar("sv_Tips") == 1)
 	{
 	SetFont("SMALLFONT");
-	Hudmessage(s:"Tip: Remember that you can inspect the currently selected inventory item for a brief description with \c[White](default: ENTER)\c-"; HUDMSG_PLAIN | HUDMSG_LOG, 10, CR_GOLD, 1.5, 0.12, 10.0);
+	Hudmessage(s:"Tip: Remember that you can inspect the selected inventory item with \c[White](default: ENTER)\c-"; HUDMSG_PLAIN | HUDMSG_LOG, 10, CR_GOLD, 1.5, 0.12, 10.0);
     }
 
 	SpawnSpotForced("Crawler", 256, 661, 0);
@@ -2148,17 +2174,17 @@ Script 901 (void)
 //MESSAGE SCALE
 Script "MessageScale" (void)//ENTER
 {
-If(GetScreenWidth() >= 1440 && GetScreenWidth() < 2560)
+If(GetScreenWidth() >= 1440) // && GetScreenWidth() < 2560)
   {
 	  SetCVar("con_scaletext", 2);
   }
-  else
-  {
-	If(GetScreenWidth() >= 2560)
-    {
-	SetCVar("con_scaletext", 3);
-    }
-  }
+  //else
+  //{
+	//If(GetScreenWidth() >= 2560)
+    //{
+	//SetCVar("con_scaletext", 3);
+    //}
+  //}
 }
 
 //GAMMA CALIBRATION
@@ -2193,7 +2219,7 @@ int CurrentGamma = 0.0;
 Script 910 (void)
 {
 	Setfont("SMALLFONT");
-	Hudmessage(s:"If you can't see the plant in the background at all, increase the gamma so that it's barely visible"; HUDMSG_FADEINOUT, 910, CR_UNTRANSLATED, 1.5, 0.20, 9999.0, 3.2, 0.8);
+	Hudmessage(s:"If you can't see the plant in the background, increase the gamma so that it's barely visible"; HUDMSG_FADEINOUT, 910, CR_UNTRANSLATED, 1.5, 0.20, 9999.0, 3.2, 0.8);
 	//Hudmessage(s:"GAMMA CORRECTION = ", f:(CurrentGamma); HUDMSG_FADEINOUT, 912, CR_UNTRANSLATED, 1.5, 0.60, 9999.0, 3.2, 0.8);
     Hudmessage(s:"Press \c[Gold]Strafe Left\c- (default: \c[Gold]A\c-) to decrease gamma"; HUDMSG_FADEINOUT, 913, CR_UNTRANSLATED, 1.5, 0.63, 9999.0, 3.2, 0.8);
 	Hudmessage(s:"Press \c[Gold]Strafe Right\c- (default: \c[Gold]D\c-) to increase gamma"; HUDMSG_FADEINOUT, 914, CR_UNTRANSLATED, 1.5, 0.65, 9999.0, 3.2, 0.8);

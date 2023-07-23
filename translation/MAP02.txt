@@ -4,8 +4,8 @@ This cracked wall looks like it could be broken with the right tool.
 This doesn't seem to open from this side.
 这似乎不能从这一边打开。
 
-You don't have any spell to break the magic ward with.
-你没有任何法术来打破魔法墙。
+You don't have any spell scroll to dispel the magic ward.
+你没有任何魔法卷轴来驱散魔法阵。
 
 This door requires a Vine key to open.
 这扇门需要用藤蔓钥匙才能打开。

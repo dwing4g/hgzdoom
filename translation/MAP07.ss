@@ -128,6 +128,7 @@ Script 15 (void)
 {
 	If(CheckInventory("InventoryShovel") > 0 && IsTIDUsed(84))
 	{
+		SetWeapon("Fists");
 		Thing_Remove(84);
 		PlaySound(0, "Interaction/Shovel", CHAN_AUTO);
 		Radius_Quake2(0, 2, 24, 0, 64, 0);
@@ -167,17 +168,26 @@ Script 32 (void)
 	If(CheckInventory("ScriptHasActivatedCrystalWard") > 0)
 	{
 	Thing_Spawn(123, 65004, 192, 667);
+	Thing_Spawn(301, 65009, 192, 668);
 	SetLineSpecial(121, 0, 0, 0, 0, 0, 0);
 	NoiseAlert(0, 0);
 	Delay(1);
 	Thing_Destroy(667, 1, 0);
+	Thing_Destroy(668, 1, 0);
 	}
 	else
 	{
 	Thing_Spawn(123, 65004, 192, 0);
+	Thing_Spawn(301, 65009, 192, 668);
 	SetLineSpecial(121, 0, 0, 0, 0, 0, 0);
 	NoiseAlert(0, 0);
+	Delay(10*35);
+	SetActorProperty(668, APROP_Speed, 17.0);
 	}
+}
+Script 75 (void)
+{
+	SetActorProperty(668, APROP_Speed, 17.0);
 }
 
 Script 35 (void)
@@ -312,7 +322,7 @@ Script 74 (void)
 	Radius_Quake(1, 50, 0, 1, 0);
 	Delay(35);
 	Thing_Spawn(299, 65010, 64, 0);
-	Thing_Spawn(267, 65000, 64, 0);
+	//Thing_Spawn(267, 65000, 64, 0);
 	Thing_Spawn(271, 65001, 64, 0);
 	Thing_Spawn(300, 65004, 128, 0);
 }
@@ -504,6 +514,7 @@ Script 55 (void)
 {
 	If(CheckInventory("InventoryShovel") > 0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(252, 0, 0, 0, 0, 0, 0);
 		Floor_LowerInstant(255, 0, 64);
 		Ceiling_LowerInstant(255, 0, 64);

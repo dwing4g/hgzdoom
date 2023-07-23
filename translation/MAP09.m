@@ -36,9 +36,9 @@ in shape to defend themselves, let alone suspect our sudden strike.     However,
 become aware of our intentions as soon as we run their first batch of slaves through the blade, and therefore,
 the Lancer Council has instructed us to preserve as many resources as possible to avoid future logistic strains. 
 COUNCIL ROOM 
-CHIEFTAIN ADJUNCT OFFICE 
+CHIEFTAIN ADJUNCT'S OFFICE 
 VALC LABORATORIES - NO UNAUTHORISED PERSONNEL ALLOWED 
-EMERGENCY ONLY - NO MANUAL OPENING 
+EMERGENCY ONLY 
 (The diary appears to belong to Witch Chieftain Adjunct Lith. Many of the final pages seem to have been torn away...)
 Day 188. No. No! NO! That wretch Zura has denied my project! Dangerous?! I would have expected anyone but HER to
 say such an ineptitude! She was the one supposed to bring my ideas to the Council... no, no, no, I will see the Lancers

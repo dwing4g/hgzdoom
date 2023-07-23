@@ -1008,6 +1008,7 @@ Script 52 (void)
   If(GetActorZ(0) > -2785.0)
   {
 	 spec37 += 1;
+	 SetWeapon("Fists");
 	 SetLineSpecial(327, 0, 0, 0, 0, 0, 0);
 	 TakeInventory("InventorySoulkeyFragment", 1);
 	 PlaySound(0, "Magic/ShadowsActivate", CHAN_AUTO);
@@ -1162,6 +1163,7 @@ Script 51 (void)
   If(GetActorZ(0) > -2337.0)
   {
 	 spec37 += 1;
+	 SetWeapon("Fists");
 	 SetLineSpecial(326, 0, 0, 0, 0, 0, 0);
 	 TakeInventory("InventorySoulkeyFragment", 1);
 	 PlaySound(0, "Magic/ShadowsActivate", CHAN_AUTO);
@@ -1267,6 +1269,7 @@ Script 50 (void)
     If(spec50 > 0)
 	{
 	  spec37 += 1;
+	  SetWeapon("Fists");
 	  SetLineSpecial(325, 0, 0, 0, 0, 0, 0);
 	  TakeInventory("InventorySoulkeyFragment", 1);
 	  PlaySound(0, "Magic/ShadowsActivate", CHAN_AUTO);

@@ -294,23 +294,23 @@ Script 223 (void)
 
 	Thing_ChangeTID(901, 900);
 
-	PlaySound(364, "Interaction/FootStep", CHAN_AUTO, 0.1);
+	PlaySound(364, "Step/MetalLeft", CHAN_AUTO, 0.1);
 	Delay(24);
-	PlaySound(365, "Interaction/FootStep", CHAN_AUTO, 0.2);
+	PlaySound(365, "Step/MetalRight", CHAN_AUTO, 0.2);
 	Delay(24);
-	PlaySound(366, "Interaction/FootStep", CHAN_AUTO, 0.3);
+	PlaySound(366, "Step/MetalLeft", CHAN_AUTO, 0.3);
 	Delay(24);
-	PlaySound(367, "Interaction/FootStep", CHAN_AUTO, 0.4);
+	PlaySound(367, "Step/MetalRight", CHAN_AUTO, 0.4);
 	Delay(24);
-	PlaySound(368, "Interaction/FootStep", CHAN_AUTO, 0.5);
+	PlaySound(368, "Step/MetalLeft", CHAN_AUTO, 0.5);
 	Delay(24);
-	PlaySound(369, "Interaction/FootStep", CHAN_AUTO, 0.6);
+	PlaySound(369, "Step/MetalRight", CHAN_AUTO, 0.6);
 	Delay(24);
-	PlaySound(370, "Interaction/FootStep", CHAN_AUTO, 0.7);
+	PlaySound(370, "Step/MetalLeft", CHAN_AUTO, 0.7);
 	Delay(24);
-	PlaySound(371, "Interaction/FootStep", CHAN_AUTO, 0.8);
+	PlaySound(371, "Step/MetalRight", CHAN_AUTO, 0.8);
 	Delay(24);
-	PlaySound(372, "Interaction/FootStep", CHAN_AUTO, 0.9);
+	PlaySound(372, "Step/MetalLeft", CHAN_AUTO, 0.9);
 	Delay(16);
 	PlaySound(363, "Interaction/FootStep", CHAN_AUTO);
 	Delay(24);
@@ -1138,6 +1138,7 @@ Script 62 (void)
   If (CheckInventory("InventoryPickaxe") > 0 && GetSectorCeilingZ(340, 0, 0) == -252.0)
   {
 	//Radius_Quake(2, 12, 0, 1, 0);
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_LowerByValue(340, 9999, 99);
 	PlaySound(0, "Interaction/WallPick");
@@ -1157,6 +1158,7 @@ Script 63 (void)
 {
   If (CheckInventory("InventoryPickaxe") > 0 && GetSectorCeilingZ(344, 0, 0) == -252.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_LowerByValue(344, 9999, 83);
 	PlaySound(0, "Interaction/WallPick");
@@ -1177,6 +1179,7 @@ Script 64 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(347))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(347);
 	SpawnSpotForced("DustPuff", 348, 0, 0);
@@ -1194,6 +1197,7 @@ Script 65 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(349))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(349);
 	SpawnSpotForced("DustPuff", 350, 0, 0);
@@ -1211,6 +1215,7 @@ Script 66 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(351))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(351);
 	SpawnSpotForced("DustPuff", 352, 0, 0);
@@ -1228,6 +1233,7 @@ Script 67 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(353))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(353);
 	SpawnSpotForced("DustPuff", 354, 0, 0);
@@ -1245,6 +1251,7 @@ Script 68 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(355))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(355);
 	SpawnSpotForced("DustPuff", 356, 0, 0);
@@ -1262,6 +1269,7 @@ Script 69 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(357))
   {
+	SetWeapon("Fists");
     Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(357);
 	SpawnSpotForced("DustPuff", 358, 0, 0);
@@ -1279,6 +1287,7 @@ Script 166 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(494))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(494);
 	SpawnSpotForced("DustPuff", 495, 0, 0);
@@ -1308,6 +1317,7 @@ Script 70 (void)
 Script 59 (void)
 {
 	SetLineSpecial(279, 0, 0, 0, 0, 0, 0);
+	SetWeapon("Fists");
 	Floor_LowerByValue(280, 8, 12);
 	FloorAndCeiling_LowerByValue(281, 8, 12);
 	TagWait(281);
@@ -1488,6 +1498,7 @@ Script 49 (void)
 }
 
 //Lava Boat
+int spec42 = 0;
 Script 42 (void)
 {
 	If(GetActorZ(0) < -800.0)
@@ -1501,6 +1512,12 @@ Script 42 (void)
 	Thing_Stop(0);
 
 	SetPlayerProperty(0, 1, PROP_FROZEN);
+	If(GetCvar("sv_newmovement") == 1)
+	{
+		spec42 = 1;
+	}
+	SetCVar("sv_newmovement", 0);
+
 	Delay(35);
 	Polyobj_Move(1, 12, 64, 1570);
 
@@ -1509,6 +1526,10 @@ Script 42 (void)
 	PolyWait(1);
 	ACS_Terminate(43, 0);
 	SetPlayerProperty(0, 0, PROP_FROZEN);
+	If(spec42 == 1)
+	{
+		SetCVar("sv_newmovement", 1);
+	}
 	}
 }
 Script 43 (void)
@@ -5969,6 +5990,7 @@ Script 117 (void)
 {
 	If(CheckInventory("InventoryDarkIronOre") >= 6)
 	{
+		SetWeapon("Fists");
 		TakeInventory("QuestMap13GetDarkIron", 1);
 		TakeInventory("InventoryDarkIronOre", 6);
 		SpawnSpotForced("IDDarkIronOre", 408, 0, 0);
@@ -8230,6 +8252,8 @@ Script 215 (void)
 	    //PlaySound(702, "Fixer/Hm", CHAN_AUTO);
         Hudmessage(s:"Fixer:    Fire in the hole!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.86, 2.0, 0.2, 0.5);
 	    }
+
+		SetWeapon("Fists");
 
 		Floor_LowerByValue(635, 4, 8);
 		FloorAndCeiling_LowerByValue(637, 4, 8);

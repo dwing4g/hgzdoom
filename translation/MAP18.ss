@@ -1,7 +1,7 @@
 #include "zcommon.acs"
 
 //Gold - 310 + 180s + 90csr
-//TIDs - 599...628, 629, 630...818
+//TIDs - 599...628, 629, 630...819
 
 //LEVEL START
 
@@ -904,6 +904,7 @@ Script 45 (void)
 	{
 	If(CheckInventory("InventoryShovel") > 0 || CheckInventory("InventoryShovelB") > 0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(250, 0, 0, 0, 0, 0, 0);
 		PlaySound(254, "Interaction/Shovel", CHAN_AUTO);
 		SpawnSpotForced("DustCloud", 254, 0, 0);
@@ -1414,6 +1415,7 @@ Script 78 (void)
 {
 	If((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickAxe") > 0) && GetSectorCeilingZ(426, 0, 0) == 192.0)
 	{
+		SetWeapon("Fists");
 		Radius_Quake2(0, 2, 24, 0, 64, 0);
 		FloorAndCeiling_LowerByvalue(426, 999, 200);
 		PlaySound(0, "Interaction/WallPick", CHAN_AUTO);
@@ -1435,6 +1437,7 @@ Script 79 (void)
 {
 	If((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickAxe") > 0) && GetSectorFloorZ(421, 0, 0) == 184.0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(518, 0, 0, 0, 0, 0, 0);
 		Radius_Quake2(0, 2, 24, 0, 64, 0);
 		Floor_LowerByvalue(421, 999, 112);
@@ -2855,6 +2858,7 @@ Script 100 (void)
 	{
 		If(CheckInventory("InventoryShovel") > 0 || CheckInventory("InventoryShovelB") > 0)
 	    {
+		SetWeapon("Fists");
 		SetLineSpecial(515, 0, 0, 0, 0, 0, 0);
 		PlaySound(513, "Interaction/Shovel", CHAN_AUTO);
 		SpawnSpotForced("DustCloud", 513, 0, 0);
@@ -2908,6 +2912,7 @@ Script 99 (void)
 	{
 		If(CheckInventory("InventoryShovel") > 0 || CheckInventory("InventoryShovelB") > 0)
 	    {
+		SetWeapon("Fists");
 		SetLineSpecial(509, 0, 0, 0, 0, 0, 0);
 		PlaySound(508, "Interaction/Shovel", CHAN_AUTO);
 		SpawnSpotForced("DustCloud", 508, 0, 0);
@@ -5656,6 +5661,16 @@ Script 635 (void)
 		SpawnSpotForced("InventoryDeadlyPoison", 526, 815, 0);
 		Delay(6*35);
     }
+	else
+	If(GetActorProperty(635, APROP_Health) > 0 && CheckInventory("QuestMap20BluePrimarch") > 0 && CheckInventory("ScriptPoisonTankEmpty") > 0 && CheckInventory("ScriptHasFilledPoisonTank") == 0 && CheckInventory("InventoryDeadlyPoison") == 0 && IsTIDUsed(819) == 0)
+	  {
+		PlaySound(635, "Reaver/Hmm", CHAN_AUTO);
+	    Hudmessage(s:"Shady Fixer:    You need poison to brew something more complicated? Alright, as long as it helps us get out of this hole..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GOLD, 1.5, 0.86, 7.5, 0.2, 2.5);
+		Delay(4*35);
+		PlaySound(526, "Inventory/PickShort", CHAN_AUTO);
+		SpawnSpotForced("InventoryDeadlyPoison", 526, 819, 0);
+		Delay(3*35);
+	  }
 	else
 	If(CheckInventory("QuestMap18GreenPrimarch") == 1 && CheckInventory("InventoryCrimsonSaltRock") > 0 && spec116d > 0)
 	{

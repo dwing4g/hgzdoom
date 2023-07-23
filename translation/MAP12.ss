@@ -586,6 +586,7 @@ Script 36 (void)
 
 		Line_SetBlocking(256, 0, BLOCKF_EVERYTHING);
 		Line_SetBlocking(261, 0, BLOCKF_PLAYERS);
+		Line_SetBlocking(253, 0, BLOCKF_PROJECTILES);
 		Thing_Activate(255);
 		Thing_Activate(356);
 
@@ -642,6 +643,7 @@ Script 38 (void)
 {
   If ((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickaxe") > 0) && GetSectorCeilingZ(268, 0, 0) > -306.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_LowerByValue(268, 9999, 96);
 	PlaySound(0, "Interaction/WallPick");
@@ -667,6 +669,7 @@ Script 40 (void)
 {
   If ((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickaxe") > 0) && GetSectorCeilingZ(275, 0, 0) > -306.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_LowerByValue(275, 9999, 96);
 	PlaySound(0, "Interaction/WallPick");
@@ -1129,7 +1132,7 @@ Script 44 (void)
 	Delay(3);
 	Radius_Quake(1, 105, 0, 1, 0);
 	Thing_Remove(296);
-	spec6 -= 1;
+	spec91 -= 1;
 }
 
 Script 45 (void)
@@ -1139,7 +1142,7 @@ Script 45 (void)
 	Delay(3);
 	Radius_Quake(1, 105, 0, 1, 0);
 	Thing_Remove(299);
-	spec6 -= 1;
+	spec91 -= 1;
 }
 
 Script 46 (void)
@@ -1149,7 +1152,7 @@ Script 46 (void)
 	Delay(3);
 	Radius_Quake(1, 105, 0, 1, 0);
 	Thing_Remove(302);
-	spec6 -= 1;
+	spec91 -= 1;
 }
 
 Script 47 (void)
@@ -1159,7 +1162,7 @@ Script 47 (void)
 	Delay(3);
 	Radius_Quake(1, 105, 0, 1, 0);
 	Thing_Remove(305);
-	spec6 -= 1;
+	spec91 -= 1;
 }
 
 Script 49 (void)
@@ -1169,7 +1172,7 @@ Script 49 (void)
 	Delay(3);
 	Radius_Quake(1, 105, 0, 1, 0);
 	Thing_Remove(308);
-	spec6 -= 1;
+	spec91 -= 1;
 }
 
 //FINAL GATE
@@ -1257,6 +1260,21 @@ Script 89 (void)
 	Thing_Hate(292, 291, 3);
 	SpawnSpotForced("PitLord", 389, 663, 128);
 	SetActorFlag(663, "AMBUSH", 1);
+	Delay(35);
+	Hudmessage(s:"Pit Lord:    HOW DARE YOU PLOT AGAINST US, YOU SCUM!? SLAY THEM ALL!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 4.5, 0.2, 1.5);
+	PlaySound(663, "PitLord/Sight", CHAN_AUTO, 1.0, false, ATTN_NONE);
+}
+Script 97 (void)
+{
+	If(GetActorProperty(663, APROP_Health) > 0)
+	{
+	SetActorState(663, "Melee", 0);
+	PlaySound(663, "PitLord/Rage", CHAN_AUTO, 1.0, false, ATTN_NONE);
+	PlaySound(663, "Projectile/Thud", CHAN_AUTO, 1.0, false, ATTN_NONE);
+	Thing_Damage(386, 1, 0);
+	Radius_Quake(2, 16, 0, 1, 0);
+	Hudmessage(s:"Pit Lord:    TRAITOR SCUM!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 2.5, 0.2, 1.5);
+	}
 }
 
 

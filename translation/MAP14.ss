@@ -805,8 +805,9 @@ Script 24 (void)
 //MONSTER HEAD LINE ACTIVATION
 Script 93 (void)
 {
+	Delay(4);
     SetActorFlag(901, "ACTIVATEMCROSS", 1);
-	Delay(16);
+	Delay(12);
 	Restart;
 }
 Script 94 (void)
@@ -1398,6 +1399,7 @@ Script 43 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(220))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(220);
 	SpawnSpotForced("DustPuff", 221, 0, 0);
@@ -1415,6 +1417,7 @@ Script 44 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(222))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(222);
 	SpawnSpotForced("DustPuff", 223, 0, 0);

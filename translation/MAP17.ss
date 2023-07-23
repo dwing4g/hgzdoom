@@ -367,6 +367,7 @@ Script 29 (void)
 //Ship Cannon
 Script 28 (void)
 {
+	SetWeapon("Fists");
 	SetLineSpecial(171, 0, 0, 0, 0, 0, 0);
 	ChangeFloor(167, "Iron_18");
 	ChangeFloor(168, "Iron1_G");

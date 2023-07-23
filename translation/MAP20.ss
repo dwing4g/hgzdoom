@@ -484,7 +484,7 @@ Script 16 (void)
 	else
 	If(GetSectorFloorZ(106, 0, 0) == -5.0)
 	{
-		Print(s:"The decorative socle appears to be missing a gem.");
+		Print(s:"The stone socle appears to be missing a gem.");
 		PlaySound(0, "Character/ZanThink", CHAN_AUTO);
 		Delay(50);
 	}
@@ -828,6 +828,7 @@ Script 12 (void)
 {
   If((CheckInventory("InventoryPickaxe") > 0 || CheckInventory("InventorySledgehammer") > 0)  && GetSectorCeilingZ(108, 0, 0) == 20.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_LowerByValue(108, 9999, 100);
 	PlaySound(0, "Interaction/WallPick", CHAN_AUTO);
@@ -2441,6 +2442,7 @@ Script 93 (void)
 		TakeInventory("InventoryDeadlyPoison", 1);
 		SetWeapon("Fists");
 		SpawnSpotForced("IDGlassB", 616, 0, 0);
+		GiveInventory("ScriptHasFilledPoisonTank", 1);
 		PlaySound(616, "Ammo/DepletedShardBounce", CHAN_AUTO);
 		PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
 		Delay(12);
@@ -2799,6 +2801,10 @@ Script 78 (void)
 	      Delay(16);
 	      SpawnSpotForced("InventoryMysteryPotion", 701, 0, 0);
 	      PlaySound(701, "Ammo/DepletedShardBounce", CHAN_AUTO);
+		  If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      {
+		    GiveInventory("ScriptPoisonTankEmpty", 1);
+	      }
 		  ACS_Execute(95, 0, 0, 0, 0); //oil
 		  ACS_Execute(96, 0, 0, 0, 0); //mana
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
@@ -3310,6 +3316,10 @@ Script 78 (void)
 		  Delay(16);
 	      SpawnSpotForced("PotionBoxAcid", 736, 0, 0);
 	      PlaySound(736, "Metal/Land", CHAN_AUTO);
+		  //If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      //{
+		    //GiveInventory("ScriptPoisonTankEmpty", 1);
+	      //}
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
 	    }
@@ -3328,6 +3338,10 @@ Script 78 (void)
 		  Delay(16);
 	      SpawnSpotForced("PotionBoxAcid", 739, 0, 0);
 	      PlaySound(739, "Metal/Land", CHAN_AUTO);
+		  //If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      //{
+		    //GiveInventory("ScriptPoisonTankEmpty", 1);
+	      //}
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
 	    }
@@ -3346,6 +3360,10 @@ Script 78 (void)
 		  Delay(16);
 	      SpawnSpotForced("PotionBoxAcid", 742, 0, 0);
 	      PlaySound(742, "Metal/Land", CHAN_AUTO);
+		  If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      {
+		    GiveInventory("ScriptPoisonTankEmpty", 1);
+	      }
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
 	    }
@@ -3428,6 +3446,10 @@ Script 78 (void)
 		  Delay(16);
 	      SpawnSpotForced("PotionBoxToxic", 739, 0, 0);
 	      PlaySound(739, "Metal/Land", CHAN_AUTO);
+		  //If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      //{
+		    //GiveInventory("ScriptPoisonTankEmpty", 1);
+	      //}
 		  ACS_Execute(96, 0, 0, 0, 0); //mana
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
@@ -3447,6 +3469,10 @@ Script 78 (void)
 		  Delay(16);
 	      SpawnSpotForced("PotionBoxToxic", 742, 0, 0);
 	      PlaySound(742, "Metal/Land", CHAN_AUTO);
+		  If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      {
+		    GiveInventory("ScriptPoisonTankEmpty", 1);
+	      }
 		  ACS_Execute(96, 0, 0, 0, 0); //mana
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
@@ -3509,6 +3535,10 @@ Script 78 (void)
 	      Delay(16);
 	      SpawnSpotForced("InventorySleepingPotion", 751, 0, 0);
 	      PlaySound(751, "Ammo/DepletedShardBounce", CHAN_AUTO);
+		  If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      {
+		    GiveInventory("ScriptPoisonTankEmpty", 1);
+	      }
 		  ACS_Execute(96, 0, 0, 0, 0); //mana
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
 		  TagWait(579);
@@ -3576,6 +3606,10 @@ Script 78 (void)
 	      Delay(16);
 	      SpawnSpotForced("InventoryElixirOfDeath", 753, 0, 0);
 	      PlaySound(753, "Rock/Land", CHAN_AUTO);
+		  If(GetSectorCeilingZ(569,0,0) == -550.0)
+	      {
+		    GiveInventory("ScriptPoisonTankEmpty", 1);
+	      }
 		  ACS_Execute(95, 0, 0, 0, 0); //oil
 		  ACS_Execute(96, 0, 0, 0, 0); //mana
 		  ACS_Execute(97, 0, 0, 0, 0); //poison
@@ -4173,6 +4207,7 @@ Script 56 (void)
 	{
 		If(CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickaxe") > 0 || CheckInventory("InventoryShovel") > 0 || CheckInventory("InventoryShovelB") > 0)
 		{
+			SetWeapon("Fists");
 			FloorAndCeiling_LowerByValue(441, 9999, 1000);
 			PlaySound(0, "Interaction/WallBreak", CHAN_AUTO);
 			Radius_Quake(4, 105, 0, 1, 0);
@@ -4263,6 +4298,7 @@ Script 71 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(557))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(557);
 	SpawnSpotForced("DustPuff", 558, 0, 0);
@@ -4280,6 +4316,7 @@ Script 72 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(559))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(559);
 	SpawnSpotForced("DustPuff", 560, 0, 0);
@@ -4297,6 +4334,7 @@ Script 73 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(561))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(561);
 	SpawnSpotForced("DustPuff", 562, 0, 0);
@@ -4314,6 +4352,7 @@ Script 75 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(565))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(565);
 	SpawnSpotForced("DustPuff", 566, 0, 0);
@@ -4331,6 +4370,7 @@ Script 76 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(567))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(567);
 	SpawnSpotForced("DustPuff", 568, 0, 0);

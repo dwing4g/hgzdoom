@@ -161,37 +161,40 @@ Script 4 (void)
 //Stair Footsteps
 Script 6 (void)
 {
-	PlaySound(34, "Interaction/FootStep", CHAN_AUTO, 0.2);
+	PlaySound(34, "Step/WoodLeft", CHAN_AUTO, 0.2);
 	Delay(7);
-	PlaySound(35, "Interaction/FootStep", CHAN_AUTO, 0.3);
+	PlaySound(35, "Step/WoodRight", CHAN_AUTO, 0.3);
 	Delay(9);
-	PlaySound(36, "Interaction/FootStep", CHAN_AUTO, 0.4);
+	PlaySound(36, "Step/WoodLeft", CHAN_AUTO, 0.4);
 	Delay(7);
-	PlaySound(37, "Interaction/FootStep", CHAN_AUTO, 0.5);
+	PlaySound(37, "Step/WoodRight", CHAN_AUTO, 0.5);
 	Delay(9);
-	PlaySound(38, "Interaction/FootStep", CHAN_AUTO, 0.6);
+	PlaySound(38, "Step/WoodLeft", CHAN_AUTO, 0.6);
 	Delay(7);
-	PlaySound(39, "Interaction/FootStep", CHAN_AUTO, 0.7);
+	PlaySound(39, "Step/WoodRight", CHAN_AUTO, 0.7);
 	Delay(9);
-	PlaySound(40, "Interaction/FootStep", CHAN_AUTO, 0.8);
+	PlaySound(40, "Step/WoodLeft", CHAN_AUTO, 0.8);
 	Delay(7);
-	PlaySound(41, "Interaction/FootStep", CHAN_AUTO, 0.9);
+	PlaySound(41, "Step/WoodRight", CHAN_AUTO, 0.9);
 	Delay(9);
-	PlaySound(42, "Interaction/FootStep", CHAN_AUTO, 1.0);
+	PlaySound(42, "Step/WoodLeft", CHAN_AUTO, 1.0);
 }
 
 //Crate Removal
-Script 101 (void)
-{
-	Thing_Remove(363);
-	Delay(105);
-	Thing_Remove(383);
-}
+//Script 101 (void)
+//{
+//	Thing_Remove(363);
+//	Delay(105);
+//	Thing_Remove(383);
+//}
 
 //Green Cave Event
 Script 14 (void)
 {
 	GiveInventory("ScriptGreenCave", 1);
+	Floor_MoveToValue(30, 128, 328, 0);
+	SetLineTexture(31, SIDE_FRONT, TEXTURE_MIDDLE, "SW01_BL");
+	Thing_Remove(99);
 	Thing_Move(19, 382, 1);
 	Thing_Move(24, 22, 1);
 	Thing_Move(63, 64, 1);
@@ -206,6 +209,7 @@ Script 14 (void)
 	Floor_Waggle(372, 16, 20, 2, 0);
 	Floor_Waggle(373, 24, 16, 4, 0);
 	Thing_Remove(384);
+	Light_Fade(347, 120, 35);
 }
 
 //Cave seal off
@@ -1158,6 +1162,7 @@ Script 104 (void)
 }
 
 //Final Door
+int spec77 = 0;
 Script 77 (void)
 {
 	Thing_Remove(282);
@@ -1192,6 +1197,11 @@ Script 77 (void)
 	ChangeCamera(1, 0, 0);
     FadeTo(255, 255, 255, 0.0, 4.0);
     Delay(6*35);
+	If(GetCvar("sv_newmovement") == 1)
+	{
+		spec77 = 1;
+	}
+	SetCVar("sv_newmovement", 0);
     Delay(140);
     //ThrustThing(64, 25, 0, 1);
     FadeTo(255, 0, 0, 1.0, 1.0);
@@ -1206,14 +1216,15 @@ Script 77 (void)
 	SetActorPitch(0, 0.0);
     SetActorAngle(0, 0.62);
 	Teleport_NoFog(348, 1, 0, 0);
+	Delay(1);
+	SetMusic("HTrack11", 0, 0);
 
-	ThrustThingZ(278, 12, 0, 0);
-
+	ThrustThingZ(278, 12, 0, 1);
     ThrustThing(128, 30, 1, 0);
     Radius_Quake(1, 70, 0, 1, 0);
 	ACS_Execute(100, 0, 0, 0, 0);
 	Delay(35);
-	Floor_LowerInstant(347, 0, 4159);
+	//Floor_LowerInstant(347, 0, 4159);
 
 	SetActorFlag(346, "NOGRAVITY", 0);
 	SetActorFlag(337, "DROPOFF", 0);
@@ -1222,6 +1233,12 @@ Script 77 (void)
 	Thing_Remove(238);
 
 	Delay(50);
+
+	If(spec77 == 1)
+	{
+		SetCVar("sv_newmovement", 1);
+	}
+
 	PlaySound(0, "Nithriel/Active", CHAN_AUTO);
 	Delay(35);
 	Thing_Activate(278);
@@ -1712,21 +1729,21 @@ Script 13 (void)
 	//SetLineSpecial(62, 0);
 	Polyobj_DoorSwing(269,16,64,105);
 	Delay(16);
-	PlaySound(51, "Interaction/FootStep", CHAN_AUTO, 0.2);
+	PlaySound(51, "Step/WoodLeft", CHAN_AUTO, 0.2);
 	Delay(16);
-	PlaySound(52, "Interaction/FootStep", CHAN_AUTO, 0.3);
+	PlaySound(52, "Step/WoodRight", CHAN_AUTO, 0.3);
 	Delay(16);
-	PlaySound(53, "Interaction/FootStep", CHAN_AUTO, 0.4);
+	PlaySound(53, "Step/WoodLeft", CHAN_AUTO, 0.4);
 	Delay(16);
-	PlaySound(54, "Interaction/FootStep", CHAN_AUTO, 0.5);
+	PlaySound(54, "Step/WoodRight", CHAN_AUTO, 0.5);
 	Delay(16);
-	PlaySound(55, "Interaction/FootStep", CHAN_AUTO, 0.6);
+	PlaySound(55, "Step/WoodLeft", CHAN_AUTO, 0.6);
 	Delay(16);
-	PlaySound(56, "Interaction/FootStep", CHAN_AUTO, 0.7);
+	PlaySound(56, "Step/WoodRight", CHAN_AUTO, 0.7);
 	Delay(16);
-	PlaySound(57, "Interaction/FootStep", CHAN_AUTO, 0.8);
+	PlaySound(57, "Step/WoodLeft", CHAN_AUTO, 0.8);
 	Delay(16);
-	PlaySound(58, "Interaction/FootStep", CHAN_AUTO, 0.9);
+	PlaySound(58, "Step/WoodRight", CHAN_AUTO, 0.9);
 	Delay(35);
 	Polyobj_DoorSwing(179,-16,64,0x7FFFFFFF);
 	GiveInventory("ScriptHasOpenedStoneDoor", 1);
@@ -1743,22 +1760,31 @@ Script 107 ENTER
 }
 
 //LIFTS & DOORS
-
+int spec10 = 0;
 script 10 (void)
 {
-If(CheckInventory("ScriptGreenCave") > 0)
-{
-FloorAndCeiling_LowerByValue(379, 16, 242);
-FloorAndCeiling_LowerByValue(8, 16, 242);
-Tagwait(379);
-Tagwait(8);
-//PlaySound(282, "Nithriel/Active");
-delay(60);
-FloorAndCeiling_RaiseByValue(8, 16, 242);
-FloorAndCeiling_RaiseByValue(379, 16, 242);
-Tagwait(8);
-Tagwait(379);
-}
+  If(spec10 == 0 && CheckInventory("ScriptGreencave") == 0)
+  {
+	spec10 = 1;
+	Thing_Remove(363);
+	Delay(51);
+	Thing_Remove(383);
+	SetLineTexture(48, SIDE_FRONT, TEXTURE_MIDDLE, "PORTAL01");
+	PlaySound(0, "Interaction/Static", CHAN_AUTO);
+  }
+  If(CheckInventory("ScriptGreenCave") > 0)
+  {
+	FloorAndCeiling_LowerByValue(379, 16, 242);
+	FloorAndCeiling_LowerByValue(8, 16, 242);
+	Tagwait(379);
+	Tagwait(8);
+	//PlaySound(282, "Nithriel/Active");
+	Delay(60);
+	FloorAndCeiling_RaiseByValue(8, 16, 242);
+	FloorAndCeiling_RaiseByValue(379, 16, 242);
+	Tagwait(8);
+	Tagwait(379);
+  }
 }
 
 script 114 (void)

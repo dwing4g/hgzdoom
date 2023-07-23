@@ -1,6 +1,8 @@
-
 Zan presents...
 瓒 呈献...
+
+ver. 2.4.0
+版本: 2.4.0
 
 Press any key to begin.
 按任意键开始。
@@ -154,3 +156,4 @@ Tip #49: You can combine kicks with jumping and crouching for higher damage.
 
 Tip #50: You don't need to have your companions closeby when changing levels. They will join you even when ordered to guard.
 提示#50：在改变等级时，你不需要让你的同伴在附近。即使被命令守卫，他们也会加入你。
+

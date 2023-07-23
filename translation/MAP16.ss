@@ -1029,6 +1029,7 @@ Script 28 (void)
 	else
 	If(CheckInventory("InventoryLargeShell") > 0 && spec28 == 0)
 	{
+		SetWeapon("Fists");
 		TakeInventory("InventoryLargeShell", 1);
 
 		PlaySound(186, "Metal/Land", CHAN_AUTO);

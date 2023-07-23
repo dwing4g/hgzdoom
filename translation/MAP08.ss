@@ -26,6 +26,8 @@ Script 1 ENTER
 
   SetActorFlag(258, "NOBLOCKMAP", 1);
 
+  SetActorFlag(263, "ACTIVATEMCROSS", 1);
+
   GiveActorInventory(602, "EarthKey", 1);
 
   If(CheckInventory("InventoryShovel") < 1)
@@ -87,6 +89,7 @@ Script 47 (void)
 //DIGGING
 Script 2 (void)
 {
+	SetWeapon("Fists");
 	SetLineSpecial(11, 0, 0, 0, 0, 0, 0);
 	FloorAndCeiling_LowerByValue(9, 99999, 64);
 	PlaySound(0, "Interaction/Shovel", CHAN_AUTO);

@@ -28,6 +28,8 @@ script 1 ENTER
   SetActorFlag(181, "NOCLIP", 1);
 
   SetActorFlag(202, "INVISIBLE", 1);
+
+  SetActorFlag(20, "INVISIBLE", 1);
 }
 
 script 23 ENTER
@@ -80,6 +82,10 @@ Script 53 (void)
 	SetLineSpecial(177, 0, 0, 0, 0, 0, 0);
     SpawnSpot("SniperCultist", 158, 0, 128);
 	SpawnSpot("Initiate", 159, 0, 128);
+	SetLineTexture(207, SIDE_FRONT, TEXTURE_MIDDLE, "");
+	SetLineTexture(207, SIDE_BACK, TEXTURE_MIDDLE, "");
+	SetLineTexture(206, SIDE_FRONT, TEXTURE_MIDDLE, "CURTAIN");
+	SetLineTexture(206, SIDE_BACK, TEXTURE_MIDDLE, "CURTAIN");
 	}
 }
 
@@ -110,7 +116,9 @@ Script 57 (void)
 //ABHAOTH SIGHTINGS
 Script 2 (void) //Mission Start
 {
-Delay(4);
+SetActorFlag(20, "INVISIBLE", 0);
+Thing_Activate(20);
+Delay(1);
 Thing_Hate(20, 21, 6);
 Delay(70);
 Thing_Destroy(20);
@@ -365,6 +373,7 @@ Script 10 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && GetSectorFloorZ(27, 0, 0) > 115.0)
   {
+	SetWeapon("Fists");
     Floor_LowerByValue(27, 999, 116);
 	FloorAndCeiling_LowerByValue(205, 9999, 256);
 	Thing_Remove(32);
@@ -462,7 +471,7 @@ If ((GetActorZ(0) > 98.0) && CheckInventory("InventoryScrollSpiritDispelMagic") 
   }
   else
   {
-  Print(s:"You don't have any spell to break the magic ward with.");
+  Print(s:"You don't have any spell scroll to dispel the magic ward.");
   PlaySound(0, "Character/ZanThink", CHAN_AUTO);
   }
 }
@@ -736,6 +745,7 @@ Script 41 (void) //CAULDRON BREWING
 	  PlaySound(0, "Gore/BloodJut", CHAN_AUTO);
 	  Ceiling_LowerByValue(89, 1, 4);
 	  Delay(35);
+	  SpawnSpot("DustPuff", 86, 0, 0);
 	  SpawnSpot("InventoryCanOfEnchantedPurpleInk", 86, 0, 0);
 	  PlaySound(86, "Ammo/FragfireCanBounce");
 	  If(CheckInventory("InventoryEnchantedPurpleInkRecipe") > 0)

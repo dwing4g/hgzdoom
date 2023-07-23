@@ -1401,6 +1401,7 @@ Script 51 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(259) && GetActorZ(0) < -360.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(259);
 	SpawnSpotForced("DustPuff", 260, 0, 0);
@@ -1418,6 +1419,7 @@ Script 52 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(261) && GetActorZ(0) > -560.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(261);
 	SpawnSpotForced("DustPuff", 262, 0, 0);
@@ -1435,6 +1437,7 @@ Script 53 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(263))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(263);
 	SpawnSpotForced("DustPuff", 264, 0, 0);
@@ -1452,6 +1455,7 @@ Script 54 (void)
 {
   If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(267))
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Thing_Remove(267);
 	SpawnSpotForced("DustPuff", 268, 0, 0);

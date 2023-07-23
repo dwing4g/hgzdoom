@@ -24,7 +24,7 @@ local files = {
 --	"MAP21.m",
 --	"MAP22.m",
 --	"MAP31.m",
---	"TITLEMAP.m",
+	"TITLEMAP.m",
 }
 
 local function isHalfChar(c)

@@ -1,4 +1,4 @@
--- for %a in (*.s) do @luajit acs_rip.lua %a %~na.m
+-- for %a in (*.ss) do @luajit acs_rip.lua %a %~na.m
 
 local msgs = {}
 local lastMsg

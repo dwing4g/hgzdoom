@@ -27,6 +27,8 @@ Bear Warrior:    Hey! Is that Zan?!
 Bear Warrior:    Hold your fire! 
 Bear Warrior:    Well I'll be damned... the deserter shows up here, of any place.
 Drop your weapons, sergeant. You have some questions to answer... 
+Pit Lord:    HOW DARE YOU PLOT AGAINST US, YOU SCUM!? SLAY THEM ALL!!! 
+Pit Lord:    TRAITOR SCUM!!! 
 The door won't budge. 
 The lock appears to have a circular hollow socket. 
 The lock appears to have a square hollow socket. 

@@ -2547,6 +2547,7 @@ If(GetActorZ(0) > 735.0)
 	else
 	If(CheckInventory("InventoryPrimarchAvatar") > 0)
 	{
+		SetWeapon("Fists");
 		TakeInventory("InventoryPrimarchAvatar", 1);
 		Thing_Remove(591);
 		SetLineSpecial(588, 0, 0, 0, 0, 0, 0);
@@ -4175,6 +4176,7 @@ Script 141 (void)
 	{
 		If(CheckInventory("InventoryShovel") > 0 || CheckInventory("InventoryShovelB") > 0)
 	    {
+		SetWeapon("Fists");
 		SetLineSpecial(714, 0, 0, 0, 0, 0, 0);
 		PlaySound(715, "Interaction/Shovel", CHAN_AUTO);
 		SpawnSpotForced("DustCloud", 715, 0, 0);

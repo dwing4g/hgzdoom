@@ -599,7 +599,7 @@ Script 37 (void)
 //Cerberus Growl
 Script 32 (void)
 {
-	Hudmessage(s:"Cerberus:    *Whines*"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 2.0, 0.2, 0.5);
+	Hudmessage(s:"Cerberus:    *Whines*"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_FIRE, 1.5, 0.86, 2.0, 0.2, 0.5);
 	PlaySound(124, "Cerberus/Pain", CHAN_AUTO);
 	Delay(16);
 	PlaySound(124, "Cerberus/Death", CHAN_AUTO);
@@ -700,6 +700,7 @@ Script 9 (void)
 {
 	If(CheckInventory("InventoryJarOfCorrosiveAcid") > 0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(43, 0, 0, 0, 0, 0, 0);
 		SetLineSpecial(242, 0, 0, 0, 0, 0, 0);
 		TakeInventory("InventoryJarOfCorrosiveAcid", 1);
@@ -960,7 +961,7 @@ Script 11 (void)
 Script 12 (void)
 {
 	SetFont("SMALLFONT");
-	Hudmessage(s:"CHIEFTAIN ADJUNCT OFFICE"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 3.0);
+	Hudmessage(s:"CHIEFTAIN ADJUNCT'S OFFICE"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 3.0);
 }
 
 Script 13 (void)
@@ -972,7 +973,7 @@ Script 13 (void)
 Script 53 (void)
 {
 	SetFont("SMALLFONT");
-	Hudmessage(s:"EMERGENCY ONLY - NO MANUAL OPENING"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.10, 4.0);
+	Hudmessage(s:"EMERGENCY ONLY"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.10, 4.0);
 }
 
 Script 14 (void)

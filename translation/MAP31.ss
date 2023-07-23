@@ -486,23 +486,31 @@ Script 94 (void)
 	}
 }
 //Fall Pits
+int spec89 = 0;
 int spec93=0;
 Script 93 (void)
 {
 	If(spec93==0)
 	{
+		spec93 = 1;
 		ChangeFloor(93, "ASH1");
 		Delay(90);
 		Floor_LowerByValue(93, 999, 1280);
 		TagWait(93);
-		spec93 += 1;
 	}
 	else
 	{
-		ChangeFloor(93, "SAND1");
+		spec93 = 0;
+		If(spec89==1)
+		{
+		  ChangeFloor(93, "ICE4");
+		}
+		else
+		{
+		  ChangeFloor(93, "SAND1");
+		}
 		Floor_RaiseToHighest(93, 999);
 		TagWait(93);
-		spec93 -= 1;
 	}
 }
 //Ziggurats
@@ -541,28 +549,79 @@ Script 86 ENTER
 	Restart;
 }
 //Lava Pits
+int spec74 = 0;
 int spec87=0;
 //int spec88=0;
+//int spec89=0;
 Script 88 (void)
 {
 	TagWait(87);
 	Delay(4);
 	If(spec88==0 && spec87==0)
 	{
+		spec88 = 1;
 		ChangeFloor(89, "ASH2");
 		Delay(70);
 		ChangeFloor(89, "LAVA_01");
 		Line_SetBlocking(88, BLOCKF_MONSTERS, 0);
-		spec88 += 1;
 	}
 	else
 	If(spec88==1 && spec87==0)
 	{
+		spec88 = 0;
 		ChangeFloor(89, "ASH2");
 		Delay(16);
-		ChangeFloor(89, "SAND1");
+		If(spec89==1)
+		{
+		  ChangeFloor(89, "ICE4");
+		}
+		else
+		{
+		  ChangeFloor(89, "SAND1");
+		}
+
 		Line_SetBlocking(0, 0, BLOCKF_MONSTERS);
-		spec88 -= 1;
+	}
+}
+
+//Ice
+Script 89 (void)
+{
+    If(spec89 == 0)
+	{
+		spec89 = 1;
+		Sector_SetFriction(101, 200);
+		ChangeFloor(101, "ICE4");
+		If(spec88 == 1)
+		{
+		  ChangeFloor(89, "LAVA_01");
+		}
+		If(spec74 == 1)
+		{
+		  ChangeFloor(103, "MAGIC1");
+		}
+		If(spec93 == 1)
+		{
+		  ChangeFloor(93, "ASH1");
+		}
+	}
+	else
+	{
+		spec89 = 0;
+		Sector_SetFriction(101, 100);
+		ChangeFloor(101, "SAND1");
+		If(spec88 == 1)
+		{
+		  ChangeFloor(89, "LAVA_01");
+		}
+		If(spec74 == 1)
+		{
+		  ChangeFloor(103, "MAGIC1");
+		}
+		If(spec93 == 1)
+		{
+		  ChangeFloor(93, "ASH1");
+		}
 	}
 }
 
@@ -591,6 +650,73 @@ Script 87 (void)
 		spec87 -= 1;
 	}
 }
+
+//Gravity
+int spec75 = 0;
+Script 75 (void)
+{
+	If(spec75 == 0)
+	{
+		spec75 = 1;
+		Sector_SetGravity(95, 0, 15);
+		PlaySound(16, "Magic/Flight", CHAN_AUTO, 1.0, false, ATTN_NONE);
+	}
+	else
+	{
+		spec75 = 0;
+		PlaySound(16, "Genius/WingFlap", CHAN_AUTO, 1.0, false, ATTN_NONE);
+		Delay(12);
+		PlaySound(16, "Genius/WingFlap", CHAN_AUTO, 1.0, false, ATTN_NONE);
+		Delay(8);
+		PlaySound(16, "Genius/WingFlap", CHAN_AUTO, 1.0, false, ATTN_NONE);
+		Delay(4);
+		Sector_SetGravity(95, 1, 0);
+	}
+}
+
+//Jump Pads
+//int spec74 = 0;
+Script 74 (void)
+{
+	If(spec74 == 0)
+	{
+		spec74 = 1;
+		ChangeFloor(103, "MAGIC1");
+		PlaySound(16, "Magic/Dispel", CHAN_AUTO, 1.0, false, ATTN_NONE);
+	}
+	else
+	{
+		spec74 = 0;
+		ChangeFloor(103, "SAND1");
+		If(spec89 == 1)
+		{
+			ChangeFloor(103, "ICE4");
+		}
+	}
+}
+Script 73 (void)
+{
+	If(spec74 == 1)
+	{
+      PlaySound(0, "Magic/Dispel", CHAN_AUTO);
+	  SpawnSpotForced("ExplosionMagicPurple", 0, 0, 0);
+	  ThrustThingZ(0, 50, 0, 1);
+	  Delay(4);
+	  ThrustThing(128, 50, 1, 0);
+	}
+}
+Script 72 (void)
+{
+    If(spec74 == 1)
+	{
+      PlaySound(0, "Magic/Dispel", CHAN_AUTO);
+	  SpawnSpotForced("ExplosionMagicPurple", 0, 0, 0);
+	  ThrustThingZ(0, 50, 0, 1);
+	  Delay(4);
+	  ThrustThing(0, 50, 1, 0);
+	}
+}
+
 //Randomizer
 int spec85=0;
 Script 85 (void)
@@ -611,7 +737,7 @@ Script 85 (void)
 }
 Script 84 (void)
 {
-	Switch(random(1, 11))
+	Switch(random(1, 14))
 	{
 		Case 1:
 		ACS_Execute(94, 0, 0, 0, 0);
@@ -630,32 +756,45 @@ Script 84 (void)
 		Break;
 
 		Case 5:
-		ACS_Execute(102, 0, 0, 0, 0);
+		ACS_Execute(89, 0, 0, 0, 0);
 		Break;
 
 		Case 6:
-		ACS_Execute(87, 0, 0, 0, 0);
+		ACS_Execute(75, 0, 0, 0, 0);
 		Break;
 
 		Case 7:
-		ACS_Execute(88, 0, 0, 0, 0);
+		ACS_Execute(74, 0, 0, 0, 0);
 		Break;
 
 		Case 8:
-		ACS_Execute(90, 0, 0, 0, 0);
+		ACS_Execute(102, 0, 0, 0, 0);
 		Break;
 
 		Case 9:
-		ACS_Execute(93, 0, 0, 0, 0);
+		ACS_Execute(87, 0, 0, 0, 0);
 		Break;
 
 		Case 10:
-		ACS_Execute(99, 0, 0, 0, 0);
+		ACS_Execute(88, 0, 0, 0, 0);
 		Break;
 
 		Case 11:
+		ACS_Execute(90, 0, 0, 0, 0);
+		Break;
+
+		Case 12:
+		ACS_Execute(93, 0, 0, 0, 0);
+		Break;
+
+		Case 13:
+		ACS_Execute(99, 0, 0, 0, 0);
+		Break;
+
+		Case 14:
 		ACS_Execute(98, 0, 0, 0, 0);
 		Break;
+
 	}
 	Delay(35*6);
 	Restart;
@@ -681,7 +820,7 @@ Script 83 (void)
 }
 Script 82 (void)
 {
-	Switch(random(1, 35))
+	Switch(random(1, 50))
 	{
 		Case 1:
 		SetFont("SMALLFONT");
@@ -4052,17 +4191,17 @@ Script 16 (void)
 //MESSAGE SCALE
 Script "MessageScale" ENTER
 {
-If(GetScreenWidth() >= 1440 && GetScreenWidth() < 2560)
+If(GetScreenWidth() >= 1440) // && GetScreenWidth() < 2560)
   {
 	  SetCVar("con_scaletext", 2);
   }
-  else
-  {
-	If(GetScreenWidth() >= 2560)
-    {
-	SetCVar("con_scaletext", 3);
-    }
-  }
+  //else
+  //{
+	//If(GetScreenWidth() >= 2560)
+    //{
+	//SetCVar("con_scaletext", 3);
+    //}
+  //}
 }
 
 //GORE CLEAR

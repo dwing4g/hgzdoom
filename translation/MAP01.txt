@@ -55,6 +55,9 @@ Map10 - Crystal Heart (Major Spoilers)
 This door requires an Axe key to open.
 这扇门需要一把斧钥匙才能打开。
 
+The shelf won't budge.
+架子纹丝不动。
+
 The massive doors are jammed shut.
 巨大的门被卡住了。
 
@@ -70,11 +73,11 @@ Bear Warrior:    Look out!
 Reaver:    Look out!
 里弗：小心!
 
-Bear Warrior:    Zan! Over here!
-熊战士：瓒！在这里！
+Orc:    Zan! Over here!
+兽人：瓒！在这里！
 
-Reaver:    Over here, sergeant!
-里弗：在这里，中士！
+Goblin:    Over here, sergeant!
+哥布林：在这里，中士！
 
 Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help.
 熊战士：我很高兴见到你，中士！恶魔们把我们困在这里，我们需要帮助。
@@ -370,14 +373,14 @@ of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our 
 An empty pedestal.
 一个空的基座。
 
-Tip: Remember that you can inspect the currently selected inventory item for a brief description with (default: ENTER)
-提示。记住，你可以用（默认：ENTER）检查当前选择的库存物品，以获得简短的描述。
+Tip: Remember that you can inspect the selected inventory item with (default: ENTER)
+提示：记住，你可以用（默认：ENTER）检查选择的库存物品。
 
 (This tablet seems to be instilled with an Earth Magic spell. You already recited the spell)
 (这块石板似乎被灌输了一个大地魔法的咒语。你已经背诵了这个咒语)
 
 Tip: Press F1 to view the quick reference screen.
-提示。按F1键可以查看快速参考屏幕。
+提示：按F1键可以查看快速参考屏幕。
 
 All messages can be reviewed in the console (default: Tilde)
 所有信息都可以在控制台中查看（默认：Tilde）。
@@ -466,8 +469,8 @@ Tip: Quest Items are not required to be manually selected.
 They are used automatically with (default: E)
 他们会自动使用（默认：E）。
 
-If you can't see the plant in the background at all, increase the gamma so that it's barely visible
-如果你完全看不到背景中的植物，增加伽玛值，使其几乎不可见。
+If you can't see the plant in the background, increase the gamma so that it's barely visible
+如果你看不到背景中的植物，增加伽玛值，使其几乎不可见。
 
 Press Strafe Left (default: A) to decrease gamma
 按Strafe Left（默认值：A）降低伽马值

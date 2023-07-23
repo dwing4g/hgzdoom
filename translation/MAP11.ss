@@ -22,6 +22,9 @@ Script 1 (void) //ENTER - triggered via gamma correction script
   SetActorFlag(185, "INVISIBLE", 1);
   SetActorFlag(262, "INVISIBLE", 1);
 
+  SetActorFlag(347, "INVISIBLE", 1);
+  SetActorFlag(347, "NODAMAGE", 1);
+
   Scroll_Ceiling(31, 0, -64, 0);
 
   Delay(35);
@@ -680,6 +683,7 @@ Script 15 (void)
 		PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
 		Delay(16);
 		SpawnSpot("InventoryManaPotion", 86, 0, 0);
+		SpawnSpot("DustPuff", 86, 0, 0);
 		PlaySound(86, "Metal/Land", CHAN_AUTO, 0.6);
 
 		Delay(105);
@@ -698,6 +702,7 @@ Script 36 (void)
 {
 	If(CheckInventory("InventoryShovelB") > 0 || CheckInventory("InventoryShovel") > 0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(249, 0, 0, 0, 0, 0, 0);
 		Floor_LowerInstant(250, 0, 64);
 		Ceiling_LowerInstant(250, 0, 64);
@@ -722,6 +727,7 @@ Script 45 (void)
 {
 	If(CheckInventory("InventoryShovelB") > 0 || CheckInventory("InventoryShovel") > 0)
 	{
+		SetWeapon("Fists");
 		SetLineSpecial(287, 0, 0, 0, 0, 0, 0);
 		Floor_LowerInstant(289, 0, 128);
 		Ceiling_LowerInstant(289, 0, 128);
@@ -1047,7 +1053,9 @@ Script 5 (void)
 	{
 	TakeInventory("InventoryFireOil", 1);
 	SpawnSpotForced("CultLabGlassB", 303, 596, 0);
+	SetActorFlag(347, "NODAMAGE", 0);
 	Delay(12);
+	Thing_Destroy(347, 0, 0);
 	Thing_Remove(596);
 	PlaySound(306, "Weapons/PotionDie", CHAN_AUTO);
 	SpawnSpotForced("SteamPuffLarge", 306, 0, 0);
@@ -1146,6 +1154,7 @@ Script 35 (void)
   If ((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickaxe") > 0) && GetSectorCeilingZ(241, 0, 0) < 377.0)
   {
 	//Radius_Quake(2, 12, 0, 1, 0);
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Ceiling_RaiseByValue(241, 9999, 224);
 	PlaySound(0, "Interaction/WallPick");
@@ -1248,6 +1257,7 @@ Script 43 (void)
 {
   If ((CheckInventory("InventorySledgehammer") > 0 || CheckInventory("InventoryPickaxe") > 0) && GetSectorFloorZ(271, 0, 0) > 647.0)
   {
+	SetWeapon("Fists");
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
     Floor_LowerByValue(271, 9999, 80);
 	PlaySound(0, "Interaction/WallPick");
@@ -1286,7 +1296,7 @@ Script 44 (void)
 
 	If(CheckProximity(0, "IDLancer", 640.0, 1) || CheckProximity(0, "IDLancerGuarding", 640.0, 1))
     {
-	Hudmessage(s:"Crystal Curator:    Oh no-"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_CYAN, 1.5, 0.86, 1.0, 0.2, 0.5);
+	Hudmessage(s:"Crystal Curator:    Oh no-"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 1.0, 0.2, 0.5);
     }
 
 	FadeTo(0, 0, 0, 1.0, 1.0);
@@ -1731,17 +1741,17 @@ Script 48 (void)
 //MESSAGE SCALE
 Script "MessageScale" (void)//ENTER
 {
-If(GetScreenWidth() >= 1440 && GetScreenWidth() < 2560)
+If(GetScreenWidth() >= 1440)// && GetScreenWidth() < 2560)
   {
 	  SetCVar("con_scaletext", 2);
   }
-  else
-  {
-	If(GetScreenWidth() >= 2560)
-    {
-	SetCVar("con_scaletext", 3);
-    }
-  }
+  //else
+  //{
+	//If(GetScreenWidth() >= 2560)
+    //{
+	//SetCVar("con_scaletext", 3);
+    //}
+  //}
 }
 
 //GORE CLEAR
@@ -1810,7 +1820,7 @@ int CurrentGamma = 0.0;
 Script 910 (void)
 {
 	Setfont("SMALLFONT");
-	Hudmessage(s:"If you can't see the plant in the background at all, increase the gamma so that it's barely visible"; HUDMSG_FADEINOUT, 910, CR_UNTRANSLATED, 1.5, 0.20, 9999.0, 3.2, 0.8);
+	Hudmessage(s:"If you can't see the plant in the background, increase the gamma so that it's barely visible"; HUDMSG_FADEINOUT, 910, CR_UNTRANSLATED, 1.5, 0.20, 9999.0, 3.2, 0.8);
 	//Hudmessage(s:"GAMMA CORRECTION = ", f:(CurrentGamma); HUDMSG_FADEINOUT, 912, CR_UNTRANSLATED, 1.5, 0.60, 9999.0, 3.2, 0.8);
     Hudmessage(s:"Press \c[Gold]Strafe Left\c- (default: \c[Gold]A\c-) to decrease gamma"; HUDMSG_FADEINOUT, 913, CR_UNTRANSLATED, 1.5, 0.63, 9999.0, 3.2, 0.8);
 	Hudmessage(s:"Press \c[Gold]Strafe Right\c- (default: \c[Gold]D\c-) to increase gamma"; HUDMSG_FADEINOUT, 914, CR_UNTRANSLATED, 1.5, 0.65, 9999.0, 3.2, 0.8);

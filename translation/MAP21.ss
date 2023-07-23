@@ -4700,7 +4700,7 @@ Script 84 (void)
 	Hudmessage(s:"Fixer - Sophia Rosie"; HUDMSG_FADEINOUT | HUDMSG_LOG, 105, CR_WHITE, 1.5, 0.26, 6.0, 1.0, 1.0);
 	Hudmessage(s:"Witch - Midnight Datura"; HUDMSG_FADEINOUT | HUDMSG_LOG, 106, CR_WHITE, 1.5, 0.28, 6.0, 1.0, 1.0);
 	Hudmessage(s:"Earth Mother - Katie Otten"; HUDMSG_FADEINOUT | HUDMSG_LOG, 107, CR_WHITE, 1.5, 0.30, 6.0, 1.0, 1.0);
-	Hudmessage(s:"The King (easter egg) - Jon St. John "; HUDMSG_FADEINOUT | HUDMSG_LOG, 108, CR_WHITE, 1.5, 0.32, 6.0, 1.0, 1.0);
+	Hudmessage(s:"The King (easter egg) - Jon St. John"; HUDMSG_FADEINOUT | HUDMSG_LOG, 108, CR_WHITE, 1.5, 0.32, 6.0, 1.0, 1.0);
 	Delay(7*35);
 	FadeTo(0, 0, 0, 1.0, 1.0);
 	Delay(1*35);
@@ -4750,9 +4750,10 @@ Script 84 (void)
 	Hudmessage(s:"iamfailtacular - bits of character and lore inspiration"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_WHITE, 1.5, 0.22, 6.0, 1.0, 1.0);
 	Hudmessage(s:"Mr. Red - proof reading"; HUDMSG_FADEINOUT | HUDMSG_LOG, 101, CR_WHITE, 1.5, 0.24, 6.0, 1.0, 1.0);
 	Hudmessage(s:"Vostyok, JaywalkingKnight, DoomKrakken, Nuke - help with technical issues"; HUDMSG_FADEINOUT | HUDMSG_LOG, 102, CR_WHITE, 1.5, 0.26, 6.0, 1.0, 1.0);
-	Hudmessage(s:"Sgt_Mark_IV - brutal AI code base"; HUDMSG_FADEINOUT | HUDMSG_LOG, 103, CR_WHITE, 1.5, 0.28, 6.0, 1.0, 1.0);
+	Hudmessage(s:"Sgt_Mark_IV - brutal friendly AI"; HUDMSG_FADEINOUT | HUDMSG_LOG, 103, CR_WHITE, 1.5, 0.28, 6.0, 1.0, 1.0);
+	Hudmessage(s:"Nash Muhandes - improved player movement"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.30, 6.0, 1.0, 1.0);
 
-	Hudmessage(s:"And thanks to everyone who made Hedon fanart and memes!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.32, 6.0, 1.0, 1.0);
+	Hudmessage(s:"And thanks to everyone making Hedon fanart and memes!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 105, CR_WHITE, 1.5, 0.34, 6.0, 1.0, 1.0);
 	Delay(7*35);
 	FadeTo(0, 0, 0, 1.0, 1.0);
 	Delay(1*35);
@@ -4776,7 +4777,7 @@ Script 84 (void)
     Hudmessage(s:"Graf Zahl - lead development"; HUDMSG_FADEINOUT | HUDMSG_LOG, 101, CR_WHITE, 1.5, 0.36, 5.0, 1.0, 1.0);
 	Hudmessage(s:"The Doom Community - feedback and contributions"; HUDMSG_FADEINOUT | HUDMSG_LOG, 102, CR_WHITE, 1.5, 0.38, 5.0, 1.0, 1.0);
 	Hudmessage(s:"John Carmack - original id Tech 1 Engine"; HUDMSG_FADEINOUT | HUDMSG_LOG, 103, CR_WHITE, 1.5, 0.40, 5.0, 1.0, 1.0);
-	Hudmessage(s:"Rachael - hGZDoom (Hedon specific GZDoom fork)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.42, 5.0, 1.0, 1.0);
+	Hudmessage(s:"Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.42, 5.0, 1.0, 1.0);
 
 	Hudmessage(s:"Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing"; HUDMSG_FADEINOUT | HUDMSG_LOG, 105, CR_WHITE, 1.5, 0.46, 5.0, 1.0, 1.0);
 	Delay(6*35);

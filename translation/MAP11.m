@@ -90,7 +90,7 @@ Rest easy, weary traveller, but drink not from this fountain
 For it only nourishes those who walk the path of the Initiate 
 Tip: Remember that you can press F1 to view the quick reference screen at any time. 
 Tip: Remember that you can inspect your currently selected item with (default: ENTER) 
-If you can't see the plant in the background at all, increase the gamma so that it's barely visible
+If you can't see the plant in the background, increase the gamma so that it's barely visible
 Press Strafe Left (default: A) to decrease gamma
 Press Strafe Right (default: D) to increase gamma
 Press Use (default: E) to continue

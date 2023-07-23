@@ -563,6 +563,7 @@ Script 122 (void)
 	Thing_Hate(419, 421, 4);
 	Delay(7*35);
 	Hudmessage(s:"Brutal Friendly AI by Sgt_Mark_IV"; HUDMSG_FADEINOUT | HUDMSG_LOG, 101, CR_WHITE, 1.5, 0.26, 4.0, 1.0, 1.5);
+	Hudmessage(s:"Improved Player Movement by Nash Muhandes"; HUDMSG_FADEINOUT | HUDMSG_LOG, 102, CR_WHITE, 1.5, 0.30, 4.0, 1.0, 1.5);
     Delay(5*35);
 	FadeTo(0, 0, 0, 1.0, 3.0);
 
@@ -596,7 +597,7 @@ Script 122 (void)
     Hudmessage(s:"Graf Zahl - lead development"; HUDMSG_FADEINOUT | HUDMSG_LOG, 101, CR_WHITE, 1.5, 0.20, 6.0, 1.0, 0.5);
 	Hudmessage(s:"The Doom Community - feedback and contributions"; HUDMSG_FADEINOUT | HUDMSG_LOG, 102, CR_WHITE, 1.5, 0.22, 6.0, 1.0, 0.5);
 	Hudmessage(s:"John Carmack - original id Tech 1 Engine"; HUDMSG_FADEINOUT | HUDMSG_LOG, 103, CR_WHITE, 1.5, 0.24, 6.0, 1.0, 0.5);
-	Hudmessage(s:"Rachael - hGZDoom (Hedon specific GZDoom fork)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.26, 6.0, 1.0, 0.5);
+	Hudmessage(s:"Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 104, CR_WHITE, 1.5, 0.26, 6.0, 1.0, 0.5);
 
 	Hudmessage(s:"Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing"; HUDMSG_FADEINOUT | HUDMSG_LOG, 105, CR_WHITE, 1.5, 0.30, 6.0, 1.0, 0.5);
 	Delay(7*35);
@@ -1895,21 +1896,21 @@ Script 128 (void)
 	{
 	  SetLineSpecial(444, 0, 0, 0, 0, 0, 0);
 	  SetFont("SMALLFONT");
-	  Hudmessage(s:"Lancer:    Good to see you're still holding, sisters."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 3.0, 0.2, 0.5);
+	  Hudmessage(s:"Lancer:    Good to see you're still holding, sisters."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.82, 3.0, 0.2, 0.5);
 	}
 	else
 	If(CheckProximity(0, "IDReaver", 640.0, 1) || CheckProximity(0, "IDReaverGuarding", 640.0, 1))
 	{
 	  SetLineSpecial(444, 0, 0, 0, 0, 0, 0);
 	  SetFont("SMALLFONT");
-	  Hudmessage(s:"Reaver:    Well met, sisters."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 3.0, 0.2, 0.5);
+	  Hudmessage(s:"Reaver:    Well met, sisters."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.82, 3.0, 0.2, 0.5);
 	}
 	else
 	If(CheckProximity(0, "IDBearWarrior", 640.0, 1) || CheckProximity(0, "IDBearWarriorGuarding", 640.0, 1))
 	{
 	  SetLineSpecial(444, 0, 0, 0, 0, 0, 0);
 	  SetFont("SMALLFONT");
-	  Hudmessage(s:"Bear Warrior:    Hail, sisters!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKBROWN, 1.5, 0.86, 3.0, 0.2, 0.5);
+	  Hudmessage(s:"Bear Warrior:    Hail, sisters!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKBROWN, 1.5, 0.82, 3.0, 0.2, 0.5);
 	}
   }
 }
@@ -1929,10 +1930,10 @@ Script 44 (void)
 {
 	  SpawnSpotForced("IDReaverRecruitable", 207, 0, 0);
 	  Delay(12);
-	  Hudmessage(s:"Reaver:    Die y- ...Zan?! I can't believe it's you!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.86, 4.0, 0.2, 0.5);
+	  Hudmessage(s:"Reaver:    Die y- ...Zan?! I can't believe it's you!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.82, 4.0, 0.2, 0.5);
       PlaySound(207, "Reaver/Huh", CHAN_AUTO);
 	  Delay(150);
-	  Hudmessage(s:"We've got to link back up with the defenders!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.86, 3.0, 0.2, 0.5);
+	  Hudmessage(s:"We've got to link back up with the defenders!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.82, 3.0, 0.2, 0.5);
 	  Delay(70);
 	  If(IsTIDUsed(219) && GameSkill() < SKILL_VERY_HARD)
 	  {
@@ -1948,7 +1949,7 @@ Script 45 (void)
 	If(ThingCountName("IDReaverRecruitable", 170) > 0 || ThingCountName("IDBearWarriorRecruitable", 170) > 0)//GetActorProperty(170, APROP_Health) >= 1)
 	  {
 	  SetLineSpecial(220, 0, 0, 0, 0, 0, 0);
-	  Hudmessage(s:"Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKGREEN, 1.5, 0.86, 4.0, 0.2, 0.5);
+	  Hudmessage(s:"Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKGREEN, 1.5, 0.82, 4.0, 0.2, 0.5);
 	  Delay(150);
 	  Delay(16);
 	  If(IsTIDUsed(219) && GameSkill() < SKILL_VERY_HARD)
@@ -1970,7 +1971,7 @@ Script 139 (void)
 	If(ThingCount(T_NONE, 66) < 2 && IsTIDUsed(240) && spec139a == 0)
 	{
 	  spec139a += 1;
-	  Hudmessage(s:"Bear Warrior:    Hey, stop that! We need those bowls."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 2.0, 0.2, 0.5);
+	  Hudmessage(s:"Bear Warrior:    Hey, stop that! We need these bowls."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 2.0, 0.2, 0.5);
 	  PlaySound(240, "BearWarrior/Huh", CHAN_AUTO);
 	}
 	If(ThingCount(T_NONE, 67) < 2 && spec139b == 0)

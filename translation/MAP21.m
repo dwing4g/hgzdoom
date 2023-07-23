@@ -237,15 +237,16 @@ SPECIAL THANKS TO
 iamfailtacular - bits of character and lore inspiration
 Mr. Red - proof reading
 Vostyok, JaywalkingKnight, DoomKrakken, Nuke - help with technical issues
-Sgt_Mark_IV - brutal AI code base
-And thanks to everyone who made Hedon fanart and memes! 
+Sgt_Mark_IV - brutal friendly AI
+Nash Muhandes - improved player movement
+And thanks to everyone making Hedon fanart and memes! 
 The Iron Division leaders held council to assess their victory, and discuss the future of their clan.
 Chieftain Zura brought up the dark corruption. It was one of the many threats that still loomed over.
 GZDOOM ENGINE
 Graf Zahl - lead development
 The Doom Community - feedback and contributions
 John Carmack - original id Tech 1 Engine
-Rachael - hGZDoom (Hedon specific GZDoom fork)
+Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
 Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing
 A plan was devised to rebuild Valc into a stronghold worthy of those who stood brave against the Demons.
 Visitors came eager to trade goods and war stories. The legend of the Iron Division spread far and wide.

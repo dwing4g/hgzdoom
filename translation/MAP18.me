@@ -324,6 +324,7 @@ Min. Lord Murguth:    Demons thrive in this fiery archipelago. The heat is chall
 Min. Lord Murguth:    No army can invade this place. We should have known this when we first set off to war. 
 Min. Lord Murguth:    I read tales of ancient human-built temples here. Reminders of the Elemental Gods' power. 
 Shady Fixer:    Here. Mix it with hog liver, Grund's warg loves it. And remember - you didn't get this from me. 
+Shady Fixer:    You need poison to brew something more complicated? Alright, as long as it helps us get out of this hole... 
 Shady Fixer:    That's a big 'ol rock of salt. Here's fifty for it. 
 Shady Fixer:    I'll only give you fourty for this one. Take it or leave it. 
 Shady Fixer:    Don't wanna poison the mutt? Unless you have another way to put it to sleep, poison's all I have. 
