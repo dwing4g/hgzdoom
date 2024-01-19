@@ -275,7 +275,7 @@ NoiseAlert(0,0);
 //DEPOT AMBUSH
 Script 28 (void)
 {
-	If(IsTIDUsed(54))
+	If(IsTIDUsed(54) && CheckInventory("Crushbow") > 0)
 	{
 	Thing_remove(54);
 	Delay(35);

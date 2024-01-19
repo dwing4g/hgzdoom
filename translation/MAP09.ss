@@ -742,25 +742,29 @@ Script 20 (void)
 }
 
 //SEWER DOOR
+int spec15 = 0;
 Script 15 (void)
 {
-    If(GetSectorCeilingZ(72, 0, 0) < -972.0 && GetSectorFloorZ(63, 0, 0) > -824.0 && GetSectorFloorZ(71, 0, 0) > -789.0)
-	{
+	If(GetSectorFloorZ(71, 0, 0) > -789.0 && spec15 == 0)
+    {
+		spec15 = 1;
 		PlaySound(68, "Interaction/MachineOn", CHAN_AUTO);
 		SetActorPitch(68, 0.65);
 		Floor_LowerByValue(63, 24, 76);
 		TagWait(63);
 	}
 	else
-	If(GetSectorCeilingZ(72, 0, 0) < -972.0 && GetSectorFloorZ(63, 0, 0) < 898.0 && GetSectorFloorZ(71, 0, 0) > -789.0)
-	{
+	If(GetSectorFloorZ(71, 0, 0) > -789.0 && spec15 == 1)
+    {
+		spec15 = 0;
 		PlaySound(68, "Interaction/MachineOn", CHAN_AUTO);
 		SetActorPitch(68, 0.85);
 		Floor_RaiseAndCrush(63, 24, 1000, 0);
 		TagWait(63);
+		Floor_MoveToValue(63, 24, 823, 1);
+		TagWait(63);
 	}
 	else
-	If(GetSectorCeilingZ(72, 0, 0) > -973.0 && GetSectorFloorZ(63, 0, 0) < 898.0 && GetSectorFloorZ(71, 0, 0) < -789.0)
 	{
 		SetLineSpecial(75, 0, 0, 0, 0, 0, 0);
 		PlaySound(68, "Interaction/MachineOn", CHAN_AUTO);
@@ -770,9 +774,7 @@ Script 15 (void)
 		TagWait(72);
         Thing_Remove(70);
 		Ceiling_RaiseByValue(72, 4, 248);
-
 	}
-
 }
 
 //SEWER WATER

@@ -36,9 +36,9 @@ The assault is expected to be over in few hours, with no losses on our side.    
 
 
 COUNCIL ROOM 
-CHIEFTAIN ADJUNCT OFFICE 
+CHIEFTAIN ADJUNCT'S OFFICE 
 VALC LABORATORIES - NO UNAUTHORISED PERSONNEL ALLOWED 
-EMERGENCY ONLY - NO MANUAL OPENING 
+EMERGENCY ONLY 
 (The diary appears to belong to Witch Chieftain Adjunct Lith. Many of the final pages seem to have been torn away...)
 Day 188. No. No! NO! That wretch Zura has denied my project! Dangerous?! I would have expected anyone but HER to say such an ineptitude! She was the one supposed to bring my ideas to the Council... no, no, no, I will see the Lancers myself tomorrow. They will see beyond the veil, yes, they are much smarter than Zura! They do not fear the future.
 

@@ -23,8 +23,9 @@ Fixer:    I can't help but wonder who helped the demons build this place... it's
 The mechanism appears to be missing a lever. 
 The machine does not seem to have enough power to be operated. 
 You'll need a proper tool to mine this ore vein. 
-Lord Efri:    You slime!!! I will bring your head to the Blue Baron myself! 
+Lord Efri:    YOU SLIME!!! I WILL BRING YOUR HEAD TO THE BLUE BARON MYSELF! 
 You have nothing to offer to this shrine. 
+The pedestal's locking mechanism prevents the ruby from being removed. 
 The pedestal is empty. 
 The door does not seem to have enough power to be operated. 
 A hellish curse prevents you from unlocking the gate. 
@@ -96,7 +97,7 @@ POWER SURGE WARNING: DO NOT ACTIVATE WHILE THE OTHER 3 PILLARS ARE IN FUNCTION
 Though the power pillars can produce enough energy for the entire factory, the new machines have been straining
 the distribution, like bloated ticks feeding upon a slumbering bull.       Make sure to turn off any idle machines and
 redirect the power to the central pool - the fiery gauges will show us precisely how much energy there is to spare. 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
+.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
 > Not much going on, I should find my room and get rest 
 > A Fixer told me her squad vanished - should investigate 
 > Found the captives, need to free them and report to Breaza 

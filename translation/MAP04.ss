@@ -2153,6 +2153,7 @@ Script "OpenDrawing2" (void)
 
 Script "CloseJournal" (void)
 {
+	Setfont("SMALLFONT");
 	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }
@@ -2163,10 +2164,13 @@ Script 105 (void)
 	HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
 	SetFont ("OLAYTDR2");
 	HudMessage (s:"a"; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+	PlaySound(0, "Inventory/Paper", CHAN_AUTO);
 }
 
 Script 106 (void)
 {
+	Setfont("SMALLFONT");
 	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+	//PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
 }

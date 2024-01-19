@@ -293,6 +293,7 @@ Script 16 (void)
 
 //CRYSTAL CURATOR
 //Wounded
+int spec20 = 0;
 Script 20 (void)
 {
 	If(CheckProximity(0, "Golem", 1280.0, 1) && GetActorproperty(600, APROP_Health) > 0)
@@ -326,6 +327,16 @@ Script 20 (void)
 		SpawnSpotForced("IDManaPotion", 346, 0, 0);
 		Delay(24);
 		PlaySound(0, "Character/ZanSigh", CHAN_AUTO);
+	}
+	else
+	If(CheckInventory("InventoryEmptyPotionBottle") > 0 && GetActorproperty(600, APROP_Health) > 0 && spec20 == 0)
+	{
+		SetLineSpecial(94, 0, 0, 0, 0, 0, 0);
+		spec20 += 1;
+		Hudmessage(s:"Crystal Curator:    If only I could get some mana... but I already used all my bottles..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+		PlaySound(600, "Lancer/Pain", CHAN_AUTO);
+		Delay(5*35);
+		SetLineSpecial(94, ACS_Execute, 21, 0, 0, 0, 0);
 	}
 	else
 	If(GetActorproperty(600, APROP_Health) > 0)
@@ -372,10 +383,19 @@ Script 21 (void)
 		PlaySound(0, "Character/ZanSigh", CHAN_AUTO);
 	}
 	else
+	If(CheckInventory("InventoryEmptyPotionBottle") > 0 && GetActorproperty(600, APROP_Health) > 0)
+	{
+		SetLineSpecial(94, 0, 0, 0, 0, 0, 0);
+		Hudmessage(s:"Crystal Curator:    If only I could get some mana... but I already used all my bottles..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+		PlaySound(600, "Lancer/Pain", CHAN_AUTO);
+		Delay(5*35);
+		SetLineSpecial(94, ACS_Execute, 22, 0, 0, 0, 0);
+	}
+	else
 	If(GetActorproperty(600, APROP_Health) > 0)
 	{
 	SetLineSpecial(94, 0, 0, 0, 0, 0, 0);
-    Hudmessage(s:"Crystal Curator:    I'm too weak to move... had to use all my energy... to protect the Disk..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+    Hudmessage(s:"Crystal Curator:    I'm too weak to move... had to use all my energy... my mana... to protect the Disk..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
     PlaySound(600, "Lancer/Pain", CHAN_AUTO);
 	Delay(5*35);
 	SetLineSpecial(94, ACS_Execute, 22, 0, 0, 0, 0);
@@ -386,7 +406,7 @@ Script 22 (void)
 {
 	If(CheckProximity(0, "Golem", 1280.0, 1) && GetActorproperty(600, APROP_Health) > 0)
     {
-		Hudmessage(s:"Crystal Curator:    Look out!... Golems..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 3.0, 0.2, 0.5);
+		Hudmessage(s:"Crystal Curator:    Look out!... Dark Golems!..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 3.0, 0.2, 0.5);
 		PlaySound(600, "Lancer/Pain", CHAN_AUTO);
 		Delay(4*35);
 	}
@@ -418,6 +438,16 @@ Script 22 (void)
 		PlaySound(0, "Character/ZanSigh", CHAN_AUTO);
 	}
 	else
+	If(CheckInventory("InventoryEmptyPotionBottle") > 0 && GetActorproperty(600, APROP_Health) > 0 && spec20 == 0)
+	{
+		SetLineSpecial(94, 0, 0, 0, 0, 0, 0);
+		spec20 += 1;
+		Hudmessage(s:"Crystal Curator:    If only I could get some mana... but I already used all my bottles..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+		PlaySound(600, "Lancer/Pain", CHAN_AUTO);
+		Delay(5*35);
+		SetLineSpecial(94, ACS_Execute, 20, 0, 0, 0, 0);
+	}
+	else
 	If(GetActorproperty(600, APROP_Health) > 0)
 	{
 	SetLineSpecial(94, 0, 0, 0, 0, 0, 0);
@@ -447,7 +477,7 @@ Script 23 (void)
 	PlaySound(601, "Lancer/Hmm", CHAN_AUTO);
 	Delay(5*35);
 
-	Hudmessage(s:"I'd like to commend you for your fight back in the Sanctum, but alas, we have all failed..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+	Hudmessage(s:"I'd like to commend you for your fight back in the Sanctum, but alas, we all have failed..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
 	Delay(6*35);
 
 	Hudmessage(s:"But the Elf is close, I can sense her power! We still have a chance to recover the Disk!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
@@ -487,6 +517,10 @@ Script 23 (void)
 
 	SetActorProperty(0, APROP_SPEED, 1.0);
 	SetActorProperty(0, APROP_FRICTION, 1.0);
+
+	Delay(70);
+	SetFont("SMALLFONT");
+	Hudmessage(s:"Tip: Remember that you can ask friendlies to follow you/hold position with the Use key \c[White](DEFAULT: E)\c-."; HUDMSG_PLAIN | HUDMSG_LOG, 10, CR_GOLD, 1.5, 0.12, 15.0);
 }
 
 //Chatter Outskirts
@@ -566,7 +600,7 @@ Script 58 (void)
   If(CheckProximity(0, "IDLancer", 800.0, 1) || CheckProximity(0, "IDLancerGuarding", 800.0, 1))
     {
     SetLineSpecial(297, 0, 0, 0, 0, 0, 0);
-	Hudmessage(s:"Crystal Curator:    These ruins must date from when humans still worshiped the Elemental Gods. Before the schism."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
+	Hudmessage(s:"Crystal Curator:    These ruins must date from when humans still worshiped the Elemental Gods. Before the Schism."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
     Delay(6*35);
 
 	If(CheckProximity(0, "IDLancer", 480.0, 1) || CheckProximity(0, "IDLancerGuarding", 480.0, 1))
@@ -596,7 +630,7 @@ Script 60 (void)
 
 Script 61 (void)
 {
-  If(CheckProximity(0, "IDLancer", 240.0, 1) || CheckProximity(0, "IDLancerGuarding", 240.0, 1))
+  If(CheckProximity(0, "IDLancer", 256.0, 1) || CheckProximity(0, "IDLancerGuarding", 256.0, 1))
     {
 	SetLineSpecial(299, 0, 0, 0, 0, 0, 0);
 	Hudmessage(s:"Crystal Curator:    An impressive library I must say. The Cult scribes must have been hard at work."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
@@ -605,7 +639,7 @@ Script 61 (void)
 
 Script 62 (void)
 {
-  If(CheckProximity(0, "IDLancer", 240.0, 1) || CheckProximity(0, "IDLancerGuarding", 240.0, 1))
+  If(CheckProximity(0, "IDLancer", 256.0, 1) || CheckProximity(0, "IDLancerGuarding", 256.0, 1))
     {
 	SetLineSpecial(300, 0, 0, 0, 0, 0, 0);
 	Hudmessage(s:"Crystal Curator:    What a lively fireplace... ready up, warrior, this place is not deserted at all."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 5.0, 0.2, 0.5);
@@ -620,6 +654,19 @@ Script 74 (void)
 	Hudmessage(s:"Crystal Curator:    I may not age, but I'm not getting younger either..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 4.5, 0.2, 0.5);
     Delay(5*35);
 	Hudmessage(s:"...do I really need to follow you up there? If you find me a good position, I could stay and watch your back."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 6.0, 0.2, 0.5);
+  }
+}
+Script 76 (void)
+{
+  If(CheckProximity(0, "IDLancer", 512.0, 1) || CheckProximity(0, "IDLancerGuarding", 512.0, 1))
+  {
+    SetLineSpecial(348, 0, 0, 0, 0, 0, 0);
+	If(GetActorProperty(349, APROP_Health) > 0)
+	{
+		SetActorState(349, "Melee", true);
+	}
+	Delay(12);
+	Hudmessage(s:"Crystal Curator:    Urgh... mind your step."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 2.5, 0.2, 0.5);
   }
 }
 //Chatter Town Phase 2
@@ -740,6 +787,22 @@ Script 45 (void)
 		SpawnSpotForced("InventoryScrollAirWizardsEye", 285, 0, 0);
 		SpawnSpotForced("NatureDirtPile", 286, 0, 0);
 		SpawnSpotForced("DustCloud", 286, 0, 0);
+		Delay(8);
+		If(CheckInventory("InventoryDampNote") > 0)
+		{
+			Delay(8);
+			TakeInventory("InventoryDampNote", 1);
+			ACS_NamedExecute("CloseJournal", 0, 0, 0, 0);
+			SpawnSpotForced("IDScrollA", 350, 0, 0);
+			PlaySound(350, "Inventory/Paper", CHAN_AUTO);
+			SetLineSpecial(351, ACS_Execute, 78, 0, 0, 0, 0);
+			SetLineSpecial(352, ACS_Execute, 79, 0, 0, 0, 0);
+	  }
+	  Delay(105);
+	  If(CheckProximity(0, "IDLancer", 640.0, 1) || CheckProximity(0, "IDLancerGuarding", 640.0, 1))
+      {
+	    Hudmessage(s:"Crystal Curator:    Wizard's Eye... I can see why a dissident would want to hide such a spell scroll."; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_CYAN, 1.5, 0.86, 6.0, 0.2, 0.5);
+      }
 	}
 	//else
 	//{
@@ -1212,6 +1275,14 @@ Script 34 (void)
 	SpawnSpot("Hellblaze", 333, 0, 192);
 	NoiseAlert(0, 0);
 
+	SpawnSpotForced("PitLord", 329, 669, 64);
+	SpawnSpotForced("HedonTeleportFogDemon", 329, 0, 0);
+	PlaySound(329, "misc/teleport", CHAN_AUTO);
+	SpawnSpotForced("Cerberus", 328, 669, 128);
+	SpawnSpotForced("HedonTeleportFogDemon", 328, 0, 0);
+	PlaySound(328, "misc/teleport", CHAN_AUTO);
+	SetActorFlag(669, "AMBUSH", 1);
+
 	SetActorState(231, "Special", 0);
 	Thing_Remove(239);
 	Delay(105);
@@ -1225,9 +1296,6 @@ Script 34 (void)
 
 	SpawnSpotForced("ShadowAbhaothStanding", 282, 666, 0);
 
-	SpawnSpot("PitLord", 329, 669, 192);
-	SpawnSpot("Cerberus", 328, 669, 128);
-	SetActorFlag(669, "AMBUSH", 1);
 
 	/*
 	If(GetSectorFloorZ(251, 0, 0) < 673.0)
@@ -1310,6 +1378,7 @@ Script 44 (void)
 
 	TakeInventory("InventoryManaPotion", 1);
 	TakeInventory("InventoryEmptyPotionBottle", 1);
+	TakeInventory("InventoryDampNote", 1);
 
 	ACS_NamedExecuteWithResult("FriendlyCounter");
     SetPlayerProperty(0, 0, PROP_TOTALLYFROZEN);
@@ -1459,26 +1528,26 @@ Script 46 (void)
     HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 50.0);
 
 	SetFont("SMALLFONT");
-	Hudmessage(s:"(You use the dictionary to translate the ancient human dialect contained within the moldy parchment)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.58, 50.0);
-    Hudmessage(s:"I retreated from the town, for I could not bear what they had me do. I shall wait for my end here and    "; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.62, 50.0);
-	Hudmessage(s:"repent... but you still have a chance. I have buried something that will show you the way. May the great"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.64, 50.0);
-    Hudmessage(s:"wisdom of Air descend upon you and His breath carry you from this decaying place. Remember His place..."; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.66, 50.0);
-    Hudmessage(s:"(A diagram is scribbled at the bottom)"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.70, 50.0);
-    Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 6, CR_UNTRANSLATED, 1.5, 0.74, 50.0);
-    Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 7, CR_UNTRANSLATED, 1.5, 0.82, 50.0);
-    Hudmessage(s:"                O   xO            O"; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.90, 50.0);
+	Hudmessage(s:"(You use the dictionary to translate the ancient human dialect contained within the moldy parchment)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.82, 50.0);
+    Hudmessage(s:"I retreated from the town, for I could not bear what they had me do. I shall wait for my end here and    "; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.86, 50.0);
+	Hudmessage(s:"repent... but you still have a chance. I have buried something that will show you the way. May the great"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.88, 50.0);
+    Hudmessage(s:"wisdom of Air descend upon you and His breath carry you from this decaying place. Remember His place..."; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.90, 50.0);
+    //Hudmessage(s:"(A diagram is scribbled at the bottom)"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.70, 50.0);
+    //Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 6, CR_UNTRANSLATED, 1.5, 0.74, 50.0);
+    //Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 7, CR_UNTRANSLATED, 1.5, 0.82, 50.0);
+    //Hudmessage(s:"                O   xO            O"; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.90, 50.0);
 	}
 	else
 	{
     SetFont ("OLAYTBOT");
-    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 15.0);
+    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 5.0);
 
 	SetFont("SMALLFONT");
-    Hudmessage(s:"(A moldy parchment rests on the cave floor. It's covered in ancient symbols that you can't quite understand)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.66, 15.0);
-	Hudmessage(s:"(You do, however, figure out a diagram scribbled at the bottom)"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.70, 15.0);
-    Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.74, 15.0);
-    Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.82, 15.0);
-    Hudmessage(s:"                O   xO            O"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 15.0);
+    Hudmessage(s:"(A moldy parchment rests on the cave floor. It's covered in ancient symbols that you can't quite understand)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.90, 5.0);
+	//Hudmessage(s:"(You do, however, figure out a diagram scribbled at the bottom)"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.70, 15.0);
+    //Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.74, 15.0);
+    //Hudmessage(s:"O            O      O            O"; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.82, 15.0);
+    //Hudmessage(s:"                O   xO            O"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 15.0);
 	}
 }
 
@@ -1653,7 +1722,7 @@ Script 75 (void)
     HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 16.0);
 
 	SetFont("SMALLFONT");
-	Hudmessage(s:"(A plaque has been crudely bolted into the stone, covering the basin's ancient inscription)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.84, 16.0);
+	Hudmessage(s:"(A plaque has been crudely bolted into the stone, covering the basin's original inscription)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.84, 16.0);
 
 	Hudmessage(s:"Rest easy, weary traveller, but drink not from this fountain"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.88, 16.0);
     Hudmessage(s:"For it only nourishes those who walk the path of the Initiate"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.90, 16.0);
@@ -1787,6 +1856,33 @@ script 1012 (void)
     Hudmessage(s:""; HUDMSG_PLAIN | HUDMSG_LOG, 30, CR_UNTRANSLATED, 1.5, 0.01, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN | HUDMSG_LOG, 40, CR_UNTRANSLATED, 1.5, 0.01, 0.1);
 	}
+}
+
+//DRAWING
+Script "OpenDrawing3" (void)
+{
+	SetFont ("OLAYTDRC");
+	HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+}
+
+Script "CloseJournal" (void)
+{
+	Setfont("SMALLFONT");
+	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+}
+
+Script 78 (void)
+{
+	SetFont ("OLAYTDRC");
+	HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+	PlaySound(0, "Inventory/Paper", CHAN_AUTO);
+}
+
+Script 79 (void)
+{
+	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+	//PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
+	Setfont("SMALLFONT");
 }
 
 //GAMMA CALIBRATION

@@ -27,11 +27,11 @@ Blue Baron:    Will you reach the other side? Will you lose your heart?
 Blue Baron:    The spectacle culminates here. But alas, the Baron has long left his seat. 
 Blue Baron:    Make haste now... the last ship is departing. 
 Crystal Curator:    I can sense Nithriel's aura fading! She and the Baron must have fled to sea! 
-Earth Mother:    I can sense the Baron's foul presence at sea. Let's take that ship and pursue him! 
-Bear Warrior:    Look! There's only one ship left, the Baron and his minions must have fled at sea! 
-Witch:    Looks like we're too late. Perhaps we can use that ship to chase the Baron at sea? 
-Reaver:    The Baron's fleet isn't here... he must have fled at sea. Let's grab that boat and chase him! 
-Fixer:    Uh-oh, I think the Baron's gone. We could use that ship to chase after him at sea... 
+Earth Mother:    I can sense the Baron's presence at sea! But we must wait for our sisters to catch up! 
+Bear Warrior:    Looks like the Baron has fled! Gah, we have to wait for Grund and the others now... 
+Witch:    Looks like we're too late. We might as well wait for our sisters to catch up, hm? 
+Reaver:    The Baron's fleet isn't here... he must've fled at sea. Let's wait for our sisters. 
+Fixer:    Uh-oh, I think the Baron's gone. We better stay put here and wait for our sisters... 
 Reaver:    Over here, sergeant! 
 Reaver:    Workshop Boss said you're the one who got the dark iron to fix our guns. We're ready to assist you! 
 Reaver:    Workshop Boss said you're the one who got the dark iron parts to fix my gun. I'm ready to assist you. 

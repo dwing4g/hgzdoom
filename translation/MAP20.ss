@@ -1,7 +1,7 @@
 #include "zcommon.acs"
 
 //Gold - 200 + 70s
-//TIDs - 650, 651, 652, 653... 689... 800... 802
+//TIDs - 650, 651, 652, 653... 689... 800... 803
 
 //LEVEL START
 Script 1 ENTER
@@ -269,12 +269,13 @@ Script 43 (void)
 Script 9 ENTER
 {
 	SectorDamage(90, 1000, "Crush", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
+	SectorDamage(803, 1000, "Crush", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
 	SectorDamage(103, 6, "Fire", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
 	SectorDamage(159, 3, "Fire", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
 	SectorDamage(163, 3, "Fire", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
 	SectorDamage(167, 3, "Fire", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
 	SectorDamage(171, 3, "Fire", "", DAMAGE_PLAYERS | DAMAGE_NONPLAYERS | DAMAGE_NO_ARMOR);
-	Delay(35);
+	Delay(16);
 	Restart;
 }
 
@@ -493,17 +494,23 @@ Script 16 (void)
 //New Crypt Unholy Elevator
 Script 8 (void)
 {
-	Floor_MoveToValue(85, 12, 505, 1);
-	Ceiling_MoveToValue(85, 12, 489, 1);
-	Floor_MoveToValue(86, 12, 501, 1);
-	Ceiling_MoveToValue(86, 12, 493, 1);
+	Floor_MoveToValue(85, 12, 485, 1);
+	Ceiling_MoveToValue(85, 12, 469, 1);
+	Floor_MoveToValue(90, 12, 486, 1);
+	Ceiling_MoveToValue(90, 12, 485, 1);
+	Floor_MoveToValue(86, 12, 481, 1);
+	Ceiling_MoveToValue(86, 12, 473, 1);
+	TagWait(90);
 	TagWait(85);
 	Delay(70);
 	Floor_MoveToValue(85, 12, 125, 1);
 	Ceiling_MoveToValue(85,12, 109, 1);
+	Ceiling_MoveToValue(90,12, 125, 1);
+	Floor_MoveToValue(90, 12, 126, 1);
 	Floor_MoveToValue(86, 12, 121, 1);
 	Ceiling_MoveToValue(86, 12, 113, 1);
 	TagWait(85);
+	TagWait(90);
 	Delay(70);
 	Restart;
 }
@@ -1048,7 +1055,7 @@ Script 102 (void)
 	  If(spec102 % 3 == 1 && spec102b > 0)
 	  {
 	  PlaySound(0, "Primarch/BlueB", CHAN_AUTO);
-	  Hudmessage(s:"Grimy Primarch:    ...the grime...mana...I need mana...bring it to me in the chalice..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_LIGHTBLUE, 1.5, 0.86, 3.5, 1.2, 2.5);
+	  Hudmessage(s:"Grimy Primarch:    ...the grime...mana...I need mana...bring it to me in the Chalice..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_LIGHTBLUE, 1.5, 0.86, 3.5, 1.2, 2.5);
 	  spec102 += 1;
 	  Delay(2*35);
 	  }
@@ -3617,7 +3624,7 @@ Script 78 (void)
 	    }
 		else
 		{
-		  Print(s:"There are no more anointed phylacteries to pour this potion into.");
+		  Print(s:"There is no Anointed Phylactery to pour this potion into.");
 	      PlaySound(0, "Character/ZanSigh", CHAN_AUTO);
 	      Delay(35);
 	      PlaySound(604, "Gore/BloodJut", CHAN_AUTO);
@@ -4456,7 +4463,15 @@ Script 115 (void)
 		If(CheckInventory("ScriptHasBetrayedPitLord") == 1)
 		{
 		  PlaySound(0, "Primarch/RedA", CHAN_AUTO);
-	      Hudmessage(s:"Erudin:    Betrayed a Pit Lord? What are you on about? I need proof! Show me his useless head!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 6.5, 0.2, 1.5);
+	      Hudmessage(s:"Erudin:    You betrayed a pit lord? I want proof of this treacherous deed! Show me his useless head!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 6.5, 0.2, 1.5);
+	      dial115 += 1;
+	      Delay(2*35);
+		}
+		else
+		If(CheckInventory("QuestMap18HelpWoundedBearWarrior") == 1 && CheckInventory("QuestMap18HelpPitLordEberon") == 1)
+		{
+		  PlaySound(0, "Primarch/RedA", CHAN_AUTO);
+	      Hudmessage(s:"Erudin:    You tricked a pit lord into sending his army to certain death? Bring me his useless head..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 6.5, 0.2, 1.5);
 	      dial115 += 1;
 	      Delay(2*35);
 		}
@@ -4464,7 +4479,7 @@ Script 115 (void)
 		If(CheckInventory("ScriptHasKilledGrundsWarg") > 0)
 		{
 		  PlaySound(0, "Primarch/RedA", CHAN_AUTO);
-	      Hudmessage(s:"Erudin:    Poisoning your Warlord's warg is awfully stylish, but it's hardly the bloody betrayal that I seek."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 7.5, 0.2, 0.5);
+	      Hudmessage(s:"Erudin:    Poisoning your warlord's warg is awfully cruel, but it's hardly the bloody betrayal that I seek."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 7.5, 0.2, 0.5);
 	      dial115 += 1;
 	      Delay(2*35);
 		}
@@ -4521,7 +4536,7 @@ Script 115 (void)
 	  If(dial115 % 6 == 5)
 	  {
 	  PlaySound(0, "Primarch/RedB", CHAN_AUTO);
-	  Hudmessage(s:"Erudin:    Nobody can predict the exact course of a war. Sometimes, it's better to switch sides."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 7.5, 0.2, 0.5);
+	  Hudmessage(s:"Erudin:    When you're powerless you owe everyone a favor. I asked you for a betrayal... and make it bloody."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 7.5, 0.2, 0.5);
 	  dial115 += 1;
 	  Delay(2*35);
 	  }
@@ -4555,7 +4570,7 @@ Script 116 (void)
 			Delay(24);
 
 			PlaySound(0, "Primarch/RedB", CHAN_AUTO);
-	        Hudmessage(s:"Erudin:    Oh, my, two betrayals? Halfblood, your eagerness thrills me!..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 3.5, 0.2, 1.5);
+	        Hudmessage(s:"Erudin:    Oh, my, two betrayals? Truly nobody can stay in your way to success, Halfblood!..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.86, 3.5, 0.2, 1.5);
 	        Delay(5*35);
 		}
 		else

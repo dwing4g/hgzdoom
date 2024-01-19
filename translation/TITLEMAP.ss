@@ -52,7 +52,7 @@ Script 9 (void) //title pic change
 script 3 (void)
 {
 	SetFont("CONFONT");
-    HudMessage(s:" ver. 2.4.0"; HUDMSG_PLAIN, 10, CR_DARKGRAY, 0.00, 1.00, 9999.00);
+    HudMessage(s:" ver. 2.4.2"; HUDMSG_PLAIN, 10, CR_DARKGRAY, 0.00, 1.00, 9999.00);
 }
 
 Script 6 (void)

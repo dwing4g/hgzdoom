@@ -225,7 +225,7 @@ Script 23 (void)
 
 		If(CheckProximity(180, "IDEarthMother", 320.0, 1) || CheckProximity(180, "IDEarthMotherGuarding", 320.0, 1))
 	    {
-	    Hudmessage(s:"Earth Mother:    Good to see you've made it, high priest. Are any of your men in need healing?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 5.5, 0.2, 0.5);
+	    Hudmessage(s:"Earth Mother:    Good to see you've made it, high priest. Are any of your dwarves in need of healing?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 5.5, 0.2, 0.5);
 	    Delay(5*35);
 		PlaySound(180, "Jaromir/Heh", CHAN_AUTO);
         Hudmessage(s:"High Priest Jaromir:    Nay, they'll be fine. Save your powers for whatever lies down there."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
@@ -240,7 +240,7 @@ Script 23 (void)
 	If(CheckInventory("ScriptHasTriggeredIceCaveAmbush") == 0)
 	{
 		PlaySound(180, "Jaromir/Heh", CHAN_AUTO);
-        Hudmessage(s:"High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my men..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+        Hudmessage(s:"High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my dwarves..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
 	    Delay(6*35);
 
 		If(CheckProximity(180, "IDEarthMother", 320.0, 1) || CheckProximity(180, "IDEarthMotherGuarding", 320.0, 1))
@@ -248,7 +248,7 @@ Script 23 (void)
 	    Hudmessage(s:"Earth Mother:    Priest Jaromir, you look battered! Let me take a look at your wounds..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 4.5, 0.2, 0.5);
 	    Delay(5*35);
 		PlaySound(180, "Jaromir/Hmm", CHAN_AUTO);
-        Hudmessage(s:"High Priest Jaromir:    I'll be fine, woman. Save your powers for later... something tells me you'll need them."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
+        Hudmessage(s:"High Priest Jaromir:    I'll be fine, lady. Save your powers for later... something tells me you'll need them."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
 		}
 		  else
 		  If(CheckProximity(180, "IDFixer", 320.0, 1) || CheckProximity(180, "IDFixerGuarding", 320.0, 1))
@@ -519,7 +519,7 @@ Script 26 (void)
 	If(dial26 % 4 == 2 && GetActorProperty(62, APROP_Health) > 0)
 	{
 	PlaySound(62, "Andrik/Grumble", CHAN_AUTO);
-    Hudmessage(s:"Dwarf Shieldguard:    Few cultists have scurried up into the upper part of town. They don't dare attack us."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
+    Hudmessage(s:"Dwarf Shieldguard:    A few cultists have scurried up into the upper part of town. They don't dare attack us."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
 	Dial26 += 1;
 	Delay(2*35);
 	}
@@ -1187,7 +1187,7 @@ Script 16 (void)
 	{
 	Thing_Remove(179);
 	SetLineSpecial(173, 0, 0, 0, 0, 0, 0);
-	SpawnSpotForced("Hellion", 174, 0, 64);
+	SpawnSpotForced("SniperHellion", 174, 0, 64);
 	SpawnSpotForced("HedonTeleportFogDemon", 174, 0, 0);
 	PlaySound(174, "misc/teleport", CHAN_AUTO);
 	SpawnSpotForced("PitLord", 175, 0, 64);
@@ -1638,7 +1638,7 @@ Script 8 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1654,7 +1654,7 @@ Script 9 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1670,7 +1670,7 @@ Script 10 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1687,7 +1687,7 @@ Script 7 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1703,7 +1703,7 @@ Script 11 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1726,7 +1726,7 @@ Script 13 (void)
 	}
 	else
 	{
-		Print(s:"The power line this door is connected seems to be down.");
+		Print(s:"The power line this door is connected to seems to be down.");
 	    Delay(35);
 	}
 }
@@ -1954,6 +1954,7 @@ Script 48 (void)
 
 
 //JOURNAL
+int JournalPage = 0;
 Script "OpenJournal" (void)
 {
 	SetFont ("OLAYTJOU");
@@ -1962,6 +1963,13 @@ Script "OpenJournal" (void)
 	SetFont("SMALLFONT");
 	Hudmessage(s:".oO   JOURNAL OF ZAN THE BONEBREAKER   Oo."; HUDMSG_PLAIN, 999, CR_BLACK, 1.5, 0.10, 9999.0);
 
+	If(CheckInventory("InventoryAncientCityMap") > 0)
+	{
+		GiveInventory("JournalBrowseExtraPages", 1);
+	}
+
+    If(JournalPage == 0)
+	{
 
 	//MAIN QUESTS
 	//Hudmessage(s:"Rot. 509 Day 248"; HUDMSG_PLAIN, 1000, CR_BLACK, 1.5, 0.14, 9999.0);
@@ -2145,6 +2153,63 @@ Script "OpenJournal" (void)
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1031, CR_BLACK, 1.5, 0.60, 9999.0);
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1033, CR_BLACK, 1.5, 0.62, 9999.0);
 	  }
+
+	  If(CheckInventory("InventoryAncientCityMap") > 0)
+	  {
+	      JournalPage += 1; //ready next page
+	  }
+	}
+
+	  else
+
+	  If(JournalPage == 1)
+	  {
+		SetFont("SMALLFONT");
+		Hudmessage(s:""; HUDMSG_PLAIN, 998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1000, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1001, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1002, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1003, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1004, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1005, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1006, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1007, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1008, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1009, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1010, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1011, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1012, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1013, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1014, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1015, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1016, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1017, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1018, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1019, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1020, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1021, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1022, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1023, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1024, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1025, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1026, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1027, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1028, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1029, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1030, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1031, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+
+		SetFont ("OLAYTJO0");
+        HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+		SetFont ("OLAYTDRE");
+		HudMessage (s:"a"; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+
+	  TakeInventory("JournalBrowseExtraPages", 1); //reset pages
+	  JournalPage = 0;
+	  }
 }
 
 Script "CloseJournal" (void)
@@ -2187,5 +2252,6 @@ Script "CloseJournal" (void)
 	Hudmessage(s:""; HUDMSG_PLAIN, 1032, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1033, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 
+	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }

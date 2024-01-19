@@ -7,8 +7,8 @@ I have summoned you all here to inform you that we have run short on both time a
 Minotaur Lord Murguth:    The Earth is calling us back. We march forth, and die with honour!
 Grand Earth Mother Breaza:    Indeed we shall. But we will not die in vain. We have to bring the Demons to their knees.
 Advisor:    Now we are a mouse, trying to bring down a mammoth. All we need is to find the right crack to slip through.
-Grand Earth Mother Breaza:    It is the only path left to take. Give the news to your men, and tell them to prepare.
-High Priest Jaromir:    We've been prepared for ages, woman. All we need is for the horns to call for battle.
+Grand Earth Mother Breaza:    It is the only path left to take. Give the news to your warriors, and tell them to prepare.
+High Priest Jaromir:    We've been prepared for ages, lady. All we need is for the horns to call for battle.
 Grand Earth Mother Breaza:    Well then, this is it... do you have any questions?
 Eraanthe:    If I may... now that your precious smurf has returned, I assume our contract still holds?...
 Grand Earth Mother Breaza:    You will earn your vengeance, Queen of Wrath. Sooner than you may think.
@@ -31,6 +31,7 @@ Press Use to skip debriefing
 Grand E.M. Breaza:    Figure a way to get into the mine north of here and find our sappers. We're counting on you. 
 This wall looks like it could be broken with a proper tool. 
 You'll need a proper tool to mine this ore vein. 
+The pedestal's locking mechanism prevents the ruby from being removed. 
 The pedestal is empty. 
 Fixer:    Look out! 
 Fixer:    D-demons!!! 
@@ -59,7 +60,7 @@ Suspicious Armor:    *Squeaks*
 Reaver:    Psst! Hey, you!
 Fixer:    Sisters! We're here to save you. 
 Reaver:    The levers are at the end of the corridor, set us free! 
-Reaver:    Zan! Thank the Earth for sending you! We got captured by this powerful warlock. She surpressed our minds, we couldn't even fire at her! She left her right hand in charge here...   calls herself the Spirit Mistress. 
+Reaver:    Zan! Thank the Earth for sending you! We got captured by this powerful warlock. She suppressed our minds, we couldn't even fire at her! She left her right hand in charge here...   calls herself the Spirit Mistress. 
 
 Reaver:    The Spirit Mistress has the key to the prison. She likes to spend her time in the nearby patio. 
 Reaver:    We can talk later, you have to hurry up and set us free! 
@@ -117,6 +118,7 @@ Rites of Initiation
 
 For it is him who willingly offers his fleshly eye on the altar, and him who will receive the Godly sight in turn. 
 (The scroll mentions various strategic positions and interests of the Demons. A code is written at the end - 2367) 
+Advisor:    Interesting plan you found... we had no clue that the cultists were infighting over the mansion. 
 (The scroll bears the intricate seal of a highly ranked Pit Lord)
 My faithful worshipers, I assure you that we will have a fruitful collaboration.     Your sacrifice and devotion has earned the good favor of the Demons, and we will not leave it unpaid. The ice cave ambush is prepared, as Mistress
 
@@ -180,7 +182,7 @@ Witch Chieftain Zura:    Regardless, you are to investigate the place, warrior. 
 Grand E. M. Breaza:    Jaromir left our camp an hour ago. Head south-east of here and meet up with him.
 He will aid you in finding these mysterious ruins. Please be careful... and watch your back. Dismissed.
 Oh, and before I forget... try not to hamper our Brewer next time. It cost our Earth Mothers a lot of mana... 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
+.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
 > Not much going on, I should find my room and get rest 
 > A Fixer told me her squad vanished - should investigate 
 > Found the captives, need to free them and report to Breaza 
@@ -218,8 +220,8 @@ By Air's good grace! The demons have an entire factory inside the abandoned town
 Advisor:    Using no less than our own technology. They've picked up on crystals quite quickly it seems.
 Crystal Curator:    The cultists have most likely gotten their hands on a lot of our knowledge in Valc. 
 Grand E. M. Breaza:    We should have never left our home so vulnerable... oh, how foolish we have been...
-Jaromir:    They stole a lot from us too, woman, don't fret. They've barely done anything with our technology.
-Murguth:    I wouldn't call the hell powder artillery that mowed our men down barely anything, dwarf.
+Jaromir:    They stole a lot from us too, Breaza, don't fret. They've barely done anything with our technology.
+Murguth:    I wouldn't call the hell powder artillery that mowed our warriors down barely anything, dwarf.
 Jaromir:    Both our ancestors have relinquished them something, brother. But still, in this time we must look forth.
 Advisor:    Jaromir is right, we've no time for remorse now. I'll send a team to inspect this infernal factory...
 Grand E. M. Breaza:    ...indeed. We might as well learn something ourselves. That's it, gentlemen. Dismissed. 
@@ -236,7 +238,7 @@ I will order the girls to secure the fortress and search it for any strategic in
 Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready. 
 Grand E.M. Breaza:    Yet another misfortune... find out what you can, but please be careful, Zan. I can't lose you. 
 Grand E.M. Breaza:    You've been through a lot... try getting more rest, perhaps it will help your memories return. 
-Grand E.M. Breaza:    This Nithriel woman has exploited our weakness... slithering inside Valc while we were away. 
+Grand E.M. Breaza:    This Nithriel lady has exploited our weakness... slithering inside Valc while we were away. 
 Grand E.M. Breaza:    The Sacred Disk's theft must have caused the lightning storm that plagues the Crystal Dome now. 
 Grand E.M. Breaza:    Without the Disk in place the crystals are fading... life in the underground will be forever scarred. 
 Grand E.M. Breaza:    Nithriel is insane! She has no idea what the artifact is capable of. We can't let her get away with it. 
@@ -378,9 +380,9 @@ Witch Chieftain Zura:    The slime corruption is not just a disease... a disease
 Witch Chieftain Zura:    I'm concerned with how easily Nithriel managed to turn my adjunct into her puppet. 
 Witch Chieftain Zura:    It's clear that the Elf needed someone with knowledge of crystal technology. One of us. 
 Witch Chieftain Zura:    The slime Golems are mere warnings of what this dark parasite is capable of creating. 
-Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can surpress it with the right potions. 
+Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can suppress it with the right potions. 
 Witch Chieftain Zura:    I'm not sure what Nithriel plans to do with the Disk. But I'm sure that we must stop her. 
-Warlord Grund:    Leave the pussycat alone, she's still recovering after the last session, heh heh... 
+Warlord Grund:    Leave the pussycat alone, she's still recovering after the last interrogation, heh heh... 
 Hellblaze:    *Growls* 
 Hellblaze:    *Growls angrily* 
 Hellblaze:    ...curse...Orc! 
@@ -465,20 +467,25 @@ Hectus:    Maybe I will get to see Valc again... I have faith in our warriors. E
 Hectus:    I haven't slept in a while but the war surrounding us doesn't wait. I will work for as long as it demands. 
 Hectus:    Well met, orc. Our supplies are running low, but if you bring in any iron, you can exchange it for ammo. 
 Hectus:    Here, pick 'em up.
-(You trade a lump of Iron Ore for two Spike Mags) 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with iron. 
+(You trade a lump of ore for two Spike Mags) 
+Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
+Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
 Hectus:    Here you go.
-(You trade a lump of Iron Ore for three Fragfire Cans) 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with iron. 
+(You trade a lump of ore for three Fragfire Cans) 
+Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
+Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
 Hectus:    Here, come grab 'em.
-(You trade a lump of Iron Ore for two Boltmags) 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with iron. 
+(You trade a lump of ore for two Boltmags) 
+Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
+Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
 Hectus:    Here, take them.
-(You trade a lump of Iron Ore for two Boxes of Acid Potions) 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with iron. 
+(You trade a lump of ore for two Boxes of Acid Potions) 
+Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
+Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
 Hectus:    Here, come pick it up.
-(You trade a lump of Iron Ore for a Box of Toxic Potions) 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with iron. 
+(You trade a lump of ore for a Box of Toxic Potions) 
+Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
+Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
 Shady Fixer:    Hey, what are you doing? Leave that alone! 
 Shady Fixer:    Nosy oaf! I hope you haven't touched any of my stuff! 
 Shady Fixer:    Psst. Hey you. 
@@ -511,7 +518,7 @@ Lady Ingrim:    So, you're leading the attack against the demons now? I'm afraid
 I'd give you a poison capsule, but you don't look like someone who would get captured. 
 Lady Ingrim:    Off to the icy region? Something to keep you warm, coming right up. 
 Lady Ingrim:    Going to the minotaur's town? Here... you need to stay well hydrated. And sober. 
-Lady Ingrim:    Since Jaromir is commanding our men, I had to find a way to make myself useful around here. 
+Lady Ingrim:    Since Jaromir is commanding our dwarves, I had to find a way to make myself useful around here. 
 Lady Ingrim:    I hail from the Brewer Guild. Before I became Queen, I used to be a renowned tavernkeep. 
 Lady Ingrim:    My family has successfully run multiple taverns, even long after our empire had collapsed. 
 Lady Ingrim:    Icepeak is a mere miniature of our past glory. We had great hopes of repopulating our lost towns... 
@@ -547,7 +554,7 @@ Earth Mother:    *Chanting*
 Dwarf Shieldguard:    Watch yer back out there, lass, we're sitting deep within enemy territory! 
 Dwarf Shieldguard:    If ya run into any trouble outside, rush back 'ere, I'll hold the gate open for ya. 
 Dwarf Shieldguard:    I wager there's still some goods hidden inside the pillaged houses nearby. 
-Dwarf Shieldguard:    Don't set off on a road longer than your quiver can last, my old man used to say. 
+Dwarf Shieldguard:    Don't set off on a road longer than your quiver can last, my pa used to say. 
 Dwarf Shieldguard:    Good hunting!
 Dwarf Shieldguard:    Watch yer back, lass!
 Dwarf Shieldguard:    Stone pave yer path!
@@ -561,7 +568,7 @@ Bear Warrior:    So Valc was swarmed by cultists after we left? Slithering basta
 Bear Warrior:    Tiati said you slayed a huge Pit Lord! If I ever return home I better see his skull at the tavern. 
 Bear Warrior:    So many sisters have fallen in battle... the Lancers and Warlords... how can we recover from this? 
 Bear Warrior:    Weren't we supposed to get a report from the forest squad today?
-Reaver:    I bet the rain has bogged them down... 
+Reaver:    I bet the dome rain has bogged them down... 
 Bear Warrior:    Scouts say the lightning storm is getting worse... what if the caves get flooded?
 Reaver:    If demons keep attacking we'll be dead long before that happens. 
 Bear Warrior:    Glad to have you here with us, Bonebreaker. Stay a while, warm yourself by the fire. 
@@ -586,7 +593,7 @@ Bear Warrior:    Demons have been raiding us regularly. They are testing our def
 Bear Warrior:    The gates to the demon port town are defended by powerful flame hurling towers. Stay away! 
 Bear Warrior:    I don't know how much longer we can hold. What if they just send a large army to crush us? 
 Bear Warrior:    Sorry for throwing you in jail, Zan. Grund got us all worked up over your bullshit desertion. 
-Bear Warrior:    Now that the mansion is no longer a threat I got transfered to the defense line here. 
+Bear Warrior:    Now that the mansion is no longer a threat I got transferred to the defense line here. 
 Bear Warrior:    I'd love to hear the story of how you've returned, but I need to stay focused. 
 Bear Warrior:    Remind me to buy you one large pint if we make it out of this mess. Or a dozen. My treat. 
 Bear Warrior:    We've searched the fortress and found some pretty good intel. This Nithriel chick is up to something. 

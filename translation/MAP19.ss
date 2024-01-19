@@ -4498,7 +4498,7 @@ Script 23 (void)
     HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 180.0);
 
 	SetFont("SMALLFONT");
-	Hudmessage(s:"(The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.52, 180.0);
+	Hudmessage(s:"(The alluringly perfumed journal appears to belong to Yzbeth. None of the entries seem to be dated)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.52, 180.0);
 
 	Hudmessage(s:"My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.56, 180.0);
 	Hudmessage(s:"brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.58, 180.0);
@@ -4628,11 +4628,11 @@ Script 128 (void)
     //Hudmessage(s:"book thief!    Like the seed that braves the dry stone on which it has landed upon, my gardner has been spreading the"; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.88, 180.0);
 	//Hudmessage(s:"roots of his mind beyond his limitations.   He is ready to sacrifice everything to perfect his art.   My heart is pounding!"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 180.0);
 
-    Hudmessage(s:"!gnidnuop si traeh yM   .tra sih tcefrep ot gnihtyreve ecifircas ot ydaer si eH.   .snoitatimil sih dnoyeb dnim sih fo stoor"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.84, 180.0);
-    Hudmessage(s:"eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.86, 180.0);
-    Hudmessage(s:"eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.86, 180.0);
-    Hudmessage(s:"railucep tsom a gnirimda dna swodahs eht morf gnimool ,ot desu I naht netfo erom yrarbil eht gnitisiv neeb ev'I  .em"; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.88, 180.0);
-	Hudmessage(s:"rof neve ,lufemahs ot raf era yeht rof - sdrow eseht dnatsrednu ot uoy wolla t'nac I tub ,lanruoj raed ,em evigroF"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 180.0);
+    Hudmessage(s:"!gnidnuop si traeh yM   .tra sih tcefrep ot gnihtyreve ecifircas ot ydaer si eH.   .snoitatimil sih dnoyeb dnim sih fo stoor  "; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.84, 180.0);
+    Hudmessage(s:"eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob  "; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.86, 180.0);
+    Hudmessage(s:"eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob  "; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.86, 180.0);
+    Hudmessage(s:"railucep tsom a gnirimda dna swodahs eht morf gnimool ,ot desu I naht netfo erom yrarbil eht gnitisiv neeb ev'I  .em  "; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.88, 180.0);
+	Hudmessage(s:"rof neve ,lufemahs oot raf era yeht rof - sdrow eseht dnatsrednu ot uoy wolla t'nac I tub ,lanruoj raed ,em evigroF"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 180.0);
 }
 
 Script 129 (void)

@@ -1,7 +1,7 @@
 #include "zcommon.acs"
 
 //Gold - 310 + 180s + 90csr
-//TIDs - 599...628, 629, 630...819
+//TIDs - 599...628, 629, 630...832
 
 //LEVEL START
 
@@ -428,7 +428,7 @@ Script 86 (void)
 	Delay(4);
 	ChangeLevel("Map19", 7, CHANGELEVEL_NOINTERMISSION, -1);
 }
-//Gardner Exit
+//Gardener Exit
 Script 85 (void)
 {
 	ACS_NamedExecuteWithResult("KeyCheck");
@@ -1207,10 +1207,10 @@ Script 753 (void)
 	If(CheckInventory("InventoryPrimarchAvatar") > 0)
 	{
 	  PlaySound(0, "Primarch/YellowA", CHAN_AUTO);
-	  Hudmessage(s:"Elzriel:    Hi there Gaun... bloated full of shit as always, aren't you?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GOLD, 1.5, 0.86, 5.5, 0.2, 0.5);
+	  Hudmessage(s:"Elzriel:    Hi there Gaun... bloated and full of shit as always, aren't you?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GOLD, 1.5, 0.86, 5.5, 0.2, 0.5);
 	  Delay(6*35);
 	  PlaySound(0, "Primarch/GreenA", CHAN_AUTO);
-      Hudmessage(s:"Gaun:    Silence! That's no way to addrrss the greatest Primarch there is!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.90, 5.5, 0.2, 0.5);
+      Hudmessage(s:"Gaun:    Silence! That's no way to address the greatest Primarch there is!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.90, 5.5, 0.2, 0.5);
 	  Delay(6*35);
 	}
 	PlaySound(0, "Primarch/GreenB", CHAN_AUTO);
@@ -2203,6 +2203,7 @@ Script 90 (void)
 	SpawnProjectile(454, "FireBolt", 0, 0, -300, 0, 0);
 	Radius_Quake(4, 70, 0, 30, 454);
 	Delay(12);
+	FloorAndCeiling_LowerByValue(445, 999, 256); //failsafe
 	SetLineTexture(459, SIDE_FRONT, TEXTURE_MIDDLE, "");
 	SetLineTexture(459, SIDE_BACK, TEXTURE_MIDDLE, "");
 	SpawnSpotForced("ExplosionHuge", 455, 0, 0);
@@ -2519,8 +2520,24 @@ Script 133 (void)
 	}
 }
 int dial134 = 10;
+int dial134b = 0;
 Script 134 (void)
 {
+	If(ChecKInventory("InventoryWinchWheel") > 0 && dial134b == 0)
+	{
+	  PlaySound(332, "PitLord/Pain", CHAN_AUTO);
+      Hudmessage(s:"Lord Eberon:    You got the wheel?! The gate mechanism is by the elevator to the salt mine, hurry up!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.86, 7.5, 0.2, 0.5);
+	  dial134b += 1;
+	  Delay(2*35);
+	}
+	else
+	If(ChecKInventory("InventoryWinchWheel") > 0 && dial134b > 0)
+	{
+	  PlaySound(332, "PitLord/Sight", CHAN_AUTO);
+      Hudmessage(s:"Lord Eberon:    Are you deaf?! I said the mechanism is by the elevator to the salt mine!!! Move it!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.86, 7.5, 0.2, 0.5);
+	  Delay(8*35);
+	}
+	else
 	If(dial134 % 10 == 0)
 	{
 	  PlaySound(332, "PitLord/Pain", CHAN_AUTO);
@@ -3293,29 +3310,53 @@ Script 2 (void)
 //Forest Cabin Ambush
 Script 9 (void)
 {
-	If(IsTIDUsed(50))
+	If(IsTIDUsed(50)) //51, 52, 53, 54, 55, 820, 821, 822 | 823, 824, 825, 826, 827 | 828, 829, 830, 831, 832
 	{
 	Thing_Remove(50);
-	Radius_Quake(2, 70, 0, 1, 0);
-	Delay(35);
+	Radius_Quake(2, 105, 0, 1, 0);
+	Delay(16);
+
 	SpawnSpotForced("PitLord", 51, 628, 0);
 	SpawnSpotForced("HedonTeleportFogDemon", 51, 0, 0);
 	PlaySound(51, "misc/teleport", CHAN_AUTO);
-	SpawnSpotForced("Cerberus", 52, 628, 0);
-	SpawnSpotForced("HedonTeleportFogDemon", 52, 0, 0);
-	PlaySound(52, "misc/teleport", CHAN_AUTO);
-	SpawnSpotForced("ForgeElemental", 53, 628, 192);
-	SpawnSpotForced("HedonTeleportFogDemon", 53, 0, 0);
-	PlaySound(53, "misc/teleport", CHAN_AUTO);
-	SpawnSpotForced("Hellion", 54, 628, 0);
+
+	SpawnSpotForced("SniperHellion", 54, 823, 0);
 	SpawnSpotForced("HedonTeleportFogDemon", 54, 0, 0);
 	PlaySound(54, "misc/teleport", CHAN_AUTO);
-	SpawnSpotForced("SniperHellion", 55, 628, 0);
+
+	SpawnSpotForced("SniperHellion", 55, 824, 0);
 	SpawnSpotForced("HedonTeleportFogDemon", 55, 0, 0);
 	PlaySound(55, "misc/teleport", CHAN_AUTO);
-	SetActorFlag(628, "NOINFIGHTING", 1);
-	NoiseAlert(0, 0);
-	Delay(35);
+
+	SpawnSpotForced("SniperHellion", 820, 825, 0);
+	SpawnSpotForced("HedonTeleportFogDemon", 820, 0, 0);
+	PlaySound(820, "misc/teleport", CHAN_AUTO);
+
+	SpawnSpotForced("SniperHellion", 821, 826, 0);
+	SpawnSpotForced("HedonTeleportFogDemon", 821, 0, 0);
+	PlaySound(821, "misc/teleport", CHAN_AUTO);
+
+	SpawnSpotForced("SniperHellion", 822, 827, 0);
+	SpawnSpotForced("HedonTeleportFogDemon", 822, 0, 0);
+	PlaySound(822, "misc/teleport", CHAN_AUTO);
+
+	Delay(4);
+
+    SetActorFlag(628, "NOINFIGHTING", 1);
+	SetActorFlag(823, "NOINFIGHTING", 1);
+	SetActorFlag(824, "NOINFIGHTING", 1);
+	SetActorFlag(825, "NOINFIGHTING", 1);
+	SetActorFlag(826, "NOINFIGHTING", 1);
+	SetActorFlag(827, "NOINFIGHTING", 1);
+	//NoiseAlert(0, 0);
+	Thing_Hate(823, 828, 4);
+	Thing_Hate(824, 829, 4);
+	Thing_Hate(825, 830, 4);
+	Thing_Hate(826, 831, 4);
+	Thing_Hate(827, 832, 4);
+
+	Delay(85);
+
 	Radius_Quake(10, 50, 0, 1, 0);
 	Line_SetBlocking(25, 0, BLOCKF_EVERYTHING);
 	SetLineTexture(25, SIDE_FRONT, TEXTURE_MIDDLE, "Window11");
@@ -3326,6 +3367,25 @@ Script 9 (void)
 	PlaySound(58, "Weapons/PotionDie", CHAN_AUTO);
 	SpawnSpotForced("DustCloud", 58, 0, 0);
 	SpawnSpotForced("JunkBrokenGlassB", 58, 0, 0);
+
+	Delay(8*35);
+
+	SpawnSpotForced("Cerberus", 52, 628, 0);
+	SpawnSpotForced("HedonTeleportFogDemon", 52, 0, 0);
+	PlaySound(52, "misc/teleport", CHAN_AUTO);
+	SpawnSpotForced("ForgeElemental", 53, 628, 192);
+	SpawnSpotForced("HedonTeleportFogDemon", 53, 0, 0);
+	PlaySound(53, "misc/teleport", CHAN_AUTO);
+	SetActorFlag(628, "NOINFIGHTING", 1);
+	NoiseAlert(0, 0);
+
+	Delay(8*35);
+
+	Thing_Remove(828);
+	Thing_Remove(829);
+	Thing_Remove(830);
+	Thing_Remove(831);
+	Thing_Remove(832);
 	}
 }
 
@@ -4213,7 +4273,7 @@ Script 112 (void)
 	SetPlayerProperty(1, 0, PROP_TOTALLYFROZEN);
 
 	PlaySound(629, "Murguth/Unf", CHAN_AUTO);
-    Hudmessage(s:"Minotaur Lord Murguth:    You can't reach the Baron without the demon primarchs' taint. This book will tell you more..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.90, 5.5, 0.2, 2.5);
+    Hudmessage(s:"Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.90, 5.5, 0.2, 2.5);
     Delay(3*35);
 
     TakeInventory("QuestMap18Survive", 1);
@@ -4511,6 +4571,9 @@ Script 766 (void)
 	Delay(3);
 	SetActorProperty(766, APROP_Alpha, 0.4);
 	Delay(3);
+
+	SetWeapon("Fists");
+
 	SetActorProperty(766, APROP_Alpha, 0.5);
 	Delay(3);
 	SetActorProperty(766, APROP_Alpha, 0.6);
@@ -4545,7 +4608,7 @@ Script 766 (void)
 	FadeTo(0, 0, 0, 1.0, 3.0);
 	Delay(3*35);
 
-	SetWeapon("Fists");
+	//SetWeapon("Fists");
 
 	ACS_NamedExecuteWithResult("TakeWeapons");
 	SetPlayerProperty(1, 1, PROP_TOTALLYFROZEN);
@@ -9422,4 +9485,26 @@ Script 999 (void) //Level Start
 
 	//Bury the Dead
 	ACS_Execute(718, 0, 0, 0, 0);
+}
+
+
+
+//DEBUG
+Script 1337 (void)
+{
+	Delay(4);
+	ACS_Suspend(1, 0);
+	SetActorFlag(237, "INVISIBLE", 1);
+	SetActorFlag(222, "INVISIBLE", 1);
+	SetActorFlag(223, "INVISIBLE", 1);
+	SetActorFlag(224, "NOBLOCKMAP", 1);
+	FadeTo(0, 0, 0, 0.0, 0.0);
+	SetMugShotState("Normal");
+	SetPlayerProperty(1, 0, PROP_TOTALLYFROZEN);
+	ChangeCamera(0, 0, 1);
+	ACS_Execute(32, 0, 0, 0, 0);
+
+	Teleport_NoFog(1337, 0, 0);
+
+	GiveInventory("CopperKey", 1);
 }

@@ -855,7 +855,7 @@ Script 5 (void)
     HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 4.0);
 
 	SetFont("SMALLFONT");
-	Hudmessage(s:"(The parchment is scribbled with various alchemical formulas.)"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.90, 4.0);
+	Hudmessage(s:"(The parchment is scribbled with various alchemical formulas)"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.90, 4.0);
 }
 
 Script 6 (void)
@@ -1025,7 +1025,7 @@ Script 38 (void)
     HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 25.0);
 
 	SetFont("SMALLFONT");
-	Hudmessage(s:"(A tiny note lies on the table. It seems to have been written by a human.)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.84, 25.0);
+	Hudmessage(s:"(A tiny note lies on the table. It seems to have been written by a human)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.84, 25.0);
 	Hudmessage(s:"So you've found the last note.  This one should now point you towards the bag's location."; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.88, 25.0);
     Hudmessage(s:"The last clue is - ET.  Search around the basket and you'll find it eventually. Good luck."; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.90, 25.0);
     Hudmessage(s:""; HUDMSG_PLAIN, 4, CR_UNTRANSLATED, 1.5, 0.48, 0.1);

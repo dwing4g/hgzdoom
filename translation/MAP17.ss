@@ -15,6 +15,7 @@ Script 1 ENTER
 	SetActorFlag(614, "MISSILEMORE", 1);
 	SetActorFlag(614, "MISSILEEVENMORE", 1);
 	SetActorFlag(108, "NOINTERACTION", 1);
+	SetActorFlag(108, "COUNTITEM", 0);
 	SetActorFlag(182, "FLOATBOB", 1);
 	SetActorFlag(182, "NOBLOCKMAP", 1);
 	SetActorFlag(11, "NOBLOCKMAP", 1);

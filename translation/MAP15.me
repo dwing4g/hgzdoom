@@ -4,12 +4,12 @@ Fixer:    This place is giving me goose bumps... and I don't think it's just the
 Earth Mother:    The Dwarf Town... its true name has faded throughout the ages, but the grandeur has endured. 
 Fixer:    This place is giving me goose bumps... and I don't think it's just the cold. 
 High Priest Jaromir:    Ah, there you are! A bit late for the fight, though, we've dealt with the welcoming party.
-Earth Mother:    Good to see you've made it, high priest. Are any of your men in need healing?
+Earth Mother:    Good to see you've made it, high priest. Are any of your dwarves in need of healing?
 High Priest Jaromir:    Nay, they'll be fine. Save your powers for whatever lies down there. 
 Fixer:    T-there are cultists here? I knew it, I wasn't just hearing things! 
-High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my men...
+High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my dwarves...
 Earth Mother:    Priest Jaromir, you look battered! Let me take a look at your wounds...
-High Priest Jaromir:    I'll be fine, woman. Save your powers for later... something tells me you'll need them. 
+High Priest Jaromir:    I'll be fine, lady. Save your powers for later... something tells me you'll need them. 
 Fixer:    That's terrible! Zan? A-are you sure we should keep going without any b-backup? 
 H.Priest Jaromir:    Ah, I see you're trying to put together a diving suit. Very good, but you will need a few items... 
 High Priest Jaromir:    You're going to need a special diving mask and a tank filled with enough air to allow you to explore the waters like a fish.     And with all this chilling ice, a suit is much needed, one covered in protective grease... the only problem I see is getting something for your... orc size.   Try finding two pairs.
@@ -40,7 +40,7 @@ Dwarf Shieldguard:    After our ancestors' defeat, cultists have gradually occup
 Dwarf Shieldguard:    One day we shall reclaim our heritage! Everything I've read about in our old books... 
 Dwarf Shieldguard:    We charged in and smashed the cultists! You should've seen their shocked faces, hah! 
 Dwarf Shieldguard:    I don't think they were expecting the old dwellers of this place to return today. 
-Dwarf Shieldguard:    Few cultists have scurried up into the upper part of town. They don't dare attack us. 
+Dwarf Shieldguard:    A few cultists have scurried up into the upper part of town. They don't dare attack us. 
 Dwarf Shieldguard:    We'd help ya break their barricade, but Jaromir wants us to defend the machinery here. 
 Earth Mother:    What a peculiar object... perhaps High Priest Jaromir can tell us something about it. 
 Earth Mother:    That looks like a diving suit... but it's way too small to fit your size. 
@@ -63,9 +63,9 @@ Blue Baron:    The Elf speaks true... she is starting to live up to her true pot
 ...she will claim the Seed. But will she live long enough to lose it? The core of Hell awaits her. And so do I. 
 You'll need a proper tool to mine this ore vein. 
 The mechanism clicks and rumbles but the door stays closed. 
-The power line this door is connected seems to be down. 
+The power line this door is connected to seems to be down. 
 The water is pressuring the door shut. 
-The power line this door is connected seems to be down. 
+The power line this door is connected to seems to be down. 
 This door requires a Stone key to open. 
 This door is locked from the inside. 
 This door requires a Stone key to open. 
@@ -74,7 +74,7 @@ AIR TANK REFUELING STATION
 & UNDERWATER GATE CONTROL 
 (As you browse through the scientific notes, you notice excerpts from Lith's studies in Valc)
 Earth Mother:    The Cult must have furthered Lith's research during all this time... 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
+.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
 > Not much going on, I should find my room and get rest 
 > A Fixer told me her squad vanished - should investigate 
 > Found the captives, need to free them and report to Breaza 

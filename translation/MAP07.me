@@ -20,7 +20,7 @@ A magical seal prevents the switch from being activated.
 The switch seems to not be powered right now. 
 This door requires an Earth key to open. 
 The glass looks like it was hit with massive force. It could probably break under another blow. 
-(The parchment is scribbled with various alchemical formulas.) 
+(The parchment is scribbled with various alchemical formulas) 
 (You spot a note carefully lodged in between the rocks. It's written in human tongue)
 If everything went according to plan, you should be reading this message.  Your source was right, the orc magician stationed here is carrying around one of those enchanted bags.  Had a hard time stealing it as the orcs seem to be overly jumpy.   Nonetheless, my job here is done.   I have hidden three notes that will explain how to retrieve the bag.   Don't worry, they won't find it very soon...
 
@@ -80,7 +80,7 @@ Hidden between a shutter and an iron panel, and written in Human language. Upon 
 Good, you've found the second note. Piecing all three together will reveal the location of a map that will point you the way. You're good with riddles so let's play it safe, shall we?
 
 Your second clue is - OS. The third part lies under the hibernating bear's nose. Good luck. 
-(A tiny note lies on the table. It seems to have been written by a human.)
+(A tiny note lies on the table. It seems to have been written by a human)
 So you've found the last note.  This one should now point you towards the bag's location.
 The last clue is - ET.  Search around the basket and you'll find it eventually. Good luck. 
 AUTOMATIC DEFENSE

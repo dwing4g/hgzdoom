@@ -3,7 +3,7 @@
 //Total Gold placed: 350
 //Total Iron placed: 6 +2 Brutalizing
 //Total Dark Iron placed: 3
-//658, 659, 660, 661, 662, 663, 664, 665. 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, ... 689 ||| 700, ... 792, ... 813
+//658, 659, 660, 661, 662, 663, 664, 665. 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, ... 689 ||| 700, ... 792, ... 819
 //657, 656, 655, 654, 653, 652, 651, 650, 649
 
 
@@ -380,13 +380,13 @@ Script 223 (void)
 	Delay(8*35);
 
 	PlaySound(374, "EarthMother/Hmm", CHAN_AUTO);
-	Hudmessage(s:"Grand Earth Mother Breaza:    It is the only path left to take. Give the news to your men, and tell them to prepare."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 6.5, 0.2, 0.5);
+	Hudmessage(s:"Grand Earth Mother Breaza:    It is the only path left to take. Give the news to your warriors, and tell them to prepare."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 6.5, 0.2, 0.5);
 	Delay(7*35);
 
 	Delay(16);
 
 	PlaySound(378, "Jaromir/Heh", CHAN_AUTO);
-	Hudmessage(s:"High Priest Jaromir:    We've been prepared for ages, woman. All we need is for the horns to call for battle."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+	Hudmessage(s:"High Priest Jaromir:    We've been prepared for ages, lady. All we need is for the horns to call for battle."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
 	Delay(6*35);
 
 	Delay(16);
@@ -476,6 +476,12 @@ Script 223 (void)
 	{
 		TakeInventory("InventorySledgehammer", 1);
 		SpawnSpotForced("CultSledgehammer", 338, 0, 0);
+	}
+	If(CheckInventory("InventoryMansionSketch") > 0)
+	{
+		TakeInventory("InventoryMansionSketch", 1);
+		SpawnSpotForced("IDScrollA", 816, 817, 0);
+		SetActorProperty(817, APROP_ScaleX, 0.20);
 	}
  // */
 
@@ -568,6 +574,12 @@ Script 224 (void)
 	{
 		TakeInventory("InventorySledgehammer", 1);
 		SpawnSpotForced("CultSledgehammer", 338, 0, 0);
+	}
+	If(CheckInventory("InventoryMansionSketch") > 0)
+	{
+		TakeInventory("InventoryMansionSketch", 1);
+		SpawnSpotForced("IDScrollA", 816, 817, 0);
+		SetActorProperty(817, APROP_ScaleX, 0.25);
 	}
 	Delay(8);
 	SetMusic("HTrack24");
@@ -771,6 +783,8 @@ Script 226 (void)
 	    }
 		SpawnSpotForced("InventoryGiantRuby", 486, 0, 0);
 		SpawnSpotForced("HealthCreamFungus", 748, 0, 0);
+		SpawnSpotForced("IronUrchin", 814, 815, 0);
+		SetActorFlag(815, "AMBUSH", 1);
 		Thing_Remove(450);
 		//Thing_Remove(452);
 		SetLineSpecial(385, ACS_Execute, 97, 0, 0, 0, 0);
@@ -1301,6 +1315,24 @@ Script 166 (void)
 		  PlaySound(0, "Character/ZanThink", CHAN_AUTO);
 	  }
 }
+Script 249 (void)
+{
+  If (CheckInventory("InventoryPickAxe") > 0 && IsTIDUsed(818))
+  {
+	SetWeapon("Fists");
+	Radius_Quake2(0, 2, 24, 0, 64, 0);
+    Thing_Remove(818);
+	SpawnSpotForced("DustPuff", 819, 0, 0);
+	PlaySound(0, "Interaction/WallPick");
+	SpawnspotForced("InventoryDarkIronOre", 819, 0, 0);
+  }
+    else
+	  If(IsTIDUsed(818))
+	  {
+	      Print(s:"You'll need a proper tool to mine this ore vein.");
+		  PlaySound(0, "Character/ZanThink", CHAN_AUTO);
+	  }
+}
 //Mine Bridge Forge Elemental Ambush
 Script 70 (void)
 {
@@ -1368,10 +1400,17 @@ Script 234 (void)
 	}
 }
 //Minotaur Gates
+Script 248 (void)
+{
+	Print(s:"The pedestal's locking mechanism prevents the ruby from being removed.");
+    PlaySound(0, "Character/ZanFail2", CHAN_AUTO);
+	Delay(35);
+}
+
 Script 41 (void)
 {
   If(CheckInventory("InventoryGiantRuby") > 0)
-    {
+  {
 	TakeInventory("InventoryGiantRuby", 1);
 	SetLineSpecial(205, 0, 0, 0, 0, 0, 0);
 	SpawnSpotForced("IDGemGiantRuby", 217, 0, 0);
@@ -1383,12 +1422,13 @@ Script 41 (void)
 	SetLineSpecial(219, ACS_Execute, 45, 0, 0, 0, 0);
 	TagWait(218);
 	SetLineTexture(749, SIDE_FRONT, TEXTURE_MIDDLE, "Gate13DN");
-    }
-    else
+	SetLineSpecial(205, 80, 248, 0, 0, 0, 0);
+  }
+  else
 	{
-    Print(s:"The pedestal is empty.");
-    PlaySound(0, "Character/ZanThink", CHAN_AUTO);
-    Delay(35);
+      Print(s:"The pedestal is empty.");
+      PlaySound(0, "Character/ZanThink", CHAN_AUTO);
+      Delay(35);
 	}
 }
 
@@ -1419,6 +1459,7 @@ Script 44 (void)
 	SetLineTexture(230, SIDE_FRONT, TEXTURE_BOTTOM, "Gate13DN");
 	SetLineSpecial(230, ACS_Execute, 47, 0, 0, 0, 0);
 	SetLineSpecial(232, ACS_Execute, 47, 0, 0, 0, 0);
+	SetLineSpecial(223, 80, 248, 0, 0, 0, 0);
     }
     else
 	{
@@ -1459,6 +1500,7 @@ Script 187 (void)
 	SetLineTexture(502, SIDE_FRONT, TEXTURE_BOTTOM, "Gate13DN");
 	SetLineTexture(512, SIDE_FRONT, TEXTURE_MIDDLE, "Gate13DN");
 	SetLineSpecial(506, ACS_Execute, 188, 0, 0, 0, 0);
+	SetLineSpecial(503, 80, 248, 0, 0, 0, 0);
     }
     else
 	{
@@ -1794,6 +1836,7 @@ Script 4 (void)
   If (CheckInventory("InventoryPickaxe") > 0 && GetSectorCeilingZ(32, 0, 0) == 126.0)
   {
 	Radius_Quake2(0, 2, 24, 0, 64, 0);
+	SetWeapon("Fists");
     Ceiling_LowerByValue(32, 9999, 266);
 	PlaySound(0, "Interaction/WallPick");
 	Thing_Remove(31);
@@ -1878,6 +1921,8 @@ Script 221 (void) //unused
 Script 30 (void)
 {
 	SetLineSpecial(110, 0, 0, 0, 0, 0, 0);
+	SetActorFlag(0, "NOPAIN", 1);
+	SetActorFlag(0, "NOTIMEFREEZE", 1);
 	HudmessageBold(s:"Spirit Mistress:    I've been expecting you..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 130, CR_PURPLE, 1.5, 0.80, 3.5, 0.2, 0.5);
 	Delay(8*35);
 	Thing_Spawn(109, 65010, random(0, 256), 660);
@@ -2006,7 +2051,7 @@ Script 26 (void)
 	  If(dial26 == 0)
 	  {
 	    PlaySound(92, "Reaver/Huh", CHAN_AUTO);
-	    Hudmessage(s:"Reaver:    Zan! Thank the Earth for sending you! We got captured by this powerful warlock. She surpressed our"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.84, 10.0, 0.2, 0.5);
+	    Hudmessage(s:"Reaver:    Zan! Thank the Earth for sending you! We got captured by this powerful warlock. She suppressed our"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.84, 10.0, 0.2, 0.5);
 		Hudmessage(s:"minds, we couldn't even fire at her! She left her right hand in charge here...   calls herself the Spirit Mistress.   "; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 10.0, 0.2, 0.5);
 		Delay(5*35);
 		dial26 += 1;
@@ -2672,6 +2717,49 @@ Script 103 (void)
     }
 }
 
+int spec246 = 0;
+int spec246b = 0;
+Script 246 (void)
+{
+	If(IsTIDUsed(817) && spec246b == 0)
+	{
+		ACS_NamedExecute("CloseJournal", 0, 0, 0, 0);
+		Delay(4);
+		spec246b = 1;
+	    SetFont ("OLAYTDRD");
+	    HudMessage (s:"a"; HUDMSG_PLAIN, 1997, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+	    PlaySound(0, "Inventory/Paper", CHAN_AUTO);
+
+		If(spec246 == 0)
+		{
+			spec246 += 1;
+			Delay(24);
+			Setfont("SMALLFONT");
+			PlaySound(375, "Lancer/Hmm", CHAN_AUTO);
+			Hudmessage(s:"Advisor:    Interesting plan you found... we had no clue that the cultists were infighting over the mansion."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_CYAN, 1.5, 0.86, 6.5, 0.2, 0.5);
+		}
+    }
+	else
+	If(IsTIDUsed(817))
+	{
+		Hudmessage(s:""; HUDMSG_PLAIN, 1997, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
+		spec246b = 0;
+		Setfont("SMALLFONT");
+	}
+}
+
+Script 247 (void)
+{
+	If(IsTIDUsed(817))
+	{
+		Hudmessage(s:""; HUDMSG_PLAIN, 1997, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		//PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
+		spec246b = 0;
+		Setfont("SMALLFONT");
+    }
+}
+
 Script 104 (void)
 {
 	SetFont ("OLAYTBOT");
@@ -3308,6 +3396,8 @@ Script 157 (void)
 		SpawnSpotForced("InventoryGiantRuby", 486, 0, 0);
 		PlaySound(486, "Inventory/PickShort", CHAN_AUTO, 0.5);
 		SpawnSpotForced("HealthCreamFungus", 748, 0, 0);
+		SpawnSpotForced("IronUrchin", 814, 815, 0);
+		SetActorFlag(815, "AMBUSH", 1);
 
 		PlaySound(452, "Murguth/Growl", CHAN_AUTO);
 		Hudmessage(s:"Bonebreaker, take the ruby and place it on the pedestal where it belongs. That will power up the gate's mechanism."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.86, 8.5, 0.2, 0.5);
@@ -3758,6 +3848,7 @@ Script 196 (void)
 
 
 //JOURNAL
+int JournalPage = 0;
 Script "OpenJournal" (void)
 {
 	SetFont ("OLAYTJOU");
@@ -3766,6 +3857,13 @@ Script "OpenJournal" (void)
 	SetFont("SMALLFONT");
 	Hudmessage(s:".oO   JOURNAL OF ZAN THE BONEBREAKER   Oo."; HUDMSG_PLAIN, 999, CR_BLACK, 1.5, 0.10, 9999.0);
 
+	If(CheckInventory("InventoryAncientCityMap") > 0)
+	{
+		GiveInventory("JournalBrowseExtraPages", 1);
+	}
+
+    If(JournalPage == 0)
+	{
 
 	//MAIN QUESTS
 	//Hudmessage(s:"Rot. 509 Day 248"; HUDMSG_PLAIN, 1000, CR_BLACK, 1.5, 0.14, 9999.0);
@@ -3949,6 +4047,63 @@ Script "OpenJournal" (void)
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1031, CR_BLACK, 1.5, 0.60, 9999.0);
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1033, CR_BLACK, 1.5, 0.62, 9999.0);
 	  }
+
+	  If(CheckInventory("InventoryAncientCityMap") > 0)
+	  {
+	      JournalPage += 1; //ready next page
+	  }
+	}
+
+	  else
+
+	  If(JournalPage == 1)
+	  {
+		SetFont("SMALLFONT");
+		Hudmessage(s:""; HUDMSG_PLAIN, 998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1000, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1001, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1002, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1003, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1004, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1005, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1006, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1007, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1008, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1009, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1010, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1011, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1012, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1013, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1014, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1015, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1016, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1017, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1018, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1019, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1020, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1021, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1022, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1023, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1024, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1025, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1026, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1027, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1028, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1029, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1030, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1031, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+
+		SetFont ("OLAYTJO0");
+        HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+		SetFont ("OLAYTDRE");
+		HudMessage (s:"a"; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+
+	  TakeInventory("JournalBrowseExtraPages", 1); //reset pages
+	  JournalPage = 0;
+	  }
 }
 
 Script "CloseJournal" (void)
@@ -3991,6 +4146,7 @@ Script "CloseJournal" (void)
 	Hudmessage(s:""; HUDMSG_PLAIN, 1032, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1033, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 
+	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }
 
@@ -4091,11 +4247,11 @@ Script 97 (void)//special
 		Delay(6*35);
 
 		PlaySound(378, "Jaromir/Hah", CHAN_AUTO);
-	    Hudmessage(s:"Jaromir:    They stole a lot from us too, woman, don't fret. They've barely done anything with our technology."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Jaromir:    They stole a lot from us too, Breaza, don't fret. They've barely done anything with our technology."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
 	    Delay(7*35);
 
 		PlaySound(377, "Murguth/Growl", CHAN_AUTO);
-		Hudmessage(s:"Murguth:    I wouldn't call the hell powder artillery that mowed our men down barely anything, dwarf."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.86, 6.5, 0.2, 0.5);
+		Hudmessage(s:"Murguth:    I wouldn't call the hell powder artillery that mowed our warriors down barely anything, dwarf."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_FIRE, 1.5, 0.86, 6.5, 0.2, 0.5);
         Delay(7*35);
 
 		PlaySound(378, "Jaromir/Heh", CHAN_AUTO);
@@ -4366,7 +4522,7 @@ Script 96 (void) //regular
 	If(dial96 % 10 == 1)
 	{
 	PlaySound(374, "EarthMother/Hmph", CHAN_AUTO);
-    Hudmessage(s:"Grand E.M. Breaza:    This Nithriel woman has exploited our weakness... slithering inside Valc while we were away."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 7.5, 0.2, 0.5);
+    Hudmessage(s:"Grand E.M. Breaza:    This Nithriel lady has exploited our weakness... slithering inside Valc while we were away."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.86, 7.5, 0.2, 0.5);
     dial96 += 1;
 	Delay(2*35);
 	}
@@ -5445,7 +5601,7 @@ Script 198 (void) //regular & special
 	else
 	If(dial198 % 8 == 6)
 	{
-    Hudmessage(s:"Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can surpress it with the right potions."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_PURPLE, 1.5, 0.86, 7.5, 0.2, 0.5);
+    Hudmessage(s:"Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can suppress it with the right potions."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_PURPLE, 1.5, 0.86, 7.5, 0.2, 0.5);
     dial198 += 1;
 	Delay(2*35);
 	}
@@ -5460,15 +5616,23 @@ Script 198 (void) //regular & special
   }
 }
 
+int spec134 = 4;
+int spec134b = 0;
 Script 134 (void) //Warlock Prisoner
 {
+	If(IsTIDUsed(431) && spec134 % 4 == 3 && spec134b == 0)
+	{
+	  PlaySound(430, "BearWarrior/Hmm", CHAN_AUTO);
+	  Hudmessage(s:"Warlord Grund:    Leave the pussycat alone, she's still recovering after the last interrogation, heh heh..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_TAN, 1.5, 0.86, 7.5, 0.2, 0.5);
+      spec134b += 1;
+	  Delay(70);
+	}
+	else
 	If(IsTIDUsed(431))
 	{
-	PlaySound(0, "Character/ZanHuhs", CHAN_AUTO);
-	Delay(35);
-	PlaySound(430, "BearWarrior/Hmm", CHAN_AUTO);
-	Hudmessage(s:"Warlord Grund:    Leave the pussycat alone, she's still recovering after the last session, heh heh..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_TAN, 1.5, 0.86, 7.5, 0.2, 0.5);
-    Delay(30*35);
+	  PlaySound(0, "Character/ZanHuhs", CHAN_AUTO);
+	  Delay(70);
+	  spec134 += 1;
 	}
 }
 
@@ -5988,7 +6152,7 @@ If(CheckInventory("QuestMap13InvestigateRuins") > 0)
 }
 Script 117 (void)
 {
-	If(CheckInventory("InventoryDarkIronOre") >= 6)
+	If(CheckInventory("InventoryDarkIronOre") >= 6 && CheckInventory("QuestMap13GetDarkIron") == 2)
 	{
 		SetWeapon("Fists");
 		TakeInventory("QuestMap13GetDarkIron", 1);
@@ -6304,13 +6468,20 @@ Script 120 (void)
 }
 Script 119 (void) //spikes
 {
-	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") >= 1)
+	If(GameSkill() <= SKILL_VERY_HARD && (CheckInventory("InventoryIronOre") >= 1 || (CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)))
 	{
-		TakeInventory("InventoryIronOre", 1);
+		If(CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			TakeInventory("InventoryDarkIronOre", 1);
+		}
+		else
+		{
+			TakeInventory("InventoryIronOre", 1);
+		}
 		spec118 += 1;
 		PlaySound(411, "Murguth/Unf", CHAN_AUTO);
         Hudmessage(s:"Hectus:    Here, pick 'em up."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 2.5, 0.2, 0.5);
-		Hudmessage(s:"(You trade a lump of Iron Ore for two Spike Mags)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
+		Hudmessage(s:"(You trade a lump of ore for two Spike Mags)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
 		PlaySound(413, "Ammo/SpikeMagPick", CHAN_AUTO, 0.4);
 		SpawnSpotForced("SpikeMag", 414, 0, 0);
 
@@ -6320,20 +6491,34 @@ Script 119 (void) //spikes
 	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") == 0)
 	{
 		PlaySound(411, "Murguth/Growl", CHAN_AUTO);
-        Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with iron."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		If(CheckInventory("QuestMap13GetDarkIron") != 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			Hudmessage(s:"Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with ore."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
 
 		Delay(3*35);
 	}
 }
 Script 121 (void) //frag
 {
-	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") >= 1)
+	If(GameSkill() <= SKILL_VERY_HARD && (CheckInventory("InventoryIronOre") >= 1 || (CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)))
 	{
-		TakeInventory("InventoryIronOre", 1);
+		If(CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			TakeInventory("InventoryDarkIronOre", 1);
+		}
+		else
+		{
+			TakeInventory("InventoryIronOre", 1);
+		}
 		spec118 += 1;
 		PlaySound(411, "Murguth/Unf", CHAN_AUTO);
         Hudmessage(s:"Hectus:    Here you go."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 2.5, 0.2, 0.5);
-		Hudmessage(s:"(You trade a lump of Iron Ore for three Fragfire Cans)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
+		Hudmessage(s:"(You trade a lump of ore for three Fragfire Cans)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
 		PlaySound(413, "Ammo/FragfireCanPick", CHAN_AUTO, 0.4);
 		SpawnSpotForced("FragfireCan", 414, 0, 0);
 		SpawnSpotForced("FragfireCanHalf", 413, 0, 0);
@@ -6344,20 +6529,34 @@ Script 121 (void) //frag
 	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") == 0)
 	{
 		PlaySound(411, "Murguth/Growl", CHAN_AUTO);
-        Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with iron."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+        If(CheckInventory("QuestMap13GetDarkIron") != 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			Hudmessage(s:"Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with ore."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
 
 		Delay(3*35);
 	}
 }
 Script 122 (void) //bolt
 {
-	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") >= 1)
+	If(GameSkill() <= SKILL_VERY_HARD && (CheckInventory("InventoryIronOre") >= 1 || (CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)))
 	{
-		TakeInventory("InventoryIronOre", 1);
+		If(CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			TakeInventory("InventoryDarkIronOre", 1);
+		}
+		else
+		{
+			TakeInventory("InventoryIronOre", 1);
+		}
 		spec118 += 1;
 		PlaySound(411, "Murguth/Unf", CHAN_AUTO);
         Hudmessage(s:"Hectus:    Here, come grab 'em."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 2.5, 0.2, 0.5);
-		Hudmessage(s:"(You trade a lump of Iron Ore for two Boltmags)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
+		Hudmessage(s:"(You trade a lump of ore for two Boltmags)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
 		PlaySound(413, "Ammo/BoltmagPick", CHAN_AUTO, 0.4);
 		SpawnSpotForced("Boltmag", 414, 0, 0);
 
@@ -6367,20 +6566,34 @@ Script 122 (void) //bolt
 	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") == 0)
 	{
 		PlaySound(411, "Murguth/Growl", CHAN_AUTO);
-        Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with iron."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+        If(CheckInventory("QuestMap13GetDarkIron") != 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			Hudmessage(s:"Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with ore."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
 
 		Delay(3*35);
 	}
 }
 Script 123 (void) //acid
 {
-	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") >= 1)
+	If(GameSkill() <= SKILL_VERY_HARD && (CheckInventory("InventoryIronOre") >= 1 || (CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)))
 	{
-		TakeInventory("InventoryIronOre", 1);
+		If(CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			TakeInventory("InventoryDarkIronOre", 1);
+		}
+		else
+		{
+			TakeInventory("InventoryIronOre", 1);
+		}
 		spec118 += 1;
 		PlaySound(411, "Murguth/Unf", CHAN_AUTO);
         Hudmessage(s:"Hectus:    Here, take them."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 2.5, 0.2, 0.5);
-		Hudmessage(s:"(You trade a lump of Iron Ore for two Boxes of Acid Potions)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
+		Hudmessage(s:"(You trade a lump of ore for two Boxes of Acid Potions)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
 		PlaySound(413, "Ammo/PotionBoxPick", CHAN_AUTO, 0.4);
 		SpawnSpotForced("PotionBoxAcid", 414, 0, 0);
 
@@ -6390,20 +6603,34 @@ Script 123 (void) //acid
 	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") == 0)
 	{
 		PlaySound(411, "Murguth/Growl", CHAN_AUTO);
-        Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with iron."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+        If(CheckInventory("QuestMap13GetDarkIron") != 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			Hudmessage(s:"Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with ore."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
 
 		Delay(3*35);
 	}
 }
 Script 124 (void) //toxic
 {
-	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") >= 1)
+	If(GameSkill() <= SKILL_VERY_HARD && (CheckInventory("InventoryIronOre") >= 1 || (CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)))
 	{
-		TakeInventory("InventoryIronOre", 1);
+		If(CheckInventory("QuestMap13GetDarkIron") == 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			TakeInventory("InventoryDarkIronOre", 1);
+		}
+		else
+		{
+			TakeInventory("InventoryIronOre", 1);
+		}
 		spec118 += 1;
 		PlaySound(411, "Murguth/Unf", CHAN_AUTO);
         Hudmessage(s:"Hectus:    Here, come pick it up."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 2.5, 0.2, 0.5);
-		Hudmessage(s:"(You trade a lump of Iron Ore for a Box of Toxic Potions)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
+		Hudmessage(s:"(You trade a lump of ore for a Box of Toxic Potions)"; HUDMSG_FADEINOUT | HUDMSG_LOG, 99, CR_WHITE, 1.5, 0.80, 2.5, 0.2, 0.5);
 		PlaySound(413, "Ammo/PotionBoxPick", CHAN_AUTO, 0.4);
 		SpawnSpotForced("PotionBoxToxic", 413, 0, 0);
 
@@ -6413,7 +6640,14 @@ Script 124 (void) //toxic
 	If(GameSkill() <= SKILL_VERY_HARD && CheckInventory("InventoryIronOre") == 0)
 	{
 		PlaySound(411, "Murguth/Growl", CHAN_AUTO);
-        Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with iron."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+        If(CheckInventory("QuestMap13GetDarkIron") != 1 && CheckInventory("InventoryDarkIronOre") >= 1)
+		{
+			Hudmessage(s:"Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Hectus:    This ammo isn't free, Orc. You can only trade for it with ore."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 5.5, 0.2, 0.5);
+		}
 
 		Delay(3*35);
 	}
@@ -6780,7 +7014,7 @@ Script 238 (void)
 	If(dial238 % 6 == 0)
 	{
 		PlaySound(794, "EarthMother/Hmph", CHAN_AUTO);
-		Hudmessage(s:"Lady Ingrim:    Since Jaromir is commanding our men, I had to find a way to make myself useful around here."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_BROWN, 1.5, 0.86, 6.5, 0.2, 0.5);
+		Hudmessage(s:"Lady Ingrim:    Since Jaromir is commanding our dwarves, I had to find a way to make myself useful around here."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_BROWN, 1.5, 0.86, 6.5, 0.2, 0.5);
 		dial238 += 1;
 		Delay(2*35);
 	}
@@ -7091,7 +7325,7 @@ Script 142 (void)
 	else
 	If(dial142 % 4 == 3)
 	{
-    Hudmessage(s:"Dwarf Shieldguard:    Don't set off on a road longer than your quiver can last, my old man used to say."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
+    Hudmessage(s:"Dwarf Shieldguard:    Don't set off on a road longer than your quiver can last, my pa used to say."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GRAY, 1.5, 0.86, 6.5, 0.2, 0.5);
 	Dial142 += 1;
 	Delay(2*35);
 	}
@@ -7214,7 +7448,7 @@ Script 144 (void)
 		Delay(4*35);
 		Delay(16);
 	    PlaySound(443, "Reaver/Hmm", CHAN_AUTO);
-        Hudmessage(s:"Reaver:    I bet the rain has bogged them down..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.86, 4.5, 0.2, 0.5);
+        Hudmessage(s:"Reaver:    I bet the dome rain has bogged them down..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.86, 4.5, 0.2, 0.5);
 	}
 }
 
@@ -7447,7 +7681,7 @@ Script 152 (void)
 	else
 	If(dial152 % 4 == 1)
 	{
-    Hudmessage(s:"Bear Warrior:    Now that the mansion is no longer a threat I got transfered to the defense line here."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 6.5, 0.2, 0.5);
+    Hudmessage(s:"Bear Warrior:    Now that the mansion is no longer a threat I got transferred to the defense line here."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.86, 6.5, 0.2, 0.5);
 	Dial152 += 1;
 	Delay(2*35);
 	}
@@ -8445,7 +8679,7 @@ Script 220 (void)
 	ACS_NamedExecuteWithResult("FriendlyCounter");
 	Delay(4);
 	TakeInventory("InventoryPickAxe", 1);
-	TakeInventory("InventoryDarkIronOre", 6);
+	TakeInventory("InventoryDarkIronOre", 10);
 	TakeInventory("InventoryIronOre", 20);
 	TakeInventory("InventoryIronLever", 1);
 	TakeInventory("InventorySpiritGem", 2);
@@ -8460,6 +8694,7 @@ Script 220 (void)
 	TakeInventory("InventoryDwarvenMask", 1);
 	TakeInventory("InventoryDwarvenTank", 1);
 	TakeInventory("InventoryEmptyDwarvenTank", 1);
+	TakeInventory("InventoryAncientCityMap", 1);
 	Delay(1);
 	//ChangeLevel("Map16", 0, 0, -1);
 	Exit_Normal(0);

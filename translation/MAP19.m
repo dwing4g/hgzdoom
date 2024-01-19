@@ -227,7 +227,7 @@ Come and sit on my sofa with me a while
 Take a swim, enjoy some wine
 Warm yourself up by the fireplace
 And you'll find my deepest secrets desire 
-(The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
+(The alluringly perfumed journal appears to belong to Yzbeth. None of the entries seem to be dated)
 My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these
 brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?
 How dare he bring order into our world? My tears of sorrow have drenched the port in bleak mist. The fire is gone...
@@ -285,7 +285,7 @@ upon them from every direction. Wincing as the doors open and a dart puts an end
 !gnidnuop si traeh yM   .tra sih tcefrep ot gnihtyreve ecifircas ot ydaer si eH.   .snoitatimil sih dnoyeb dnim sih fo stoor
 eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob
 railucep tsom a gnirimda dna swodahs eht morf gnimool ,ot desu I naht netfo erom yrarbil eht gnitisiv neeb ev'I  .em
-rof neve ,lufemahs ot raf era yeht rof - sdrow eseht dnatsrednu ot uoy wolla t'nac I tub ,lanruoj raed ,em evigroF 
+rof neve ,lufemahs oot raf era yeht rof - sdrow eseht dnatsrednu ot uoy wolla t'nac I tub ,lanruoj raed ,em evigroF 
 [...] following the research notes from Mistress Nithriel, we have managed to break down and understand the
 chemicals used against our cultists by the green savages. This is how we can easily make them for ourselves:
 Green Corrosive Acid - can be easily obtained by mixing a deadly Poison with Green and Cyan Arcane Salts

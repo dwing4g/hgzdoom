@@ -16,15 +16,21 @@ Map09 - Research and Decay (Major Spoilers)
 Map10 - Crystal Heart (Major Spoilers) 
 ???:   ...wake up...
 ???:   ...wake. Up. 
-This door requires an Axe key to open. 
+This door requires a key to open. 
 The shelf won't budge. 
 The massive doors are jammed shut. 
 The gun socket is missing a power source. 
 The gun is too overheated to be fired again. 
+Orc:    Look out! 
 Bear Warrior:    Look out! 
+Goblin:    Look out! 
 Reaver:    Look out! 
 Orc:    Zan! Over here! 
 Goblin:    Over here, sergeant! 
+Orc:    Over here! By the windows! 
+Goblin:    Over here, Zan! By the windows! 
+Orc:    Hey, Zan! Come over here! 
+Goblin:    Wait, sargeant! Need some help here! 
 Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help. 
 Bear Warrior:    The horned bastards have sealed off every exit! There's no way we can get out of here. 
 Bear Warrior:    These bars are way too thick, I can't break them. Help us figure something out, sarge! 

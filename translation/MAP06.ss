@@ -305,7 +305,7 @@ Script 25 (void)
 	{
 	PlaySound(0, "Misc/Silence", CHAN_VOICE, 1.0);
 	FadeTo(0,0,0, 1.0, 0.2);
-	Delay(18);
+	Delay(8);
 	Teleport_NoFog(107, 1, 0, 0);
 	SetActorPitch(0, 0.0);
 	FadeTo(0,0,0, 0.0, 1.0);
@@ -322,8 +322,8 @@ Script 25 (void)
 	{
 	PlaySound(0, "Misc/Silence", CHAN_VOICE, 1.0);
 	FadeTo(0,0,0, 1.0, 0.2);
-	Delay(18);
-	Teleport_NoFog(107, 0, 0, 0);
+	Delay(8);
+	Teleport_NoFog(107, 1, 0, 0);
 	SetActorPitch(0, 0.0);
 	FadeTo(0,0,0, 0.0, 1.0);
 	}
@@ -334,7 +334,7 @@ Script 21 (void)
 	{
 	PlaySound(0, "Misc/Silence", CHAN_VOICE, 1.0);
 	FadeTo(0,0,0, 1.0, 0.2);
-	Delay(18);
+	Delay(8);
 	Teleport_NoFog(107, 1, 0, 0);
 	SetActorPitch(0, 0.0);
 	FadeTo(0,0,0, 0.0, 1.0);
@@ -351,7 +351,7 @@ Script 21 (void)
 	{
 	PlaySound(0, "Misc/Silence", CHAN_VOICE, 1.0);
 	FadeTo(0,0,0, 1.0, 0.2);
-	Delay(18);
+	Delay(8);
 	Teleport_NoFog(107, 1, 0, 0);
 	SetActorPitch(0, 0.0);
 	FadeTo(0,0,0, 0.0, 1.0);

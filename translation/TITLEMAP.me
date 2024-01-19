@@ -1,5 +1,5 @@
 Zan presents... 
-ver. 2.4.0 
+ver. 2.4.2 
 Press any key to begin. 
 Tip #1: Rocket jumping allows for shortcuts and different approaches of a level.
 Tip #2: Blood/Gore effects can be turned off from Options - Display Options.

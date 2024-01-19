@@ -566,7 +566,7 @@ Script 57 (void)
 	  }
 	  else
         {
-	    Print(s:"This door requires an Axe key to open.");
+	    Print(s:"This door requires a key to open.");
 	    PlaySound(0, "Interaction/Locked", CHAN_AUTO);
         }
 }
@@ -792,8 +792,10 @@ Script 64 (void)
 	SpawnSpot("Cerberus", 196, 0, 192);
 }
 
+int spec65 = 0;
 Script 65 (void)
 {
+	//SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
 	SetLineSpecial(204, 0, 0, 0, 0, 0, 0);
 	Delay(4);
 
@@ -807,18 +809,32 @@ Script 65 (void)
 
     If(GetActorProperty(199, APROP_Health) > 0)
 	{
-	//SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
-	SetActorAngle(199, 0.5);
-	Hudmessage(s:"Bear Warrior:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 3.0, 0.2, 0.5);
-	PlaySound(199, "BearWarrior/Rage2", CHAN_AUTO, 1.0, false, 0.5);
+		//SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
+		SetActorAngle(199, 0.5);
+		If(spec65 == 0)
+		{
+			Hudmessage(s:"Orc:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 3.0, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Bear Warrior:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 3.0, 0.2, 0.5);
+		}
+		PlaySound(199, "BearWarrior/Rage2", CHAN_AUTO, 1.0, false, 0.5);
 	}
 	else
 	If(GetActorProperty(200, APROP_Health) > 0)
 	  {
-	  //SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
-	  SetActorAngle(199, 0.5);
-	  Hudmessage(s:"Reaver:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 3.0, 0.2, 0.5);
-	  PlaySound(200, "Reaver/Hm", CHAN_AUTO, 1.0, false, 0.4);
+		//SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
+		SetActorAngle(199, 0.5);
+		If(spec65 == 0)
+		{
+			Hudmessage(s:"Goblin:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GREEN, 1.5, 0.86, 3.0, 0.2, 0.5);
+		}
+		else
+		{
+			Hudmessage(s:"Reaver:    Look out!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 3.0, 0.2, 0.5);
+		}
+		PlaySound(200, "Reaver/Hm", CHAN_AUTO, 1.0, false, 0.4);
 	  }
 
 }
@@ -841,6 +857,8 @@ Script 77 (void)
 
 Script 78 (void)
 {
+	SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
+
 	SpawnSpot("ForgeElemental", 209, 0, 32);
 
 	Thing_Remove(239);
@@ -866,35 +884,99 @@ Script 78 (void)
 
 //FRIENDLIES DIALOGUE
 //Hail
+int spec66 = 3;
 Script 66 (void)
 {
-	SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
+	//SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
 
-	If(GetActorProperty(199, APROP_Health) > 0)
+	If(spec66 % 3 == 0)
 	{
-	SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
-	Hudmessage(s:"Orc:    Zan! Over here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 5.0, 0.2, 1.5);
-	PlaySound(199, "BearWarrior/Huh", CHAN_AUTO, 1.0, false, 0.4);
-	Delay(1*35);
-	SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
-	SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
-	PlaySound(199, "BearWarrior/Rage1", CHAN_AUTO, 1.0, false, 0.4);
+		If(GetActorProperty(199, APROP_Health) > 0)
+		{
+			SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Orc:    Zan! Over here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 5.0, 0.2, 1.5);
+			PlaySound(199, "BearWarrior/Huh", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+			PlaySound(199, "BearWarrior/Rage1", CHAN_AUTO, 1.0, false, 0.4);
+		}
+		else
+		If(GetActorProperty(200, APROP_Health) > 0)
+		{
+			SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Goblin:    Over here, sergeant!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GREEN, 1.5, 0.86, 5.0, 0.2, 1.5);
+			PlaySound(200, "Reaver/Huh", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+		}
+		Delay(35*8);
+		spec66 += 1;
+		Terminate;
 	}
 	else
-	  If(GetActorProperty(200, APROP_Health) > 0)
-	  {
-	  SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
-	  Hudmessage(s:"Goblin:    Over here, sergeant!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_DARKRED, 1.5, 0.86, 5.0, 0.2, 1.5);
-	  PlaySound(200, "Reaver/Huh", CHAN_AUTO, 1.0, false, 0.4);
-	  Delay(1*35);
-	  SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
-	  SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
-	  }
+	If(spec66 % 3 == 1)
+	{
+		If(GetActorProperty(199, APROP_Health) > 0)
+		{
+			SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Orc:    Over here! By the windows!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 5.0, 0.2, 1.5);
+			PlaySound(199, "BearWarrior/Ha", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+			PlaySound(199, "BearWarrior/Rage1", CHAN_AUTO, 1.0, false, 0.4);
+		}
+		else
+		If(GetActorProperty(200, APROP_Health) > 0)
+		{
+			SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Goblin:    Over here, Zan! By the windows!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GREEN, 1.5, 0.86, 5.0, 0.2, 1.5);
+			PlaySound(200, "Reaver/Huh", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+		}
+		Delay(35*8);
+		spec66 += 1;
+		Terminate;
+	}
+	else
+	If(spec66 % 3 == 2)
+	{
+		If(GetActorProperty(199, APROP_Health) > 0)
+		{
+			SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Orc:    Hey, Zan! Come over here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 5.0, 0.2, 1.5);
+			PlaySound(199, "BearWarrior/Huh", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+			PlaySound(199, "BearWarrior/Rage2", CHAN_AUTO, 1.0, false, 0.4);
+		}
+		else
+		If(GetActorProperty(200, APROP_Health) > 0)
+		{
+			SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
+			Hudmessage(s:"Goblin:    Wait, sargeant! Need some help here!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 110, CR_GREEN, 1.5, 0.86, 5.0, 0.2, 1.5);
+			PlaySound(200, "Reaver/Huh", CHAN_AUTO, 1.0, false, 0.4);
+			Delay(1*35);
+			SetLineSpecial(202, ACS_Execute, 67, 0, 0, 0, 0);
+			SetLineSpecial(203, ACS_Execute, 72, 0, 0, 0, 0);
+		}
+		Delay(35*8);
+		spec66 += 1;
+		Terminate;
+	}
 }
 //Bear Warrior
 Script 67 (void)
 {
-If(GetActorProperty(199, APROP_Health) > 0)
+	ACS_Terminate(66, 0);
+	SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
+	spec65 += 1;
+	If(GetActorProperty(199, APROP_Health) > 0)
 	{
 	SetLineSpecial(202, 0, 0, 0, 0, 0, 0);
 	Hudmessage(s:"Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 5.0, 0.2, 0.5);
@@ -949,6 +1031,9 @@ If(GetActorProperty(199, APROP_Health) > 0)
 //Reaver
 Script 72 (void)
 {
+	ACS_Terminate(66, 0);
+	SetLineSpecial(201, 0, 0, 0, 0, 0, 0);
+	spec65 += 1;
 	If(GetActorProperty(200, APROP_Health) > 0)
 	{
 	SetLineSpecial(203, 0, 0, 0, 0, 0, 0);
@@ -1332,8 +1417,35 @@ Script 37 (void)
 	}
 }*/
 
+int spec8 = 0;
 Script 8 (void)
 {
+	If(spec8 == 0)
+	{
+	//FloorAndCeiling_LowerByValue(74, 8, 160);
+	FloorAndCeiling_LowerByValue(8, 10, 160);
+	Delay(35);
+	PlaySound(262, "Weapons/CrylanceReady", CHAN_AUTO);
+	Radius_Quake(1, 105, 0, 1, 0);
+	Delay(58);
+	PlaySound(262, "Weapons/CrylanceAltFire", CHAN_AUTO);
+	Delay(12);
+	SetLineTexture(14, SIDE_FRONT, TEXTURE_MIDDLE, "Sw01_BL");
+	SpawnSpotForced("DustCloud", 262, 0, 0);
+	PlaySound(262, "Interaction/GlassBreak", CHAN_AUTO, 0.5);
+	PlaySound(262, "Weapons/PotionDie", CHAN_AUTO);
+	PlaySound(262, "Weapons/CryballBounce", CHAN_AUTO);
+	SpawnSpotForced("JunkBrokenCore", 262, 662, 0);
+	SetActorFlag(662, "NOGRAVITY", 0);
+	ThrustThing(128, 1, 1, 662);
+	//Tagwait(74);
+	Tagwait(8);
+	spec8 += 1;
+	Delay(50);
+	PlaySound(0, "Character/ZanThink", CHAN_AUTO);
+	Terminate;
+	}
+
 	If (CheckInventory("InventoryPowerCore") > 0 )
 	{
 	  SetLineSpecial(14, 0, 0, 0, 0, 0, 0);
@@ -1343,6 +1455,12 @@ Script 8 (void)
 	  PlaySound(104, "Metal/Bounce1", CHAN_AUTO);
 	  Delay(8);
 	  PlaySound(104, "Weapons/CrylanceReady", CHAN_AUTO);
+	  //FloorAndCeiling_RaiseByValue(74, 16, 160);
+	  FloorAndCeiling_RaiseByValue(8, 16, 160);
+	  //Tagwait(74);
+	  Tagwait(8);
+	  Delay(8);
+	  Autosave();
 	  SetLineSpecial(14, ACS_Execute, 2, 0, 0, 0, 0);
 	}
 	else
@@ -1953,7 +2071,7 @@ script 1002 (void)
 	If(GetCVar("sv_Tips") == 0)// || GameSkill() == SKILL_VERY_HARD)
 	Terminate;
 	else
-	If(CheckInventory("inventoryPowerCore") > 0)
+	If(CheckInventory("InventoryPowerCore") > 0)
 	{
 	SetFont("SMALLFONT");
     Hudmessage(s:"Tip: Quest Items are not required to be manually selected."; HUDMSG_PLAIN | HUDMSG_LOG, 10, CR_GOLD, 1.5, 0.12, 6.0);

@@ -48,6 +48,9 @@ Script 54 (void)
 	ACS_NamedExecuteWithResult("FriendlyCounter");
 
 	TakeInventory("InventoryEnchantedPurpleInkRecipe", 1);
+	TakeInventory("InventoryBowlOfFaeDust", 1);
+	TakeInventory("InventoryPurpleRoot", 3);
+	TakeInventory("InventoryCanOfEnchantedPurpleInk", 1);
 
 	Exit_Normal(0);
 }
@@ -1438,6 +1441,7 @@ Script "OpenDrawing1" (void)
 
 Script "CloseJournal" (void)
 {
+	Setfont("SMALLFONT");
 	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }
@@ -1448,12 +1452,15 @@ Script 78 (void)
 	HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
 	SetFont ("OLAYTDR1");
 	HudMessage (s:"a"; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+	PlaySound(0, "Inventory/Paper", CHAN_AUTO);
 }
 
 Script 79 (void)
 {
 	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+	//PlaySound(0, "Inventory/PickShort", CHAN_AUTO);
+	Setfont("SMALLFONT");
 }
 
 

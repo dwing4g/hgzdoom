@@ -233,6 +233,7 @@ Script "FriendlySpawnerCustomReturn" RETURN
 
 //LEVEL START
 int spec8 = 0;
+int spec8b = 0;
 Script 2 ENTER
 {
 	//Give Keys
@@ -254,6 +255,8 @@ Script 2 ENTER
 	SetActorFlag(428, "NODAMAGE", 1);
 
 	SetActorFlag(175, "SHOOTABLE", 0);
+
+	SetActorFlag(433, "NOBLOCKMAP", 0);
 
 	//Music
 	SetMusic("HTrack25");
@@ -289,6 +292,13 @@ Script 2 ENTER
 		Ceiling_MoveToValue(111, 9999, 286, 1);
 	    Floor_MoveToValue(111, 9999, 335, 1);
 		ACS_Execute(8, 0, 0, 0, 0);
+	}
+
+	//Ancient City Map
+	If(CheckInventory("InventoryJournal") == 1 && spec8b == 0)
+	{
+		spec8b += 1;
+		SpawnSpotForced("InventoryAncientCityMap", 432, 0, 0);
 	}
 }
 
@@ -1548,7 +1558,10 @@ Script 49 (void)
 	SpawnSpotForced("PitLordCommander", 274, 0, 192);
 	SpawnSpotForced("HedonTeleportFogDemon", 274, 0, 0);
 
-    Hudmessage(s:"Lord Efri:    You slime!!! I will bring your head to the Blue Baron myself!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.70, 6.5, 0.2, 0.5);
+    If(CheckProximity(0, "PitLordCommander", 960.0, 1))
+	{
+		Hudmessage(s:"Lord Efri:    YOU SLIME!!! I WILL BRING YOUR HEAD TO THE BLUE BARON MYSELF!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_RED, 1.5, 0.70, 6.5, 0.2, 0.5);
+	}
 
 	PlaySound(274, "misc/teleport", CHAN_AUTO);
 	Delay(4);
@@ -1894,6 +1907,13 @@ Script 74 (void)
 
 //DOORS & ELEVATORS
 //Main Minotaur Gates
+Script 100 (void)
+{
+	Print(s:"The pedestal's locking mechanism prevents the ruby from being removed.");
+    PlaySound(0, "Character/ZanFail2", CHAN_AUTO);
+	Delay(35);
+}
+
 Script 69 (void)
 {
   If(CheckInventory("InventoryGiantRuby") > 0)
@@ -1908,6 +1928,7 @@ Script 69 (void)
 	SetLineTexture(426, SIDE_FRONT, TEXTURE_MIDDLE, "Gate13DN");
 	SetLineSpecial(304, ACS_Execute, 70, 0, 0, 0, 0);
 	SetLineSpecial(305, ACS_Execute, 71, 0, 0, 0, 0);
+	SetLineSpecial(56, 80, 100, 0, 0, 0, 0);
     }
     else
 	{
@@ -1948,6 +1969,7 @@ Script 35 (void)
 	SetLineTexture(194, SIDE_FRONT, TEXTURE_BOTTOM, "Gate13DN");
 	SetLineSpecial(196, ACS_Execute, 37, 0, 0, 0, 0);
 	SetLineTexture(427, SIDE_FRONT, TEXTURE_MIDDLE, "Gate13DN");
+	SetLineSpecial(193, 80, 100, 0, 0, 0, 0);
     }
     else
 	{
@@ -1988,6 +2010,7 @@ Script 79 (void)
 	SetLineSpecial(393, ACS_Execute, 80, 0, 0, 0, 0);
 	SetLineSpecial(394, ACS_Execute, 81, 0, 0, 0, 0);
 	SetLineTexture(429, SIDE_FRONT, TEXTURE_MIDDLE, "Gate13DN");
+	SetLineSpecial(391, 80, 100, 0, 0, 0, 0);
     }
     else
 	{
@@ -2373,14 +2396,14 @@ Script 78 (void)
 	If(GameSkill() == SKILL_HARD)
 	{
 	SetFont("SMALLFONT");
-	Hudmessage(s:"ELEVATOR TO"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 4.0);
-	Hudmessage(s:"WEAPONS & HELL POWDER STORAGE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 4.0);
+	Hudmessage(s:"ELEVATOR TO"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 3.0);
+	Hudmessage(s:"WEAPONS & HELL POWDER STORAGE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 3.0);
 	}
 	else
 	  {
 	  SetFont("SMALLFONT");
-	  Hudmessage(s:"ELEVATOR TO"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 4.0);
-	  Hudmessage(s:"WEAPONS & \c[Gold]HELL POWDER\c- STORAGE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 4.0);
+	  Hudmessage(s:"ELEVATOR TO"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 3.0);
+	  Hudmessage(s:"WEAPONS & \c[Gold]HELL POWDER\c- STORAGE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 3.0);
 	  }
 }
 
@@ -2463,6 +2486,7 @@ Script 901 (void)
 
 
 //JOURNAL
+int JournalPage = 0;
 Script "OpenJournal" (void)
 {
 	SetFont ("OLAYTJOU");
@@ -2471,6 +2495,13 @@ Script "OpenJournal" (void)
 	SetFont("SMALLFONT");
 	Hudmessage(s:".oO   JOURNAL OF ZAN THE BONEBREAKER   Oo."; HUDMSG_PLAIN, 999, CR_BLACK, 1.5, 0.10, 9999.0);
 
+	If(CheckInventory("InventoryAncientCityMap") > 0)
+	{
+		GiveInventory("JournalBrowseExtraPages", 1);
+	}
+
+    If(JournalPage == 0)
+	{
 
 	//MAIN QUESTS
 	//Hudmessage(s:"Rot. 509 Day 248"; HUDMSG_PLAIN, 1000, CR_BLACK, 1.5, 0.14, 9999.0);
@@ -2654,6 +2685,63 @@ Script "OpenJournal" (void)
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1031, CR_BLACK, 1.5, 0.60, 9999.0);
 		Hudmessage(s:"-------------------------------------------------------------"; HUDMSG_PLAIN | HUDMSG_LOG, 1033, CR_BLACK, 1.5, 0.62, 9999.0);
 	  }
+
+	  If(CheckInventory("InventoryAncientCityMap") > 0)
+	  {
+	      JournalPage += 1; //ready next page
+	  }
+	}
+
+	  else
+
+	  If(JournalPage == 1)
+	  {
+		SetFont("SMALLFONT");
+		Hudmessage(s:""; HUDMSG_PLAIN, 998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1000, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1001, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1002, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1003, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1004, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1005, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1006, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1007, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1008, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1009, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1010, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1011, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1012, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1013, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1014, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1015, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1016, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1017, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1018, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1019, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1020, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1021, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1022, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1023, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1024, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1025, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1026, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1027, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1028, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1029, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1030, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+		Hudmessage(s:""; HUDMSG_PLAIN, 1031, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
+
+		SetFont ("OLAYTJO0");
+        HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+		SetFont ("OLAYTDRE");
+		HudMessage (s:"a"; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+
+
+	  TakeInventory("JournalBrowseExtraPages", 1); //reset pages
+	  JournalPage = 0;
+	  }
 }
 
 Script "CloseJournal" (void)
@@ -2696,5 +2784,6 @@ Script "CloseJournal" (void)
 	Hudmessage(s:""; HUDMSG_PLAIN, 1032, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1033, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 
+	Hudmessage(s:""; HUDMSG_PLAIN, 1998, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }

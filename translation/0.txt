@@ -25,23 +25,23 @@ You can't play Hedon if you head off.
 You can leave your head on.
 你可以把脑袋留下。
 
-You'll find plenty of ammo, health and armor. Enemies are less resilient and powerful, making for easier fights. Keys, important locations and readables are marked on the map.
-你会发现大量的弹药、生命和盔甲。敌人的抵抗和力量较弱，会使战斗更加容易。地图上还标有钥匙、重要地点和可读物。
+You'll find plenty of ammo, health and armor. Enemies are weaker and less numerous. Keys, important texts and locations that require quest items are marked on the map, making for easier exploration and puzzle solving.
+你会发现大量的弹药、生命和盔甲。敌人更弱且数量更少。地图上标注了钥匙、重要的可读物和所需任务物品的地点，更容易探索和解谜。
 
-Normal difficulty, recommended for most players. Enemies are slightly less resilient, and you'll find a bit more ammo. Important readables are marked on the map.
-普通难度，推荐给大多数玩家。敌人的抵抗稍差，你会发现更多的弹药。重要的可读物会标记在地图上。
+Normal difficulty, recommended for most players. Enemies are slightly less resilient, and ammo is slightly more plentiful. Important readables are marked on the map, aiding with exploration and puzzle solving.
+普通难度，推荐给大多数玩家。敌人的抵抗稍差，弹药也略有增加。重要的可读物会标记在地图上，以帮助探索和解谜。
 
-Enemies have full strength and you'll have to better manage your ammo and consumables. Recommended for skilled players.
-敌人会使出全力，你必须更好地管理你的弹药和消耗品。推荐给熟练的玩家。
+Enemies have full strength and you'll have to better manage your ammo and consumables. Important texts have highlighted keywords to aid with puzzles and exploration. Recommended for skilled players.
+敌人会使出全力，你必须更好地管理你的弹药和消耗品。重要的可读物会高亮关键词，以帮助解谜和探索。推荐给熟练的玩家。
 
-Enemies deal 50% more damage and you will find less ammo around. Progression hints are no longer highlighted in readables. Fit for those who really want to challenge their survival skill and wit.
-敌人造成的伤害增加50%，你会发现周围的弹药减少。前进提示不会再在可读物中突出显示。适合那些真正想挑战自己生存技能和智慧的人。
+Enemies deal 50% more damage and there is less ammo laying in the open. Exploration and puzzles are as challenging as they can be. Fit for those who really want to test their survival skill and wit.
+敌人造成的伤害增加50%，并且开阔处的弹药减少了。探索和谜题都具有挑战性。适合那些真正想测试自己生存技能和智慧的人。
 
-A chaotic difficulty that shifts gameplay towards more combat and carnage. There are new monster spawns, higher tier enemies appear earlier and are stronger and more aggressive than usual. However, you also get the weapons, consumables and ammo required to put them down. You also have the chance to encounter a couple of companions along the way.
-一个狂乱的难度，游戏性会趋向更多的战斗和杀戮。有更多新怪物出现，更早出现高等级的敌人，而且比平时更强大，更有攻击性。然而，你也能得到打倒它们所需的武器、消耗品和弹药。一路上你还有机会遇到几个同伴。
+A chaotic difficulty that shifts gameplay towards more combat and carnage. There are new monster spawns, higher tier enemies appear earlier and are stronger and more aggressive than usual. However, you also get the weapons, consumables and ammo required to put them down. You may also encounter a few additional companions along the way.
+一个狂乱的难度，游戏性会趋向更多的战斗和杀戮。有更多新怪物出现，更早出现高等级的敌人，而且比平时更强大，更有攻击性。然而，你也能得到打倒它们所需的武器、消耗品和弹药。你也可能在路上遇到一些额外的同伴。
 
-You can't use guns, but you get access to a new set of melee weapons to help you overcome this challenge! Monster strength is normal but spawns are similar to Brutalizing.
-你不能使用枪支，但你可以获得一套新的近战武器，以帮助你克服这一挑战！怪物强度是普通级的，但新怪物的出现跟狂暴难度相似。
+You can't use guns, but you get access to a new set of melee weapons to help you overcome this challenge! Monster strength is normal but spawns are similar to Brutalizing. You may also find a few additional companions. Perfect for second playthroughs.
+你不能使用枪支，但你可以获得一套新的近战武器，以帮助你克服这一挑战！怪物强度是普通级的，但新怪物的出现跟狂暴难度相似。你也可能找到一些额外的同伴。非常适合第二次通关。
 
 Got a hefty Axe.
 得到了一把重斧。
@@ -655,6 +655,15 @@ Picked up an Enchanted Purple Ink Recipe.
 Picked up Great Forge Instructions.
 拾取了大锻炉说明。
 
+Picked up a Damp Note.
+拾取了湿纸条。
+
+Picked up a Mansion Sketch.
+拾取了公馆草图。
+
+Added an Ancient City Map to the journal.
+增加了一幅古城地图到日志中。
+
 Iron pickaxe - A simple iron pickaxe used for mining.   (Quest Item)
 铁镐 - 用于采矿的简易铁镐。  (任务物品)
 
@@ -1023,3 +1032,12 @@ Enchanted Purple Ink Recipe - Reading this scroll could offer some insight on ho
 
 Great Forge Instructions - Reading this scroll could offer some insight on how to operate the Great Forge's equipment.
 大锻炉说明 - 阅读此卷可以了解如何操作大锻炉的设备。
+
+Damp Note - Reading this note could offer some insight on what it is supposed to represent.
+湿纸条 - 阅读这张纸条可以提供一些关于它应该代表什么的见解。
+
+Mansion Sketch - Reading this sketch could offer some important information about the mansion grounds.
+公馆草图 - 阅读这幅草图可以提供一些关于公馆场地的重要信息。
+
+Ancient City Map - The ancient map inside the breached case seems to have been dmaged by the elements and passage of time.
+古城地图 - 破裂箱子里的古代地图似乎已经被元素和时间的流逝所破坏。

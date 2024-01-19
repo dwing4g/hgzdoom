@@ -509,31 +509,31 @@ Script 55 (void)
     If(CheckProximity(0, "IDEarthMother", 640.0, 1) || CheckProximity(0, "IDEarthMotherGuarding", 640.0, 1))
 	  {
 		SetLineSpecial(339, 0, 0, 0, 0, 0, 0);
-	    Hudmessage(s:"Earth Mother:    I can sense the Baron's foul presence at sea. Let's take that ship and pursue him!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Earth Mother:    I can sense the Baron's presence at sea! But we must wait for our sisters to catch up!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_GREEN, 1.5, 0.82, 6.5, 0.2, 0.5);
 	  }
 	else
     If(CheckProximity(0, "IDBearWarrior", 640.0, 1) || CheckProximity(0, "IDBearWarriorGuarding", 640.0, 1))
 	  {
 		SetLineSpecial(339, 0, 0, 0, 0, 0, 0);
-	    Hudmessage(s:"Bear Warrior:    Look! There's only one ship left, the Baron and his minions must have fled at sea!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Bear Warrior:    Looks like the Baron has fled! Gah, we have to wait for Grund and the others now..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKBROWN, 1.5, 0.82, 6.5, 0.2, 0.5);
 	  }
 	else
     If(CheckProximity(0, "IDWitch", 640.0, 1) || CheckProximity(0, "IDWitchGuarding", 640.0, 1))
 	  {
 		SetLineSpecial(339, 0, 0, 0, 0, 0, 0);
-	    Hudmessage(s:"Witch:    Looks like we're too late. Perhaps we can use that ship to chase the Baron at sea?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_PURPLE, 1.5, 0.82, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Witch:    Looks like we're too late. We might as well wait for our sisters to catch up, hm?"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_PURPLE, 1.5, 0.82, 6.5, 0.2, 0.5);
 	  }
 	else
     If(CheckProximity(0, "IDReaver", 640.0, 1) || CheckProximity(0, "IDReaverGuarding", 640.0, 1))
 	  {
 		SetLineSpecial(339, 0, 0, 0, 0, 0, 0);
-	    Hudmessage(s:"Reaver:    The Baron's fleet isn't here... he must have fled at sea. Let's grab that boat and chase him!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.82, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Reaver:    The Baron's fleet isn't here... he must've fled at sea. Let's wait for our sisters."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKRED, 1.5, 0.82, 6.5, 0.2, 0.5);
 	  }
 	else
     If(CheckProximity(0, "IDFixer", 640.0, 1) || CheckProximity(0, "IDFixerGuarding", 640.0, 1))
 	  {
 		SetLineSpecial(339, 0, 0, 0, 0, 0, 0);
-	    Hudmessage(s:"Fixer:    Uh-oh, I think the Baron's gone. We could use that ship to chase after him at sea..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 6.5, 0.2, 0.5);
+	    Hudmessage(s:"Fixer:    Uh-oh, I think the Baron's gone. We better stay put here and wait for our sisters..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 6.5, 0.2, 0.5);
 	  }
 }
 
@@ -1555,7 +1555,7 @@ Script 11 (void)
 //ROTATING DOORS
 Script 2 (void)
 {
-	If(GetActorZ(0) > -372)
+	If(GetActorZ(0) > -384.0)
 	{
 	  Print(s:"The doors are locked from the inside.");
       PlaySound(0, "Interaction/Locked", CHAN_AUTO);
@@ -1651,7 +1651,7 @@ Script 180 (void)
 
 Script 181 (void)
 {
-  If(GetActorZ(0) < -292.0)
+  If(GetActorZ(0) > -384.0)
   {
 	SetLineSpecial(52, ACS_Execute, 181, 0, 0, 0, 0);
     Polyobj_DoorSwing(359,16,64,175);

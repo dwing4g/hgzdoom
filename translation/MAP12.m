@@ -27,8 +27,9 @@ Bear Warrior:    Hey! Is that Zan?!
 Bear Warrior:    Hold your fire! 
 Bear Warrior:    Well I'll be damned... the deserter shows up here, of any place.
 Drop your weapons, sergeant. You have some questions to answer... 
-Pit Lord:    HOW DARE YOU PLOT AGAINST US, YOU SCUM!? SLAY THEM ALL!!! 
-Pit Lord:    TRAITOR SCUM!!! 
+Pit Lord:    WE'VE HAD ENOUGH OF YOUR SCHEMING, CULTIST SCUM! WHERE ARE YOU HIDING THE BOOKS?! 
+Pit Lord:    WRETCHED TRAITORS!!! 
+The door's lock seems to be more intricate than expected. 
 The door won't budge. 
 The lock appears to have a circular hollow socket. 
 The lock appears to have a square hollow socket. 
@@ -38,8 +39,6 @@ These doors require a Golden key to open.
 This door requires a Copper key to open. 
 These doors require a Copper key to open. 
 This door requires a Withered Vine key to open. 
-These doors require a Copper key to open. 
-These doors require a Withered Vine key to open. 
 These doors require a Copper key to open. 
 These doors require a Golden key to open. 
 (The hefty book seems to have belonged to a demon. Pages decorated with hellish glyphs contain an undated journal)
@@ -122,7 +121,7 @@ To my great surprise, Mistress Nithriel has visited us today. She looked rather 
 disk with her. I asked if it was related to the recent storm and the decay of the crystals, but she wouldn't tell.
 She asked me to claim one of the demon books and accompany her.  At last! A chance to leave this cursed house! 
 (Judging by the poor grammar, the journal must have belonged to one of the servants. The last entry seems important)
-Today Body Master gave me room gem key to keep safe. He told me others will look for it and I keep it hidden. 
+Today Body Master give me his room gem to keep safe. Mind dogs lurk around library but they don't know gem is with me. 
 NO PASSWORD, NO ENTRY!!! 
 I knew it would happen!  That Mind Master slime has waited for us to find something of value and used his spells on
 our brethren! Someone stole the crystal powering the inner temple gate and trapped my master inside! I went to look
@@ -130,16 +129,16 @@ for the scum and found him in the chapel, guarding the temple key with a powerfu
 we outnumber his men, so he's planning to starve my master out! And no other cyan crystal we tried could unlock him!
 We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides
 psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish
-it...  the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
-of those Psishrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
+it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
+of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
 I knew it would happen!  That Mind Master slime has waited for us to find something of value and used his spells on
 our brethren! Someone stole the crystal powering the inner temple gate and trapped my master inside! I went to look
 for the scum and found him in the chapel, guarding the temple key with a powerful psionic field.  He knows well that
 we outnumber his men, so he's planning to starve my master out! And no other cyan crystals we tried could free him...
 We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides
 psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish
-it...  the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
-of those Psishrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
+it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
+of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
 Since our conscripts may either miss their tongues or ears, we concluded that the best way to handle
 the password is to write a set of words on a paper and simply show it to the door guard after knocking.
 You will receive a new scroll every week. Make sure to take care of it, and incinerate the old one. 
@@ -164,10 +163,16 @@ claim them for ourselves. And don't raise suspicions! I can't afford to lose you
 - One is in the chapel, shielded by my wretched brother and his mentalists...
 - A servant saw him move another book to his quarters using his mind powers
 - The one held by the Demons in the theatre hall will be the hardest to get... 
+KEEP OUT 
+(The torn, dirt-caked parchment looks like it was carelessly discarded by someone. It is signed by a Pit Lord)
+I'd like to remind you all that the unholy seals are the only thing keeping the orcs outside the gate from tearing
+your worthless flesh apart.      We are growing ever tired of all the plotting and bickering over who gets to own the
+unholy books. We're stationed here by the will of the Blue Baron, and won't hold back from culling any attempt at
+undermining our authority by force.     So stop fighting now, or we'll start stomping out your empty cultist skulls. 
 CHAPEL OF THE WORLDLY TRINITY
 Built by Master Emeric for the Istedor family, anum 989 
 GIANT EXPLOSIVE RED CRYSTAL FORMATION
-DON'T HIT OR TOUCH! KEEP YOUR DISTANCE 
+DON'T STRIKE! KEEP YOUR DISTANCE 
 SKULL OF JORIK THE SECOND 
 ALLARIA'S FLUTE 
 ORCISH URN 

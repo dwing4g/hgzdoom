@@ -493,11 +493,13 @@ Script 6 (void)
 	  {
 	  spec6 += 1;
 	  ACS_Execute(7, 0, 0, 0, 0);
+	  SetActorProperty(0, APROP_Gravity, 0.8);
 	  }
 	  else
 	  {
 	  spec6 -= 1;
 	  ACS_Terminate(7, 0);
+	  SetActorProperty(0, APROP_Gravity, 1.0);
 	  }
 }
 //Deactivator
@@ -507,6 +509,7 @@ Script 8 (void)
 	  {
 	  spec6 -= 1;
 	  ACS_Terminate(7, 0);
+	  SetActorProperty(0, APROP_Gravity, 1.0);
 	  }
 }
 //Shooter
@@ -516,6 +519,36 @@ Script 7 (void)
 	Delay(50);
 	Restart;
 }
+//FIRE THORN SOFTLOCK FAILSAFE
+int spec98 = 0;
+Script 98 (void)
+{
+	If(GameSkill() == 5)
+	{
+		If(IsTIDUsed(402) == 0 && CheckInventory("FireHammer") == 0 && spec98 == 0 && GetSectorFloorZ(231, 0, 0) == -148.0)
+		{
+			spec98 += 1;
+			SpawnSpotForced("HedonTeleportFogDemon", 403, 0, 0);
+			PlaySound(403, "misc/teleport", CHAN_AUTO);
+			Delay(8);
+			SpawnSpot("PitLord", 403, 0, 192);
+		}
+	}
+	else
+	If(IsTIDUsed(402) == 0 && CheckInventory("FragfireGunLoaded") == 0 && CheckInventory("FragfireCan") == 0 && spec98 == 0 && GetSectorFloorZ(231, 0, 0) == -148.0)
+	{
+		spec98 += 1;
+		SpawnSpotForced("HedonTeleportFogDemon", 403, 0, 0);
+		PlaySound(403, "misc/teleport", CHAN_AUTO);
+		Delay(8);
+		SpawnSpot("PitLord", 403, 0, 192);
+	}
+}
+Script 99 (void)
+{
+	Line_SetBlocking(411, 0, BLOCKF_MONSTERS);
+}
+
 //WATER TEMPLE HALL MAGMA BALL TRAP
 Script 32 (void)
 {
@@ -753,6 +786,30 @@ Script 23 (void)
 }
 
 
+//BEDROOM TELEPORTER
+Script 100 (void)
+{
+	If(GetActorZ(0) > -128.0)
+	{
+		If(GetActorProperty(405, APROP_Health) > 0)
+		{
+			Thing_Deactivate(405);
+		}
+
+		Teleport_Nofog(404, 1, 0, 0);
+		SpawnSpotForced("HedonTeleportFogDemon", 404, 0, 0);
+		PlaySound(0, "misc/teleport", CHAN_AUTO);
+		SetActorAngle(0, 0.25);
+		SetActorPitch(0, 0.0);
+
+		If(GetActorProperty(405, APROP_Health) > 0)
+		{
+			Delay(24);
+			Thing_Activate(405);
+		}
+	}
+}
+
 
 //MUSEUM EXPLOSIVE CRYSTAL
 int spec21 = 0;
@@ -965,6 +1022,7 @@ Script 93 (void)
 	{
 	SetLineSpecial(383, 0, 0, 0, 0, 0, 0);
 	HudmessageBold(s:"Body Master:    Who sent you here, demon?! Kill her, you fools!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_DARKGREEN, 1.5, 0.86, 4.5, 0.2, 0.5);
+	SetActorFlag(0, "NOPAIN", 1);
     }
 }
 
@@ -974,6 +1032,7 @@ Script 94 (void)
 	{
 	SetLineSpecial(384, 0, 0, 0, 0, 0, 0);
 	HudmessageBold(s:"Mind Master:    What a peculiar intruder... I'd love to split your head open!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_BRICK, 1.5, 0.86, 4.5, 0.2, 0.5);
+	SetActorFlag(0, "NOPAIN", 1);
     }
 }
 
@@ -1245,7 +1304,7 @@ Script 43 (void)
 //Farm Breach
 Script 89 (void)
 {
-	SetLineSpecial(215, 0, 0, 0, 0, 0, 0);
+	//SetLineSpecial(215, 0, 0, 0, 0, 0, 0);
     Floor_LowerByValue(216, 9999, 76);
 	SpawnSpotForced("ExplosionHuge", 293, 0, 0);
 	SpawnSpotForced("FireTinyLooping", 290, 662, 0);
@@ -1260,9 +1319,10 @@ Script 89 (void)
 	Thing_Hate(292, 291, 3);
 	SpawnSpotForced("PitLord", 389, 663, 128);
 	SetActorFlag(663, "AMBUSH", 1);
-	Delay(35);
-	Hudmessage(s:"Pit Lord:    HOW DARE YOU PLOT AGAINST US, YOU SCUM!? SLAY THEM ALL!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 4.5, 0.2, 1.5);
+	Delay(24);
+	Hudmessage(s:"Pit Lord:    WE'VE HAD ENOUGH OF YOUR SCHEMING, CULTIST SCUM! WHERE ARE YOU HIDING THE BOOKS?!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.80, 6.5, 0.2, 1.5);
 	PlaySound(663, "PitLord/Sight", CHAN_AUTO, 1.0, false, ATTN_NONE);
+
 }
 Script 97 (void)
 {
@@ -1273,7 +1333,7 @@ Script 97 (void)
 	PlaySound(663, "Projectile/Thud", CHAN_AUTO, 1.0, false, ATTN_NONE);
 	Thing_Damage(386, 1, 0);
 	Radius_Quake(2, 16, 0, 1, 0);
-	Hudmessage(s:"Pit Lord:    TRAITOR SCUM!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 2.5, 0.2, 1.5);
+	Hudmessage(s:"Pit Lord:    WRETCHED TRAITORS!!!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_ORANGE, 1.5, 0.82, 2.5, 0.2, 1.5);
 	}
 }
 
@@ -1336,6 +1396,9 @@ Script 65 (void)
     If(CheckInventory("WitheredVineKey") > 0)
 	{
 		SetLineSpecial(348, 0, 0, 0, 0, 0, 0);
+		SpawnSpotForced("Mentalist", 409, 665, 192);
+		SpawnSpotForced("Cerberus", 410, 665, 192);
+		SetActorFlag(665, "AMBUSH", 1);
 		Delay(16);
 		Thing_Activate(349);
 		Floor_LowerByValue(142, 8, 64);
@@ -1386,6 +1449,17 @@ Script 66 (void)
 	}
 }
 
+//BODY MASTER ROOM DOOR ATTACKER
+Script 103 (void)
+{
+	If(CheckInventory("InventoryBodyGem") > 0)
+	{
+		SetLineSpecial(408, 0, 0, 0, 0, 0, 0);
+		SpawnSpotForced("Conscript", 406, 664, 0);
+        Thing_Hate(664, 407, 3);
+	}
+}
+
 
 
 //BAR GATE LEVERS
@@ -1411,8 +1485,15 @@ Script 42 (void)
 //MASTER DOORS
 Script 28 (void)
 {
+	Print(s:"The door's lock seems to be more intricate than expected.");
+    PlaySound(0, "Character/ZanThink", CHAN_AUTO);
+	Delay(35);
+}
+
+Script 104 (void)
+{
 	Print(s:"The door won't budge.");
-    PlaySound(0, "Character/ZanFail2", CHAN_AUTO);
+	PlaySound(0, "Character/ZanFail2", CHAN_AUTO);
 	Delay(35);
 }
 
@@ -1431,6 +1512,12 @@ Script 30 (void)
 		PlaySound(153, "Interaction/Locked", CHAN_AUTO, 0.5);
 		SetLineTexture(162, SIDE_FRONT, TEXTURE_MIDDLE, "SLAB6");
 		SetLineSpecial(152, ACS_Execute, 632, 0, 0, 0, 0);
+		Thing_remove(407);
+		If(GetActorProperty(664, APROP_Health) > 0)
+		{
+		  PlaySound(664, "Cultist/Sight", CHAN_AUTO);
+		  Thing_Hate(664, 0, 3);
+	    }
 	}
 	else
 	{
@@ -1531,8 +1618,16 @@ Script 182 (void)
     }
 }
 
+int spec184 = 0;
 Script 184 (void)
 {
+  If(GetActorZ(0) < -146.0 && spec184 == 0)
+  {
+	  spec184 += 1;
+	  ACS_Execute(89, 0, 0, 0, 0);
+	  Delay(35);
+  }
+  else
   If(GetActorZ(0) < -146.0)
   {
     Polyobj_DoorSwing(356,16,64,175);
@@ -1665,15 +1760,15 @@ Script 538 (void)
 
 Script 539 (void)
 {
-  If(GetActorZ(0) < 67.0 && CheckInventory("WitheredVineKey") > 0)
+  If(GetActorZ(0) < 67.0 && CheckInventory("CopperKey") > 0)
   {
     Polyobj_DoorSwing(719,16,64,175);
 	Polyobj_DoorSwing(539,-16,64,175);
   }
     else
-    If(GetActorZ(0) < 67.0 && CheckInventory("WitheredVineKey") == 0)
+    If(GetActorZ(0) < 67.0 && CheckInventory("CopperKey") == 0)
     {
-      Print(s:"These doors require a Withered Vine key to open.");
+      Print(s:"These doors require a Copper key to open.");
       PlaySound(0, "Interaction/Locked", CHAN_AUTO);
     }
 }
@@ -1810,7 +1905,7 @@ Script 71 (void)
 Script 72 (void)
 {
 	SetFont ("OLAYTBOT");
-    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 90.0);
+    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 120.0);
 
 	SetFont("SMALLFONT");
 	Hudmessage(s:"(The greasy pages of the tome appear to hold the journal of the Body Master)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.62, 120.0);
@@ -1935,13 +2030,13 @@ Script 76 (void)
 	SetFont("SMALLFONT");
 	Hudmessage(s:"(Judging by the poor grammar, the journal must have belonged to one of the servants. The last entry seems important)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.86, 15.0);
 
-	Hudmessage(s:"Today Body Master gave me room gem key to keep safe. He told me others will look for it and I keep it hidden."; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.90, 15.0);
+	Hudmessage(s:"Today Body Master give me his room gem to keep safe. Mind dogs lurk around library but they don't know gem is with me."; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.90, 15.0);
 }
 
 Script 77 (void)
 {
-	SetFont ("OLAYTMID");
-    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 5.0);
+	//SetFont ("OLAYTMID");
+    //HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 5.0);
 
 	SetFont("SMALLFONT");
 	Hudmessage(s:"NO PASSWORD, NO ENTRY!!!"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 5.0);
@@ -1962,8 +2057,8 @@ Script 78 (void)
 
 	Hudmessage(s:"We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides"; HUDMSG_PLAIN | HUDMSG_LOG, 6, CR_UNTRANSLATED, 1.5, 0.84, 90.0);
 	Hudmessage(s:"psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish"; HUDMSG_PLAIN | HUDMSG_LOG, 7, CR_UNTRANSLATED, 1.5, 0.86, 90.0);
-    Hudmessage(s:"it...  the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one "; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.88, 90.0);
-	Hudmessage(s:"of those Psishrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them.     "; HUDMSG_PLAIN | HUDMSG_LOG, 9, CR_UNTRANSLATED, 1.5, 0.90, 90.0);
+    Hudmessage(s:"it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one "; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.88, 90.0);
+	Hudmessage(s:"of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them.    "; HUDMSG_PLAIN | HUDMSG_LOG, 9, CR_UNTRANSLATED, 1.5, 0.90, 90.0);
     }
 	else
 	{
@@ -1978,8 +2073,8 @@ Script 78 (void)
 
 	Hudmessage(s:"We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides"; HUDMSG_PLAIN | HUDMSG_LOG, 6, CR_UNTRANSLATED, 1.5, 0.84, 90.0);
 	Hudmessage(s:"psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish"; HUDMSG_PLAIN | HUDMSG_LOG, 7, CR_UNTRANSLATED, 1.5, 0.86, 90.0);
-    Hudmessage(s:"it...  the brain was easy to obtain, and the Spirit Mistress certainly has a \c[Gold]Soul Stone\c-. But then I would also need one "; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.88, 90.0);
-	Hudmessage(s:"of those \c[Gold]Psishrooms\c-... they only grow in areas affected by high psionic emissions, so it will take a while to find them.     "; HUDMSG_PLAIN | HUDMSG_LOG, 9, CR_UNTRANSLATED, 1.5, 0.90, 90.0);
+    Hudmessage(s:"it...   the brain was easy to obtain, and the Spirit Mistress certainly has a \c[Gold]Soul Stone\c-. But then I would also need one "; HUDMSG_PLAIN | HUDMSG_LOG, 8, CR_UNTRANSLATED, 1.5, 0.88, 90.0);
+	Hudmessage(s:"of those \c[Gold]Psi-shrooms\c-... they only grow in areas affected by high psionic emissions, so it will take a while to find them.    "; HUDMSG_PLAIN | HUDMSG_LOG, 9, CR_UNTRANSLATED, 1.5, 0.90, 90.0);
     }
 
 }
@@ -2011,6 +2106,8 @@ Script 80 (void)
 
 	Hudmessage(s:"PS:  Careful with the harp, it's more expensive than you are. And be ready for a raid, the demons' commander"; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.88, 35.0);
 	Hudmessage(s:"has caught onto some of our plans. I can only hope our insider isn't actually planning to get us all butchered."; HUDMSG_PLAIN | HUDMSG_LOG, 6, CR_UNTRANSLATED, 1.5, 0.90, 35.0);
+
+	Delay(35);
 }
 
 Script 81 (void)
@@ -2056,6 +2153,31 @@ Script 95 (void)
 	}
 }
 
+Script 101 (void)
+{
+	If(GetActorZ(0) > -128.0)
+	{
+		//SetFont ("OLAYTMID");
+        //HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 1.0);
+
+		SetFont("SMALLFONT");
+		Hudmessage(s:"KEEP OUT"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 1.0);
+	}
+}
+
+Script 102 (void)
+{
+	SetFont ("OLAYTBOT");
+    HudMessage (s:"a"; HUDMSG_PLAIN, 9999, CR_UNTRANSLATED, 1.5, 1.0, 30.0);
+
+	SetFont("SMALLFONT");
+	Hudmessage(s:"(The torn, dirt-caked parchment looks like it was carelessly discarded by someone. It is signed by a Pit Lord)"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.80, 30.0);
+	Hudmessage(s:"I'd like to remind you all that the unholy seals are the only thing keeping the orcs outside the gate from tearing   "; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.84, 30.0);
+	Hudmessage(s:"your worthless flesh apart.      We are growing ever tired of all the plotting and bickering over who gets to own the"; HUDMSG_PLAIN | HUDMSG_LOG, 3, CR_UNTRANSLATED, 1.5, 0.86, 30.0);
+	Hudmessage(s:"unholy books. We're stationed here by the will of the Blue Baron, and won't hold back from culling any attempt at"; HUDMSG_PLAIN | HUDMSG_LOG, 4, CR_UNTRANSLATED, 1.5, 0.88, 30.0);
+	Hudmessage(s:"undermining our authority by force.     So stop fighting now, or we'll start stomping out your empty cultist skulls. "; HUDMSG_PLAIN | HUDMSG_LOG, 5, CR_UNTRANSLATED, 1.5, 0.90, 30.0);
+}
+
 Script 96 (void)
 {
 	SetFont("SMALLFONT");
@@ -2071,7 +2193,7 @@ Script 14 (void)
 
 	SetFont("SMALLFONT");
 	Hudmessage(s:"GIANT EXPLOSIVE RED CRYSTAL FORMATION"; HUDMSG_PLAIN | HUDMSG_LOG, 1, CR_UNTRANSLATED, 1.5, 0.50, 6.0);
-    Hudmessage(s:"DON'T HIT OR TOUCH! KEEP YOUR DISTANCE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 6.0);
+    Hudmessage(s:"DON'T STRIKE! KEEP YOUR DISTANCE"; HUDMSG_PLAIN | HUDMSG_LOG, 2, CR_UNTRANSLATED, 1.5, 0.52, 6.0);
 }
 
 Script 15 (void)
@@ -2217,4 +2339,17 @@ If(GetScreenWidth() >= 1440 && GetScreenWidth() < 2560)
 Script 901 (void)
 {
 	Thing_Remove(901);
+}
+
+//DRAWING
+Script "OpenDrawing4" (void)
+{
+	SetFont ("OLAYTDRD");
+	HudMessage (s:"a"; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.10, 9999.0);
+}
+
+Script "CloseJournal" (void)
+{
+	Setfont("SMALLFONT");
+	Hudmessage(s:""; HUDMSG_PLAIN, 1999, CR_UNTRANSLATED, 1.5, 0.5, 0.1);
 }

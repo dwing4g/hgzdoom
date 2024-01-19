@@ -52,8 +52,8 @@ Map10 - Crystal Heart (Major Spoilers)
 ???:   ...wake. Up.
 ???: ...醒..来..
 
-This door requires an Axe key to open.
-这扇门需要一把斧钥匙才能打开。
+This door requires a key to open.
+这扇门需要一把钥匙才能打开。
 
 The shelf won't budge.
 架子纹丝不动。
@@ -67,8 +67,14 @@ The gun socket is missing a power source.
 The gun is too overheated to be fired again.
 枪支过热无法再次发射。
 
+Orc:    Look out!
+兽人：小心!
+
 Bear Warrior:    Look out!
 熊战士：小心!
+
+Goblin:    Look out!
+哥布林：小心!
 
 Reaver:    Look out!
 里弗：小心!
@@ -78,6 +84,18 @@ Orc:    Zan! Over here!
 
 Goblin:    Over here, sergeant!
 哥布林：在这里，中士！
+
+Orc:    Over here! By the windows!
+兽人：在这里！窗户这边！
+
+Goblin:    Over here, Zan! By the windows!
+哥布林：在这里，瓒！窗户这边！
+
+Orc:    Hey, Zan! Come over here!
+兽人：嘿，瓒！来这边！
+
+Goblin:    Wait, sargeant! Need some help here!
+哥布林：等等，中士！这里需要一些帮助！
 
 Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help.
 熊战士：我很高兴见到你，中士！恶魔们把我们困在这里，我们需要帮助。

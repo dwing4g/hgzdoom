@@ -2303,6 +2303,7 @@ Script 118 (void)
 	If(GetActorProperty(666, APROP_Health) <= (GetActorProperty(666, APROP_SpawnHealth) - GetActorProperty(666, APROP_SpawnHealth)/2 - GetActorProperty(666, APROP_SpawnHealth)/10) && spec118 == 1)
 	{
 	  spec118 = 2;
+	  Autosave();
 	  SetActorFlag(666, "NODAMAGE", 1);
 	  ACS_Execute(77, 0, 0, 0, 0);
 	  Terminate;
@@ -4074,6 +4075,7 @@ Script 105 (void) //Earth Mother
 //GRINDER
 Script 77 (void)
 {
+	Delay(16);
 	Hudmessage(s:"Blue Baron:    Your grasp over reality is weak... come... jump into the abyss..."; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_LIGHTBLUE, 1.5, 0.86, 3.5, 1.2, 1.5);
     PlaySound(0, "BlueBaron/Growl", CHAN_AUTO);
     SetActorFlag(0, "NODAMAGE", 1);
@@ -4081,7 +4083,7 @@ Script 77 (void)
 	PlaySound(0, "PsiDemon/AttackA", CHAN_AUTO);
 	FadeTo(255, 100, 180, 1.0, 4.0);
 	Delay(3*35);
-	Autosave();
+	//Autosave(); crashes
 	Delay(1*35);
 	SetActorFlag(0, "NODAMAGE", 0);
 	FadeTo(0, 0, 0, 1.0, 4.0);
@@ -4304,7 +4306,7 @@ Script 82 (void)
 	{
 	  ACS_Terminate(120, 0);
 	  ACS_Terminate(110, 0);
-	  Hudmessage(s:"Nithriel:    Oh, great precursors, I am coming! I shall guide you to back to our world!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_WHITE, 1.5, 0.84, 6.5, 0.2, 1.5);
+	  Hudmessage(s:"Nithriel:    Oh, great precursors, I am coming! I shall guide you back to our world!"; HUDMSG_FADEINOUT | HUDMSG_LOG, 100, CR_WHITE, 1.5, 0.84, 6.5, 0.2, 1.5);
       PlaySound(506, "Nithriel/Active", CHAN_AUTO, 1.0, false, ATTN_NONE);
 	}
 

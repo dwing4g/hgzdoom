@@ -19,8 +19,8 @@ You don't have anything to fix the bridge with.
 You'll need a shovel to dig here. 
 The mechanism lacks an operation lever. 
 Gaun:    Mmmm, another guest. Come in, girl, don't be shy. I'm Gaun, Primarch of Prestige, King of Glory!!
-Elzriel:    Hi there Gaun... bloated full of shit as always, aren't you?
-Gaun:    Silence! That's no way to addrrss the greatest Primarch there is! 
+Elzriel:    Hi there Gaun... bloated and full of shit as always, aren't you?
+Gaun:    Silence! That's no way to address the greatest Primarch there is! 
 Yes, I am the greatest demon primarch! And you are a great warrior too! Unlike this red fraud here...
 Mmmm, I know what you two desire. You wish to kill the Baron, don't you? Which one of you will do it, mmm?
 You see these statues, Halfling? Legends of your clan, immortalized in stone! Springs of envy for your eyes.
@@ -84,6 +84,8 @@ The Baron wants me to crush the orcs, but someone sabotaged the nearby gate, cut
 The gate needs a special winch wheel to open. Take this key and go find a spare one in the salt mine.
 You seem tougher than the rabble I sent there before you, so hurry up! The orcs can return anytime! 
 Lord Eberon:    Arrgh! Kill all these lowly traitors! Finish them off and I'll reward you handsomely! 
+Lord Eberon:    You got the wheel?! The gate mechanism is by the elevator to the salt mine, hurry up!!! 
+Lord Eberon:    Are you deaf?! I said the mechanism is by the elevator to the salt mine!!! Move it!!! 
 Lord Eberon:    *Squints* I bet it's Yzbeth who sabotaged the gate. Does she think she can outsmart me?! 
 Lord Eberon:    Serve me well... I reward my loyal agents handsomely. So move your ass! Open that gate!!! 
 Lord Eberon:    *Squints* You're not one of Yzbeth's hellions, are you? My vision is too clouded to tell... 
@@ -213,7 +215,7 @@ They are weavers of chaos and sin, and will undoubtedly try to corrupt you. Use 
 And make haste. The Queen of Wrath is already ahead of you, but we can't put the same trust in her as in you.
 If we don't slay the Baron here, the hordes of chaos will conquer the world. So go! Fire burn in your heart! 
 Press Use to skip briefing 
-Minotaur Lord Murguth:    You can't reach the Baron without the demon primarchs' taint. This book will tell you more... 
+Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more... 
 Captain Dura:    I was wondering when you'd show up... wait, what? Our lookouts got into trouble?
 Damn it! Alright, I'll send a squad up there to clean up the mess. As for you, come in, Grund wants to see you. 
 Captain Dura:    You're late, sergeant... and what the fuck happened to the lookout squad? Ugh, Earth's mercy...
