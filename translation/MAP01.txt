@@ -11,7 +11,7 @@ grab more items from the room here, though it's not advised for 1st runs.
 间里抓取更多的物品，不过不建议你在第一次运行时这样做。
 
 Please give me all your feedback and report bugs through ModDB comments
-请通过ModDB评论或电子邮件（hedongame@yahoo.com）给我所
+请通过ModDB评论或电子邮件 hedongame@yahoo.com 给我所
 
 or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
 有的反馈和报告bug。谢谢你，祝你玩得愉快! - 瓒
@@ -20,31 +20,31 @@ Map01 - Cold Rock ->Play Normally
 地图01 - 寒岩 -> 正常游戏
 
 Map02 - Plaza (Minor Spoilers)
-地图02 - 广场 (Minor Spoilers)
+地图02 - 广场 (轻度剧透)
 
 Map03 - Barracks (Minor Spoilers)
-地图03 - 兵营 (轻微剧透)
+地图03 - 兵营 (轻度剧透)
 
 Map04 - Technical Space (Minor Spoilers)
-地图04 - 技术空间 (轻微剧透)
+地图04 - 技术空间 (轻度剧透)
 
 Map05 - Grove (Moderate Spoilers)
-地图05 - 树林 (中度破坏者)
+地图05 - 丛林 (中度剧透)
 
 Map06 - Errant Signal (Major Spoilers)
-地图06 - 错误的信号 (主要剧透)
+地图06 - 错误的信号 (重度剧透)
 
 Map07 - Parapet (Moderate Spoilers)
-地图07 - 栏杆 (中度破坏者)
+地图07 - 护栏 (中度剧透)
 
 Map08 - Pale Wind (Major Spoilers)
-地图08 - 苍白的风 (主要剧透)
+地图08 - 苍风 (重度剧透)
 
 Map09 - Research and Decay (Major Spoilers)
-地图09 - 研究与腐烂 (主要剧透)
+地图09 - 研究与衰败 (重度剧透)
 
 Map10 - Crystal Heart (Major Spoilers)
-地图10 - 水晶之心 (主要剧透)
+地图10 - 水晶之心 (重度剧透)
 
 ???:   ...wake up...
 ???: ...醒来...
@@ -68,70 +68,70 @@ The gun is too overheated to be fired again.
 枪支过热无法再次发射。
 
 Orc:    Look out!
-兽人：小心!
+兽人: 小心!
 
 Bear Warrior:    Look out!
-熊战士：小心!
+熊战士: 小心!
 
 Goblin:    Look out!
-哥布林：小心!
+哥布林: 小心!
 
 Reaver:    Look out!
-里弗：小心!
+里弗: 小心!
 
 Orc:    Zan! Over here!
-兽人：瓒！在这里！
+兽人: 瓒! 在这里!
 
 Goblin:    Over here, sergeant!
-哥布林：在这里，中士！
+哥布林: 在这里，中士!
 
 Orc:    Over here! By the windows!
-兽人：在这里！窗户这边！
+兽人: 在这里! 窗户这边!
 
 Goblin:    Over here, Zan! By the windows!
-哥布林：在这里，瓒！窗户这边！
+哥布林: 在这里，瓒! 窗户这边!
 
 Orc:    Hey, Zan! Come over here!
-兽人：嘿，瓒！来这边！
+兽人: 嘿，瓒! 来这边!
 
 Goblin:    Wait, sargeant! Need some help here!
-哥布林：等等，中士！这里需要一些帮助！
+哥布林: 等等，中士! 这里需要一些帮助!
 
 Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help.
-熊战士：我很高兴见到你，中士！恶魔们把我们困在这里，我们需要帮助。
+熊战士: 我很高兴见到你，中士! 恶魔们把我们困在这里，我们需要帮助。
 
 Bear Warrior:    The horned bastards have sealed off every exit! There's no way we can get out of here.
-熊战士：那些长角的混蛋把所有的出口都封死了! 我们不可能从这里出去。
+熊战士: 那些长角的混蛋把所有的出口都封死了! 我们不可能从这里出去。
 
 Bear Warrior:    These bars are way too thick, I can't break them. Help us figure something out, sarge!
-熊战士：这些栅栏太厚了，我打不破它们。帮我们想想办法吧，中士!
+熊战士: 这些栅栏太厚了，我打不破它们。帮我们想想办法吧，中士!
 
 Bear Warrior:    All these ambushes... our squad got separated and torn apart one by one.
-熊战士：所有这些伏击......我们的小队被分开了，一个个都被撕碎了。
+熊战士: 所有这些伏击... 我们的小队被分开了，一个个都被撕碎了。
 
 Bear Warrior:    We're running out of ammo and time. Soon, they'll be all over us! Do something!
-熊战士：我们已经没有弹药和时间了。很快，他们就会围攻我们了! 做点什么吧!
+熊战士: 我们已经没有弹药和时间了。很快，他们就会围攻我们了! 做点什么吧!
 
 Reaver:    Hey, Zan, good to see you in one piece. We're cornered in here, you have to help us!
-里弗：嘿，赞，很高兴看到你完好无损。我们被围困在这里，你必须帮助我们!
+里弗: 嘿，赞，很高兴看到你完好无损。我们被围困在这里，你必须帮助我们!
 
 Reaver:    The demons have blocked all the access points to the cathedral, separating us from our squad.
-里弗：恶魔们封锁了大教堂的所有通道，把我们和我们的小队隔开了。
+里弗: 恶魔们封锁了大教堂的所有通道，把我们和我们的小队隔开了。
 
 Reaver:    I tried squeezing through these bars but no dice. We don't have much time until they come...
-里弗：我试着挤过这些栅栏，但没有成功。在他们来之前，我们没有多少时间了......
+里弗: 我试着挤过这些栅栏，但没有成功。在他们来之前，我们没有多少时间了...
 
 Reaver:    I can already hear the Cerberi howling... We're just sitting ducks in here! Darn it!
-里弗：我已经能听到地狱犬的嚎叫了。我们在这里只能坐以待毙了。该死的！
+里弗: 我已经能听到地狱犬的嚎叫了。我们在这里只能坐以待毙了。该死的!
 
 Reaver:    We've lost so many sisters... I hope our main force is having better fortune. Screw this mess...
-里弗：我们失去了这么多姐妹... 我希望我们的主力部队能有更好的运气。去他的混乱...
+里弗: 我们失去了这么多姐妹... 我希望我们的主力部队能有更好的运气。去他的混乱...
 
 Ghastly Bear Warrior:    *Stares blankly*
-可怕的熊战士：*茫然地盯着*
+可怕的熊战士: *茫然地盯着*
 
 Ghastly Reaver:    *Stares blankly*
-可怕的里弗：*茫然地盯着*
+可怕的里弗: *茫然地盯着*
 
 This door is locked from the other side.
 这扇门从另一边被锁住了。
@@ -152,40 +152,40 @@ This seems to be activated somewhere else.
 这似乎是在其他地方被激活的。
 
 I think that tremor from two days ago is related to these giant worms that have been pestering
-我认为两天前的震荡与这些一直纠缠我们的巨大虫子有关。   既
+我认为两天前的震荡与这些一直纠缠我们的巨大虫子有关。
 
 us.    Since I already need to head back to Valc and drop by the Clinic to have my finger checked
-然我已经需要回到瓦尔克，顺便去诊所检查一下我的手指，我也
+既然我已经需要回到瓦尔克，顺便去诊所检查一下我的手指，
 
 on, I might as well inform the Lancer Council about our problems here. Be back in two days. -Dura
-不妨把我们这里的问题告知兰瑟委员会。两天后回来。-杜拉
+我也不妨把我们这里的问题告知兰瑟委员会。两天后回来。 -杜拉
 
 Chieftain Zura, I have news. We managed to capture one of the worms that have been troubling us
-祖拉酋长，我有消息。我们成功捕获了最近一直困扰我们的一只虫子。  你现在
+祖拉酋长，我有消息。我们成功捕获了最近一直困扰我们的一只虫子。
 
 lately.   You could send in one of your Witches now, we will do our best to aid her research. I hope
-可以派你的一个女巫来，我们会尽力帮助她研究。我希望我们能找到一种方法
+你现在可以派你的一个女巫来，我们会尽力帮助她研究。我希望我们能找到
 
 we find a way to deter them before they cave in all our tunnels, and fi - (the text ends abruptly)
-来阻止它们，免得它们在我们所有的隧道里钻洞，而且--（文字戛然而止）
+一种方法来阻止它们，免得它们在我们所有的隧道里钻洞，而且 - (文字戛然而止)
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，快门已被设定为在短时间内关闭回来。
 
 Don't use it unless you can signal someone to let you back in.        The waterfall gate
-不要使用它，除非你能发出信号让别人让你回去。       瀑布门要保
+不要使用它，除非你能发出信号让别人让你回去。
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-持关闭，直到女巫到达。  我们不能让那个被诅咒的虫子逃走。
+瀑布门要保持关闭，直到女巫到达。我们不能让那个被诅咒的虫子逃走。
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，卷闸门已被设置为在短时间内关闭回来。
 
 Don't use it unless you can signal someone to let you back in.        The waterfall gate
-不要使用它，除非你能示意别人让你回去。       瀑布门要保持
+不要使用它，除非你能示意别人让你回去。瀑布门要保持关闭，
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-关闭，直到女巫到达。  我们不能让那个被诅咒的虫子逃走。
+直到女巫到达。我们不能让那个被诅咒的虫子逃走。
 
 The dwarven prospector should arrive by the end of the moon.
 矮人探矿者应该在月末之前到达。
@@ -194,16 +194,16 @@ If he is wearing an elemental ring signet,  you may let him in.
 如果他戴着元素戒指的徽章，你可以让他进来。
 
 I'm writing this with my dying breath..this woman.. came out of nowhere and snuffed everyone out before we
-我是用我的生命写下这篇文章的。这个女人......不知道从哪里冒出来，在我们还没来得及拔出
+我是用我的生命写下这篇文章的..这个女人.. 不知道从哪里冒出来，在我们还没来得及拔出
 
 could even draw our weapons...  I was the only survivor...She vanished as quickly as she appeared, and left
-武器的时候就把所有人都干掉了。 我是唯一的幸存者......她一出现就消失了，留下了一些奇怪
+武器的时候就把所有人都干掉了... 我是唯一的幸存者...她一出现就消失了，留下了一些奇怪
 
 some odd pentagrams...then cultists started gating from them! Killed a few but one stabbed me in the leg...
-的五角星......然后邪教分子开始从他们身上跳出来 杀死了几个，但有一个刺伤了我的腿......
+的五角星...然后邪教分子开始从他们身上跳出来 杀死了几个，但有一个刺伤了我的腿...
 
 If any sister reads this...   rush to Valc...  if Demons are behind this, they must be after the Crystal Heart...
-如果有姐妹看到这篇文章......赶紧去找瓦尔克......如果恶魔是幕后黑手，他们一定是为了水晶之心......
+如果有姐妹看到这篇文章...   赶紧去找瓦尔克...  如果恶魔是幕后黑手，他们一定是为了水晶之心...
 
 POWER CRYSTAL STORAGE ROOM
 能量晶体储存室
@@ -221,7 +221,7 @@ moon is almost upon us. Earth Mother Druga has also left you a task, she needed 
 到了。大地之母德鲁加也给你留下了一个任务，她需要有人帮助完成一个护身符。
 
 I'll leave you my Spike Gun,  you know where to find the extra mags.     And try not to drink all the wine this time.
-我把我的尖刀枪留给你，你知道在哪里可以找到多余的弹夹。    这次尽量不要把酒喝光。
+我把我的尖刀枪留给你，你知道在哪里可以找到多余的弹夹。这次尽量不要把酒喝光。
 
 As your mastress has probably informed you, I need you to finish making an amulet for me. I've
 正如你的女主人可能已经通知你的那样，我需要你为我完成一个护身符
@@ -275,7 +275,7 @@ for I'd burst into ash in mere moments if I were to break it by accident. I need
 果我不小心弄坏了它，我很快就会爆裂成灰。我需要找点时间来进一步研究它。   如
 
 it further.    If only my sisters hadn't decided to begin their campaign and call us all to arms right now...
-果我的姐妹们没有决定开始他们的运动，并呼吁我们所有人现在就拿起武器......
+果我的姐妹们没有决定开始他们的运动，并呼吁我们所有人现在就拿起武器...
 
 B. I've managed to get one of those odd protection amulets from the Orcs. However, I'll need the
 B. 我已经设法从半兽人那里得到了一个古怪的保护符。然而，我需要适当的水晶
@@ -287,34 +287,34 @@ shards when they prepare the supply caravan, and drop them at the spot we agreed
 时候抓到一些发光的碎片，然后把它们和我其他的装备一起放在我们约定的地
 
 the rest of my gear.   I will pitch in with this nice ruby I've... acquired.   Make it worthwhile.   -   G.
-点。  我会用我......获得的这块漂亮的红宝石来投稿。  让它物有所值。  - G.
+点。  我会用我获得的这块漂亮的红宝石来...帮忙。  让它物有所值。  - G.
 
 (You unroll a damp note. Someone has probably dropped it without noticing)
-(你展开一张潮湿的纸条。可能有人在没有注意到的情况下把它丢了)
+(你展开一张湿纸条。可能有人在没有注意到的情况下把它丢了)
 
 Captain Dura's Log - Rot. 509 Day 238
-杜拉上尉的日志--腐烂。509 第238天
+杜拉上尉的日志 - 第509轮 第238天
 
 I really don't like these small quakes.    Earth forbid we wake up with more cave-ins.   And the
-我真的不喜欢这些小地震。   地球保佑，我们醒来时有更多的塌陷。
+我真的不喜欢这些小地震。希望我们醒来时不会有更多坍塌。
 
 crystals seem to be acting weird too. The Power Cores have been running out unusually fast...
-  而且水晶似乎也表现得很奇怪。动力核心的消耗速度异常快......。
+而且水晶似乎也表现得很奇怪。动力核心的消耗速度异常快...
 
 Gah,  this place makes me feel so claustrophobic.      I did tell the goblins to carve the ceilings
-啊，这个地方让我觉得很幽闭。     我曾告诉地精们把天花板雕刻得更高
+啊，这个地方让我觉得很幽闭。我曾告诉地精们把天花板雕刻得更高
 
 higher, but they kept going on about the heat going out faster that way. I miss working in Valc.
 ，但他们一直在说这样热量会消耗得更快。我怀念在瓦尔克的工作。
 
 [...]   and now everyone's nervous while waiting for that dwarf to arrive.     We've suspended the mining
-[......]现在大家都很紧张，同时在等待那个矮人的到来。    我们已经暂
+[...]   现在大家都很紧张，同时在等待那个矮人的到来。    我们已经暂
 
 operations, lest more quakes bury us inside the tunnels along with those wretched worms.   They're big
 停了采矿作业，以免更多的地震把我们和那些可恶的虫子一起埋在隧道
 
 enough to swallow a goblin whole! We were making such smooth progress... these caverns are chock full
-里。  它们大得足以吞下整个地精！"。我们的进展如此顺利......这些洞
+里。  它们大得足以吞下整个地精! 我们的进展如此顺利... 这些洞
 
 of crystals, almost as many as there are rumored to be inside the Crystal Heart.  No wonder that the
 穴里充满了水晶，几乎和传闻中水晶之心里面的水晶一样多。 难怪
@@ -335,13 +335,13 @@ a full scale assault on our hellish domain. Once this bold affront is dealt with
 地狱领地发起了全面的攻击。一旦解决了这一大胆的冒犯，我将派我的恶魔
 
 troops to reclaim your shattered outposts and deliver the punishment for your failure to stop them...
-部队去夺回你们破碎的前哨，并对你们未能阻止他们的行为进行惩罚......
+部队去夺回你们破碎的前哨，并对你们未能阻止他们的行为进行惩罚...
 
 Make sure nobody leaves your petty little town, or the consequences will be worse than death. - B.B.
-请确保没有人离开你的小城镇，否则后果将比死亡更严重。- B.B.
+请确保没有人离开你的小城镇，否则后果将比死亡更严重。 - B.B.
 
 Rotation 509 - Day 233
-509轮--第233天
+第509轮 - 第233天
 
 We had a huge tremor today. I went out to check on the others and was surprised to see the elevator was
 今天我们发生了一次巨大的震荡。我出去查看其他人的情况，惊讶地发
@@ -350,7 +350,7 @@ not working.   After exchanging a few shouts with the goblins up inside the mine
 现电梯不工作了。  在与矿区营房内的地精们交流了几句后，我们发现
 
 was the switch that needed a new power core - good thing we had a bunch stocked up in the storage room.
-是开关需要一个新的动力核心--好在我们在储藏室里囤积了一批。
+是开关需要一个新的动力核心 - 好在我们在储藏室里囤积了一批。
 
 It's times like these when I'm so glad I asked Earth Mother Druga to grow the steel-vine doors for me. I'd
 在这种时候，我很高兴让大地之母德鲁加为我种出了钢藤门。我宁愿依靠祖先的魔法，也
@@ -359,148 +359,148 @@ rather rely on ancestral magic than some wacky goblin switch. Speaking of crysta
 不愿依靠一些古怪的妖精开关。说到水晶魔法，蔬菜的生长速度非常快，小鸡蛋也即将
 
 growing very quickly, and the chick eggs are about to hatch!    We won't need food from Valc for a while...
-孵化！我们将不需要从瓦勒姆那里获得食物。   我们暂时不需要瓦尔克的食物了......
+孵化! 我们将不需要从瓦勒姆那里获得食物。   我们暂时不需要瓦尔克的食物了...
 
 Rotation 509 - Day 237  ?
-轮回509 - 第237天 ?
+第509轮 - 第237天  ?
 
 That blasted worm's hissing is driving me crazy! It tried chewing through the vines, but they're too solid
 那只该死的虫子的嘶嘶声快把我逼疯了! 它试图咬断藤蔓，但它们太结实了，无法屈服。
 
 to yield. I can't get too close or it will spit this freezing cold slime at me... Gods, what is this creature?
-我不能靠得太近，否则它会向我吐出这种冰冷的粘液...... 神啊，这到底是什么生物？
+我不能靠得太近，否则它会向我吐出这种冰冷的粘液... 神啊，这到底是什么生物?
 
 Rotation 509 - Day 238  ?
-第509轮--第238天？
+第509轮 - 第238天  ?
 
 I woke up to a screech today? Hard to tell the time down here anymore.  The worm has found the chick
-我今天被一声尖叫惊醒了？这里已经很难分辨时间了。 虫子发现了躲在架子后面的
+我今天被一声尖叫惊醒了? 这里已经很难分辨时间了。 虫子发现了躲在架子后面的雏鸟...
 
 hiding behind the shelf...  that poor bird didn't stand a chance.  I'd go in and gut that beast, but Dura
-雏鸟......那只可怜的鸟没有机会了。 我想进去把那只野兽开膛破肚，但杜拉想先从
+那只可怜的鸟没有机会了。 我想进去把那只野兽开膛破肚，但杜拉想先从瓦尔克那里
 
 wants to get a Witch from Valc to study it first.   What an ordeal...  I tried going up to get a drink, but
-瓦尔克那里得到一个巫师来研究它。  多么大的折磨啊...  我想上去拿点喝的，但电
+带来一个巫师来研究它。  多么大的折磨啊...  我想上去拿点喝的，但电梯又坏了。
 
 the elevator is out yet again. At this rate we'll run out of power cores, and the goblins are too scared
-梯又坏了。照这样下去，我们的动力核心就要用完了，而地精们又害怕塌方，不敢
+照这样下去，我们的动力核心就要用完了，而地精们又害怕塌方，不敢去砸更多的墙。
 
 of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our offerings pleased You?
-去砸更多的墙。哦，地球，为什么如此愤怒？难道我们的供品都没有让你满意吗？
+哦，地球，为什么如此愤怒? 难道我们的供品都没有让你满意吗?
 
 An empty pedestal.
 一个空的基座。
 
 Tip: Remember that you can inspect the selected inventory item with (default: ENTER)
-提示：记住，你可以用（默认：ENTER）检查选择的库存物品。
+提示: 记住，你可以用 (默认: Enter键) 查看选择的库存物品
 
 (This tablet seems to be instilled with an Earth Magic spell. You already recited the spell)
-(这块石板似乎被灌输了一个大地魔法的咒语。你已经背诵了这个咒语)
+(这块石板似乎被灌输了一个大地魔法的咒语，你已经背诵了这个咒语)
 
 Tip: Press F1 to view the quick reference screen.
-提示：按F1键可以查看快速参考屏幕。
+提示: 按F1键可以查看快速参考屏幕。
 
 All messages can be reviewed in the console (default: Tilde)
-所有信息都可以在控制台中查看（默认：Tilde）。
+所有信息都可以在控制台 (默认: ~键) 中查看
 
 Tip: You won't get far without a map (default: TAB)
-提示：没有地图，你不会走远（默认：TAB）
+提示: 没有地图 (默认: Tab键) ，你走不了太远
 
 It has an overlay and normal mode that can be configured from: Options - Automap Options
-它有一个覆盖和正常模式，可以从：选项 - 自动地图选项中进行配置
+它有覆盖和正常两种模式，可以到这里配置: 选项 - 自动地图选项
 
 While in normal mode, you can zoom in/out (default: MWheel) and mark your current position with (default: M)
-在正常模式下，你可以放大/缩小（默认：MWheel），用（默认：M）标记你的当前位置。
+在正常模式下，你可以放大/缩小 (默认: 鼠标滚轮) ，用 (默认: M键) 标记你的当前位置
 
 Tip: Quest Items are not required to be manually selected.
-提示。任务项目不需要被手动选择。
+提示: 任务物品不需要手动选取。
 
 They are used automatically with (default: E)
-他们会自动使用（默认：E）。
+它们在按 (默认: E键) 时会被自动使用
 
 Tip: Use consumables with (default: F)
-提示：使用消耗品（默认：F）。
+提示: 用 (默认: F键) 使用消耗品
 
 Consumables and Quest Items are stored in your inventory. Scroll through it with (default: Z/X)
-消耗品和任务物品都储存在你的库存中。用（默认值：Z/X）滚动浏览它。
+消耗品和任务物品都储存在你的库存中，用 (默认: Z/X键) 滚动浏览它
 
 You can inspect the currently selected item for a brief description with (default: ENTER)
-你可以用（默认：ENTER）检查当前所选物品的简要描述。
+你可以用 (默认: Enter键) 查看当前所选物品的简要描述
 
 You can also set hotkeys for these items, or see the default ones in the help screen (default: F1)
-你也可以为这些项目设置热键，或者在帮助屏幕上看到默认的热键（默认：F1）。
+你也可以为这些项目设置快捷键，或者在帮助屏幕 (默认: F1键) 上看到默认的快捷键
 
 Tip: Crystal Amulets provide you with a set amount of armor.
-提示。水晶护身符可以为你提供一定量的护甲。
+提示: 水晶护身符可以为你提供一定量的护甲。
 
 Small Power Shards can provide a further bonus to your armor reserve.
 小型能量碎片可以为你的护甲储备提供进一步的奖励。
 
 Tip: Every weapon has an alternative attack mode (default: RMB)
-提示：每件武器都有一个可供选择的攻击模式（默认：RMB）。
+提示: 每件武器都有另一种攻击模式 (默认: 鼠标右键)
 
 You can perform quick kick attacks with (default: Q)
-你可以用（默认值：Q）进行快速踢击。
+你可以用 (默认: Q键) 进行快速踢击
 
 You can also perform jump kick and crouch-slide kick combos.
-你还可以进行跳踢和蹲滑踢连击。
+你还可以进行跳踢和蹲滑踢组合。
 
 Tip: You can only carry one Axe without a Bag of Holding.
-提示：你只能携带一把斧头，而不需要手提袋。
+提示: 你只能携带一把斧头，除非你有手提包。
 
 Tip: Keys show at the bottom right of the HUD.
-提示：钥匙显示在HUD的右下方。
+提示: 钥匙显示在HUD的右下方。
 
 Locked doors have a corresponding icon that can be seen on the map (default: TAB)
-锁定的门有一个相应的图标，可以在地图上看到（默认：TAB）。
+锁定的门有一个对应的图标，可以在地图 (默认: Tab键) 上看到
 
 Tip: Read scrolls, signs, tablets and books with (default: E)
-提示。用（默认：E）阅读卷轴、标志、石碑和书籍。
+提示: 用 (默认: E键) 阅读卷轴、标志、石碑和书籍
 
 Tip: You can avoid alerting groups of enemies by attacking with your fists (default: 1)
-提示：你可以通过用拳头攻击来避免惊动成群的敌人（默认为：1）
+提示: 你可以通过用拳头 (默认: 1键) 攻击来避免惊动成群的敌人
 
 Tip: Scroll through your inventory with (default: Z/X)
-提示：用（默认值：Z/X）滚动查看你的库存。
+提示: 用 (默认: Z/X键) 滚动查看你的物品
 
 Inspect your currently selected item with (default: ENTER)
-检查你当前选择的物品（默认：ENTER）。
+用 (默认: Enter键) 查看你当前选择的物品
 
 Tip: Inspect your currently selected item with (default: ENTER)
-提示：用（默认值：ENTER）检查你当前选择的物品。
+提示: 用 (默认: Enter键) 查看你当前选择的物品
 
 Tip: You can toggle sprinting with (default: Caps Lock)
-提示：你可以用（默认值：Caps Lock）来切换冲刺状态。
+提示: 你可以用 (默认: Caps Lock键) 切换冲刺状态
 
 Tip: Use the door with the Fist Symbol to end the level.
-提示：使用带有拳头符号的门来结束本关。
+提示: 使用带有拳头符号的门来结束本关。
 
 Tip: Consumables can be used anytime with (default: F)
-小贴士 消耗品可以随时使用（默认：F）。
+提示: 消耗品可以随时按 (默认: F键) 使用
 
 They can also be bound to hotkeys in the options.
-它们也可以在选项中被绑定到热键上。
+它们也可以在选项中被绑定到快捷键上。
 
 Tip: Quest Items are not required to be manually selected.
-小提示。任务物品是不需要手动选择的。
+提示: 任务物品不需要手动选取。
 
 They are used automatically with (default: E)
-他们会自动使用（默认：E）。
+它们在按 (默认: E键) 时会被自动使用
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
-如果你看不到背景中的植物，增加伽玛值，使其几乎不可见。
+如果你看不到背景中的植物，增加伽玛值，使其几乎不可见
 
 Press Strafe Left (default: A) to decrease gamma
-按Strafe Left（默认值：A）降低伽马值
+按左平移键 (默认: A) 降低伽马值
 
 Press Strafe Right (default: D) to increase gamma
-按向右扫射（默认值：D）增加伽马值。
+按右平移键 (默认: D) 增加伽马值
 
 Press Use (default: E) to continue
-按使用（默认：E）继续
+按使用键 (默认: E) 继续
 
 You can always adjust this setting from Options - Display Options
-你可以随时从选项--显示选项中调整这一设置。
+你可以随时从这处设置中调整: 选项 - 显示选项
 
 Somewhere in Hell...
 在地狱的某个地方...
