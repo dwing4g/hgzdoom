@@ -209,7 +209,7 @@ POWER CRYSTAL STORAGE ROOM
 能量晶体储存室
 
 As you may know,  we have been called to join our sisters in the Iron Division's campaign.      We will likely be away
-正如你可能知道的，我们被召唤去参加我们的姐妹们的铁师活动。  我们可能会离开几个月，
+正如你可能知道的，我们被召唤去参加我们的姐妹们的铁师战役。  我们可能会离开几个月，
 
 for months, and someone needs to tend to the camp this time.   I know you're eager to further your apprenticeship,
 这次需要有人照看营地。  我知道你很想继续修炼，但我们不能把所有人都带走。
@@ -275,7 +275,7 @@ for I'd burst into ash in mere moments if I were to break it by accident. I need
 我不小心弄坏了它，我就会瞬间爆裂成灰。我需要找点时间来进一步研究它。
 
 it further.    If only my sisters hadn't decided to begin their campaign and call us all to arms right now...
-如果我的姐妹们还没决定开始她们的活动，并呼吁我们所有人马上拿起武器...
+如果我的姐妹们还没决定开始她们的战役，并呼吁我们所有人马上拿起武器...
 
 B. I've managed to get one of those odd protection amulets from the Orcs. However, I'll need the
 B. 我已经设法从半兽人那里得到了一个古怪的保护符。然而，我需要适当的水晶
@@ -299,7 +299,7 @@ I really don't like these small quakes.    Earth forbid we wake up with more cav
 我真的不喜欢这些小地震。希望我们醒来时不会有更多坍塌。
 
 crystals seem to be acting weird too. The Power Cores have been running out unusually fast...
-而且水晶似乎也表现得很奇怪。动力核心的消耗速度异常快...
+而且水晶似乎也表现得很奇怪。能量核心的消耗速度异常快...
 
 Gah,  this place makes me feel so claustrophobic.      I did tell the goblins to carve the ceilings
 啊，这个地方让我觉得很幽闭。我曾告诉哥布林们把天花板凿得更高，
@@ -350,7 +350,7 @@ not working.   After exchanging a few shouts with the goblins up inside the mine
 电梯不工作了。  在与矿区营房内的哥布林们交流了几句后，我们发现
 
 was the switch that needed a new power core - good thing we had a bunch stocked up in the storage room.
-是开关需要一个新的动力核心 - 好在我们在储藏室里囤积了一批。
+是开关需要一个新的能量核心 - 好在我们在储藏室里囤积了一批。
 
 It's times like these when I'm so glad I asked Earth Mother Druga to grow the steel-vine doors for me. I'd
 在这种时候，我很高兴让大地之母德鲁加为我种出了钢藤门。我宁愿依靠祖先的魔法，
@@ -383,7 +383,7 @@ wants to get a Witch from Valc to study it first.   What an ordeal...  I tried g
 带来一个巫师来研究它。  多么大的折磨啊...  我想上去拿点喝的，但电梯又坏了。
 
 the elevator is out yet again. At this rate we'll run out of power cores, and the goblins are too scared
-照这样下去，我们的动力核心就要用完了，而哥布林们又害怕塌方，不敢去砸更多的墙。
+照这样下去，我们的能量核心就要用完了，而哥布林们又害怕塌方，不敢去砸更多的墙。
 
 of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our offerings pleased You?
 哦，大地，为什么如此愤怒? 难道我们的供品都没有让你满意吗?
