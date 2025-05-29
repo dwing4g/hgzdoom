@@ -1,113 +1,113 @@
-This gate requires a Crystal key to open. 
-Lith:   *Hums*
-Abhaoth:   Not yet.
-Nithriel has found me. She has dampened my strength...
-...you're close... but I cannot guide you any longer...
-...hold onto your breath. Someone is about to redeem herself.
-Lith:   *Gasps* 
-You see Chieftain Zura inside the tank. She doesn't seem to be conscious. 
-Cerberus:    *Whines* 
-The starving Cerberus seems to be gnawing on a key. 
-The steel bars look scratched and worn out. 
-The switch appears to be functional but the security bars won't budge. 
-This door requires an Earth key to open. 
-This door requires an Axe key to open. 
-This door requires a Crystal key to open. 
-The switch does nothing, but you don't have much need for a portal anymore. 
-ELEVATOR TO ICEPEAK 
-(An elegantly ornated ledger lies open on the desk.)
-Valc Clinic Logbook
-Rot. 509 Day 204; Bear Captain Dura: finger reattachment surgery, 120 gold pieces
-Rot. 509 Day 208; Tectus the Minotaur Pyromancer: horn regrowth, 350 gold pieces
-Rot. 509 Day 228-245; Witch Cosena: aesthetic treatment, 2400 gold pieces, 1000 adv. 
-To: Witch Chieftain Adjunct Lith
-From: Witch Doctor Adena
-There appears to be an issue with the lab storage doors in the southern operation rooms. The switches seem to open the door across instead of the door they're next to.        If this is some sort of farce, then I assure you that neither me nor Cosena's melting face find it funny.   I need a Fixer to come sort this out quickly. 
+这扇门需要用水晶钥匙开启。
+利思：*哼着*
+阿波豪斯：还没到时候。
+妮丝瑞尔找到了我……她削弱了我的力量……
+……你已经很接近了……但我无法再引导你前行……
+……屏住呼吸吧。有人即将自我救赎。
+利思：*惊呼*
+你看到罐子里的首领祖拉了。她似乎失去了意识。
+地狱三头犬：*呜咽着*
+饥饿的地狱三头犬似乎正在啃食一把钥匙。
+钢条看起来被刮得斑驳磨损。
+开关看似正常运作，但安全栏杆纹丝不动。
+这扇门需要用大地钥匙开启。
+这扇门需要用斧钥匙开启。
+这扇门需要用水晶钥匙开启。
+开关毫无作用，但你已不再需要传送门了。
+通往冰峰的电梯
+（一本精致装饰的账本摊开在办公桌上）
+瓦尔克诊所日志
+腐烂日第509天 第204日；熊队长杜拉：手指再植手术，120金币
+腐烂日第509天 第208日；牛头人火巫师泰克图斯：角再生治疗，350金币
+腐烂日第509天 第228-245日；女巫科森娜：美容护理，2400金币，1000声望值
+致：女巫首领助理利思
+从：女巫医生阿德娜
+实验室仓库门似乎存在异常。开关会打开对面的门而非它们旁边的门。如果这是某种恶作剧，我向您保证，我和科森娜融化的脸都不会觉得好笑。我需要一位修复者尽快前来解决这个问题。
 
 
-(A lengthy briefing details the first phase of the Iron Division campaign)
-Assault on Outpost 3
-[...]    Once our covert squads are in position and the crystal light signal is given, the bulk of the force will commence the assault. Using our newly researched toxic gas, the forward units will attack the palisades (while the Division advances) and hinder the defenders.   It is a known risk that the gas might spread within the outpost but since the inhabitants have been confirmed to be possessed, 'civilian' casualties are more than acceptable.
-
-
-
-The assault is expected to be over in few hours, with no losses on our side.     We do not expect the humans to be in shape to defend themselves, let alone suspect our sudden strike.     However, it is likely that the demons will become aware of our intentions as soon as we run their first batch of slaves through the blade, and therefore, the Lancer Council has instructed us to preserve as many resources as possible to avoid future logistic strains. 
+（一份详尽简报详细说明了铁军军团行动的第一阶段）
+对第三哨站的突袭
+[...] 一旦我们的秘密小队就位并接收到水晶光信号，主力部队将发起进攻。利用我们最新研究的毒气，先锋单位会攻击栅栏（同时军团推进），干扰守卫者。已知风险是毒气可能在哨站内扩散，但鉴于居民已被确认为被附身者，"平民"伤亡是可以接受的。
 
 
 
-COUNCIL ROOM 
-CHIEFTAIN ADJUNCT'S OFFICE 
-VALC LABORATORIES - NO UNAUTHORISED PERSONNEL ALLOWED 
-EMERGENCY ONLY 
-(The diary appears to belong to Witch Chieftain Adjunct Lith. Many of the final pages seem to have been torn away...)
-Day 188. No. No! NO! That wretch Zura has denied my project! Dangerous?! I would have expected anyone but HER to say such an ineptitude! She was the one supposed to bring my ideas to the Council... no, no, no, I will see the Lancers myself tomorrow. They will see beyond the veil, yes, they are much smarter than Zura! They do not fear the future.
-
-
-Day 189. I cannot believe... the feeling... two weeks...  two weeks and they set off to their doom!  They would rather throw themselves at death than take my plan into consideration.     For the first time, I saw it in their eyes, yes...
-
-fear. They fear all my ideas. They fear the creation of the perfect warrior... a warrior that would surely overthrow these weaklings.  Zura knows it too.  Oh, I understand now... that snake wants to steal my work and take Valc over!
-
-Day 190. Oh, the swine... she asked the Council to remain in Valc during the campaign. Further her weapon research...
-What a worthless lie! I can already feel her coming for my work... [...] The voice! The sweet cure... I passed out while working in the midst of dark fumes.  Her words were soothing... an Elf.  A beautiful, pale Elf! I thought they had been all eradicated by the Demons!   Yes, she hated the Demons with such passion, and had been watching me for so long...
-
-
-(The next few pages appear to have been violently torn away.)
-Day 196. It's been almost a week and Zura still hasn't approached me.  I have no time for her nonsense! Nithriel will help me fulfill my research.  Yes, she still talks to me in my dreams...  words so old and true.  And only I can help her crush the Demons, all while my ignorant sisters litter the battlefield.    Yes, Nithriel is right.   Today, it all begins...
-
-
-Day 197. They are beautiful! And Zura still hasn't noticed the missing Goblins... no, she was not there to see my dear
-Crawlers rise from their worthless flesh! Yes, yes, I can already see them swarm Hell itself! Just like in the dreams! 
-Universal Alchemist - Mixer Guide
-(You skim through the book for useful recipes. It also looks like one of the pages has been torn away)
-Potion of Greater Healing
-1, 2 - Vial of Healing
-Potion of Haste
-1, 5 - Vial of Healing
-7 - A couple of Fragfire Cans 
-Potion of Stoneskin
-8 - Potion of Might
-9, 10 - Power Shard 
-(A few entries from Lith's diary lie scattered on the dirty mattress)
-Day 202: I can hear them marching from here! Cluck cluck cluck! How dare they disturb my quiet sewer!?... oh!
-They are leaving Valc!   The mighty Iron Division and their dim witted allies headed for the meat grinder.  This means that I can finally fulfill the next part of Nithriel's plan. (The next sentences have been scratched off)
-
-Day 203:   Ah, I can finally spend more and more time on my work now that the clinic barely gets any visitors.  I have lost count of how many sleepless nights I have toiled here in the dark.   No dreams, yet I can still hear it.
-
-Her words guide me. The Crawlers were mere child's play.   Now, it is time for me to create the perfect warrior.
-(The third entry seems to be almost a month apart. The writing looks significantly shakier and harder to read)
-Day 231:    This is it.  Zura knows for sure now.  She's noted my absences, oh she knows for sure.  She knows about those missing Fixers, oh yes...     She will have me killed as soon as I finish the project.   Then SHE will claim it for herself!    But Nithriel knows too...   tonight, Zura will bow to me.    Then, I shall leave to turn the Parapet Ward off. Yes, enough dreams. Nithriel wants to see me in person, and the Crawlers aren't working fast enough for her. 
+突袭预计将在数小时内结束，我方无伤亡。我们不认为人类能恢复战斗力来防御，更不用说察觉我们的突然袭击了。然而，一旦我们将第一批奴隶通过刀刃处理，恶魔很可能会立刻察觉我们的意图，因此长枪兵议会已指示我们尽可能保存资源以避免未来后勤压力。
 
 
 
-(A watered-down bit of parchment is clinging to the moist stone)
-To: Chieftain Adjunct Lith
-None of the Fixers have shown up for work today. I don't recall being informed about their... leave?
-(The rest of the text is illegible or missing) 
-(This looks like a torn page from a recipe book. A new layer of shaky text covers the diagrams)
-Potion of Might
-1, 2, 3, 4 - Vial of Healing
-6 - Potion of Haste
-(Lith's write-over looks distressed. You notice many unequal heights and widths between letters)
-Day 239:  All my sisters are dead now!  Nithriel's powers are truly inspiring! She took Valc over in a mere few hours.
-And look what she's gifted me! My own stock of human slaves. Just what I needed to make the final adjustments... 
-(A bloodied note lies by the dead Witch)
-Lith has gone completely mad!   She was behind the missing staff members...  and this dark slime...   She's somehow managed to make it grow and expand... for how long has she been doing this? Chieftain Zura is nowhere to be found and (the text stops briefly). Humans! Warping in everywhere, we've been betrayed, we are falling back to Icepeak! 
+议会厅
+首领助理办公室
+瓦尔克实验室——禁止未经授权的人员进入
+仅限急用
+（这本日记似乎属于女巫首领助理利思。许多最后几页似乎被撕去了……）
+第188天。不！不！不！那个卑鄙的祖拉竟然否定了我的计划！危险？！我本以为除了她之外没人会说出如此愚蠢的话！她本该将我的想法带到议会……不，不，不，明天我要亲自去找长枪团。他们会看透迷雾，是的，他们比祖拉聪明得多！他们不会畏惧未来。
 
 
-(An ominous, dark sludge stains the side of the diary page. The smudgy text looks as if it were written with it)
-Day 240: It breaks my heart to see them go... Nithriel had her henchmen ship samples of my corruption along with my first generation of the successful experiment. My beautiful Golems... humans, orcs, all the same. Perfected.
+第189天。我无法相信……那种感觉……两周了……两周了，他们却走向灭亡！他们宁愿自寻死路也不愿考虑我的计划。第一次，我在他们眼中看到了恐惧……
 
-Yes, I have made them all perfect, all beautiful! And right now, they are on their way to put an end to the scum of Hell!    And after my foolish sisters retreat from the demons, I shall embrace them!    They will be perfect too!
+对我的所有想法感到恐惧。他们害怕创造完美战士……一个必将推翻这些弱者的战士。祖拉也明白这一点。哦，我终于明白了……那条蛇想偷走我的成果并夺取瓦尔克！
 
-Day 241: It cannot be!   My children!   Stupid, stupid, stupid!   She jumped from a ledge to her own death!   This is how they reward me for dulling their sense of pain!   Carelessness!   Do they believe they can FLY now?!   Stupid!!!
+第190天。哦，那下贱的东西……她请求议会留在瓦尔克进行战役期间的行动。进一步推进她的武器研究……
+多么毫无价值的谎言！我已能感受到她正向我的成果靠近……[...] 那声音！那甜蜜的治愈……我在黑暗烟雾中工作时晕倒了。她的言语如此安抚……一个精灵。一位美丽苍白的精灵！我以为他们早在恶魔手中被彻底消灭了！ 是的，她对恶魔充满如此强烈的憎恨，并且观察我这么久……
 
-Day 242: They are angry. No matter how hard I try, they fail to respect their mother. Traces of their precursor self.  Oh, how they struggle!  Silly dolls, you have long transcended individuality.  You are part of the web now. 
 
-(A blood-soiled diary page rests on the floor. The raw, red letters look freshly written)
-Day 244:     What a delightful guest have I had visiting today! The Demonblood in person! Oh, I must prepare her a proper welcome... no, no, she is so close, and my hair is such a greasy mess! Where'd I put that comb?... 
+（接下来几页似乎被暴力撕毁了。）
+第196天。已经快一周了，祖拉仍然没来找我。我对她的胡言乱语毫无兴趣！妮丝瑞尔会帮助我完成研究。是的，她仍在我的梦中与我说话……那些古老而真实的言语。只有我能帮助她击败恶魔，而我的愚昧姐妹们却在战场上制造混乱。是的，妮丝瑞尔说得对。今天，一切将开始……
 
-You don't have any ingredient for this socket. 
-You don't have any ingredients for these sockets. 
-You don't have any ingredient for this socket. 
-You must claim the potion from the tray first. 
-You fail to brew anything. 
+
+第197天。它们太美了！祖拉仍然没注意到失踪的哥布林……不，她根本没看到我亲爱的
+爬行者从毫无价值的肉身上苏醒！是的，是的，我已经能看见它们 swarm（涌向）地狱本身！就像梦中一样！
+全能炼金术士——混合指南
+（你翻阅书籍寻找有用的配方。看起来其中一页似乎被撕去了）
+强化治疗药水
+1, 2 - 治疗药剂
+加速药水
+1、5 - 治疗药剂
+7 - 几个碎火罐
+石肤药水
+8 - 力量药水
+9、10 - 能量碎片
+（利思日记中的一些条目散落在脏污的床垫上）
+第202天：我能听到它们从这里行军！咯咯咯！他们怎么敢打扰我的安静下水道？……哦！
+它们正在离开瓦尔克！强大的铁军和他们的愚钝盟友正前往绞肉机。这意味着我终于可以完成妮丝瑞尔计划的下一步。（接下来的句子被刮去了）
+
+第203天：啊，现在诊所几乎没人来，我可以终于花更多时间在工作上。我已经数不清在这里黑暗中熬过了多少个无眠之夜。没有梦境，但我仍能听见那声音。
+
+她的言语指引着我。爬行者不过是孩童的游戏。现在，是时候创造完美的战士了。
+（第三条似乎间隔了一个月。字迹明显更加潦草且难以辨认）
+第231天：这就是了。祖拉现在已经确信了。她注意到我的缺席，哦，她完全清楚。她知道那些失踪的修复者，没错……她会在项目完成后立刻将我杀死。然后她会独自占有这一切！但妮丝瑞尔也知晓……今夜，祖拉将会向我臣服。之后，我将前往关闭城垛屏障。是的，够了。妮丝瑞尔想亲自见我一面，而爬行者行动得太缓慢了。
+
+
+
+（一片被水浸湿的纸张粘附在潮湿的石墙上）
+收件人：副酋长利思
+今天没有修复者来上班。我不记得有人通知过他们的……休假？
+（其余文字无法辨认或缺失）
+（这看起来像一本食谱书撕下的一页。新的潦草字迹覆盖了图示）
+力量药水
+1、2、3、4 - 治疗药剂
+6 - 迅捷药水
+（利思的涂改文字显得焦虑不安。你注意到字母之间高度和宽度差异很大）
+第239天：现在我的所有姐妹都死了！妮丝瑞尔的力量真是令人振奋！她仅用几个小时就征服了瓦尔克。
+看看她送我的礼物吧！我自己的人类奴隶库存。这正是我需要的最终调整材料……
+（一张染血的便条躺在死巫师身旁）
+利思彻底疯了！她策划了失踪的工作人员……还有这黑暗黏液……她 somehow 管理让它们生长蔓延……她究竟做了多久？首领祖拉无影无踪，（文字在此处突然中断）。人类！到处都是扭曲的身影，我们被背叛了，正撤退到冰峰！
+
+
+（一股阴森的黑色黏液污损了日记纸页的一侧。模糊的文字仿佛是用这黏液写成）
+第240天：看着他们离去令我心碎……妮丝瑞尔派她的爪牙将我的腐化样本与首批成功实验体一同运走。我美丽的石像鬼……人类、兽人，皆无差别。完美了。
+
+是的，我已经让它们全部完美、美丽！此刻，它们正前往地狱的渣滓中终结一切！在愚蠢的姐妹们从恶魔手中撤退后，我将拥抱她们！她们也会变得完美！
+
+第241天：这不可能！我的孩子们！愚蠢、愚蠢、愚蠢！她从悬崖跳下自杀了！这就是他们对我钝化痛感的回报？粗心大意！难道他们以为自己能飞翔了？！傻瓜！！！
+
+第242天：它们很愤怒。无论我如何努力，都无法让它们尊重母亲。残留着前身的自我痕迹。哦，它们挣扎得多可怜啊！愚蠢的玩偶，你们早已超越个体性。现在你们是网络的一部分了。
+
+（一张染血的日记页躺在地板上。鲜红的字迹看起来刚写不久）
+第244天：今天我接待了一位多么令人愉快的访客！恶魔之血本人！哦，我必须为她准备一个正式的欢迎仪式……不，不，她离得这么近，而我的头发却如此油腻！梳子放在哪儿了？...
+
+你没有这种插槽所需的材料。
+你没有这些插槽所需的材料。
+你没有这种插槽所需的材料。
+必须先从托盘上领取药水。
+你未能酿造任何东西。

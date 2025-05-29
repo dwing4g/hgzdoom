@@ -1,133 +1,133 @@
-Bear Warrior:    Sarge? You awake? Thought you were a goner... 
-Reaver:    Sergeant? Are you finally awake? Thought I'd lost you. 
-Reaver:    The portal clearly malfunctioned... I think we ended up on top of Valc. 
-Bear Warrior:    The portal just spat us out here... I think we ended up on top of Valc. 
-This dirt looks like it could be tunneled through with the proper tool. 
-This switch requires an Earth Key to activate the power source. 
-This switch requires a Crystal Key to activate the power source. 
-Bear Warrior:    Hey look! The Ward is destroying the cultist pentagrams! 
-Reaver:    The Ward is going back up! Look at the pentagrams fizzling! 
-The switch doesn't seem to work. You hear a distant rumble from outside. 
-Bear Warrior:    Damn it! These cultist bastards got all the way up here! 
-Reaver:    Oh, no... the cultists have gotten all the way up here. 
-(You discover what looks like a crudely drawn map of the surroundings)
-(A certain X mark grabs your attention. You copy its location over your own map) 
-(You glance over what looks like a crudely drawn map of the surroundings)
-(A certain X mark stands out, and you've already copied it into your own map) 
-You'll need a proper tool to dig here. 
-A magical seal seems to be holding the lever into place. 
-A magical seal prevents the switch from being activated. 
-The switch seems to not be powered right now. 
-This door requires an Earth key to open. 
-The glass looks like it was hit with massive force. It could probably break under another blow. 
-(The parchment is scribbled with various alchemical formulas) 
-(You spot a note carefully lodged in between the rocks. It's written in human tongue)
-If everything went according to plan, you should be reading this message.  Your source was right, the orc magician stationed here is carrying around one of those enchanted bags.  Had a hard time stealing it as the orcs seem to be overly jumpy.   Nonetheless, my job here is done.   I have hidden three notes that will explain how to retrieve the bag.   Don't worry, they won't find it very soon...
+熊战士：上尉？你醒了吗？我以为你挂了...
+掠夺者：中士？你终于醒了？我还以为丢了你。
+掠夺者：传送门明显出现了故障……我想我们可能落在瓦尔克上了。
+熊战士：传送门只是把我们吐到这儿……我想我们可能落在瓦尔克上了。
+这泥土看起来像是能用合适工具挖穿的。
+这个开关需要大地钥匙才能激活电源。
+这个开关需要水晶钥匙才能激活电源。
+熊战士：嘿快看！屏障正在摧毁邪教徒的五芒星！
+掠夺者：屏障正在恢复！看那些五芒星在闪烁！
+这个开关似乎没用。你听到外面传来远处的轰鸣声。
+熊战士：该死！这些邪教徒混蛋居然爬到了这里！
+掠夺者：该死……邪教徒居然爬到了这里！
+（你发现一张看起来像是粗糙绘制的周围环境地图）
+（某个X标记吸引了你的注意。你将其位置复制到自己的地图上）
+（你瞥见一张看起来像是粗糙绘制的周围环境地图）
+（某个X标记格外显眼，你已将其复制到自己的地图上）
+你需要合适的工具才能在这里挖掘。
+一个魔法封印似乎将杠杆固定在原位。
+一个魔法封印阻止了开关的激活。
+这个开关目前似乎没有通电。
+这扇门需要用大地钥匙才能打开。
+玻璃看起来像是遭受了巨大冲击。再一击恐怕就能打破它。
+（羊皮纸上潦草地写满了各种炼金术公式）
+（你发现一张小心夹在岩石间的便条，是用人类语言书写的）
+如果一切按计划进行，你现在应该正在阅读这条信息。你的消息来源没错，驻守这里的兽人法师正携带一个这样的魔法袋。偷取它时遇到了困难，因为兽人们似乎异常警觉。不过，我的任务已经完成。我藏了三张便条，会说明如何找回这个袋子。别担心，他们不会很快发现……
 
 
 
-The first clue is - CL.  I've hidden the second note behind the chimney, near the two guard towers.
-I probably don't have to tell you to memorize this and then burn the note, but just to make sure. 
-Our two troublemakers have gotten into a fight again. This time, they've managed to crack one of the windows in the barracks...     The crystal glass may stand up to its reputation, but we will still have to replace it. Make sure you make the right requisition next time the supply caravan arrives.
+第一个线索是 - CL。我把第二张便条藏在烟囱后面，靠近两座守卫塔。
+我大概不用提醒你记住这些内容然后烧掉这张便条，但为了确保万无一失，我还是再说一遍。
+我们的两个麻烦制造者又打架了。这次他们成功打碎了兵营的一扇窗户……水晶玻璃或许能维持它的声誉，但我们仍需更换它。下次补给车队到来时，请务必正确申请。
 
 
-I will be heading out to the dwarven fortress tomorrow to settle a few important matters. I barely have time to give those rowdy Bear Warriors their due punishment...  their discipline seems to be as shaky as everything else lately. Nonetheless, I am counting on you to handle things until I return.
+我明天将前往矮人要塞处理一些重要事务。我几乎没时间给那些吵闹的熊战士们应有的惩罚……他们的纪律似乎和一切其他事情一样摇摇欲坠。不过，我指望你能在我回来前妥善处理一切。
 
 
-Oh, and don't forget to patch up the leaking pipes in the inner courtyard, alright? - Lancer Dendra 
-Hey, pass by the archive when you have time, and bring your shovel too. I've heard some strange noise behind one of the wall panels,  better check to make sure we don't have water leaking in. 
+哦，别忘了修补内院的漏水管道，好吗？——兰斯尔·登德拉
+嘿，有空的时候去趟档案馆，顺便带上你的铁锹……我听到其中一个墙板后面有奇怪的声音，最好检查一下，确保没有漏水。
 
-Hey, pass by the archive when you have time, and bring your shovel too. I've heard some strange noise behind one of the wall panels, better check to make sure we don't have water leaking in. 
+嘿，有空的时候去趟档案馆，顺便带上你的铁锹……我听到其中一个墙板后面有奇怪的声音，最好检查一下，确保没有漏水。
 
-Rot. 509, Day 237
-First they finished that elevator linking the Dwarven Fortress with Valc, and now the campaign began. I'm starting to think we won't have any of the bearded fellas coming through here for a while. I suppose that's less time recording trades and more time reading something interesting. 
-
-
-Chapter 3 - The Basic Crystals
-One of the most common magical crystals found inside the underground is the bright cyan one.
-It grows in spiral patterns, and the more the formation coils around, the greater is its age.
-It has interesting properties ranging from producing heat through an inner vibration to being able to attract or reject metal.   The light and warmth generated by this crystal allow for a lush flora to thrive away from sunlight.   Its use in our technology will be detailed later on.
+第509轮，第237天
+他们先是完成了连接矮人要塞与瓦尔克的电梯，现在战役正式开始了。我开始觉得有一段时间不会见到那些留着胡子的家伙了。我想这大概是花更少时间记录交易、更多时间读点有趣的东西了。
 
 
-Yellow crystals are another fairly common sight.     They are usually formed in bundles, but unlike cyan ones, they do not seem to possess the same ability to grow in time.     Therefore, it is considered that they are a finite resource, and are regarded as much more valuable. Their main property is that they store energy which is required to power up our machines. The power of these crystals is measured by the intensity of the glow  -  a bright core is generally suited for powering large installations, but is also more unstable.   For this reason, our energy guns such as Sentry Turrets or Crylances employ depleted shards that have a much duller glow.
+第三章 - 基础水晶
+在地下最常见的一种魔法水晶是那种明亮的青色水晶。
+它以螺旋状生长，缠绕得越多，年龄越大。
+它具有多种有趣的特性，从通过内部震动产生热量到能够吸引或排斥金属。这种水晶产生的光和热使茂盛的植被能够在无阳光的地方茁壮成长。其在我们技术中的应用将在后文详述。
 
 
-
-
-
-
-Armor Amulets are created from the same crystals, but they are imbued with magical spells.
-The process ends up altering the color, but this shall be better detailed in a future chapter. 
-MOUNTAIN GATE CONTROLS 
-(A journal lies open at the bottom of the chest. It seems to belong to a grunt named Griva)
-That swine, Udra, has cheated on the card game again yesterday.  She thinks that just because she's stronger, she can push everyone around like that. I've bought a Potion of Might, which I'll keep in the hiding spot.   Let's see how tough she'll be after I slip some of it into my drink before tonight's rematch. I don't care if Dendra puts the whip on us, Udra simply has to be put in place. 
-
-
-
-TO MOUNTAIN PASS 
-This door seems to be locked from the other side. 
-Lancer Dendra's Log, Rotation 509, Day 238
-Seems like I can hardly have any silence around the base this week.  Just as I was about to set off to the dwarven fortress to negotiate the further trades, I have to deal with Udra stirring another fight, this time with Griva.   They've managed to crack up one of the windows inside the barracks but as I went to lay discipline, I've discovered something far more worrying   -  a note.
-
-
-
-Hidden between a shutter and an iron panel, and written in Human language. Upon reading it, my expectations have been confirmed - my bag has been stolen! I've already tasked the Reavers to search around for other such notes, and devise a plan to ambush and root these rats out. I have a really bad feeling about this...        I know I should see to this matter by myself and try to find out where my bag has been hidden but dwarves are keen on punctuality so I'll have to leave now. 
-
-
-
-
-(A scroll lies hidden behind the chimney. You find that it is written in human language)
-Good, you've found the second note. Piecing all three together will reveal the location of a map that will point you the way. You're good with riddles so let's play it safe, shall we?
-
-Your second clue is - OS. The third part lies under the hibernating bear's nose. Good luck. 
-(A tiny note lies on the table. It seems to have been written by a human)
-So you've found the last note.  This one should now point you towards the bag's location.
-The last clue is - ET.  Search around the basket and you'll find it eventually. Good luck. 
-AUTOMATIC DEFENSE
-- OUTER SENTRY GUNS - 
-AUTOMATIC DEFENSE
-- INNER SENTRY GUNS - 
-CLOSET 
-STORAGE 
-SECURITY 
-CRYSTAL WARD CONTROL 
-LIVING QUARTERS 
-REPAIR BAY 
-CRYSTAL WARD ACTIVATION
-The Crystal Ward may only be deactivated under direct order from the Lancer Council. Should a powerful magical ritual require to be performed,  the commanding officer will be instructed directly on when and for how long should the defence be lowered.  Reactivating the ward can be done following three steps:       first, the commanding officer and her aide will use their keys on the two switches that control the power crystal sources. Secondly, the maintenance crew must manually turn on the four support pillars at the ward's base.   The pillars can be activated at any time, but should not stay idle for hours.  Lastly, the middle switch will activate the ward.
+黄色水晶是另一种相当常见的景象。它们通常成束状形成，但与青色水晶不同，似乎不具备随时间增长的能力。因此，人们认为它们是一种有限资源，并被视为更具价值。其主要特性是能够储存能量，这些能量用于驱动我们的机器。这些水晶的能量通过其发光强度来衡量——明亮的核心通常适合为大型设施供电，但也更加不稳定。因此，我们如守卫炮塔或水晶长矛这类能量武器会使用耗尽的碎片，它们的发光更为暗淡。
 
 
 
 
 
 
-WARNING:  Do not activate if any large scale magic is being performed in Valc or its proximity. 
-CRYSTAL WARD ACTIVATION
-The Crystal Ward may only be deactivated under direct order from the Lancer Council. Should a powerful magical ritual require to be performed,  the commanding officer will be instructed directly on when and for how long should the defence be lowered.  Reactivating the ward can be done following three steps:       first, the commanding officer and her aide will use their keys on the two switches that control the power crystal sources. Secondly, the maintenance crew must manually turn on the four support pillars at the ward's base.   The pillars can be activated at any time, but should not stay idle for hours.  Lastly, the middle switch will activate the ward.
+装甲护符也是由同种水晶制成，但其中蕴含着魔法咒语。
+这个过程最终会改变颜色，但这些细节将在未来的章节中更详细地描述。
+山门控制
+（一本日记摊开在箱子底部。看起来属于一个名叫格里瓦的杂兵）
+那个乌德拉又昨天在牌局上作弊了。她以为自己更强壮就能这样随意摆布大家。我已经买了一瓶力量药水，会藏在隐蔽的地方。今晚重赛前我往我的饮料里加点，看看她还能有多硬。就算丹德拉用鞭子抽我们，乌德拉也必须被收拾一下。
+
+
+
+通往山隘
+这扇门似乎从另一侧锁住了。
+丹德拉上尉的日记，第509轮，第238天
+看来这周基地很难安静下来了。我正准备前往矮人要塞谈判进一步的贸易时，又不得不处理乌德拉挑起的另一场冲突——这次是和格里瓦打起来。他们甚至砸碎了兵营里的一个窗户，但当我前去整顿纪律时，却发现了一件更令人担忧的事——一张纸条。
+
+
+
+隐藏在百叶窗和铁板之间，用人类语言写成。当我读完它时，我的猜测得到了证实——我的背包被偷了！我已经让掠夺者们四处搜寻类似的纸条，并制定计划伏击这些老鼠。我感觉这件事很不妙……我知道应该亲自处理此事并查明背包的下落，但矮人族非常注重守时，所以我得现在就离开。
+
+
+
+
+（一张卷轴隐藏在烟囱后方。你发现它也是用人类语言书写的）
+好，你找到了第二张纸条。将三张拼合起来就能找到地图的位置，这张地图会指引你前进的方向。你擅长解谜，那我们还是小心行事吧？
+
+你的第二条线索是 - OS。第三部分藏在冬眠熊的鼻子下面。祝你好运。
+（一张小纸条放在桌上。看起来像是人类写的）
+你已经找到了最后一张纸条。这张应该能指引你找到背包的位置。
+最后一条线索是 - ET。在篮子周围搜索，最终会找到它。祝你好运。
+自动防御系统
+- 外部守卫炮塔 -
+自动防御系统
+- 内部守卫炮塔 -
+储物柜(CLOSET)
+仓库(STORAGE)
+安全系统(SECURITY)
+水晶屏障控制
+生活区
+维修湾
+水晶屏障激活
+水晶屏障只能在长枪兵议会的直接命令下解除。若需执行强大的魔法仪式，指挥官将被明确指示何时以及持续多久降低防御。重新激活屏障需遵循三个步骤：首先，指挥官及其助手需使用钥匙操作控制能量晶体来源的两个开关；其次，维护团队必须手动开启屏障底部的四个支撑柱。这些支撑柱可随时启动，但不应长时间闲置；最后，中间的开关将激活水晶屏障。
 
 
 
 
 
 
-WARNING:  Do not activate if any large scale magic is being performed in Valc or its proximity. 
-I haven't received word from our cultists tasked with taking over the dwarven fortress.
-The attack is either still going, or these fools have perished in the snow before they could even get to draw steel. Mistress Nithriel has specifically ordered to keep this base sealed off to any visitors,  as it is critical to our ability to teleport reinforcements in.      I have blocked the switch for the mountain gate with a magical seal. Nobody is to tamper with it. 
-
-
-
-I haven't received word from our cultists tasked with taking over the dwarven fortress.
-The attack is either still going, or these fools have perished in the snow before they could even get to draw steel. Mistress Nithriel has specifically ordered to keep this base sealed off to any visitors,  as it is critical to our ability to teleport reinforcements in.      I have blocked the switch for the mountain gate with a magical seal. Nobody is to tamper with it. 
-
-
-
-(A fancy journal sits on the nightstand. The pages are decorated with earthly symbols)
-It's been six days since that Witch, Lith, came here with a Ward deactivation order. I can't help but wonder what they are doing... the order was indeed signed by their chieftain, Zura, and had the Council's approval seal on it, but she refused to give out any information about what ritual was being performed. Clearly it has to be something strong since we need to lower the Ward so it doesn't tamper with their magic. Dendra didn't seem to care much. I believe she's going through a hard time keeping the base together, and now she's about to set off to the dwarven fortress.
+警告：若在瓦尔克或其周边区域进行大规模魔法施放，请勿激活。
+水晶屏障激活
+水晶屏障只能在长枪兵议会的直接命令下解除。若需执行强大的魔法仪式，指挥官将被明确指示何时以及持续多久降低防御。重新激活屏障需遵循三个步骤：首先，指挥官及其助手需使用钥匙操作控制能量晶体来源的两个开关；其次，维护团队必须手动开启屏障底部的四个支撑柱。这些支撑柱可随时启动，但不应长时间闲置；最后，中间的开关将激活水晶屏障。
 
 
 
 
 
-...perhaps I'm being too judgemental about Witches. After all, nothing bad has happened so far.
-The deactivation order expires tomorrow, so I'll have to go turn on the Crystal Ward by myself, and then I'll probably have some time to help the Reavers find out whoever stole Dendra's bag. 
+
+警告：若在瓦尔克或其周边区域进行大规模魔法施放，请勿激活。
+我尚未收到负责夺取矮人要塞的邪教徒的消息。
+攻击要么仍在进行中，要么这些蠢货已在雪地中丧生，连武器都没来得及拔出。妮丝瑞尔女士特别下令必须封锁此基地以防任何访客进入，因为这对我们的传送增援能力至关重要。我已用魔法封印了山门开关，任何人不得擅自触碰。
+
+
+
+我尚未收到负责夺取矮人要塞的邪教徒的消息。
+攻击要么仍在进行中，要么这些蠢货已在雪地中丧生，连武器都没来得及拔出。妮丝瑞尔女士特别下令必须封锁此基地以防任何访客进入，因为这对我们的传送增援能力至关重要。我已用魔法封印了山门开关，任何人不得擅自触碰。
+
+
+
+（一本精致的笔记本放在床头柜上。书页上装饰着大地符文）
+自从那个女巫利思带着屏障解除命令来到这里已经六天了。我不禁好奇他们到底在做什么……这份命令确实由他们的首领祖拉签署，并加盖了议会的批准印章，但她却拒绝透露正在进行的仪式内容。显然这必须是一项强大的魔法，因为我们需要降低屏障以免干扰他们的施法。丹德拉似乎并不太在意。我认为她正经历着艰难地维持基地运转的时期，而现在她即将前往矮人要塞。
+
+
+
+
+
+……也许我对女巫们过于苛责了。毕竟到目前为止还没有发生任何坏事。
+解除命令将在明天到期，所以我得亲自启动水晶屏障，之后大概还有时间帮助掠夺者查明是谁偷走了丹德拉的袋子。
 

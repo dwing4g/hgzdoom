@@ -1,129 +1,129 @@
-Bear Warrior:    Man, this place is colder than Moon's ass...
-Reaver:    At least you have some fur on. 
-Reaver:    *Shiver* So. Cold. 
-Bear Warrior:    Huh, a live one... 
-Reaver:    Looks like we have a survivor. 
-The thick layer of ice has a cracked spot that could be shattered with the proper tool. 
-The pedestal is empty. 
-It looks like the bridge has been destroyed by a fallen ice block. 
-You don't have enough materials to fix the bridge. 
-Sick Dwarf:   *Coughs* 
-Bear Warrior:    Too late for him now. C'mon, let's stop wasting time and get moving. 
-Reaver:    Did he just breathe?... hm, must be my imagination. Let's get going. 
-Reaver:    Let's hope this was worth it... 
-Bear Warrior:    There you go, buddy... 
-Andrik:   *Cough* Argh, that hit the spot! I can feel it purging me veins!
-Thought she could do ol' Andrik in, did she?
-*Rasp laughter* I've drunk far worse than her poison... though nothing ever made me see horned blue demons in orcish garb wandering about.
+熊战士: 哎呀，这地方冷得比月亮的屁股还寒...
+掠夺者: 至少你还有毛发保暖。
+掠夺者: *打颤* 太冷了。
+熊战士: 呵呵，活生生的家伙...
+掠夺者: 看来我们捡到个幸存者。
+厚重的冰层有个裂痕，可用合适工具击碎。
+石 pedestal 是空的。
+桥被坠落的冰块摧毁了。
+你没有足够材料修复桥梁。
+咳嗽的矮人: *咳嗽*
+熊战士: 现在他已经没救了。走吧，别浪费时间赶紧动身。
+掠夺者: 他刚才...呼吸了吗？...嗯，肯定是我的错觉。快走吧。
+掠夺者: 希望这次行动值得...
+熊战士: 给你，伙计...
+安德里克: *咳嗽* 啊！这下正中要害！我能感觉到毒血在被净化！
+她以为能干掉老安德里克？呵！
+*沙哑的笑声* 我喝过比她毒药更糟的东西……虽然从没见过穿兽人衣服的恶魔蓝角在四处游荡。
 
-Aye! T'was one of your witchin' sisters. Called herself Lith.
-Reaver:    Lith? That's Zura's aide... yes, this does look like the work of a Witch... 
-Bear Warrior:    Lith?! Zura's adjunct? That piece of shit... 
-She came by a few days ago. The snake must have slipped something in our well...
-Almost everyone here was complaining about stomach cramps by the end of the day.
-I saw them, lass. Screaming in pain. Dark veins shifting under their skin...
-Then one of yer Lancers showed up at the fortress. Aye, and she was fuming!
-Said that she was going to burn that traitor alive, and rushed to the elevator!
-She couldn't aid us. We tried everything to help the sick ones. Nothing halted the poison.
-...and then these bleedin' cultists appeared out of nowhere...
-T'was a slaughter. Killed everyone who could hold an axe, and threw the sick ones into the well.
-They would have thrown me as well had the taint claimed me sooner. My blood is slowing it down.
-Listen, lass... you seem to be an honorable individual. Why don't ya take this elevator key and go give that traitorous wench and her lackeys what they be askin' for? Go quickly!
+对了！就是你们女巫姐妹之一。自称利思。
+掠夺者：利思？那是祖拉的手下……是的，这确实像女巫干的……
+熊战士：利思？祖拉的帮手？那杂种……
+她几天前就来了。那条蛇肯定往我们的井里下了什么东西……
+到傍晚时几乎所有人都在抱怨肚子疼。
+我亲眼看见了，姑娘。他们痛苦地尖叫，皮肤下暗红色血管在蠕动……
+然后你们长枪团的人出现在堡垒里。对，她气得直跳脚！
+她说要活烧那个叛徒，然后冲向电梯去了！
+她无法帮助我们。我们尝试了所有方法救助病人，但毒液毫无阻碍地蔓延。
+……然后这些该死的邪教徒突然出现……
+这是一场屠杀。他们杀死了所有能挥斧头的人，把病患扔进井里。
+若我早些被感染，他们也会把我扔进去。我的血液正在减缓毒素扩散。
+听着，姑娘……你看起来是个正直的人。为何不拿这电梯钥匙去给那个叛徒婊子和她的喽啰们点颜色看看？快点！
 
-Bear Warrior:    Oh, screw Lith! We have to defend the Crystal Heart now, we'll get her after. 
-Reaver:    I'd love to hunt her down, but we have more pressing matters at hand right now. 
-The dwarf tries to speak, but ends up coughing. His dry tongue bears a slight purple tint.
-His brows narrow as he proceeds to mimic a drinking gesture and point above.
-Bear Warrior:    What are you trying to tell us, dwarf?...
-Bear Warrior:    He looks pretty bad. I don't know, sarge...
-Bear Warrior:    His tongue looks so dry. Maybe a drink could fix him? 
-Reaver:    He looks poisoned. Look at that violet tongue...
-Reaver:    I have a bad feeling about this. Do we really have to help him?
-Reaver:    What in the Pits of Hell is this dwarf trying to say?... 
-Andrik:   I would do it myself if I had my strength back. 
-Andrik:   Don't worry about me. Go find that filthy Witch! 
-Andrik:   I don't know where the cultist bastards came from, but thanks for slaying them. 
-Andrik:   Stone harden ye! 
-Andrik:   Go lass, no more time to waste! 
-Andrik:   Off with ya! 
-The lever operating this half of the mechanism is nowhere to be seen. 
-You have nothing to smelt. 
-The sturdy anvil looks ready to be used. 
-The switch does nothing. 
-This door requires an Earth key to open. 
-Bear Warrior:    Finally! Let's get back into Valc. 
-Reaver:    Back to Valc, at last. There might still be hope. 
-Reaver:    Killing that dwarf was probably for the best. We can't risk having him contaminate this place. Now back to Valc... 
-Bear Warrior:    Good call killing that dwarf... can't risk having him spread that corruption around. Now back to Valc... 
-Reaver:    Did you hear that? 
-Bear Warrior:    You hear that? 
-Bear Warrior:    Uhhh... 
-Reaver:    This isn't going to end well... 
-TO ICEPEAK FORTRESS 
-(The last entry in the book is signed by Lancer Dendra)
-The journey has been a mess. The road's been nearly entirely swallowed by snow, and many of the ice caves have collapsed, I've even lost my lance in a cave-in, and perhaps I would have lost a lot more if I hadn't shielded myself in time...    It feels unnatural for the ground to tremble like this, and the
-
-
-Dwarves wouldn't normally slack with tending to the path to their fort.    Perhaps Earth Mother Eva can shed some light on what's going on.  I didn't find her at home, so she must be inside her grove. I'll spend the night here and pay her an early visit tomorrow since the dwarves are expecting me by noon. 
+熊战士：哦，管他利思！我们现在必须守护水晶之心，之后再收拾她。
+掠夺者：我很想追捕她，但眼下有更紧迫的事要处理。
+矮人试图说话，却咳个不停。他干裂的舌头泛着淡淡的紫色。
+他眉头紧锁，模仿着举杯饮酒的手势，手指向头顶。
+熊战士：你在跟我们说什么，矮人？...
+熊战士：他的样子看起来很糟。我不知道，上尉……
+熊战士：他的舌头干得像枯枝。也许喝点东西就能救他？
+掠夺者：他看起来中毒了。看那紫色的舌头……
+掠夺者：我有种不祥的预感。我们真的必须帮他吗？
+掠夺者：这矮人到底在地狱深渊里想说什么？...
+安德里克：如果我恢复力气，我自己会去的。
+安德里克：别担心我。去找那个肮脏的女巫！
+安德里克：我不知道那些邪教徒从哪儿来的，但谢谢你们杀了他们。
+安德里克：石头变硬吧！
+安德里克：姑娘，没时间浪费了！快走吧！
+安德里克：快滚吧！
+这个机制一半的杠杆完全不见了。
+你没有东西可熔炼。
+结实的铁砧看起来随时可以使用。
+开关毫无作用。
+这扇门需要大地钥匙才能开启。
+熊战士：终于！我们回去瓦尔克吧。
+掠夺者：总算回到瓦尔克了。或许还有希望。
+掠夺者：杀死那个矮人可能是个明智之举。我们不能冒险让他污染这里。现在回去瓦尔克……
+熊战士：杀掉那个矮人是正确的决定……不能冒险让他把腐化扩散开来。现在回去瓦尔克……
+掠夺者：你听到那声音了吗？
+熊战士：你听到那声音了吗？
+熊战士：呃……
+掠夺者：这不会是个好结局……
+前往冰峰要塞
+（书的最后一页由兰斯尔·登德拉签署）
+这段旅程一团糟。道路几乎被积雪吞没，许多冰洞坍塌了，我甚至在一次塌方中失去了长矛……若不是及时躲藏，恐怕会损失更多。地面如此剧烈震颤感觉很不自然，
 
 
-A Study of the Ancients by Earth Mother Eva - Chapter Three, Mechanisms
-[...]   I am thoroughly impressed by the precision with which the Ancients have built their contraptions.
-It appears that the temple which I'm observing has a trap system meant to keep looters away. It must have been hundreds of years since the last Ancient set foot in here,  but the trap still works  -  luckily
-
-I have studied fire magic long enough to protect myself from the bolts hurled at me. Besides the trap,
-I'm researching a gate mechanism that's operated by the same Cyan Crystals we've learned to make use of.  Perhaps deciphering the nearby inscriptions will help me understand more on how the crystals function.   I'm certain that their magical power is doubled by a sort of intelligent design or force.  [...]
+而矮人族通常不会懈怠维护通往要塞的路径。或许大地之母伊娃能解释这一切。我没在家中找到她，所以她一定在她的林地里。我今晚就留在这里，明天一早去拜访她——因为矮人们中午会期待我的到来。
 
 
-Thankfully, the ice has preserved a lot of the temple's architecture in good shape.     Still, I cannot use my magic to melt it lest I'll cause damage, so I'll have to break it with whatever tools I can get. 
+《古代研究录》——大地之母伊娃·第三章·机械装置
+[...] 我对古代人建造的机械装置所展现的精确度感到十分钦佩。
+看来我观察的神庙似乎设有陷阱系统，目的是阻止盗贼靠近。自从上次古代人踏入这里以来，恐怕已经过去数百年了，但陷阱依然有效——幸运的是
 
-(A ripped piece of parchment rests on the stump. The writing looks shaky and distressed...)
-She's dead!   I found Mother Eva laying by her tree, a foul glass in her hand.   Her skin was rippling with dark veins and her tongue was violet... the dwarves are not capable of such treachery, and this poison looks far too sophisticated for the humans.  The least I could do was bury her in the earth, so she may rest with her kin at last, but now I'm headed for Valc. Witch Chieftain Zura will have some questions to answer.  And if you who did this returns here, you have my word that no hole will hide you from justice. 
-
-
-
-
-I saw the brewers haulin' some new furniture in their tower yeer'day. I walked up to Torgrind and asked 'em what in all hells is he doing with that orcish junk.   He shrugged me off and told me it's stylish!    More stylish than what WE make?! Next time he comes around asking for new kegs, make sure to point him to that bleedin'
+我已研究火魔法足够久，足以抵御射向我的箭矢。除了陷阱之外，
+我还研究着由我们已学会利用的青水晶操作的门机制。或许解读附近的铭文能帮助我更深入理解水晶的功能。我确信它们的魔力被某种智能设计或力量增强了一倍。[...]
 
 
-elevator below, and tell him to go ask the orcs fer help. Surely they can craft him some stylish ale kegs too. 
-As we have replaced our old bellows with a crystal powered machine, apprentices shall be allowed to use it to smelt metal.   Simply place yer ore or ingot in the hot hearth, and it shall melt in a mere moment.   Once yer mould fills up ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn the heat off before ye clean the hearth. 
+幸运的是，冰层保存了神庙大量建筑结构的完好状态。不过我不能使用魔法融化冰层，否则可能会造成损坏，所以我得用能拿到的工具把它砸碎。
 
-
-As we have replaced our old bellows with a crystal powered machine, apprentices shall be allowed to use it to smelt metal.   Simply place yer ore or ingot in the hot hearth, and it shall melt in a mere moment.   Once yer mould fills up ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn the heat off before ye clean the hearth. 
-
-
-Tales of Brother Bernard - Brother Bernard in Hell
-[...]   and in his search for the dry water and cold flame, brother Bernard hath found himself lost in the Pits of Hell.     The boiling tar and pungent sulph did not bear well with him, but alas, he could find the way back naught.   He daren't ask for directions from the sneering devils, lest they would trick him even farther. Our brother hath pondered well over how could he elude this rotten place.
+（一片残破的羊皮纸躺在树桩上。字迹看起来颤抖且焦虑……）
+她死了！我在她的树下发现了大地之母伊娃，手里握着一个肮脏的玻璃瓶。她的皮肤布满暗紫色血管，舌头泛着紫红色……矮人族不可能做出这样的背叛行为，而这种毒药的复杂程度显然超出了人类的能力范围。我至少该把她埋在土里，让她与族人安息，但现在我要前往瓦尔克了。女巫首领祖拉肯定有很多问题要问。如果你做了这一切的人再次回来，我向你保证，没有哪个洞穴能让你逃避正义。
 
 
 
-Thus he hath pulled a string from his satchel and began to measure Hell left and right, hammering stakes into the ground.  The lord of the devils - who hath been lurking within a puddle aside - would endure watching brother Bernard no longer, as the seed of curiosity crawled hastily into his veins.
+
+我昨天看到酿酒师们在塔楼里搬运一些新家具。我走到托格林德面前问他：这家伙怎么把兽人杂物搬进来了？他摆手让我别管，还说这很时尚！
 
 
-'What dost thou do here, fool?  Why art thou measuring my fiefdom?'  asked the trickster.
-'Why I am wishing to build a temple here!' would exclaim our crafty brother.
-Upon hearing his word, the devil's eyes hath grown red with angst. With a sharp whistle he would urge his fellow tricksters to grasp brother Bernard, and throw him out. So hath he escaped the fiery Hell. 
+比我们做的更时尚？下次他再来找我们要新酒桶时，记得指给他下面那个该死的电梯，让他去问兽人要帮忙。他们肯定能帮他打造些时尚的酒桶。
+既然我们将旧风箱换成了水晶动力机器，学徒们现在可以使用它来熔炼金属了。只需将矿石或金属锭放入炽热熔炉，片刻就能融化。待模具装满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
 
-The Dwarven Society - Introduction. A Summary of the Guilds
-[...]    but the Priests are not the only ones to assist the Dwarven Lord. Among his advisors are the masters of the Four Guilds. Their practical knowledges are essential in upholding Dwarven Society.
 
-The Blacksmith Guild is composed of miners, smiths and jewelcrafters, all able to turn the lifeblood of dry rock into weapons, armors, ornaments and various mechanisms and other mechanical wonders.
+我们已将旧风箱换成了水晶动力机器，学徒们现在可以使用它来熔炼金属了。只需将矿石或金属锭放入炽热熔炉，片刻就能融化。待模具装满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
 
-The Carpenter Guild fosters woodcutters, locksmiths, leatherworkers and tinkerers, able to shape the forest into a precise tool.  Their ballistae and catapults are feared across all the battlefields.
 
-The Stonemason Guild trains master builders and engineers. Be it wells, keeps, towers or bridges, the singers of stone are responsible for the backbone of our life and society, as well as our advancement.
-
-The Brewer Guild spreads our name across the land with their chefs, healers and alchemists. It is also known that they dabble in the less honorable art of espionage, but their skill may be needed at times. 
-
-My Lord, the lock for the treasury has been successfully installed. The combination is 1357.  - Jaromir 
-If you are reading this, then the orc traitor must have fulfilled her task.     Your duty is to finish off any of the dwarven survivors that have not been affected by the poison  -  it will be easy to tell which is which by the color of the tongue and skin at a later stage. Once the healthy ones are dead, dump the tainted ones into the dungeon below the fortress and have it locked down.   Don't visit back or let anyone else do so, unless you wish for death. 
+修士伯纳德的故事——修士伯纳德在地狱
+[...] 在寻找干水与冷焰的过程中，修士伯纳德发现自己迷失在了地狱深渊。沸腾的沥青和刺鼻的硫磺味让他难以忍受，但无奈之下，他竟找不到回去的路。他不敢向讥讽的魔鬼们询问方向，生怕他们将他引得更远。我们的兄弟已深思熟虑地思考着如何才能逃离这个腐朽之地。
 
 
 
-Closed until the Iron Division campaign ends. 
-ELEVATOR TO VALC 
-This door is locked from the inside. 
-This door requires an Axe key to open. 
-This door requires a Stone key to open. 
-This door requires an Iron key to open. 
+于是他从腰包中抽出一根绳子，开始左右丈量地狱，在地面插下木桩。魔鬼之主——此前藏身于水洼中的他——再也无法忍受看着修士伯纳德这般举动，因为好奇心的种子迅速爬入了他的血管。
+
+
+“你这傻瓜为何在此？为何要丈量我的领地？”骗子问道。
+“我正想在这里建造一座神庙！”我们的狡猾兄弟高声宣称。
+听到这话，魔鬼的眼睛因愤怒而泛红。他吹响尖锐的口哨，命令其他骗子们抓住修士伯纳德并将其驱逐。于是他逃出了烈焰地狱。
+
+矮人社会——简介。公会概述
+[...] 但祭司们并非唯一协助矮人领主的人。他的顾问中还包括四大公会的大师们。他们的实用知识对于维护矮人社会至关重要。
+
+铁匠公会由矿工、铁匠和珠宝工匠组成，所有人都能将干岩的生命之血转化为武器、铠甲、饰品以及各种机械装置和其他奇妙的机械奇迹。
+
+木匠公会培养伐木者、锁匠、皮革匠和发明家，他们能够将森林塑造成精确的工具。他们的弩炮和投石机在所有战场上都令人闻风丧胆。
+
+石匠公会训练大师级建筑师与工程师。无论是水井、城堡、塔楼还是桥梁，石之歌者们负责我们生活和社会的脊梁，以及我们的进步。
+
+酿酒公会通过他们的厨师、治疗师和炼金术士将我们的名字传播至各地。众所周知，他们也涉足不光彩的间谍艺术，但有时他们的技能可能不可或缺。
+
+我的领主，保险库的锁已成功安装完毕。密码是1357。——贾罗米尔
+如果你正在阅读这些文字，那么兽人叛徒必定已完成她的任务。你的职责是消灭所有未被毒药影响的矮人幸存者——稍后可通过舌头和皮肤的颜色轻易分辨出哪些是幸存者。待健康者全部死亡后，将中毒者丢入堡垒下方的地牢并封锁入口。不要返回或让其他人这么做，除非你渴望死亡。
+
+
+
+铁军行动结束前暂停开放。
+通往瓦尔克的电梯
+这扇门从内部上锁。
+这扇门需要斧钥匙才能打开。
+这扇门需要石钥匙才能打开。
+这扇门需要铁钥匙才能打开。

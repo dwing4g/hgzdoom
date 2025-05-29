@@ -1,291 +1,291 @@
-Bear Warrior:    Sarge, you're alive! Thought you were done for in that crashed elevator.
-Reaver:    Good to have you back. We hadn't made it too far before we got pinned down by Forge Elementals. 
-Good to have you back. Haven't made it too far myself... got pinned down by some Forge Elementals. 
-Reaver:    Zan! I thought you were dead in that crashed elevator. Can't believe you made it.
-I tried to push on without you, but got pinned down here by some Forge Elementals... 
-Tiati:    Zan... I couldn't stop her... she made it inside... 
-Crystal Curator:    Begone, elf! The Disk won't bring you anything but doom.
-Nithriel:    Your barrier won't last forever, orc. The only doom here will be upon you.
-Crystal Curator:    It doesn't have to last forever... I have some friends at my side. 
-Crystal Curator:    It doesn't have to last forever... I have a champion at my side. 
-Nithriel:    *Laughing* Oh? Well so do I...
-Bear Warrior:    For the Iron Division! 
-Lancer:    Victory or death! 
-Reaver:    Uh-oh... 
-Pit Lord Alpha 
-Reaver:    Die, demon! 
-Lancer:    Face defeat, hellspawn! 
-Bear Warrior:    Bow before our might, scumbag! 
-Nithriel:    Such a display of might, Demonblood...
-...but sadly, you are too late.
-Nithriel:    See you in Hell!
-Lancer:    Follow her! We can't let her get away with the Disk! 
-Reaver:    Quickly! We must pursue her! 
-Bear Warrior:    Elf bitch! We have to follow her, quickly! 
-After a fierce battle, the grotesque demon finally collapsed, his dying roar echoing through the halls.
-Stumbling towards the massive doors, the Half-Orc forced them open, gathering breath for her final fight.
-Yet her fists unclenched as soon as she found Nithriel holding the mysterious disk  -  she was too late!
-The Warlock wasted no time, conjuring an eldritch portal and escaping the orc stronghold with the Disk...
-But Zan was hell bent on not letting her get away. Driven by a swift impulse, she plunged into the closing wormhole, following Nithriel into places unknown...
+熊战士：上尉，你活下来了！我以为你在那台坠毁的电梯里挂了。
+掠夺者：欢迎回来。我们还没走多远就遭到了锻造元素的围堵。
+欢迎回来。我自己也没走太远……也被锻造元素困住了。
+掠夺者：瓒！我原以为你在那台坠毁的电梯里死了。真不敢相信你还能活着。
+我试着继续前进，但被一些锻造元素困在这里了……
+提娅媞：瓒……我没能阻止她……她进去了……
+水晶管理员：精灵，滚开！圆盘只会给你带来毁灭。
+妮丝瑞尔：兽人，你的屏障撑不了太久。这里的灾厄只会降临在你身上。
+水晶管理员：它不需要永远持续……我身边有朋友支持着。
+水晶管理员：它不需要永远持续……我身边有冠军支持着。
+妮丝瑞尔：*大笑* 哦？我也一样……
+熊战士：为了铁军！
+长枪兵：胜利或死亡！
+掠夺者：哦不……
+深渊领主阿尔法
+掠夺者：恶魔，去死吧！
+长枪兵：地狱怪物，接受失败！
+熊战士：跪在我们力量面前，废物！
+妮丝瑞尔：如此强大的气势，恶魔之血……
+……但可惜你来得太晚了。
+妮丝瑞尔：下次见面就在地狱！
+长枪兵：跟上她！我们不能让她带着圆盘逃走！
+掠夺者：快点！我们必须追上她！
+熊战士：精灵贱种！我们必须追上她，快点！
+经过一场激烈战斗后，那个丑陋的恶魔终于倒下，垂死的咆哮在走廊中回荡。
+半兽人踉跄着走向那扇巨大的门，强行推开它们，为最后的战斗积蓄气息。
+然而她刚发现妮丝瑞尔正握着神秘圆盘——就立刻松开了拳头……她来得太晚了！
+巫师毫不迟疑地施展了暗影传送门，带着圆盘逃离了兽人据点……
+但瓒决心不让她逃脱。被强烈的冲动驱使，她纵身跃入即将闭合的虫洞，追随妮丝瑞尔进入未知之地……
 
-ART, ANIMATION, PROGRAMMING, WRITING, LEVEL DESIGN, SOUND DESIGN, PUBLISHING by Zan_HedonDev
+艺术、动画、编程、写作、关卡设计、音效设计、出版由瓒_赫顿开发组完成
 
-Having repelled the last wave of invaders, the Iron Division defenders rushed to the Heart.
-They found nothing but massacre and destruction... the Sacred Disk artifact - gone.
-Both Zan and Tiati seemed to have disappeared without a trace, leaving many questions behind.
-Thanks to iamfailtacular for the bits of character and lore inspiration
-The invasion was over, but the damage left behind by Nithriel's attack etched a deep scar into Valc.
+击退最后一波入侵者后，铁军守卫们冲向心脏。
+他们只发现屠杀与毁灭……圣盘神器——不见了。
+瓒和提娅媞似乎毫无痕迹地消失了，留下许多未解之谜。
+感谢iamfailtacular为角色和世界观灵感提供片段
+入侵结束了，但妮丝瑞尔的攻击留下的破坏在瓦尔克刻下了深重伤痕。
 SOUNDTRACK
-Akhzul - Hedon's dedicated OST composer
-Alexander Brandon - the Man, the Legend
-Breathelast - coolest sharks in the tank
-Methadone Skies - the stuff of dreams
-Shivaxi & Xenofish - that Godlike remix
-The few secluded fighters who survived the initial attack regrouped and held out against the remaining foes.
+Akhzul - 赫顿专属原声带作曲家
+Alexander Brandon - 那个男人，那个传奇
+Breathelast - 池中最酷的鲨鱼
+Methadone Skies - 梦想的素材
+Shivaxi & Xenofish - 那场神级混音
+幸存下来的少数隐秘战士重新集结，抵抗剩余敌人。
 VOICE ACTING
-Zan - Olivia Steele
-Bear Warrior - Sara Mears
-Lancer - Emaline Tuck
-Reaver - SB Steagall
-Brutal Friendly AI by Sgt_Mark_IV
-Improved Player Movement by Nash Muhandes
-Lith had already met her swift demise. She was prepared for cremation and stripped of all honor.
-Chieftain Zura was recovered from Lith's tank, and urgently put under intensive treatment.
-Cover art by Fragua Studio (Dario Martinez, Pau Barz)
-Extra posters & paintings by Eraanthe, Jessy Ruiz, Katiethemoo, Pyss
-With the high rank Lancers having perished, she assumed temporary command over Valc.
-Her efforts, however, focused on studying Lith's notes to cure and revert the horrors she had created.
-Moreso as she was carrying the dark poison herself...
-GZDOOM ENGINE
-Graf Zahl - lead development
-The Doom Community - feedback and contributions
-John Carmack - original id Tech 1 Engine
-Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
-Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing
-Once a lively fort, Icepeak became nothing more but a frigid stone husk - a stern reminder of Lith's deeds.
-GZDOOM BUILDER
-MaxED - design and programming
-Gez - game configurations
-ZZYZX - maintenance and bugfix updates
-SLADE3 DOOM EDITOR by Simon Judd
-Inside, a lone Dwarf began to slowly put things back in order. 
-Lancer Dendra was ordered to return to her base and ensure the functioning of the anti-magic ward.
-Her time split between burying her sisters and standing at the edge of the mountain. Watching. Waiting.
-Thanks to those who helped me learn how to develop a game and answered my questions:
+瓒 - Olivia Steele
+熊战士 - Sara Mears
+长枪兵 - Emaline Tuck
+掠夺者 - SB Steagall
+由Sgt_Mark_IV制作的残酷友好AI
+由Nash Muhandes改进的玩家移动系统
+利思早已迎来了她迅速的死亡。她已准备好火化，并被剥夺了所有荣誉。
+首领祖拉从利思的水箱中被救出，并紧急接受强化治疗。
+封面插画由Fragua Studio（Dario Martinez, Pau Barz）创作
+额外海报与绘画作品由埃拉安瑟、Jessy Ruiz、Katiethemoo、Pyss提供
+由于高等长枪团已全灭，她暂时接管了瓦尔克的指挥权。
+然而她的努力主要集中在研究利思的笔记上，以治愈并逆转她所创造的恐怖。
+尤其是她自身也携带了黑暗毒药……
+GZDOOM引擎
+Graf Zahl - 主导开发
+Doom社区 - 反馈与贡献
+John Carmack - 原始id Tech 1引擎
+Rachael, Graf Zahl - hGZDoom（赫顿专属GZDoom分支）
+Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux编译与测试
+曾经热闹的冰峰如今只剩冰冷的石尸——利思行为的严酷警示。
+GZDOOM构建者
+MaxED - 设计与编程
+Gez - 游戏配置
+ZZYZX - 维护与错误修复更新
+SLADE3 DOOM编辑器由Simon Judd开发
+内部，一个矮人开始缓慢地将一切恢复原状。
+长枪兵丹德拉被命令返回基地，确保魔法屏障的正常运作。
+她的时光在埋葬姐妹与站在山巅边缘之间分割。观察。等待。
+感谢那些帮助我学习游戏开发并回答我问题的人：
 Lud, DoomKrakken, Xaser, phantombeta, Michaelis, RockstarRaccoon, Popsoap10, Pyroscourge, Rachael, worldendDominator, dyveira, Diode, Shadowman, Nash, Sgt_Mark_IV, wildweasel, Jimmy, Mr. Enchanter,
 
 Gutawer, Kodi, Brohnesorge, Enjay, ZZYZX, Lord Iheanacho
-Captain Dura gathered a handful of warriors and headed to the Forge.
-They readied to hunt down rogue Forge Elementals and re-establish a connection with the Minotaur caves below.
-Thanks to all the beta testers for their feedback:
-Captain J, JaywalkingKnight, spart_n, The_Individualist, QuakedoomNukem, BeardedDoomGuy, Arcus Valarian
-And many thanks to the dedicated testers who have greatly helped me improve Hedon in time:
-RTheM, Albatross, RawbGM, Copper Boltwire, Makerrcat, Sasha the Lynx
-And of course, tons of thanks to everyone who financially supported Hedon through Patreon:
+队长杜拉召集了一群战士前往锻造厂。
+他们准备猎杀逃窜的锻造元素，并重新与下方的牛头人洞穴建立联系。
+感谢所有参与测试的玩家反馈：
+队长J，JaywalkingKnight，spart_n，The_Individualist，QuakedoomNukem，BeardedDoomGuy，Arcus Valarian
+以及无数帮助我改进赫顿的忠实测试者：
+RTheM，Albatross，RawbGM，Copper Boltwire，Makerrcat，Sasha the Lynx
+当然，还要感谢通过Patreon支持赫顿的所有人：
+Copper Boltwire，Karitan Aegis，Danyx992，Kyurae Minasaki，ekwood，papyLaPlage，Robopatron，
+Albatross，Iceman13，Vodyanoi，Daniel Jewell，Sarah，Kiyu69，Alexander Howard，Nistal，
+D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
+BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
+MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
+D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
+日子飞逝，铁军仅存的几位成员艰难地努力修复他们的据点。
+但随着隧道被清理、幸存者获救、尸体安葬，时间似乎变得缓慢……
+疑问开始浮现。对抗恶魔的战役发生了什么？为何没有信使到来……
+圆盘神器对妮丝瑞尔如此重要？它将如何改变未来？而瓒去了哪里？
+赫顿 I - 水晶之心 结束
+熊战士：    那边！一个长枪兵！
+掠夺者：    那边！一个长枪兵！
+熊战士：    哦，见鬼！
+掠夺者：    你看到那个东西的体型了吗？
+一个空套件。
+一组琥珀色符文刻在空 pedestal 的侧面。
+一组绿色符文刻在空 pedestal 的侧面。
+一组银色符文刻在空 pedestal 的侧面。
+一组青色符文刻在空 pedestal 的侧面。
+熊战士：    他们正在打开议会厅！准备迎接下一波攻击！
+掠夺者：    他们正在打开议会厅！加固防御工事！
+熊战士：    他们正在打开议会厅！准备迎接下一波攻击！
+掠夺者：    他们正在打开议会厅！加固防御工事！
+熊战士：    当心！右边走廊！
+掠夺者：    当心！右边走廊！
+掠夺者：    一个恶魔！！！
+熊战士：    一个恶魔！！！
+熊战士：    看这个东西……他们在这里到底想召唤什么？
+掠夺者：    猜我们很快就会知道了。
+掠夺者：    这个五芒星好大……不知道他们在这里想召唤什么。
+猜我们很快就会知道了。
+掠夺者：    看起来他们从里面关闭了闸门。
+得想办法打开它……如果你想的话，我可以在这里守着，等闸门升起时攻击他们。
+熊战士：    不坏的主意，如果你想的话，我也愿意留下，上尉。
+熊战士：    该死，他们用这个闸门把我们锁在外面了。应该有办法打开它……
+熊战士：    哼，谢谢救援！这些杂碎把我困在坦克里了！
+他们已经在前方的图书馆设下据点。我们可以从这里突袭，趁其不备。
+熊战士：    *模糊* 喂喂，把我救出去！
+熊战士：    泵就在那儿，把它打开把我救出去！
+长枪兵：    中士，及时赶到。我正需要你的帮助。
+长枪兵：    我刚听到妮丝瑞尔和一个恶魔不久前提着箱子经过。那家伙听起来……格外庞大。
+掠夺者：    该死，我们来晚了。妮丝瑞尔可能已经突破了心脏！
+长枪兵：    快点，我们没时间浪费！
+熊战士：    该死，我们来晚了。妮丝瑞尔刚刚摧毁了防御！
+长枪兵：    快点，我们必须不惜一切代价阻止她！
+长枪兵：    我们的姐妹已经倒下了……没时间浪费了，妮丝瑞尔肯定就在心脏附近！
+长枪兵：   拉开架势！时候到了，让我们为我们的先祖争光。
+掠夺者：    水晶之心……我只听过关于这个地方的故事。
+长枪兵：    这是我们的存在之源。而如今，我们是它唯一的希望。
+熊战士：    所以这就是水晶之心……这个地方……很奇怪。
+长枪兵：    我们这一代的诞生地。现在，我们是它唯一的希望。
+长枪兵：    水晶之心。世界之源，我们来守护你。
+熊战士：    瓚，这边！
+掠夺者：    嘿，瓒，这边！
+熊战士：    瓚，这边！
+掠夺者：    嘿，瓒，这边！
+长枪兵：    很高兴看到你们还在坚守，姐妹们。
+掠夺者：    久等了，姐妹们。
+熊战士：    致敬，姐妹们！
+掠夺者：    我真高兴见到你，中士！我们真的需要你的帮助！
+掠夺者：    死吧……等等，瓒？！我简直不敢相信是你！
+我们必须与守卫者重新联系上！
+提示：你可以使用Use键（默认：E）命令某些友方单位跟随你/驻守当前位置。
+铁军幸存者：    嘿，瓒，你还活着！让我们收拾这些邪教徒！
+提示：你可以使用Use键（默认：E）命令某些友方单位跟随你/驻守当前位置。
+熊战士：    喂，别动！我们需要这些碗。
+女巫：    你在干什么？停下！
+大地之母：    瓒，你在干什么？！我真的很需要魔力……
+受伤的盾卫兵：    是是是，空瓶子有什么用？
+队长杜拉：    哎呀，哎呀，哎呀，看看谁活下来了……
+队长杜拉：    丹德拉想和你说话，她在我们身后的露台。
+队长杜拉：    如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
+长枪兵丹德拉：    水晶钥匙，瓒。离开前别忘了带走它。
+队长杜拉：    祝你狩猎顺利，战士。
+队长杜拉：    所以，提娅媞救了你的命，对吧？如果你想感谢她，她现在不在这里——丹德拉派她去执行侦察任务了。
+队长杜拉：    我就在一周前的女巫诊所。那时候一切都看起来那么……正常。
+队长杜拉：    那个婊子利思就是这一切混乱的幕后黑手！我至今都无法相信她做了什么。她毁了我们……
+队长杜拉：    哼，把利思扔进地狱吧！我们要专注于眼前的战斗。我们已经走到这一步，绝不能现在放弃！
+队长杜拉：    看起来邪教徒暂时停止了对这个区域的攻击。他们一定在策划什么……
+队长杜拉：    很高兴你加入我们，中士。想必一路过来很艰难吧。
+长枪兵丹德拉：    瓚，这边来。
+长枪兵丹德拉：   终于到了，瓒。我是长枪兵丹德拉，已接管此处残余部队……
+提娅媞已告知我你……意外重返瓦尔克的事。她也得知了利思的背叛以及那个名叫妮丝瑞尔的角色急于分裂我们的事。唉，我们没时间纠结，我这就简要说明。
+
+多亏你激活了城垛屏障，妮丝瑞尔将更多邪教徒传送进来的能力已被切断，因此我们得以守住这个区域的防御。在我们身后便是水晶之心——我们将誓死守护它。
+
+在绝望中，我们召唤了大地之力，尽可能封堵了神殿内的所有入口。我们争取了时间，但也把自己与西翼的援军隔绝……
+
+这是通往心脏的唯一另一条路径。    我们过去通过水晶球与长枪团保持联系，但最近已完全失去联络。邪教徒迄今为止主要针对我们……
+
+不过几小时前，妮丝瑞尔已经从前线消失，只留下一小撮手下在此地牵制我们。我已派提娅媞去调查她究竟在做什么，但她还没回来。我担心最坏的情况……
+
+是的，你需要去查明妮丝瑞尔的动向。   这不会是一场轻松的任务，但你不会独自面对。作为熊战士的中士，我会将指挥你的小队交托给你。
+
+带上几位姐妹助你一臂之力吧，如果你想的话。 你还需要这把水晶钥匙才能继续深入。现在拿上你需要的补给，出发吧。查明妮丝瑞尔究竟在谋划什么……
+
+哦，还有一件事…… 我们不需要知道这次战役发生了什么，瓒。士气已经够低了，而且得知我们可能是最后一批同类这件事，此刻对我们毫无帮助。   把故事留到之后再说。
+
+按使用键跳过简报
+长枪兵丹德拉：  带上几位战士去查明妮丝瑞尔的动向——她可能会尝试突破西翼！
+长枪兵丹德拉：  对了，那是……你背上的我的水晶长矛吗？算了，肯定是巧合……
+长枪兵丹德拉：  我觉得妮丝瑞尔正在将剩余兵力转移至西翼。
+长枪兵丹德拉：  如果邪教徒确实正在向西推进，那么对面的守卫需要你去增援他们。
+长枪兵丹德拉：  快点！如果他们成功突破心脏，我们就会完蛋！
+提娅媞：    去抓她！你不能让她拿到圆盘！
+提娅媞：    她的魔法实在太强了……她竟然召唤出这么巨大的恶魔……
+提娅媞：    我没事。别浪费时间！
+受伤的修复者：    ……
+熊战士：    上尉，你可算来了。我们的姐妹终于派来增援了吗？
+熊战士：    我们是从兵营一路杀到这里，和队长杜拉一起。这些邪教徒到处都是！
+熊战士：    听起来外面打得很惨。可惜杜拉让我留在这里保护伤员。
+熊战士：    不知道还能撑多久……我们 barely 有补给支撑另一整天……
+受伤的盾卫兵：    哦不不，我没受伤，我只是……呃——躺一会儿……
+受伤的盾卫兵：    哦，我还有些头骨要砸碎！
+受伤的盾卫兵：    冰峰怎么了？为什么我的兄弟们还没到，该死！
+受伤的盾卫兵：    至少我被女人包围着。啊，这真是个好死的日子……
+受伤的女巫：    滚开。
+受伤的女巫：    听说提娅媞像条狗一样射杀了利思。我本该剜出她的眼睛。
+受伤的女巫：    看见没，去烦别人吧……
+受伤的大地之母：    如果不介意的话，我想独自待着。
+受伤的大地之母：    这个头伤已经够让我分心了，你能不能让开？
+受伤的大地之母：    ……
+掠夺者：    真是太糟糕了……他们从我们自己坚不可摧的据点内部击溃了我们。
+掠夺者：    我听说他们几分钟就占领了广场。不知道林地和掠夺者总部是否也遭遇了同样的命运。
+掠夺者：    入侵开始时我接近长枪兵的神殿。有足够时间赶到这里重新集结。
+掠夺者：    杀死了几个敌人，自己也被击中了几下。不过只要合适的药剂就能治愈。
+掠夺者：    前往阻止巫师？我随时可以加入你。
+提示：你可以使用“使用”键（默认：E）命令某些友军跟随你或保持原地。
+熊战士：    所以你真的把城垛上的反魔法屏障重新启动了？这真是救了我们的命。
+熊战士：    他们不停地从那些魔法五芒星中涌出，看到它们失效真是松了一口气！
+熊战士：    这一切背叛和腐化……我听说利思被彻底附身了。她害得我们所有人都遭殃了。
+熊战士：    我们的补给已经所剩无几，士气更是低落，但我们会用最后一口气保护心脏。
+熊战士：    所以你要向西翼移动？我随时听候你的命令。
+提示：你可以使用“使用”键（默认：E）命令某些友军跟随你或保持原地。
+熊战士：    别太贪吃，这里剩下的食物不多了。
+掠夺者：    现在由丹德拉负责指挥，她在里面，去和她说吧。
+掠夺者：    丹德拉正在里面照顾伤员，我们必须保护他们！
+掠夺者：    拿走你能拿到的所有武器弹药，把他们逼回去！
+掠夺者：    杂碎！
+掠夺者：    真是乱七八糟……
+掠夺者：    不要现在，上尉。
+掠夺者：    我们暂时挡住了他们……
+掠夺者：    当心那些毒云！
+掠夺者：    不知道还能坚持多久……
+掠夺者：    ……
+熊战士：    见鬼的！真不敢相信我们能活下来！
+熊战士：    为了铁军！
+熊战士：    留意四周，这还没结束。
+熊战士：    咕噜……
+这扇门需要水晶钥匙才能打开。
+长枪兵：    我身上没有水晶钥匙，我们必须回去找有钥匙的人。
+这扇门需要大地钥匙才能打开。
+火焰不会熄灭。
+大门纹丝不动。
+感谢所有在Patreon上支持赫顿的赞助者们！
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
 D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
 BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
 MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
 D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
-Days passed quickly as the few surviving members of the Iron Division struggled to restore their stronghold.
-But as tunnels were cleared, stragglers were rescued and bodies were buried, time seemed to flow slower...
-And questions began to arise. What happened to the campaign against the Demons? No messenger had arrived...
-Why was the Disk artifact so important to Nithriel? How would it change the future? And where did Zan go?
-End of Hedon I - Crystal Heart 
-Bear Warrior:    Over there! A Lancer! 
-Reaver:    Over there! A Lancer! 
-Bear Warrior:    Oh, fuck! 
-Reaver:    Have you seen the size of that thing? 
-An empty socket. 
-A set of amber glyphs is etched into the sides of the empty pedestal. 
-A set of green glyphs is etched into the sides of the empty pedestal. 
-A set of silver glyphs is etched into the sides of the empty pedestal. 
-A set of aqua glyphs is etched into the sides of the empty pedestal. 
-Bear Warrior:    They're opening the Council Room! Get ready for another wave! 
-Reaver:    They're opening the Council Room! Brace the defenses! 
-Bear Warrior:    They're opening the Council Room! Get ready for another wave! 
-Reaver:    They're opening the Council Room! Brace the defenses! 
-Bear Warrior:    Look out! Right corridor! 
-Reaver:    Look out! Right corridor! 
-Reaver:    A demon!!! 
-Bear Warrior:    A demon!!! 
-Bear Warrior:    Look at this thing... What the fuck were they trying to conjure here?
-Reaver:    Guess we'll soon find out. 
-Reaver:    This pentagram is huge... wonder what they were trying to conjure here.
-Guess we'll soon find out. 
-Reaver:    Looks like they've closed down the shutter gate from inside.
-Gotta find a way to open it... I can also hold here and attack them when it goes up if you wish.
-Bear Warrior:    Not a bad idea, I'll stay here too if you want, sarge. 
-Bear Warrior:    Damn it, they've locked us out with that shutter. There should be a way to open it... 
-Bear Warrior:    Phew, thanks for the rescue! The bastards trapped me inside this tank!
-They've set up in the library ahead. We could breach in from here, take 'em unprepared. 
-Bear Warrior:    *Muffled* Heeey, get me out of here! 
-Bear Warrior:    The pump is right there, turn it on and get me out of here! 
-Lancer:    A timely arrival, sergeant. I could use your help. 
-Lancer:    I heard Nithriel and a demon passing by a while ago. He sounded awfully... large. 
-Reaver:    Damn it, we're too late. Nithriel might have already breached the Heart!
-Lancer:    Let us hurry, we've no time to waste! 
-Bear Warrior:    Damn it, we're too late. Nithriel's just shattered the defense!
-Lancer:    Let us hurry, we must stop her at all costs! 
-Lancer:    Our sisters have fallen... we've no time to waste, Nithriel must be right by the Heart! 
-Lancer:   Look alive! Time to make our founders proud. 
-Reaver:    The Crystal Heart... I've only heard stories about this place.
-Lancer:    'tis the essence of our existence. And we are its only hope now. 
-Bear Warrior:    So this is the Crystal Heart... this place is... weird.
-Lancer:    The birthplace of our generation. We are its only hope now. 
-Lancer:    Crystal Heart. Essence of our World, we come to defend you. 
-Bear Warrior:    Zan, over here! 
-Reaver:    Hey Zan, over here! 
-Bear Warrior:    Zan, over here! 
-Reaver:    Hey Zan, over here! 
-Lancer:    Good to see you're still holding, sisters. 
-Reaver:    Well met, sisters. 
-Bear Warrior:    Hail, sisters! 
-Reaver:    Am I glad to see you, sergeant! We could really use your help! 
-Reaver:    Die y- ...Zan?! I can't believe it's you!
-We've got to link back up with the defenders!
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Bear Warrior:    Hey, stop that! We need these bowls. 
-Witch:    The fuck are you doing? Knock it off! 
-Earth Mother:    What are you doing, Zan?! I really need the mana... 
-Wounded Shieldguard:    Aye, aye, what good is a bottle if it's empty? 
-Captain Dura:    Well, well, well, look who made it... 
-Captain Dura:    Dendra wants to talk to you, she's in the patio behind us. 
-Captain Dura:    I'd rather have my Crushbow at hand if you don't mind. We have other supplies to spare if you need 'em. 
-Lancer Dendra:    The crystal key, Zan. Don't forget to take it before you leave. 
-Captain Dura:    Good hunting, warrior. 
-Captain Dura:    So, Tiati saved your ass, eh? She's not here if you wanna thank her, Dendra sent her on recon duty. 
-Captain Dura:    I was at the Witch Clinic just over a week ago. Everything looked so... normal back then. 
-Captain Dura:    That bitch Lith was behind all this mess! I still can't believe what she did. She's ruined us... 
-Captain Dura:    Bah, to all Hells with Lith! We gotta focus on the battle at hand. We haven't come this far to lose it now! 
-Captain Dura:    It looks like the cultists have taken a break from attacking this wing. They're up to something... 
-Captain Dura:    Good to have you on board, sergeant. Must have been a hell to make it here. 
-Lancer Dendra:    Over here, Zan. 
-Lancer Dendra:   At last, you have arrived. I am Lancer Dendra and I've assumed command of the remnants here...
-Tiati has informed me about your... unexpected return to Valc. She's also found out about Lith's betrayal and this Nithriel character that so eagerly wants to break us apart.  Alas, we have no time to fret so I'll be brief.
-
-Thanks to you powering up the Parapet ward, Nithriel's ability to teleport more cultists in has been severed, thus allowing us to hold the defense of this wing. Behind us lies the very Crystal Heart - which we shall die protecting.
-
-In our desperation, we called for the power of the Earth, and collapsed as many entrances in the temple as we could. We bought time, but also blocked ourselves from reaching the defenders in the western wing...
-
-That is the only other place to access the Heart.    We used to keep in touch with the Lancers in there through the crystal ball but we've recently lost all contact. The cultists have so far focused on us...
-
-But a few hours ago, Nithriel has vanished from the front line, leaving a handful of her minions to keep us busy here. I've sent Tiati to find out what she's up to, but she hasn't returned yet. I fear for the worst...
-
-Yes, I need you to go find out what Nithriel is up to.   It will not be an easy task, but you shall not be on your own. As a sergeant of the Bear Warriors, I shall entrust you with commanding your own squad.
-
-Take along a few sisters to aid you, if you wish.  You will also need this crystal key to gain further access. Now take whatever supplies you need, and get going. Find out what Nithriel is trying to do...
-
-Oh, and one more thing...  we don't need to know what happened to the campaign, Zan. Morale is low enough already, and knowing that we might be the last of our kind won't help us now.     Keep the story for after. 
-
-Press Use to skip briefing 
-Lancer Dendra:   Take a few warriors and find out what Nithriel is up to - she might try to break through the west wing! 
-Lancer Dendra:    By the way, is that... my Crylance that you're carrying? Nevermind, must be a coincidence... 
-Lancer Dendra:   I'd say Nithriel is trying to shift her remaining forces towards the western wing. 
-Lancer Dendra:   If the cultists are indeed pushing west, then the defenders across will need you to reinforce them. 
-Lancer Dendra:   You must hurry! If they manage to breach into the Heart we will be doomed! 
-Tiati:    Go get her! You can't let her take the Disk! 
-Tiati:    Her magic is simply too strong... she managed to conjure this giant demon... 
-Tiati:    I'll be fine. Stop wasting time! 
-Wounded Fixer:    ... 
-Bear Warrior:    You're a sight for sore eyes, sarge. Are our sisters finally sending back reinforcements? 
-Bear Warrior:    We carved our way here from the Barracks with Captain Dura. These cultists are everywhere! 
-Bear Warrior:    Sounded like a hell of a fight outside. Too bad Dura ordered me to stay here and protect the wounded. 
-Bear Warrior:    Don't know for how long we can keep holding up. We barely have supplies for another day... 
-Wounded Shieldguard:    Oh, no, no, I'm not wounded, I'm just... argh- layin' fer a bit... 
-Wounded Shieldguard:    Oh, I still 'ave some skulls to crack! 
-Wounded Shieldguard:    What in all the Hells happened to Icepeak? Why aren't me brethren here yet, darn it! 
-Wounded Shieldguard:    At least I'm surrounded by women. Aye, t'would be a good day to die... 
-Wounded Witch:    Buzz off. 
-Wounded Witch:    Heard Tiati shot Lith like a fucking dog. I would have plucked her eyes out instead. 
-Wounded Witch:    Look, just go pester someone else... 
-Wounded Earth Mother:    If you don't mind, I'd rather be left alone. 
-Wounded Earth Mother:    It's hard enough to focus with this head wound, would you please move along? 
-Wounded Earth Mother:    ... 
-Reaver:    This is so bad... they've overwhelmed us from inside our own impenetrable stronghold. 
-Reaver:    I heard they took over the Plaza in mere minutes. Wonder if the Grove and Reaver HQ met the same fate. 
-Reaver:    I was close to the Lancer's temple when the invasion began. Had enough time to get here and regroup. 
-Reaver:    Killed a few. Took a few hits as well. Nothing the right potion couldn't heal, though. 
-Reaver:    Setting off to stop the Warlock? I'm ready to join you.
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Bear Warrior:    So, you actually turned the anti-magic ward at the Parapet back on? That really saved our skin. 
-Bear Warrior:    They wouldn't stop pouring out of those magic pentagrams. Seeing them fizzle was a huge relief! 
-Bear Warrior:    All this treachery and corruption... I heard Lith was downright possessed. She screwed us all over. 
-Bear Warrior:    We're low on supplies and our morale is even lower, but we'll protect the Heart to our last breath. 
-Bear Warrior:    So, you're moving out to the west wing? I'm at your command.
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Bear Warrior:    Easy on the food, there isn't much left here. 
-Reaver:    Dendra is in charge now. She's inside, go talk to her. 
-Reaver:    Dendra is inside with the wounded, we must defend them! 
-Reaver:    Get whatever weapons and ammo you can and let's push them back! 
-Reaver:    Bastards! 
-Reaver:    What a mess... 
-Reaver:    Not now, Sarge. 
-Reaver:    We held them off... for now. 
-Reaver:    Watch out for those toxic clouds! 
-Reaver:    Don't know for how much longer we can hold out... 
-Reaver:    ... 
-Bear Warrior:    Fuck! Can't believe we survived that onslaught! 
-Bear Warrior:    For the Iron Division! 
-Bear Warrior:    Keep your eyes peeled, this isn't over. 
-Bear Warrior:    Grrrh!... 
-This door requires a Crystal key to open. 
-Lancer:    I don't have any crystal key on me, we'll have to go back and search for someone who does. 
-This door requires an Earth key to open. 
-The fire won't yield. 
-The gates won't budge. 
-Thanks to EVERYONE who financially supported Hedon on Patreon!
-Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
-Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
-D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
-BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
-MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
-D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole 
-WELCOME TO HEDON'S CRYSTAL HEART PATREON GALLERY!
-Do you want to feature in here as a supporter of Hedon?
-Do you want a chance at having drawn a custom avatar of your choosing?
-Do you want to help Hedon grow bigger and hook up to development updates?
-Then join up on Hedon's Patreon! 
-Nistal 
-Vodyanoi 
-Nistal (2) 
-Sarah 
-Lem 
-Robopatron 
-Kiyu69 
-Karitan Aegis 
-Kiyu69 (2) 
-Vodyanoi (2) 
-Kyurae Minasaki 
-Danyx992 
-Copper Boltwire (1 & 2) 
-ekwood 
-papyLaPlage 
-Danyx992 (2) 
-Kyurae Minasaki (2) 
-Karitan Aegis (2) 
-Sasha The Lynx (Avatar created by Sasha the Lynx) 
-Iceman13 
-Albatross 
-Danyx992 (3) 
-Vodyanoi (3) 
-Daniel Jewell 
-ekwood (2) 
-papyLaPlage (2) 
-ArtOfShred 
-DTheRage 
-Vivien Lynn (Reward slot gifted by Albatross) 
-M.A.Kerr 
-RawbGM 
-Metazealot 
-Karitan Aegis (3) 
-Albatross (2) 
-BeardedDoomGuy 
-CopperBoltwire (3) 
-D1SoveR 
-Danyx992 (4) 
-FrawLawk 
-AlexZerker 
+欢迎来到赫顿的水晶之心Patreon画廊！
+你是否想在这里作为赫顿的支持者被展示？
+你是否有机会绘制自己选择的定制角色形象？
+你是否想帮助赫顿发展壮大并获取开发更新？
+那么加入赫顿的Patreon吧！
+Nistal
+Vodyanoi
+Nistal (2)
+Sarah
+Lem
+Robopatron
+Kiyu69
+Karitan Aegis
+Kiyu69 (2)
+Vodyanoi (2)
+Kyurae Minasaki
+Danyx992
+Copper Boltwire (1 & 2)
+ekwood
+papyLaPlage
+Danyx992 (2)
+Kyurae Minasaki (2)
+Karitan Aegis (2)
+Sasha the Lynx（由Sasha the Lynx创作的Avatar）
+Iceman13
+Albatross
+Danyx992 (3)
+Vodyanoi (3)
+Daniel Jewell
+ekwood (2)
+papyLaPlage (2)
+ArtOfShred
+DTheRage
+Vivien Lynn（由Albatross赠送的奖励插槽）
+M.A.Kerr
+RawbGM
+Metazealot
+Karitan Aegis (3)
+Albatross (2)
+BeardedDoomGuy
+CopperBoltwire (3)
+D1SoveR
+Danyx992 (4)
+FrawLawk
+AlexZerker
