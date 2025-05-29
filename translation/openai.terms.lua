@@ -10,7 +10,6 @@ repeat_last_n = 64 -- for thinking
 repeat_penalty = 1.1 -- for thinking
 max_tokens = -1
 seed = 0
-line_mode = false -- for batch mode
 debug = nil
 jsonHighSize = 8 * 1024 -- for 4k context + thinking
 jsonLowSize = jsonHighSize * 0.75
@@ -26,6 +25,9 @@ prompt = [[
 --[[
 filter_line_in = function(line, i)
 	return line
+end
+G.filter_lines_in = function(lines, i)
+	return lines
 end
 filter_line_out = function(res, i)
 	res = res:gsub('^<think>.-</think>', ''):gsub('^<think>', ''):gsub('\r+', ''):gsub('^\n+', ''):gsub('\n+$', '')

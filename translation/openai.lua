@@ -29,7 +29,6 @@ G.repeat_penalty = 1   -- default: 1,    disabled: 0
 G.max_tokens = -1      -- default: -1,   disabled: -1
 G.seed = nil           -- default: nil
 G.prompt = 'You are a helpful assistant.' -- default: 'You are a helpful assistant.'
-G.line_mode = false    -- default: false  disabled: false
 G.debug = nil          -- default: nil
 G.jsonFileName = 'openai.tmp.json'
 G.jsonHighSize = 16 * 1024 -- for 4k context
@@ -37,6 +36,9 @@ G.jsonLowSize = G.jsonHighSize * 0.75
 G.lineLimitSize = G.jsonHighSize * 0.2
 G.filter_line_in = function(line, i)
 	return line
+end
+G.filter_lines_in = function(lines, i)
+	return lines
 end
 G.filter_line_out = function(res, i)
 	res = res:gsub('^<think>.-</think>', ''):gsub('^<think>', ''):gsub('\r+', ''):gsub('^\n+', ''):gsub('\n+$', '')
@@ -65,6 +67,8 @@ end
 local function local_utf8(s)
 	return wc2mb(mb2wc(s, 1))
 end
+G.utf8_local = utf8_local
+G.local_utf8 = local_utf8
 ------------------------------------------------------------------------------
 local function escapeCmd(cmd)
 	return cmd:gsub('(\\+)"', function(s) return s .. s .. '"' end):gsub('(\\+)$', function(s) return s .. s end):gsub('"', '\\"')
@@ -203,37 +207,12 @@ local fout = open(outputFileName, 'wb')
 if not fout then
 	error('ERROR: can not create: ' .. outputFileName)
 end
-local lastRes, cmd, rawRes, _
-if G.line_mode then
-	local i = 0
-	for line in io.lines(inputFileName) do
-		i = i + 1
-		write('<', i, '>', utf8_local(line), '\n')
-		line = G.filter_line_in(line, i)
-		if line:find '%S' then
-			if lastRes then
-				jsons[#jsons + 1] = ',{"role":"assistant","content":' .. escapeJsonWithQuot(lastRes) .. '}\n'
-				jsonSize = jsonSize + #jsons[#jsons]
-			end
-				jsons[#jsons + 1] = ',{"role":"user",     "content":' .. escapeJsonWithQuot(line) .. '}\n'
-				jsonSize = jsonSize + #jsons[#jsons]
-			saveJsons()
-			lastRes, cmd, rawRes = G.callAiFile(G.jsonFileName)
-			if not lastRes then
-				error('ERROR: callAiFile(' .. jsonFileNameLocal .. ') failed:\ncmd: ' .. utf8_local(tostring(cmd)) .. '\nrawRes: ' .. utf8_local(tostring(rawRes)))
-			end
-			write('[', i, ']', (lastRes:find '\n' and '\n' or ''), utf8_local(lastRes:gsub('^<think>%s*</think>\n*', '')), '\n')
-			lastRes, line = G.filter_line_out(lastRes, i)
-		else
-			_, line = G.filter_line_out(line, i)
-		end
-		fout:write(line)
-		fout:flush()
-	end
-else
-	local i, n, lines = 0, 0, {}
-	local function callAi()
-		local arg = concat(lines)
+local lastRes, cmd, rawRes
+local i, n, lines = 0, 0, {}
+local function callAi()
+	local arg = concat(lines)
+	arg = G.filter_lines_in(arg)
+	if arg then
 		if lastRes then
 			jsons[#jsons + 1] = ',{"role":"assistant","content":' .. escapeJsonWithQuot(lastRes) .. '}\n'
 			jsonSize = jsonSize + #jsons[#jsons]
@@ -250,22 +229,26 @@ else
 		fout:write(arg)
 		fout:flush()
 	end
-	for line in io.lines(inputFileName) do
-		line = G.filter_line_in(line, i + 1)
-		n = n + #line + 1
+end
+for line in io.lines(inputFileName) do
+	line = G.filter_line_in(line, i + 1)
+	if line then
+		n = n + #line
 		if n > G.lineLimitSize and lines[1] then
 			callAi()
-			n = #line + 1
+			n = #line
 			lines = {}
 		end
 		lines[#lines + 1] = line
 		lines[#lines + 1] = '\n'
 		i = i + 1
-		write('<', i, '>', utf8_local(line), '\n')
+		write('<', i , '>', utf8_local(line), '\n')
+	else
+		i = i + 1
 	end
-	if lines[1] then
-		callAi()
-	end
+end
+if lines[1] then
+	callAi()
 end
 fout:close()
 if lastRes then
