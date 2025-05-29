@@ -1,222 +1,222 @@
 Bear Warrior:    Sarge? What the hell is going on here?
-熊战士：班长？这里到底发生了什么事？
+熊战士：上尉？这他妈到底怎么了？
 
 We should stick together, ready when you are.
-我们应该团结一致，当你准备好了。
+我们该并肩作战，随时待命。
 
 Tip: You can order companions to follow you or hold position by interacting with them (DEFAULT: E)
-提示：你可以通过与同伴的互动来命令他们跟随你或保持位置（默认：E）。
+提示：你可以通过与同伴互动来命令他们跟随你或原地待命（默认按键：E）
 
 Bear Warrior:    Looks like Dura's squad made it to the Forge, but the gate is closed. Gotta find another way.
-熊战士：看起来杜拉的小队到了锻造厂，但大门已经关闭。必须找到另一条路。
+熊战士：看起来杜拉的小队已经抵达锻造厂，但大门关着。得另寻他法。
 
 Bear Warrior:    Curse these scumbags! We shall avenge our sisters!
-熊战士：诅咒这些卑鄙小人! 我们要为我们的姐妹们报仇!
+熊战士：该死的杂种！我们要为姐妹们报仇！
 
 Bear Warrior:    These bastards are everywhere! Let's hurry up, we can't let them take the Crystal Heart!
-熊战士：这些混蛋到处都是！让我们快点，我们不能让他们拿走水晶之心!
+熊战士：这些混蛋无处不在！快点，不能让他们夺走水晶之心！
 
 This switch requires a Stone key to open the door.
-这个开关需要用石头钥匙来打开门。
+此开关需要石钥匙才能开启大门。
 
 This switch requires an Iron key to open the door.
-这个开关需要铁钥匙才能打开门。
+此开关需要铁钥匙才能开启大门。
 
 The gate must be fully powered first.
-大门必须先完全通电。
+大门必须先完全充能。
 
 Bear Warrior:    Oh shit!!!
-熊战士。
+熊战士：哦shit!!!
 
 Bear Warrior:    Look out!
-熊战士：小心点!
+熊战士：小心！
 
 To VALC'S BARRACKS AND BATH HOUSE
-前往瓦尔克的兵营和浴室
+前往瓦尔克兵营与浴室
 
 TO VALC'S PLAZA
-去瓦尔克的广场
+前往瓦尔克广场
 
 (The note looks like it was pinned on the nearby wall but got blown away onto the floor)
-(纸条看起来像是钉在附近的墙上，但被吹到了地上)
+（这张纸条看起来像是被钉在附近墙上，却被风吹到了地上）
 
 If any survivor gets here, we are holding up in the garrison so link up with us as soon as
-如果有幸存者来到这里，我们正在驻军中坚守，请尽快与我们联系。  在
+如果任何幸存者到达这里，请在兵营中坚守并尽快与我们汇合。进入庭院
 
 you can.   Make sure to hail us before entering the courtyard, or we might open fire on
-进入院子之前一定要呼唤我们，否则我们可能会向你开火。哦，如果你们
+前务必向我们呼救，否则我们可能会开火射击。哦，还有，如果你这些异
 
 you. Oh, and if any of you cultist freaks can read this, come kiss our asses. -Cpt. Beza
-中的任何一个邪教怪人能读到这个，请来亲吻我们的屁股。-贝萨中尉
+端狂徒中的任何一个能读到这个，就来亲吻我们的屁股吧。- 贝扎上尉
 
 Captain Dura's Log - Day 239
-杜拉队长日志--第239天
+队长杜拉的日志 - 第239天
 
 Valc is under attack! Our crystal barriers must have fallen somehow, since the invading force is using
-瓦尔克遭到了攻击！我们的水晶屏障一定是在某种程度上掉了下来。我们的水晶屏障一定是
+瓦尔克正遭受攻击！我们的水晶屏障不知为何已经失效，入侵者正在
 
 powerful magic portals to bypass our outer defenses! I have linked up with Captain Beza and the rest
-以某种方式倒下了，因为入侵者正在使用强大的魔法传送门来绕过我们的外部防御！我已经
+使用强大的魔法传送门绕过外层防御！我已经与贝扎上尉和其余守军
 
 of the garrison.  We are outnumbered, and we're barely holding the apartments.  We don't have enough
-和贝萨上尉联系好了。我已经和贝萨队长以及其他驻军联系上了。 我们寡不敌众，只能勉强
+汇合。我们兵力悬殊，勉强守住宿舍区。由于物资不足无法支撑围攻
 
 supplies to survive a siege,  so we have decided to split up...     I will take six Bear Warriors and rush to
-守住公寓。 我们没有足够的物资在围攻中生存，所以我们决定分头行动......     我将带着六
+，我们决定分头行动……我会带领六名熊战士前往支援守护水晶之心
 
 aid the Lancers guarding the Crystal Heart, since that's our grand duty. The Plaza path is blocked so
-名熊战士赶去援助守卫水晶之心的长枪手，因为那是我们的重大职责。广场上的路被堵住了
+的长枪团，因为这是我们的重大职责。广场通道被封锁，因此最佳选
 
 our best shot is to move to the Forge and use the portal there to rally up with the Heart's Guardians.
-，所以我们最好的办法是转移到锻造厂，利用那里的传送门与水晶之心的守护者们会合。
+择是前往锻造厂，利用那里的传送门与水晶之心的守卫汇合。
 
 Beza will stay here with the goblins and hold the barracks. Or at least try to slow the new waves down.
-贝萨将和地精们留在这里，守住军营。或者至少尝试减缓新的浪潮。
+贝扎将留守此处与哥布林周旋，至少尝试延缓新一波攻势。
 
 (A sentence has been added to the bottom, clearly written in haste by someone else. The ink hasn't dried.)
-(底下加了一句话，显然是别人匆忙写的。墨水还没有干）。
+（添加了一句文字，显然是某人匆忙写下的。墨迹还未干透）
 
 We ran out of ammo... it's not even fair... Beza is dead... I've nowhere to fall back now. Remember us.
-我们的弹药用完了......这根本不公平......。贝萨已经死了... 我现在已经无处可退了。记住我们。
+我们弹药耗尽了……这不公平……贝扎死了……我现在无处可退了。记住我们。
 
 BATH HOUSE GATE POWER - SOUTH HALF
-澡堂门的力量--南半部
+浴室大门能源 - 南侧半区
 
 (The parchments depict various sketches and schematics)
-(羊皮纸上画着各种草图和示意图)
+（羊皮纸上描绘着各种草图和结构图）
 
 'tis a shame I couldn't find you before you set off. The matters of the Underworld are
-真遗憾，在你出发前我没能找到你。冥界的事情一直在催促我。我
+真遗憾没能早点找到你。地下世界的事务总是压得我喘不过气
 
 ever pressing me. I hope you're all well. It is about time you and your orc sisters went
-希望你们都很好。是时候让你和你的兽人姐妹们去打击那些混乱的
+来。希望你们都平安。是时候了，你和你的兽人姐妹们该去打
 
 to strike those chaotic savages.    Still,  as much as I like the scars,  try not to bring
-野蛮人了。   不过，虽然我很喜欢这些伤痕，但尽量不要带回来任
+击那些混乱的野蛮人了。不过，尽管我喜欢这些伤疤，但尽量
 
 back any fresh ones.  I will be watching this conflict carefully, but my resources are
-何新的伤痕。 我会仔细观察这场冲突，但我的资源已经很紧张了
+别带回新的伤口。我会密切关注这场冲突，但我的资源已经捉
 
 stretched thin.   Speaking of, you forgot your sentry toy by the temple, I dropped it
-。  说到这里，你把你的哨兵玩具忘在寺庙旁了，我把它丢在卧室
+襟见肘了。说到这个，你把守卫玩具忘在神庙了，我把它放在
 
 in the bedroom.    P.S. You need to find a better place to hide your apartment key. -A.
-里了。   P.S. 你需要找一个更好的地方来隐藏你的公寓钥匙。-A.
+卧室里了。P.S. 你需要找个更好的地方藏你的公寓钥匙。-A。
 
 BATH HOUSE GATE POWER - NORTH HALF
-澡堂门电源--北半部
+浴室大门能源 - 北侧半区
 
 HOW DID YOU GET HERE?
-你是如何来到这里的？
+你是怎么到这里的？
 
 TO VALC'S GREAT FORGE
-到瓦尔克的大锻造厂
+前往瓦尔克的大锻造厂
 
 All our Crushbows are now enchanted with Air Magic, courtesy to the Lancers and Earth Mothers.
-我们所有的十字弓现在都被赋予了空气魔法，这要归功于长枪手和大地之母。
+我们所有的重击弩现在都附带了天空之神魔法，感谢长枪团和大地之母的协助。
 
 This allows for deadly fast and accurate shots that pierce through all flesh and armor with ease.
-这使得我们能够以致命的速度和准确的射击，轻松地穿透所有的肉体和盔甲。
+这使得射出的箭矢能以致命的速度和精准度穿透所有肉体与铠甲。
 
 Know that the magic force encasing the bolt dulls the explosion and fragmentation radius, but this
-要知道，包住枪栓的魔力会减弱爆炸和碎裂的半径，但在较近的距
+知晓魔法力量包裹箭矢会削弱爆炸范围与碎片扩散半径，但近距离作战
 
 can certainly be used to our advantage at closer range.   No demon will withstand this raw power.
-离上，这肯定能被我们利用。  没有恶魔能抵御这种原始的力量。
+时这无疑能成为我们的优势。任何恶魔都无法承受这种纯粹的力量。
 
 Beza, if you or your scouts read this,  know that we have carved our way into the Forge.
-贝萨，如果你或你的侦察兵读到这封信，请知道我们已经凿开了进入锻造厂的路。
+贝扎，如果你或你的侦察兵看到这段文字，请知悉我们已突破进入锻造厂。
 
 The gates were open, so the cultists must have taken over the security posts in there.
-大门是开着的，所以邪教分子肯定已经占领了那里的安全岗哨。
+大门已被打开，因此邪教徒一定占领了内部的安全系统岗位。
 
 We'll lock them down behind us, as we were just ambushed by a wave spawning right into
-我们会把它们锁在身后，因为我们刚刚被一波直接进入仓库的人伏击
+我们将从后方封锁他们——因为我们刚刚遭遇一波突袭，敌人直接从仓库
 
 the depot here, and we can't risk getting flanked while pushing. We've loaded up on ammo
-了，我们不能冒着被包抄的危险来推进。我们已经装满了弹药和药水
+涌来，而我们在推进时无法冒险被侧翼包抄。我们已经补充足够的弹药和
 
 and potions but there's plenty supplies left around if you can get here. Good luck. - Dura
-，但如果你能来到这里，周围还有很多物资。祝你们好运。- 杜拉
+药剂，但如果你能及时赶到这里，周围仍有大量物资。祝你好运。-杜拉
 
 BATH HOUSE OF THE ANCIENTS
-古人的浴场
+古代浴室
 
 RESTORED AND PRESERVED BY GRAND EARTH MOTHER BREAZA
-由伟大的地球母亲BREAZA修复和保存的
+由伟大的大地之母布里扎修复并保存
 
 This wall remembers the western wing,  which was damaged beyond repair.
-这面墙让人记住了西翼，它被损坏得无法修复。
+这面墙铭记着西侧走廊，它已损毁无法修复。
 
 The recovered materials have been used to restore the other bath chambers.
-回收的材料已被用于修复其他浴室。
+回收的材料已用于修复其他浴室房间。
 
 (The ledger holds records of supplies brought in from the Forge)
-(账本上记录着从锻造厂运来的物资)
+（账本记录了从锻造厂带来的物资）
 
 (Several blank pages at the back seem to have been ripped away)
-(后面的几张空白页似乎被撕掉了)
+（末尾几页空白似乎被撕掉了）
 
 (The scroll feels warm, and after unrolling it you notice the ink is still fresh)
-(卷轴感觉很温暖，展开后你会发现墨水仍然很新鲜)
+（卷轴摸起来有些温暖，展开后发现墨迹仍很新鲜）
 
 Zan!   What the hell are you doing here?   Weren't you supposed to be off with our main
-瓒!   你到底在这里做什么？  你不是应该和我们的主力部队一起去打
+瓒！你他妈怎么在这里？你不该和主力部队一起进攻地狱之
 
 force to strike at Hell's core?  Unless... Look, the demons are way up our ass right now.
-击地狱的核心吗？ 除非... 听着，恶魔们现在正盯着我们的屁股。
+核的吗？除非……看吧，恶魔们正追着我们屁股后面。
 
 I saw you coming through the vision globe,  and I think I know where you're headed...
-我看到你从幻象球里出来了 我想我知道你要去哪里...
+我看到你从视觉球体中出现，我想我知道你要往哪里去了……
 
 Cultists are all over the place, and pretty much everyone got ambushed and killed in
-崇拜者们到处都是，几乎每个人都在短短的时间内被伏击和杀害
+邪教徒到处都是，几乎所有人都在片刻间被伏击并
 
 mere moments. The Forge made no exception. An elven warlock seems to be leading this
-。锻造厂也不例外。一个精灵术士似乎在领导这次进攻。强悍的
+杀死。锻造厂也不例外。似乎有一名精灵法师正领
 
 assault. Tough bitch, went straight through the lower Plaza and used magic to cave in
-婊子，直接穿过下层广场，用魔法将她身后的整个隧道洞开.....
+导这次进攻。硬茬子，她直接穿过下层广场，用魔
 
 the whole tunnel behind her...     The Lancers won't hold out forever,  and it's going to
-.     长枪党不会一直坚持下去的，我们也很难接近他们并提供援
+法将身后的整条隧道轰塌……长枪团撑不了太久，
 
 be hard for us to reach them and assist. Dura went through with five other orcs, and
-助。杜拉和其他五个兽人一起通过，并使用锻造门户到达那里。
+我们很难及时赶到支援他们。杜拉带着五个兽人一
 
 used the Forge portal to get there.   Or at least I think so, the warp looked unstable
-  或者至少我是这么认为的，在我看来，这个经脉看起来很不稳
+起行动，并通过锻造厂传送门抵达那里。至少我认
 
 to me.    She told me to get to Beza,  but I was too late,  so I am heading back to the
-定。   她让我去找贝萨，但我来得太晚了，所以我正往回走。
+为是这样——那传送门看起来不太稳定。
 
 Crystal Heart now.  Hurry up to the Forge, I'll keep the portal open.   -   Reaver Tiati
-水晶之心了。 赶快去锻造厂，我会保持门户开放。  - Reaver Tiati
+她让我去贝扎那里，但我来晚了，现在我得返回水晶之心了。快点去锻造厂，我会保持传送门开放。-掠夺者提娅媞
 
 By the time it was discovered,  this corridor had completely succumbed to ruin.
-当它被发现时，这条走廊已经完全屈服于废墟了。
+等到发现时，这条走廊已经完全沦为废墟。
 
 The room beyond has been reconstructed from bare rock by the Earth Mothers' magic.
-外面的房间已经被大地之母的魔法从裸露的岩石上重建起来了。
+房间另一侧由大地之母的魔法从岩石中重建而成。
 
 Hey, can you go check out the vents behind the gym? The Bears keep telling me.
-嘿，你能去检查一下体育馆后面的通风口吗？熊孩子们一直告诉我。
+嘿，你能去检查一下健身房后面的通风口吗？熊族们一直在跟我说。
 
 they hear some weird hissing noise.    Could be a fissure or perhaps some pests...
-他们听到一些奇怪的嘶嘶声。   可能是一个裂缝，也可能是一些害虫...
+他们听到一些奇怪的嘶嘶声……可能是裂缝，也可能是某种害虫……
 
 Don't forget to take a fragfire can with you, you might have some purging to do.
-不要忘了带一个碎片火罐，你可能会有一些净化工作要做。
+别忘了带上一个碎火罐，你可能会需要清理一番。
 
 Tip: You can deploy Sentry Turrets from your inventory.
-提示：你可以从你的库存中部署哨兵炮塔。
+提示：你可以从背包中部署守卫炮塔。
 
 Once deployed, you can move them around by interacting with them (DEFAULT: E)
-一旦部署完毕，你可以通过与它们互动来移动它们（默认值：E）。
+部署后，通过与它们互动（默认键：E）可以移动它们。
 
 This door bears a strange feeling. The lock has a small axe symbol etched into it.
-这扇门有一种奇怪的感觉。锁上刻有一个小斧头的符号。
+这扇门有种奇怪的感觉。锁上刻着一个小斧头的符号。
 
 This door requires a Stone key to open.
-这扇门需要一把石钥匙才能打开。
+这扇门需要用石钥匙打开。
 
