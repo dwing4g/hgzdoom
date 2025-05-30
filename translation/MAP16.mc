@@ -1,117 +1,117 @@
-Crystal Curator:    Looks like we're reunited on the battlefield, warrior. Time to do what we do best. 
-Bear Warrior:    Strength and blood, Bonebreaker! The battle awaits us! 
-Eraanthe:    Noisy oaf! Your chaotic assault almost got me caught! Learn to be more subtle!
-What are you gawking at? Help me get the engine started, we can still catch up to the Baron's fleet! 
-Guardian of Hell 
-Lord Igrutius:    ATAAAAACK!!!
-Hmmh?... Why are you fleeing, you fools?!
-ARRGH, darn you and your trinkets, Halfblood!!! 
-Crystal Curator:    FOR OUR HONOR! FOR OUR HOME! CHARGE! 
-Earth Mother:    EARTH AND BLOOD! FOR VALC! CHARGE! 
-Bear Warrior:    BLOOD AND HONOR! FOR THE IRON DIVISION! 
-Witch:    BRING IT ON, SCUM! YOU'RE GOING DOWN WITH US! 
-Reaver:    For Valc! For our fallen sisters! 
-Fixer:    Uh- do we stay and fight? 
-Blue Baron:    The Halfblood enters the board. Many pawns fall before her wrath.
-Blue Baron:    A brash child. She knocks at Hell's gates incessantly... will anyone respond?
-The evil Baron makes her wait...it's his home, after all. But look! The dog is eager to see her! 
-Crystal Curator:    Your pet has fallen, Baron! And you're next! 
-Witch:    Aww, no more bodies to throw at us?! You're next, tentacle face!!! 
-Bear Warrior:    ARRRGH, BOW BEFORE THE IRON DIVISION! DO YOU HEAR ME?! WE'RE COMING FOR YOU!!! 
-Reaver:    Our vengeance draws near! You're next on your list, Baron! 
-Fixer:    Fuck! We survived? We aren't going after him without reinforcements, now, right?! 
-Earth Mother:    Earth's might! Victory! Witness us, Baron, for we are coming after you! 
-Blue Baron:    One loyal hound triumphs over another. The victor is rewarded with an open path to glory. 
-Blue Baron:    ...will you bridge the gap? 
-Blue Baron:    Will you reach the other side? Will you lose your heart? 
-Blue Baron:    The spectacle culminates here. But alas, the Baron has long left his seat. 
-Blue Baron:    Make haste now... the last ship is departing. 
-Crystal Curator:    I can sense Nithriel's aura fading! She and the Baron must have fled to sea! 
-Earth Mother:    I can sense the Baron's presence at sea! But we must wait for our sisters to catch up! 
-Bear Warrior:    Looks like the Baron has fled! Gah, we have to wait for Grund and the others now... 
-Witch:    Looks like we're too late. We might as well wait for our sisters to catch up, hm? 
-Reaver:    The Baron's fleet isn't here... he must've fled at sea. Let's wait for our sisters. 
-Fixer:    Uh-oh, I think the Baron's gone. We better stay put here and wait for our sisters... 
-Reaver:    Over here, sergeant! 
-Reaver:    Workshop Boss said you're the one who got the dark iron to fix our guns. We're ready to assist you! 
-Reaver:    Workshop Boss said you're the one who got the dark iron parts to fix my gun. I'm ready to assist you. 
-Reaver:    Fat bastard! 
-Fixer:    Ugh! I'm gonna throw up... 
-Bear Warrior:    The fuck was that abomination? 
-Witch:    This torture chamber... such a cruel exhibition of flesh...
-Earth Mother:    It certainly puts your laboratories to shame, Witch. 
-Crystal Curator:    Sounds like our sisters are fighting outside! We must aid them! 
-Earth Mother:    Sounds like our sisters are fighting outside! We must aid them! 
-Reaver:    Looks like our forces are pinned down on the far side of the square. Let's give them a hand! 
-Bear Warrior:    Our sisters have made it to the other side of the square! Rrrargh, let's join the battle! 
-The shell is loaded with hell powder and ready to have a large caliber warhead attached. 
-You don't have a proper shell casing to attach the warhead to. 
-The shell reloading device looks ready for use. 
-Earth Mother:    The Baron is so close! I can sense his wretched aura! 
-Crystal Curator:    Onwards! I can sense the Baron nearby! 
-Reaver:    Now that's a punch! Time to finish them off! 
-Fixer:    Ka-boom! 
-Witch:    BOOM! Hahahaha! 
-Bear Warrior:    Push forward! Let's finish them! 
-You don't have any loaded shell to fire from this cannon. 
-The cracked window looks like it could be easily shattered. 
-Lord Igrutius:    Imbeciles! Why did you bring the experimental cannon?! Can't you see none of the shells are loaded!?
-Lord Igrutius:    And why is it facing the wrong door?! Take it away!!! GRRRH! 
-Bear Warrior:    They're trying to run!!! CRUSH THEM! NO SURVIVORS! 
-Witch:    Hahaha, look at them flee! You can run, but can you hide?! 
-Crystal Curator:    Our valor is striking fear into their hearts! Onwards! 
-Earth Mother:    Face the fury of the Earthborn, humans! You have nowhere left to run! 
-Reaver:    Looks like they're fleeing! Let's finish them off. 
-Fixer:    Look! They're fleeing! Does this mean we won? 
-Witch:    Bonebreaker! Have you broken any bones today? Leave some for us too, yes? Hahaha! 
-Witch:    I'm a ruthless beast, rarrrgh! Look at all the bodies! All that delicious red stew I spilled! 
-Witch:    *Shouts loudly* Come on, red scum! Send us more bodies so we can make red stew! Hahahaha! 
-Witch:    *Grins wickedly, with pupils expanded from whatever frenzying potion she consumed* 
-Witch:    Urgh...sorry sarge, but I'd rather keep my teeth clenched than have them clattering. 
-Witch:    Took a bullet from one of those new demon guns. Bounced inside my arm... hurts like a bitch! 
-Witch:    *Groans* My amulet's shield only stopped it from exiting my body. Fuck this piece of shit! 
-Witch:    *Groans heavily* 
-Bear Warrior:    WHAT? I CAN'T HEAR YOU! MY EARS WON'T STOP RINGING! 
-Bear Warrior:    THEY AMBUSHED US, BUT WE PUNCHED OUR WAY THROUGH AND TOOK OVER THE BARRICADE! 
-Bear Warrior:    THEY SHOT THE CANNON AT US! A SHOT SO STRONG IT COLLAPSED THE BUILDING BEHIND! 
-Bear Warrior:    THEIR ARTILLERY HAS GROWN STRONGER SINCE OUR LAST SIEGE! WE GOTTA STOP THEM NOW! 
-Bear Warrior:    *Bloodthirsty growls* 
-Bear Warrior:    Strength and honor, Bonebreaker! I see you are drenched in cultist blood! 
-Bear Warrior:    The battlefield is our ancestral home! The elder spirits watch over us! 
-Bear Warrior:    Victory or death! This battle decides the fate of the Underworld! 
-Captain Dura:    Still alive, sergeant? Our foes have been far more prepared than we expected. 
-Captain Dura:    So you've cleared the eastern part of the town, right? And no sign of any of our targets? 
-Captain Dura:    Grund ordered us to secure the bell tower so the cultists can't signal for reinforcements. 
-Captain Dura:    Scout ahead, see if you can pick up any clue on where Nithriel and the Baron are hiding. 
-Captain Dura:    Hey, have you seen Tiati? She was supposed to sneak past their defenses and assist my squad! 
-Captain Dura:    Hmm, looks like you could use a healer. Take my Earth Mother along, I'll tend to the wounded here.
-Earth Mother:    As you wish. Ready when you are, Zan. 
-Earth Mother:    I'll help you however I can, but I have many other wounds to treat, Zan. 
-Earth Mother:    Earth protect you! 
-The doors are locked from the inside. 
-The gates are locked from the inside. 
-The door is locked from the other side. 
-The gate is locked from the other side. 
-The doors appear to be stuck. 
-This door requires a Bloody Axe key to open. 
-This door requires a Golden key to open. 
-This gate requires a Golden key to open. 
-This door requires a Golden key to open. 
-This gate requires a Bloody Axe key to open. 
-My Lord, our craftsdemons have made the adjustments as per your request, using the new machinery at the smeltery.   The finely ground crystals have yielded surprising results when mixed with our own hell powder.
+水晶管理员：看来我们在战场上重逢了，战士。该做我们最擅长的事了。
+熊战士：力量与鲜血，碎骨者！战斗在等着我们！
+埃拉安瑟：吵闹的蠢货！你的混乱进攻差点让我被抓到！学会更隐秘些！
+你在看什么？帮我启动引擎，我们还能追上男爵的舰队！
+地狱守护者
+领主伊格鲁提乌斯：ATAAAAACK!!!
+唔？...你们这些傻瓜为何逃跑？！
+ARRGH，该死的你和你的小玩意儿，混血人！！
+水晶管理员：为了我们的荣誉！为了我们的家园！冲锋！
+大地之母：大地与鲜血！为了瓦尔克！冲锋！
+熊战士：鲜血与荣耀！为了铁军！
+女巫：来吧，垃圾！你们将随我们一同坠落！
+掠夺者：为了瓦尔克！为了我们的亡灵姐妹们！
+修复者：呃——我们是否要留下战斗？
+幽蓝男爵：混血人踏入棋盘。许多棋子在她的怒火下倒下。
+幽蓝男爵：一个鲁莽的孩子。她不断敲打地狱之门……会有人回应吗？
+邪恶男爵让她等待……毕竟这是他的家，对吧？但看！那只狗急着见她呢！
+水晶管理员：你的宠物已倒下，男爵！下一个就是你！
+女巫：哎呀，没有更多尸体扔给我们了？！下一个就是你，触手脸！！！
+熊战士：啊——向铁军臣服！你们听到了吗？我们正在向你逼近！！！
+掠夺者：我们的复仇即将来临！你将是名单上的下一位，男爵！
+修复者：该死！我们活下来了？现在没有增援的话，我们不追他了吧？！
+大地之母：大地的伟力！胜利！见证吧，男爵，我们将向你发起进攻！
+幽蓝男爵：一只忠诚的猎犬战胜了另一只。胜利者将获得通往荣耀的道路。
+幽蓝男爵：……你会跨越这道鸿沟吗？
+幽蓝男爵：你能抵达彼岸吗？你是否会失去心脏？
+幽蓝男爵：这场盛况在此达到顶点。但唉，男爵早已离开他的座位。
+幽蓝男爵：快点吧……最后一艘船即将启航。
+水晶管理员：我能感受到妮丝瑞尔的气息正在消散！她和男爵一定逃往海上了！
+大地之母：我能感受到男爵在海上留下的气息！但我们必须等待姐妹们追上来！
+熊战士：看来男爵逃走了！啊，我们现在得等格伦德和其他人了……
+女巫：看起来我们来晚了。不如也等姐妹们追上来吧，嗯？
+掠夺者：男爵的舰队不在这里……他一定逃到海上去了。我们等姐妹们来吧。
+修复者：呃——不好，我觉得男爵已经溜走了。我们最好留在原地等姐妹们……
+掠夺者：这边！中士！
+掠夺者：工坊老板说你是那个拿到暗铁零件修理我们枪支的人。我们准备好了，可以协助你！
+掠夺者：工坊老板说你是那个拿到暗铁部件修好我枪支的人。我准备好了，可以协助你。
+掠夺者：胖子！
+修复者：呕！我都要吐了……
+熊战士：那是什么鬼东西？
+女巫：这刑房……如此残忍的肉体展示……
+大地之母：你的实验室简直羞愧不如，女巫。
+水晶管理员：听起来我们的姐妹正在外面战斗！我们必须援助她们！
+大地之母：听起来我们的姐妹正在外面战斗！我们必须援助她们！
+掠夺者：看起来我们的部队被卡在广场的另一边了。让我们去支援他们！
+熊战士：我们的姐妹已经抵达广场的另一边了！啊——，让我们加入战斗吧！
+炮弹装填了地狱火药，准备安装大口径弹头。
+你没有合适的炮弹外壳来安装弹头。
+炮弹重装装置看起来已准备好使用。
+大地之母：男爵离我们如此之近！我能感受到他邪恶的气息！
+水晶管理员：前进吧！我感知到男爵就在附近！
+掠夺者：现在这拳可真够狠！该结束他们了！
+修复者：轰——！
+女巫：轰！！哈哈哈！
+熊战士：继续推进！让我们结束他们！
+你没有装填好的炮弹可以从这门大炮发射。
+那扇裂开的窗户看起来很容易被击碎。
+领主伊格鲁提乌斯：蠢货！你们为什么带了实验性大炮？！难道没看到任何炮弹都没装填吗！！
+领主伊格鲁提乌斯：还有，这门炮对着的是错误的门！！把这玩意拿走！！啊——！！
+熊战士：他们在逃跑！！碾碎他们！一个不留！！
+女巫：哈哈哈，看他们逃窜！你们可以跑，但能藏起来吗？！
+水晶管理员：我们的勇气正让他们心生恐惧！前进吧！
+大地之母：面对大地之子的怒火，人类！你们已无路可逃！
+掠夺者：看起来他们在逃跑！让我们结束他们。
+修复者：看！他们在逃跑！这是否意味着我们赢了？
+女巫：碎骨者！今天你有没有折断骨头？留些给我们吧，对吧？哈哈哈！
+女巫：我是无情的野兽，啊——！看看这些尸体！我洒了这么多美味的红色炖汤！
+女巫：*大声喊叫* 来吧，红皮肤的渣滓！送我们更多尸体，好让我们做红色炖汤！哈哈哈！
+女巫：*邪恶地咧嘴笑，瞳孔因某种狂暴药剂而放大*
+女巫：呃……对不起上尉，但与其让牙齿发出声响，我宁愿咬紧牙关。
+女巫：被那把新恶魔枪的子弹击中了。弹丸在我手臂里反弹……疼得像狗一样！
+女巫：*呻吟* 我的护身符只阻止它离开身体。操这玩意儿！
+女巫：*沉重地呻吟*
+熊战士：什么？我听不见！我的耳朵停不下来嗡嗡响！
+熊战士：他们伏击了我们！但我们硬生生冲破了封锁线，占领了路障！！
+熊战士：他们向我们开火了那门大炮！一发炮弹的威力直接摧毁了身后的建筑！！
+熊战士：他们的火力比上次围攻时更强了！我们必须现在阻止他们！！
+熊战士：*嗜血的低吼*
+熊战士：力量与荣耀，碎骨者！我看到你浑身浸透了异端徒的鲜血！
+熊战士：战场是我们祖先的家园！长老灵魂在守护着我们！
+熊战士：胜利或死亡！这场战斗将决定地下世界的命运！！
+队长杜拉：中士，你还活着吗？我们的敌人比预想中准备得更充分。
+队长杜拉：所以你已经清除了镇子东部区域，对吧？没发现任何目标的踪迹？
+队长杜拉：格伦德命令我们守住钟楼，防止邪教徒求援。
+队长杜拉：派侦察兵前去探查，看看能否发现妮丝瑞尔和男爵藏身之处。
+队长杜拉：嘿，你看到提娅媞了吗？她本该潜行越过他们的防线来协助我的小队！
+队长杜拉：嗯……看来你需要个治疗者。带上我的大地之母，我会在这里照料伤员。
+大地之母：如您所愿。瓒，随时待命。
+大地之母：我会尽我所能帮助你，但还有许多伤口需要处理，瓒。
+大地之母：大地守护你！
+大门从内部锁住了。
+闸门从内部锁住了。
+这扇门是从另一侧锁住的。
+这道闸门是从另一侧锁住的。
+这些门似乎卡住了。
+这扇门需要一把血斧钥匙才能打开。
+这扇门需要一把黄金钥匙才能打开。
+这道闸门需要一把黄金钥匙才能打开。
+这扇门需要一把黄金钥匙才能打开。
+这道闸门需要一把血斧钥匙才能打开。
+大人，我们的造物恶魔已按照您的要求调整了工艺，使用熔炉中的新机械。我们研磨的水晶与地狱火药混合后，产生了令人惊讶的效果。
 
-The attached warhead is the new highest diameter that won't blow the cannoneer apart. High regards,  M. 
-CONDEMNED 
-(Demonic letters lie engraved on the plaque beneath the grim, life-like statue)
-MAIDEN SCHOOL
-Send me your daughters, and I shall forge their bodies in iron! 
-Rejoice, my brothers, for our shared toil brings us closer to our goals!    Lord Igrutius Himself has informed us that following her flawless invasion of the orc stronghold, Mistress Nithriel has used her blessed mind to create new technologies!   For once in our bodily existence we can see the hell powder used in guns worthy of garnering the interest of the Lords, an interest much stronger than that of the fire and the arcane.  Rest not, as we must now toil harder, for change is drawing near! 
-
-
+附带的弹头是目前直径最大的，不会将炮手炸飞。敬上，M。
+被诅咒的
+（恶魔文字刻在雕像下方的牌匾上）
+侍女学院
+送我你们的女儿，我将用铁锻造她们的身体！
+兄弟们，庆祝吧！我们共同的努力让我们离目标更近了！领主伊格鲁提乌斯亲自告知我们：在完美入侵兽人据点后，妮丝瑞尔女士已运用她受祝福的头脑创造了新技术！这是我们肉体存在中第一次看到地狱火药用于枪械——足以引起领主们兴趣的武器，这种兴趣远胜于火焰与魔法！不要停歇，因为我们必须更加努力地工作，因为变革即将来临！
 
 
-(Two similar books lie side by side. It appears the information from one was being transcribed to the other)
-[...] but to harness the joy of chaos, they would first learn of the cold grates of order that restrained their flesh to this passing realm. And they tidied the temple, even if they had no eyes to see its forgotten glory.
 
-[...] but to harness the joy of chaos, they would first learn of the cold grates of order that restrained their flesh to this passing realm. And they furnished the temple, even if they had no eyes to see its golden glory. 
+
+（两本相似的书籍并排摆放。看起来其中一本书的信息正在被誊写到另一本上）
+[...] 但为了驾驭混乱的喜悦，他们首先会了解那些冰冷的秩序之网——这些网束缚着他们的肉体，使他们困于这个短暂的世界。他们整理了神庙，即使他们没有眼睛看到其被遗忘的黄金辉煌。
+
+[...] 但为了驾驭混乱的喜悦，他们首先会了解那些冰冷的秩序之网——这些网束缚着他们的肉体，使他们困于这个短暂的世界。他们装备了神庙，即使他们没有眼睛看到其被遗忘的黄金辉煌。
 

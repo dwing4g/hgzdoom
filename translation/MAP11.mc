@@ -1,100 +1,100 @@
 ACT I
-THE UNDERWORLD IS DYING 
-Crystal Curator:    *Groans* 
-Crystal Curator:    Look out!... Golems... 
-Crystal Curator:    If only I could get some mana... but I already used all my bottles... 
-Crystal Curator:    I... tried to stop her... followed through... the Disk... we have to stop her... 
-Crystal Curator:    Look out!... Golems... 
-Crystal Curator:    If only I could get some mana... but I already used all my bottles... 
-Crystal Curator:    I'm too weak to move... had to use all my energy... my mana... to protect the Disk... 
-Crystal Curator:    Look out!... Dark Golems!... 
-Crystal Curator:    If only I could get some mana... but I already used all my bottles... 
-Crystal Curator:    I can sense her... she's close... do something... 
-Crystal Curator:    Thank you, Halfblood. I owe you my life...
-I'd like to commend you for your fight back in the Sanctum, but alas, we all have failed...
-But the Elf is close, I can sense her power! We still have a chance to recover the Disk!
-Crystal Curator:    Let us hurry! We can't let her get away like this!
-Tip: Remember that you can ask friendlies to follow you/hold position with the Use key (DEFAULT: E). 
-Crystal Curator:    *Groans* 
-Crystal Curator:    Hmm... doesn't look like the handiwork of our sisters. The demons must have executed these poor bastards. 
-Crystal Curator:    Strong mana. I would have been dead weight without it... thank you once again. 
-Crystal Curator:    Wretched thorns! Sadly, I'm not particularly proficient with fire magic. 
-Crystal Curator:    Farm plots... The Disk's removal has made the crystals unstable, depriving the flora of energy.
-If we don't recover it soon we might end up surviving on lichens and fungi once again. 
-Crystal Curator:    The Iron Division banner? Well this is an unusual sight. We must be in one of the Cult towns...
-I'm not familiar with the invasion plans but our sisters have certainly run this place through the blade. 
-Crystal Curator:    These ruins must date from when humans still worshiped the Elemental Gods. Before the Schism.
-Look at these fresh graves... someone must have been here after our sisters attacked. I don't like this... 
-Crystal Curator:    Iron Division crates... but I doubt our campaigning sisters would leave anything useful behind. 
-Crystal Curator:    The Cult has decayed into madness and debauchery... this place is such a disgrace... 
-Crystal Curator:    An impressive library I must say. The Cult scribes must have been hard at work. 
-Crystal Curator:    What a lively fireplace... ready up, warrior, this place is not deserted at all. 
-Crystal Curator:    I may not age, but I'm not getting younger either...
-...do I really need to follow you up there? If you find me a good position, I could stay and watch your back. 
-Crystal Curator:    Urgh... mind your step. 
-Crystal Curator:    Onwards! I can sense the Disk being just ahead of us! 
-Crystal Curator:    Steel yourself, I feel like we're in for a lot of fighting. 
-Crystal Curator:    That book oozes unholy energy... I wouldn't touch it unless I were a half-demon. 
-The bubbling water oozes a powerful energizing aura. 
-This patch of grass looks as if it was unearthed at some point. You could dig it with a proper tool. 
-Crystal Curator:    Wizard's Eye... I can see why a dissident would want to hide such a spell scroll. 
-Crystal Curator:    There she is! After her! 
-Crystal Curator:    Damn you, elf! 
-Crystal Curator:    Watch out! 
-The dry thorns are too thick to be moved apart. 
-This wall looks like it could be broken with a proper tool. 
-Crystal Curator:    Oh no- 
-A powerful magic ward keeps the gate sealed. 
-An unholy pentagram keeps the gate sealed.
-Crystal Curator:    This ward is too powerful for me to dispel. We must find the source of this dark energy first. 
-This door is locked from the inside. 
-This door appears to be stuck. 
-This door appears to be blocked from inside. 
-This door requires a Copper key to open. 
-This door requires a Dark key to open. 
-This door requires a Withered Vine key to open. 
-(You use the dictionary to translate the ancient human dialect contained within the moldy parchment)
-I retreated from the town, for I could not bear what they had me do. I shall wait for my end here and repent... but you still have a chance. I have buried something that will show you the way. May the great wisdom of Air descend upon you and His breath carry you from this decaying place. Remember His place... 
+地下世界正在消亡
+水晶管理员：*呻吟着*
+水晶管理员：小心！……石像鬼们……
+水晶管理员：如果我能获得一些魔力就好了……但我已经用完了所有的瓶子……
+水晶管理员：我……试图阻止她……跟随她的脚步……那个圆盘……我们必须阻止她……
+水晶管理员：小心！……石像鬼们……
+水晶管理员：如果我能获得一些魔力就好了……但我已经用完了所有的瓶子……
+水晶管理员：我虚弱得无法动弹……不得不耗尽我所有的精力……我的魔力……来保护圆盘……
+水晶管理员：小心！……石像鬼们……
+水晶管理员：如果我能获得一些魔力就好了……但我已经用完了所有的瓶子……
+水晶管理员：我感觉到了她……她就在附近……快采取行动……
+水晶管理员：谢谢你，混血人。我的生命都欠你了……
+我想称赞你在圣所中的战斗表现，但唉，我们所有人都失败了……
+但是精灵就在附近，我能感受到她的力量！我们还有机会夺回圆盘！
+水晶管理员：让我们快点！不能让她就这样逃掉！
+提示：记住你可以用使用键（默认：E）让友方单位跟随你或保持位置。
+水晶管理员：*呻吟着*
+水晶管理员：嗯……这不像我们姐妹的手笔。一定是恶魔干的，这些可怜家伙被折磨了。
+水晶管理员：强大的魔力。没有它我早就成累赘了……再次感谢。
+水晶管理员：可恶的荆棘！可惜我对火系魔法并不擅长。
+水晶管理员：农田……圆盘被移除后水晶变得不稳定，植物失去了能量来源。
+如果我们不久恢复它，可能会再次依赖地衣和真菌生存。
+水晶管理员：铁军旗帜？这真是罕见的景象。我们一定身处某个邪教城镇……
+我不熟悉入侵计划，但我们的姐妹们显然已用刀刃清除了这个地方。
+水晶管理员：这些废墟必定建于人类仍崇拜元素之神的时代。在分裂之前。
+看看这些新鲜坟墓……有人肯定在姐妹们攻击后还在这里。我不喜欢这种感觉……
+水晶管理员：铁军箱子……但我怀疑我们的作战姐妹会留下什么有用的东西。
+水晶管理员：邪教已堕落成疯狂与放纵……这个地方简直令人作呕……
+水晶管理员：不得不说这是一座令人印象深刻的图书馆。邪教书记官们一定忙得不可开交。
+水晶管理员：多么热闹的壁炉……战士，准备好了吗？这里显然并非空无一人。
+水晶管理员：我虽不会衰老，但也不会变得更年轻……
+……我真的需要跟着你往上走吗？如果你能为我找到一个好位置，我可以留在后面为你掩护。
+水晶管理员：呃……小心脚下。
+水晶管理员：前进！我能感觉到圆盘就在我们前方不远处！
+水晶管理员：稳住心神，我觉得我们即将遭遇一场激烈的战斗。
+水晶管理员：那本书散发着不祥的能量……除非我是半恶魔，否则我不会碰它。
+沸腾的水散发出强大的能量光环。
+这片草地看起来像是被挖出来的。你可以用合适的工具来挖掘它。
+水晶管理员：巫师之眼……我明白为什么异见者会想隐藏这样的一卷魔法咒语。
+水晶管理员：她在那里！追上去！
+水晶管理员：该死的，精灵！
+水晶管理员：小心！
+干枯的荆棘太密集了，无法分开。
+这堵墙看起来可以用合适的工具打破。
+水晶管理员：哦不——
+强大的魔法屏障封锁着大门。
+邪恶的五芒星封锁着大门。
+水晶管理员：这个屏障的力量对我来说太强了。我们必须先找到这种黑暗能量的源头。
+这扇门是从内部锁住的。
+这扇门似乎卡住了。
+这扇门似乎是被从内部堵住的。
+这扇门需要用铜钥匙才能打开。
+这扇门需要用暗影钥匙才能打开。
+这扇门需要用枯藤钥匙才能打开。
+（你使用字典翻译了羊皮纸上的古代人类方言）
+我逃离了那个城镇，因为我无法忍受他们让我做的事。我会在这里等待结局并忏悔……但你仍有机会。我已经埋藏了一把钥匙，它将指引你找到道路。愿天空之神的智慧降临于你，祂的气息将带你离开这片衰败之地。记住祂的居所……
 
 
-(A moldy parchment rests on the cave floor. It's covered in ancient symbols that you can't quite understand) 
-(You use the dictionary to translate the ancient human dialect contained within the posted parchment)
-I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C 
-(You use the dictionary to translate the ancient human dialect contained within the posted parchment)
-I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C 
-(An old parchment is posted on the wall. It's covered in ancient symbols that you can't quite understand)
-Crystal Curator:    Hmm... that looks like an ancient human dialect. I'm not familiar with it. 
-(You use the dictionary to translate the ancient human dialect contained within the partially torn parchment)
-They caught Calmun, to all Hells with the old man's map, we need to leave NOW! West gate, after the sermon. 
-(A partially torn parchment lies on the table. It's covered in ancient symbols that you can't quite understand) 
-(You use the dictionary to translate the ancient human dialect contained within the tattered parchment)
-[...]I won't end up like that lunatic they walled off inside the cathedral... I still can't believe what they forced my brother to do...  no, this is too far.   This isn't what the Cult was supposed to be! [...] 
+（一张霉变的羊皮纸躺在洞穴地板上。上面覆盖着你无法完全理解的古代符号）
+（你使用字典翻译了张贴在墙上的古代人类方言）
+我已经把钥匙埋藏在农田棚屋后面。这将为我们争取一些时间。我们按计划离开。- C
+（你使用字典翻译了张贴在墙上的古代人类方言）
+我已将钥匙埋藏在农田棚屋后面。这将为我们争取一些时间。我们按计划离开。- C
+（一张旧羊皮纸贴在墙上。上面覆盖着你无法完全理解的古代符号）
+水晶管理员：嗯……那看起来像是古代人类方言。我不太熟悉。
+（你使用字典翻译了部分撕裂的羊皮纸上的古代人类方言）
+他们抓住了卡尔蒙！把老家伙的地图扔进地狱！我们必须立刻离开！西门，在布道之后。
+（一张部分撕裂的羊皮纸躺在桌上。上面覆盖着你无法完全理解的古代符号）
+（你使用字典翻译了破旧羊皮纸上的古代人类方言）
+[...]我不会像那个被关在大教堂里的疯子一样结局……我仍然无法相信他们强迫我的兄弟做了什么……不，这已经太过分了。这根本不是邪教该有的样子！[...]
 
-(A tattered parchment lies on the floor. It's covered in ancient symbols that you can't quite understand) 
-(You use the dictionary to translate the ancient human dialect contained within the dusty parchment)
-This is it. They found out about my affinity for magic during the bloodletting. I must now pursue the path of an Initiate... I must offer them the gift of my sight. But I knew this would happen one day... 
+（一张破旧的羊皮纸躺在地板上。上面覆盖着你无法完全理解的古代符号）
+（你使用字典翻译了尘封羊皮纸上的古代人类方言）
+这就是了。他们在血祭中发现了我对魔法的亲和力。我必须现在踏上入门者的道路……我必须献出我的视力作为礼物。但我知道这一天终将到来……
 
-(A dusty parchment lies on the table. It's covered in ancient symbols that you can't quite understand) 
-(A wrinkly parchment rests on the floor, a thick pellicle of dust covering it)
-My faithful servant, you were indeed right.     The Iron Division orcs and their allies have launched a full scale assault on our hellish domain.  Once this bold affront is dealt with, I shall send my Demon troops to reclaim your shattered outposts and deliver the punishment for your failure to stop them...
+（一张尘封的羊皮纸躺在桌上。上面覆盖着你无法完全理解的古代符号）
+（一张皱巴巴的羊皮纸静卧在地板上，厚厚的灰尘覆盖其表面）
+我忠诚的仆人，你说得没错。铁军兽人及其盟友已对我方地狱般的领地发动全面进攻。一旦处理完这次大胆的挑衅，我将派遣恶魔军团夺回你破碎的据点，并对你未能阻止他们一事施以惩罚……
 
 
-Make sure nobody leaves your petty little town, or the consequences will be worse than death. - B.B. 
-By the law of the Blue Baron,
-This establishment has been condemned due to forbidden practices. 
-(The ledger appears to keep track of various taxes and vassal contributions) 
-If you see any strange objects appear out of nowhere, collect them and have them sent to the new factory right away. Tell your men to stay put and prepare for the worst. I won't stay here much longer.   -   Nithriel 
+确保没有人离开你的小地方，否则后果将比死亡更可怕。- B.B.
+根据幽蓝男爵的法律，
+此地因非法行为被诅咒。
+（账本似乎记录着各种税收和附庸贡献）
+如果你看到任何奇怪物品突然出现，请立即收集并送往新工厂。告诉你的手下原地待命，做好最坏打算。我不会在这里久留了。- 妮丝瑞尔
 
-Keep the upper courtyard grates closed!
-Anyone who disturbs us gets a hundred lashes. 
-(A plaque has been crudely bolted into the stone, covering the basin's original inscription)
-Rest easy, weary traveller, but drink not from this fountain
-For it only nourishes those who walk the path of the Initiate 
-Tip: Remember that you can press F1 to view the quick reference screen at any time. 
-Tip: Remember that you can inspect your currently selected item with (default: ENTER) 
-If you can't see the plant in the background, increase the gamma so that it's barely visible
-Press Strafe Left (default: A) to decrease gamma
-Press Strafe Right (default: D) to increase gamma
-Press Use (default: E) to continue
-You can always adjust this setting from Options - Display Options 
-Somewhere in the Underworld... 
+务必关闭上层庭院的栅栏！
+任何打扰我们的人将受到一百鞭刑。
+（一块石板被粗暴地钉入石壁，覆盖了水槽原有的铭文）
+旅途劳顿的旅人，请安心休息，但不要饮用此泉。
+因为它只滋养那些踏上入门者之路之人。
+提示：记住你可以随时按F1查看快速参考界面。
+提示：记得可以按（默认：回车键）检查当前选中的物品。
+如果你无法看清背景的植物，请调高伽马值使其 barely visible（勉强可见）。
+按左移（默认：A）以降低伽马值
+按右移（默认：D）以增加伽马值
+按使用（默认：E）继续
+你随时可以通过选项 - 显示设置调整此设置
+在冥界某处……

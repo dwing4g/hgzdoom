@@ -1,181 +1,181 @@
-Crystal Curator:    Halfblood! 
-Crystal Curator:    Halfblood, wake up! 
-Crystal Curator:    Aid me! Slay these beasts! 
-Crystal Curator:    They won't stop coming! You have to find a way out! 
-Crystal Curator:    That door over there! Try to open it! 
-Crystal Curator:    Hurry, Halfblood, I can't hold much longer! 
-Crystal Curator:    For the Iron Division!!! 
-Crystal Curator:    I shall hold them off, go now! Find the Elf! 
-Crystal Curator:    Leave, Halfblood! You must retrieve the Disk! 
-Crystal Curator:    Go already! Our fate lies with you now! 
-Crystal Curator:    Don't be a fool, listen to me! Run! 
-Crystal Curator:    Can't... hold out... much... longer... go! Go!!! 
-The pedestal is empty. 
-Conscript:    *Annoyed mumble* 
-This wall looks like it could be broken with a proper tool. 
-You have no reagents to place. 
-The machine is not ready to be used. 
-The magic field stings your mind painfully. 
-An unholy shield prevents you from reaching the book. 
-You don't know how to play this instrument. 
-The gate is blocked by five unholy seals. 
-The gate is blocked by four unholy seals. 
-The gate is blocked by three unholy seals. 
-The gate is blocked by two unholy seals. 
-The gate is blocked by one last unholy seal. 
-Bear Warrior:    Hey! Is that Zan?! 
-Bear Warrior:    Hold your fire! 
-Bear Warrior:    Well I'll be damned... the deserter shows up here, of any place.
-Drop your weapons, sergeant. You have some questions to answer... 
-Pit Lord:    WE'VE HAD ENOUGH OF YOUR SCHEMING, CULTIST SCUM! WHERE ARE YOU HIDING THE BOOKS?! 
-Pit Lord:    WRETCHED TRAITORS!!! 
-The door's lock seems to be more intricate than expected. 
-The door won't budge. 
-The lock appears to have a circular hollow socket. 
-The lock appears to have a square hollow socket. 
-The lock appears to have a triangular hollow socket. 
-This door is locked from the inside. 
-These doors require a Golden key to open. 
-This door requires a Copper key to open. 
-These doors require a Copper key to open. 
-This door requires a Withered Vine key to open. 
-These doors require a Copper key to open. 
-These doors require a Golden key to open. 
-(The hefty book seems to have belonged to a demon. Pages decorated with hellish glyphs contain an undated journal)
-We've arrived at the mansion, following the Blue Baron's command. Hah, how delightful was to see these malformed bastards give us a royal welcome! They must be scared shitless after hearing the orcs broke out of their caves and started running their towns through the blade.    We'll be staying here until their pitiful invasion gets torn apart.
+水晶管理员：混血人！
+水晶管理员：混血人，快醒醒！
+水晶管理员：帮我！消灭这些怪物！
+水晶管理员：它们不会停止进攻！你必须找到出路！
+水晶管理员：那边的门！试着打开它！
+水晶管理员：快点，混血人，我撑不了多久了！
+水晶管理员：为了铁军！！！
+水晶管理员：我会挡住它们，快走！去找精灵！
+水晶管理员：离开，混血人！你必须找回圆盘！
+水晶管理员：快走吧！我们的命运就托付给你了！
+水晶管理员：别傻了，听我的！跑！
+水晶管理员：撑不住了……坚持不了多久……去吧！快走！！！
+祭坛是空的。
+征兵者：*烦躁地嘟囔*
+这堵墙看起来可以用合适的工具打破。
+你没有放置材料。
+这台机器尚未准备好使用。
+魔法场正剧烈刺痛你的思维。
+一道不洁护盾阻止你接近书本。
+你不知道如何演奏这件乐器。
+大门被五个不洁封印封锁。
+大门被四个不洁封印封锁。
+大门被三个不洁封印封锁。
+大门被两个不洁封印封锁。
+大门被最后一个不洁封印封锁。
+熊战士：嘿！那是瓒吗？！
+熊战士：别开火！
+熊战士：天哪……逃兵居然会出现在这里，任何地方都行。
+中士，放下武器。你有一些问题要回答……
+深渊领主：我们受够了你们的阴谋诡计，异端之徒！书在哪里？！
+深渊领主：可恶的叛徒！！！
+门锁似乎比预期更复杂。
+门纹丝不动。
+锁似乎有一个圆形的凹槽。
+锁似乎有一个方形的凹槽。
+锁似乎有一个三角形的凹槽。
+这扇门是从内部上锁的。
+这些门需要用黄金钥匙才能打开。
+这扇门需要用铜钥匙才能打开。
+这些门需要用铜钥匙才能打开。
+这扇门需要用枯藤钥匙才能打开。
+这些门需要用铜钥匙才能打开。
+这些门需要用黄金钥匙才能打开。
+（这本厚重的书似乎属于一个恶魔。用地狱符文装饰的页面上有一本未注明日期的日志）
+我们已抵达庄园，遵照幽蓝男爵的命令行动。哈！看到这些畸形的家伙对我们进行盛大的欢迎仪式真令人愉快！他们一定吓得魂飞魄散，听说兽人从洞穴逃出来后用刀子屠戮城镇时。我们会在这里待到他们的可悲入侵被彻底粉碎为止。
 
 
-Few days in and I'm already growing tired of this place.  While setting up the unholy books to protect the main gates, one of the three brothers who own the place came up to me, asking to allow him to keep the tomes.   I couldn't care less who holds them as long as they're in the compound but then his sister shows up and starts making a fuss about it.
+几天下来我已经对这个地方厌倦了。在布置不洁之书保护大门时，三位庄园主人之一的兄弟来找我，要求允许他保留这些典籍。我不在乎谁持有它们，只要它们留在庄园内即可……但他的妹妹突然出现并为此大吵大闹起来。
 
 
-I see the little shits are trying to fight for dominance now that their old man kicked the bucket.   This should make for a little entertainment, as long as they don't push us Demons around.    We're only here to keep the orcs away...
+我看到这帮小杂种现在正试图争夺主导权，毕竟他们的老爹已经嗝屁了。只要他们别拿我们恶魔撒气，这应该会有点娱乐性……我们只是在这里阻止兽人靠近罢了。
 
-The greenskin have finally showed up! I don't know what's funnier, them failing at breaking our warded gate, or the cultists panicking that they are setting up to besiege us.  I wish we could go stomp them, but orders are to stay put.
+绿皮人终于出现了！我不知道是他们失败地砸我们的防护门更可笑，还是邪教徒惊慌失措地准备围攻我们更滑稽。真希望我们能去踩他们一顿，但命令是原地待命。
 
-Something happened. First, this weird lightning storm brews into the Crystal Dome, and then Mistress Nithriel comes out of nowhere, panicking these bastards even more. Something made those crystals the farmers use fade, and now the crops are dying. Sounds like the orcs holding up outside have suddenly become a problem. I don't like this at all.
-
-
-I'm starting to get real pissed off by these siblings and their schemes. The Spirit Wench has vanished all of a sudden, leaving her brothers to turn the place into a mess. One of them convinced a part of the servants to lock themselves in the basement while the other took over the chapel. Looks like we'll have to dish out some discipline around this place. 
+发生了什么？首先，奇怪的雷暴天气席卷了水晶穹顶，接着妮丝瑞尔女士突然现身，让这些家伙更加恐慌。某种力量让农民们使用的水晶消失，现在庄稼正在枯萎。听起来那些在外面堵门的兽人突然成了大问题。我非常不喜欢这种局面。
 
 
-(The greasy pages of the tome appear to hold the journal of the Body Master)
-16/3rd/1106.   Darn it, the rumors were true!   Those bleeding Iron Division orcs are up to no good again, having left their hideout and pillaging our towns!    'cept word is, this time they're out for war!  The Blue Baron better be ready to deal with this.  I can already see the droves of wounded he'll send me to sew up. Better start the preparations...
+我开始对这些兄弟及其阴谋感到极度愤怒。Spirit Wench突然消失，让她的兄弟们把这里搞得一团糟。其中一个说服部分仆人把自己锁在地下室，另一个则占领了教堂。看来我们得在这儿好好施加一些纪律了。
 
 
-18/3rd/1106. At last!  The demons are here to protect, and they've brought these unholy books... told the servants to keep an eye out for them.  My cursed siblings will surely want to get them for themselves, so they can show who's the house leader.   Oh, but the servitors are loyal to me.  Who else treats their wounds after the sermons, hmm? Hah!
+（这本油污的典籍似乎记载着体术大师的日记）
+1106年3月16日。该死的，传言是真的！那些流血的铁军兽人又在搞什么鬼，他们已经离开藏身之处并开始洗劫我们的城镇！据说这次他们是来打仗的！幽蓝男爵最好做好准备应对这一切。我已经能想象到他要我缝合的伤员群了。赶紧开始准备工作……
 
 
-19/3rd/1106. As foreseen, Orc filth have come knocking at our gates! The unholy seals have made our defenses truly impenetrable...  though this makes me even more worried of what my brothers are up to. What if one of them thinks to sell us out and leaves us all defenseless?!     I'll have to switch some of the staff tasked with digging out the temple to spy on them.   We've unearthed most of the important ruins anyway. Hah! So close to discovering the secrets of the elves!   The power of their legendary healing water is my ticket to claim over the mansion and break up the orc siege! 
+1106年3月18日。终于！恶魔们来了，他们带来了这些不洁之书……让仆人们留意这些书。我的诅咒兄弟们肯定想据为己有，以此证明谁才是家主。哦，但侍从们忠于我。还有谁会在布道后照顾他们的伤口呢？哼！
 
 
-
-
-Anum 0 - Foundation of the Schism
-[...]   And then I ask you, follower - why should you serve the caprice of the Elemental God?  Have you not been given powers to shape the world from birth? Have the Elemental Gods built the towns and castles and ports that make the empire? Have they made the saw that cuts the plank? The cart that moves the brick? Then why slave away, offering your lamb and golden ring to their altar?  Man has power to build the dam that holds the flood, the wall that stands the quake, the well that quenches the fire.   Man knows the hardship needed to fight the fury of the Elemental Gods.
+1106年3月19日。正如预见的那样，腐烂的兽人竟敲响了我们的大门！不洁封印让我们的防御变得坚不可摧……但这反而让我更加担忧兄弟们的所作所为。万一其中一个想出卖我们，导致我们毫无防备？！我必须调换一些负责挖掘神殿的工作人员去监视他们。反正我们已经发掘出了大部分重要遗迹。哈！离揭开精灵的秘密如此之近！他们传奇治愈泉水的力量将助我夺取庄园，并击溃兽人围攻！
 
 
 
 
-And so I ask you, my follower  -  you wish to spend the afterlife serving in their pantheon, or grasp the reins and take your rightful place as a God?   You own the Body, the Mind and the Spirit - keys to your freedom and salvation.  Shed yourself from the confines of this shallow world, and hone your three gifts through hardship and sacrifice. Only then you shall be ready to ascend into the afterlife as a God, and look with pity upon the blind fools that serve still.  [...] 
+安努姆0年——分裂之基
+[...] 然后我问你，追随者——为何要侍奉元素之神的任性？难道你们从出生起就没有被赋予塑造世界的力量吗？元素之神建造了帝国的城镇、城堡和港口吗？他们制造了锯木头的锯子、搬运砖块的推车吗？那为何还要沦为奴隶，在他们的祭坛上献上羔羊与黄金戒指？人类拥有建造拦洪大坝、抵御地震的城墙、扑灭烈火的水井的力量。人类深知与元素之神狂怒对抗所需的艰辛。
 
 
 
-(A neat, spiral bound book serves as journal for the Mind Master)
-Day 14, 3rd Quarter, Anum 1106
-I have noticed my brother having quite an anxious grin at the dinner table today. Must be something in regard to the elven temple he's taken an archeological interest in.  Perhaps it's time for me to scry the outcome of his discovery...
 
-Day 19, 3rd Quarter, Anum 1106
-Why, who comes knocking at our gates today? The orcs? A mere day after we welcomed our demonic allies with a feast!
-Their unholy tomes have proven their power already.   One could not even touch them without demon blood boiling in their veins.  Luckily for me, I have honed my telekinetic skills quite well. I shall see how my siblings will react soon...
-
-Day 54, 3rd Quarter, Anum 1106
-Mistress Nithriel! What a pleasant visit it was. We had a conversation about the Crawlers and Golems we've received some weeks ago. The training goes well... they have such interesting minds! Sadly she seemed rather preocupied with my sister.  At least my idiotic brother is still trapped away, unable to distract us.  I have many questions for her... 
-
-
-(The Spirit Mistress' journal appears to be written in a strange language that you can oddly enough understand)
-21, 3rd Qrt. An. 1106
-Demons have been around for three days and I've already grown tired of them.     Their stench has permeated the entire mansion, and the uncouth looks they give me and my Warlocks are disgusting. I'd have them put in cages if it weren't for the orcish scum they're holding at bay. There is so much tension flowing around... I grow ever restless.
-
-
-Day 50, 3rd Qrt. An. 1106
-An Initiate has approached me today, asking for a Soul Stone. Apparently, the all-enlightened Body Master has been trapped by his brother into the temple ruins and needs my help to escape. Couldn't care less for his fate, I won't allow such powerful artifact into the hands of a lowly apprentice. To make sure he won't try to steal it, I have enchanted it to always shift its position when faced.  It should be enough keep it safe for the time being...
+因此我问你，我的追随者——你想在死后继续为他们的神祇阵营效力，还是把握缰绳，堂而皇之地成为一位神明？你拥有身体、心灵与灵魂——通往自由与救赎的钥匙。挣脱这浅薄世界的桎梏，在苦难与牺牲中磨砺你的三重天赋。唯有如此，你才能在死后升格为神明，俯视仍在盲目侍奉的愚者……
 
 
 
-Day 54, 3rd Qrt. An. 1106
-To my great surprise, Mistress Nithriel has visited us today. She looked rather exhausted, carrying this strange disk with her. I asked if it was related to the recent storm and the decay of the crystals, but she wouldn't tell.
+（一本装订整齐的螺旋笔记本是心灵大师的日记）
+安努姆1106年第三季第14天
+我注意到今天晚餐时弟弟脸上挂着相当焦虑的笑容。想必与他近期对精灵神殿表现出的考古兴趣有关。或许该趁此机会占卜他的发现结果……
 
-She asked me to claim one of the demon books and accompany her.  At last! A chance to leave this cursed house! 
-(The Spirit Mistress' journal appears to be written in a strange language that you can oddly enough understand)
-21, 3rd Qrt. An. 1106
-Demons have been around for three days and I've already grown tired of them.     Their stench has permeated the entire mansion, and the uncouth looks they give me and my Warlocks are disgusting. I'd have them put in cages if it weren't for the orcish scum they're holding at bay. There is so much tension flowing around... I grow ever restless.
+安努姆1106年第三季第19天
+咦，今天谁来敲我们大门了？兽人？就在我们用盛宴欢迎恶魔盟友的第二天！
+他们的邪恶典籍已经证明了力量。甚至触碰他们都会让恶魔血液在血管中沸腾。幸运的是，我已将念力技能修炼得相当熟练。很快就能看看我的兄弟姐妹们会如何反应……
 
-
-Day 50, 3rd Qrt. An. 1106
-An Initiate has approached me today, asking for a Soul Stone. Apparently, the all-enlightened Body Master has been trapped by his brother into the temple ruins and needs my help to escape. Couldn't care less for his fate, I won't allow such powerful artifact into the hands of a lowly apprentice. To make sure he won't try to steal it, I have enchanted it to always shift its position when faced.  It should be enough keep it safe for the time being...
-
+安努姆1106年第三季第54天
+妮丝瑞尔女士！这次拜访真愉快。我们聊了几天前收到的爬行者和石像鬼。训练进展顺利……它们拥有如此有趣的心智！可惜她似乎更关注我的姐姐。至少我那个愚蠢的弟弟仍被关在外面，无法打扰我们。我对她有很多问题……
 
 
-Day 54, 3rd Qrt. An. 1106
-To my great surprise, Mistress Nithriel has visited us today. She looked rather exhausted, carrying this strange disk with her. I asked if it was related to the recent storm and the decay of the crystals, but she wouldn't tell.
+（灵女的日记似乎用一种你意外能理解的奇异语言书写）
+安努姆1106年第三季第21天
+恶魔已经存在三天了，我已经厌倦它们了。他们的臭味渗透了整个庄园，他们给我的男巫们投来的粗鄙目光令人作呕。若不是他们挡住了兽人渣滓，我早就把它们关进笼子里了。这里充满了如此多的紧张感……我愈发焦躁不安。
 
-She asked me to claim one of the demon books and accompany her.  At last! A chance to leave this cursed house! 
-(Judging by the poor grammar, the journal must have belonged to one of the servants. The last entry seems important)
-Today Body Master give me his room gem to keep safe. Mind dogs lurk around library but they don't know gem is with me. 
-NO PASSWORD, NO ENTRY!!! 
-I knew it would happen!  That Mind Master slime has waited for us to find something of value and used his spells on our brethren! Someone stole the crystal powering the inner temple gate and trapped my master inside! I went to look for the scum and found him in the chapel, guarding the temple key with a powerful psionic field.  He knows well that we outnumber his men, so he's planning to starve my master out! And no other cyan crystal we tried could unlock him!
+
+安努姆1106年第三季第50天
+一位入门者今天前来向我请求灵魂石。据称，全知全能的体术大师被他的弟弟困在神殿废墟中，需要我的帮助才能逃脱。我对他的命运毫不在意，绝不会让如此强大的神器落入低等学徒之手。为了防止他试图偷取，我已经施加魔法使灵魂石始终处于移动状态……这应该足以暂时确保它的安全……
 
 
 
-We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
+安努姆1106年第三季第54天
+令我意外的是，妮丝瑞尔女士今天来访了。她看起来相当疲惫，手中携带着一个奇怪的圆盘。我询问是否与最近的风暴和水晶衰败有关，但她却不愿透露。
+
+她要求我取一本恶魔书并陪同前往。终于！离开这座诅咒房屋的机会来了！
+（灵女的日记似乎用一种你意外能理解的奇异语言书写）
+安努姆1106年第三季第21天
+恶魔已经存在三天了，我已经厌倦它们了。他们的臭味渗透了整个庄园，他们给我的男巫们投来的粗鄙目光令人作呕。若不是他们挡住了兽人渣滓，我早就把它们关进笼子里了。这里充满了如此多的紧张感……我愈发焦躁不安。
+
+
+安努姆1106年第三季第50天
+一位入门者今天前来向我请求灵魂石。据称，全知全能的体术大师被他的弟弟困在神殿废墟中，需要我的帮助才能逃脱。我对他的命运毫不在意，绝不会让如此强大的神器落入低等学徒之手。为了防止他试图偷取，我已经施加魔法使灵魂石始终处于移动状态……这应该足以暂时确保它的安全……
 
 
 
-I knew it would happen!  That Mind Master slime has waited for us to find something of value and used his spells on our brethren! Someone stole the crystal powering the inner temple gate and trapped my master inside! I went to look for the scum and found him in the chapel, guarding the temple key with a powerful psionic field.  He knows well that we outnumber his men, so he's planning to starve my master out! And no other cyan crystals we tried could free him...
+安努姆1106年第三季第54天
+令我意外的是，妮丝瑞尔女士今天来访了。她看起来相当疲惫，手中携带着一个奇怪的圆盘。我询问是否与最近的风暴和水晶衰败有关，但她却不愿透露。
+
+她要求我取一本恶魔书并陪同前往。终于！离开这座诅咒房屋的机会来了！
+（从糟糕的语法判断，这本日记必定属于某位仆人。最后一条记录似乎非常重要）
+今天体术大师将他房间的宝石交给我保管。心灵狗在图书馆附近徘徊，但它们不知道宝石在我这里。
+NO PASSWORD, NO ENTRY!!!
+我早料到了！那个心灵大师的卑鄙家伙早已等待我们发现有价值的物品，并用他的魔法控制了我们的兄弟！有人偷走了驱动内殿大门的水晶，将我的主人困在里面！我去寻找那群渣滓，在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的手下，因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其他蓝水晶都无法解开他！
 
 
 
-We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
+我们必须采取行动夺回被盗物品。经过一些研究后，我发现了一种制作提供心理保护冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还需要几样材料才能完成它……大脑很容易获取，而灵女肯定拥有灵魂石。不过我还需要一种灵菇……它们只生长在高精神力场影响的区域，所以得花些时间去找。
 
 
 
-Since our conscripts may either miss their tongues or ears, we concluded that the best way to handle the password is to write a set of words on a paper and simply show it to the door guard after knocking.
-
-You will receive a new scroll every week. Make sure to take care of it, and incinerate the old one. 
-One of the demons has given me a hint on how we can break the seal and steal the book from the concert hall.
-We can use a specific harp tune to shatter it, which I have detailed in the music sheet. Use the small harp to practice and then go retrieve the book. Once you break the seal, our demon will help you carry it back to us.
-
-(You practice the harp tune following the instructions)
-PS:  Careful with the harp, it's more expensive than you are. And be ready for a raid, the demons' commander has caught onto some of our plans. I can only hope our insider isn't actually planning to get us all butchered. 
-
-(The dust covering this ledger is so thick you can hardly make out any of the names signed beneath) 
-Keep an eye out on the Demons and see if they move any of the unholy books. We need to know where they are if we are to claim them for ourselves. And don't raise suspicions! I can't afford to lose you, I need someone who can read!        -  B.M.
-
-- One book is kept inside the recently dug out temple vault, under my watch
-- One is in the mess hall. Keep the cellar door shut and use the password!
-- One is in the chapel, shielded by my wretched brother and his mentalists...
-- A servant saw him move another book to his quarters using his mind powers
-- The one held by the Demons in the theatre hall will be the hardest to get... 
-Keep an eye out on the Demons and see if they move any of the unholy books. We need to know where they are if we are to claim them for ourselves. And don't raise suspicions! I can't afford to lose you, I need someone who can read!        -  B.M.
-
-- One book is kept inside the recently dug out temple vault, under my watch
-- One is in the mess hall. Keep the cellar door shut and use the password!
-- One is in the chapel, shielded by my wretched brother and his mentalists...
-- A servant saw him move another book to his quarters using his mind powers
-- The one held by the Demons in the theatre hall will be the hardest to get... 
-KEEP OUT 
-(The torn, dirt-caked parchment looks like it was carelessly discarded by someone. It is signed by a Pit Lord)
-I'd like to remind you all that the unholy seals are the only thing keeping the orcs outside the gate from tearing your worthless flesh apart.      We are growing ever tired of all the plotting and bickering over who gets to own the unholy books. We're stationed here by the will of the Blue Baron, and won't hold back from culling any attempt at undermining our authority by force.     So stop fighting now, or we'll start stomping out your empty cultist skulls. 
+我早料到了！那个心灵大师的卑鄙家伙早已等待我们发现有价值的物品，并用他的魔法控制了我们的兄弟！有人偷走了驱动内殿大门的水晶，将我的主人困在里面！我去寻找那群渣滓，在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的手下，因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其他青水晶都无法解开他……
 
 
 
-CHAPEL OF THE WORLDLY TRINITY
-Built by Master Emeric for the Istedor family, anum 989 
-GIANT EXPLOSIVE RED CRYSTAL FORMATION
-DON'T STRIKE! KEEP YOUR DISTANCE 
-SKULL OF JORIK THE SECOND 
-ALLARIA'S FLUTE 
-ORCISH URN 
-RARE ENCHANTED DARK CRYSTAL 
-DWARVEN ADAMANTINE TOY KNIGHT 
-DWARVEN HAMMER 
+我们必须行动起来夺回被盗物品。经过一些研究后，我发现了一种制作提供心理防护的冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还需要几样材料才能完成它……大脑很容易获取，而灵女肯定拥有灵魂石。不过我还需要一种灵菇……它们只生长在高精神力场辐射影响的区域，所以得花些时间去找。
+
+
+
+由于我们的士兵可能要么失去舌头要么失去耳朵，我们决定将密码写在纸上，敲门后直接展示给守卫即可。
+
+你每周都会收到一份新卷轴。务必妥善保管，并焚毁旧的卷轴。
+其中一个恶魔给了我一个线索，告诉我们如何打破封印并从音乐厅盗取书籍。
+我们可以使用特定的竖琴曲调来粉碎它，我已经在乐谱中详细记录了这个曲子。用小竖琴练习后，再去获取书籍吧。一旦你打破了封印，我们的恶魔会帮你将它带回我们身边。
+
+（你按照指示练习竖琴曲）
+PS：小心点，这把竖琴可比你值钱多了。而且要准备好迎接突袭，恶魔首领已经察觉到了我们的一些计划。我只能希望我们的内线并非真的打算让我们全军覆没。
+
+（覆盖在这本账簿上的尘土如此厚重，几乎看不清下方签署的名字）
+留意恶魔的动向，看看他们是否移动了任何不洁之书。我们需要知道它们的位置才能据为己有。别引起怀疑！我不能失去你，我需要一个能读的人！- B.M.
+
+- 一本书被藏在最近挖掘出的神庙地窖中，在我的监视下
+- 另一本在食堂。关上地窖门并使用密码！
+- 第三本在教堂，由我可怜的兄弟和他的心灵术士们守护着……
+- 一名仆人看到他用精神力将另一本书移到了自己房间
+- 被恶魔控制在剧院大厅的那本书将是最难获取的……
+留意恶魔的动向，看看他们是否移动了任何不洁之书。我们需要知道它们的位置才能据为己有。别引起怀疑！我不能失去你，我需要一个能读的人！- B.M.
+
+- 一本书被藏在最近挖掘出的神庙地窖中，在我的监视下
+- 另一本在食堂。关上地窖门并使用密码！
+- 第三本在教堂，由我可怜的兄弟和他的心灵术士们守护着……
+- 一名仆人看到他用精神力将另一本书移到了自己房间
+- 被恶魔控制在剧院大厅的那本书将是最难获取的……
+KEEP OUT
+（被撕裂、沾满尘土的羊皮纸看起来像是被人随意丢弃。它由一位深渊领主签署）
+我想提醒各位，不洁封印是唯一阻止兽人从门外撕碎你们毫无价值的肉体的东西。我们已经厌倦了所有关于谁有权拥有不洁之书的阴谋和争吵。我们奉幽蓝男爵之命驻守于此，任何试图动摇我们权威的行为都将被武力清除。现在停止内斗吧，否则我们将开始碾碎你们空洞的教徒头颅。
+
+
+
+尘世三体教堂
+由梅尔希克大师为伊斯特多家族建造，安努姆989年
+巨型爆炸红水晶构造体
+不要攻击！保持距离
+乔里克二世的头骨
+阿拉瑞亚竖琴
+兽人陶罐
+稀有魔法暗水晶
+矮人坚韧玩具骑士
+矮人铁锤

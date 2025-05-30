@@ -1,128 +1,128 @@
-Loading... 
-Earth Mother:    So the ancestral home of the minotaurs has been butchered by demonic contraptions... disgraceful! 
-Fixer:    Uh... Zan? I d-don't think we should move any further! This place looks d-dangerous! 
-Earth Mother:    So the ancestral home of the minotaurs has been butchered by demonic contraptions... disgraceful! 
-Fixer:    Uh... Zan? I d-don't think we should be here! This place looks d-dangerous! 
-Earth Mother:    'tis nice to see a friendly face within this fiery inferno. 
-Fixer:    Hello! 
-Bear Warrior:    You're looking for a sapper team? Hmm, they should be in the mines to the east of here. 
-Bear Warrior:    Nice to have you here, Zan. Guarding this place sucks, but we can't let the demons return. 
-Bear Warrior:    You sure left a mess around this place. Gotta love blowing some shit up, eh? 
-Bear Warrior:    These machines make so much noise and heat. It's starting to get on my nerves. 
-Bear Warrior:    I can't believe the demons had the brains to build such a place. It rivals the Valc Forge. 
-Reaver:    We haven't seen any sappers come by. They might be trapped in the eastern mines, outside of town. 
-Reaver:    With the demons being able to teleport around here, we need to keep our eyes peeled. 
-Reaver:    We can't let the horned assholes recover their gear. Too bad we can't just blow this place up. 
-Reaver:    Who knows what other weapons would have been made here if you hadn't shown up to stop them... 
-Reaver:    I swear I heard voices coming from one of the machines. What kind of power runs through them? 
-Fixer:    Aaah! A demon!!! ... oh.... Zan, it's you. You startled me! 
-Fixer:    I'm supposed to document the way these machines operate... but I'm too nervous to stay focused! 
-Fixer:    I can recognize bits of dwarven and Iron Division technology within this unholy patchwork. Creepy... 
-Fixer:    I touched a pipe and I started hearing whispers. It's as if the factory is fuelled by damned souls... 
-Fixer:    I can't help but wonder who helped the demons build this place... it's scary, but also impressive. 
-The mechanism appears to be missing a lever. 
-The machine does not seem to have enough power to be operated. 
-You'll need a proper tool to mine this ore vein. 
-Lord Efri:    YOU SLIME!!! I WILL BRING YOUR HEAD TO THE BLUE BARON MYSELF! 
-You have nothing to offer to this shrine. 
-The pedestal's locking mechanism prevents the ruby from being removed. 
-The pedestal is empty. 
-The door does not seem to have enough power to be operated. 
-A hellish curse prevents you from unlocking the gate. 
-The elevator does not seem to have enough power to be operated. 
-The door is locked from the inside. 
-The door seems stuck. 
-Master, the knowledge retrieved by Mistress Nithriel's cultists from the orcish town has yielded results! With the production at full strength here, we shall soon hold a new weapon in our hands, a weapon that will far surpass the crude creations of the greenskin!  Using their knowledge of the crystals and our knowledge of the hell powder, we shall soon wage a new form of war!  The battlefield will shake under our force of sheer destruction!     -     Lord Efri 
+加载中...
+大地之母：牛头人的祖宅竟被恶魔机械摧毁了……真是丢脸！
+修复者：呃……瓒？我觉得我们不应该再往前走了！这里看起来很危险！
+大地之母：牛头人的祖宅竟被恶魔机械摧毁了……真是丢脸！
+修复者：呃……瓒？我觉得我们不该待在这里！这里看起来很危险！
+大地之母：在这烈焰地狱中见到友好的面孔，真好。
+修复者：你好！
+熊战士：你们在找爆破小队吗？嗯，他们应该在东方的矿洞里。
+熊战士：瓒，欢迎你来到这里。守卫这个地方很麻烦，但我们不能让恶魔们重返此地。
+熊战士：你在这儿留下了一团糟。炸毁一些东西还挺有意思的，对吧？
+熊战士：这些机器发出这么多噪音和热量。已经开始让我烦了。
+熊战士：我简直不敢相信恶魔们居然能建造出这样的地方。它甚至可以与瓦尔克锻造厂相媲美。
+掠夺者：我们还没看到爆破小队来过。他们可能被困在镇外的东部矿洞里。
+掠夺者：由于恶魔们能在这里瞬移，我们必须提高警惕。
+掠夺者：不能让那些长角的混蛋恢复装备。可惜我们不能直接炸毁这个地方。
+掠夺者：谁知道如果没你阻止它们，这里还会制造出什么其他武器……
+掠夺者：我发誓听到其中一台机器里传来声音。它们内部运行的是什么力量？
+修复者：啊！恶魔！！……哦……瓒，是你。你吓到我了！
+修复者：我本该记录这些机器的运作方式……但我太紧张，无法集中注意力！
+修复者：我能辨认出这幅不洁拼贴物中包含矮人族和铁军的技术残片。诡异……
+修复者：我碰到了一根管道，开始听到低语声。仿佛这座工厂是以受诅咒的灵魂为燃料……
+修复者：我不禁想知道是谁帮助恶魔们建造了这个地方……虽然可怕，但也很令人震撼。
+机制似乎缺少一个杠杆。
+这台机器似乎没有足够的能量运作。
+你需要合适的工具才能开采这条矿脉。
+领主埃弗里：你这个污泥！！我亲自将你的头颅带到幽蓝男爵面前！
+你无法向这座神殿献上任何东西。
+支撑物的锁定机制阻止红宝石被移除。
+支撑物是空的。
+这扇门似乎没有足够的能量运作。
+地狱诅咒阻止你打开这扇门。
+电梯似乎没有足够的能量运作。
+门从内部锁住了。
+门似乎卡住了。
+主人，妮丝瑞尔女士的邪教徒从兽人城镇获取的知识已取得成果！凭借此处满负荷生产的实力，我们即将掌握一把新武器——一把远超绿皮人粗劣造物的武器！借助他们对水晶的理解与我们对地狱火药的研究，我们将开启全新的战争形式！战场将在我们的毁灭之力下颤抖！- 领主埃弗里
 
 
 
-After the recent theft, master Igrutius has ordered the demonic gates to be cursed so that only Pit Lords and their Hellblaze guards may use them. Keep the cultist scum away from our precious machines at any cost! Start carrying the supplies by yourselves, and remember that the Blue Baron is expecting results soon!      -     Lord Efri 
+最近发生盗窃事件后，主人伊格汝提乌斯已下令对恶魔之门施加诅咒，只允许深渊领主及其地狱烈焰卫兵使用。不惜一切代价将邪教徒渣滓与我们珍贵的机器隔绝！从现在起自行携带物资，并记住幽蓝男爵很快就会期待成果！- 领主埃弗里
 
 
-After the recent theft, master Igrutius has ordered the demonic gates to be cursed so that only Pit Lords and their Hellblaze guards may use them. Keep the cultist scum away from our precious machines at any cost! Start carrying the supplies by yourselves, and remember that the Blue Baron is expecting results soon!      -     Lord Efri 
+最近发生盗窃事件后，主人伊格汝提乌斯已下令对恶魔之门施加诅咒，只允许深渊领主及其地狱烈焰卫兵使用。不惜一切代价将邪教徒渣滓与我们珍贵的机器隔绝！从现在起自行携带物资，并记住幽蓝男爵很快就会期待成果！- 领主埃弗里
 
 
-The gating channel has been re-established. When you have any new items to transport, ring the bell three times and a servant will be summoned most hastily to retrieve them. 
+门关通道已重新建立。当你有新物品需要运输时，请三声铃响，仆人将迅速前来取走。
 
-The gating channel has been re-established. When you have any new items to transport, ring the bell three times and a servant will be summoned most hastily to retrieve them. 
+门关通道已重新建立。当你有新物品需要运输时，请三声铃响，仆人将迅速前来取走。
 
-I told you it would be foolish to overload the machines! Now that we've lost that power pillar, we cannot use both the elevators and production machines at once!     Get someone to release the safety of the 4th pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here! 
-
-
-I told you it would be foolish to overload the machines! Now that we've lost that power pillar, we cannot use both the elevators and production machines at once!     Get someone to release the safety of the 4th pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here! 
+我早就告诉过你们，过度负荷机器是愚蠢的！现在我们失去了那根能量柱，无法同时使用电梯和生产设备！快派人释放第四根支柱的安全机制，否则我就让你们全都剥皮！如果在这里失败，幽蓝男爵本人会吞噬我们的灵魂！
 
 
-SECURITY GRATES 
-CASING MACHINE 
-BULLET MACHINE 
-We're storing surplus munitions and hell powder here until further notice. Count the inventory regularly!  -  Lord Efri 
-(You scrape a parchment from the dirt. The sentences feel like they were written months apart)
-Curse the day I learned to write.   Now I have no rest until I put my pains on this sheet.   I don't know what year it is.
-The gates remain sealed, with only Demons gating past them to oversee our work. With every day we toil, the demonic machines make their nest into this old town, giving it a new fate. Today, a wall I broke revealed a room with tablets.
-
-I memorized the symbols on the tablets and threw them away. I still wonder why the Demons forbid their knowledge...
-The machines are nearly prepared and the Pit Lords are pleased with our work. We had double rations and rest today.
-Something big upset the Demons. They cut our rations and made us toil harder. It's been long since I've written here.
-The others are getting suspicious, I must hurry.   I think I understand this nail-like writing now.  The riddle speaks of walking in a fire pit.   That must be the pit with the six torches right next to the tablet!   I shall muster my courage, and walk through it... and the gate will open for me! I can only imagine what lies beneath there... it will soon be mine. 
+我早就告诉过你们，过度负荷机器是愚蠢的！现在我们失去了那根能量柱，无法同时使用电梯和生产设备！快派人释放第四根支柱的安全机制，否则我就让你们全都剥皮！如果在这里失败，幽蓝男爵本人会吞噬我们的灵魂！
 
 
-By the order of the Blue Baron, your rations will be halved until the orcish invasion is culled.
-The harder you work, the sooner it shall end!     -     Lord Efri
-(A sentence is written over the bottom of the poster)
-You know what to do. Start with the black list. 
-(The symbols etched into the ancient tablet resemble a familiar form of the common cave language)
-If knowledge in the arts you seek
-But your hoof melts in the pit
-Pay respect to your six masters
-And the power you shall muster
-When your goals will fail to hide
-Walk the fire pit with pride
-For your hoof will hurt no more
-As the gate reveals the halls.
-(The symbols etched into the ancient tablet resemble a familiar form of the common cave language)
-If knowledge in the arts you seek
-But your hoof melts in the pit
-Pay respect to your six masters
-And the power you shall muster
-When your goals will fail to hide
-Walk the fire pit with pride
-For your hoof will hurt no more
-As the gate reveals the halls. 
-ELEVATOR TO
-WEAPONS & HELL POWDER STORAGE 
-ELEVATOR TO
-WEAPONS & HELL POWDER STORAGE 
-AUXILIARY POWER PILLAR
-POWER SURGE WARNING: DO NOT ACTIVATE WHILE THE OTHER 3 PILLARS ARE IN FUNCTION 
-Though the power pillars can produce enough energy for the entire factory, the new machines have been straining the distribution, like bloated ticks feeding upon a slumbering bull.       Make sure to turn off any idle machines and redirect the power to the central pool - the fiery gauges will show us precisely how much energy there is to spare. 
+安全闸门
+装填机
+弹药机
+我们暂时将多余的军火和地狱火药存放于此。定期清点库存！  - 领主埃弗里
+（你从泥土中刮出一张羊皮纸。这些句子仿佛写于数月之前）
+诅咒我学会写字的那一天。现在我必须在纸上写下所有痛苦，才能获得片刻安宁。我不知道今年是哪一年了。
+大门依然紧闭，唯有恶魔能穿越它们以监督我们的劳作。随着我们每日的劳作，恶魔机械将它们的巢穴建在这座老镇上，赋予它新的命运。今天，我打破一堵墙后发现了一间有石板的房间。
+
+我记住了石板上的符号并将它们扔掉。我仍不明白为何恶魔会禁止这些知识……
+机器即将准备完毕，深渊领主们对我们的工作感到满意。今天我们获得了双倍配给并得以休息。
+某件大事让恶魔不安。他们削减了我们的配给，并让我们更辛苦地劳作。我已经很久没有在这里写下文字了。
+其他人开始起疑了，我必须加快速度。我想我现在理解了这种钉状文字。谜题提到在火坑中行走。那一定是靠近石板旁有六支火炬的坑洞！我会鼓起勇气，穿过它……大门将为我开启！我只能想象那里有什么……很快就会成为我的了。
 
 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
-> Not much going on, I should find my room and get rest 
-> A Fixer told me her squad vanished - should investigate 
-> Found the captives, need to free them and report to Breaza 
-> Get into the Minotaur Town, find and secure the Hell Powder 
-> Found more than just Hell Powder - should report to Breaza 
-> Enter the old Dwarf Town & check if Lith's visions were true 
-> Found a weird corruption sample, should report back to Zura 
-> Sabotage the flame towers protecting the Demon Town gate 
----Side Notes---
-> E. Mother Bendi needs a Spirit Gem to charge my Psi Crown 
-> Earth Mother Bendi needs a Spirit Gem to charge my Psi Crown 
-> Workshop Boss needs 6 lumps of Dark Iron for gun parts 
-> Smith Hectus needs 8 lumps of Iron for a Great Axe 
-> Smith Hectus is trading ammo for Iron Ore 
-> Shady Fixer sells Dark Vision Goggles for 10 gold 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold 
+根据幽蓝男爵的命令，你们的配给将被削减一半，直到兽人入侵被肃清。
+你们工作越努力，这一切就越快结束！  - 领主埃弗里
+（海报底部写着一句话）
+你知道该怎么做。从黑名单开始。
+（刻在古老石板上的符号与常见的洞穴语言形式相似）
+若你寻求艺术之知识
+但你的蹄子会在火坑中融化
+请向六位主人致以敬意
+你积蓄的力量
+当你的目标无法隐藏时
+骄傲地踏过火坑
+因为你的蹄子将不再疼痛
+随着大门揭示长廊。
+（刻在古老石板上的符号与常见的洞穴语言形式相似）
+若你寻求艺术之知识
+但你的蹄子会在火坑中融化
+请向六位大师致以敬意
+你积蓄的力量
+当你的目标无法隐藏时
+骄傲地踏过火坑
+因为你的蹄子将不再疼痛
+随着大门揭示长廊。
+电梯通往
+武器与地狱火药库
+电梯通往
+武器与地狱火药库
+辅助能量柱
+能量激增警告：在其他三个柱子正常运作时切勿激活
+尽管能量柱能为整座工厂提供充足能源，但新机器正让分配系统不堪重负，如同臃肿的蜱虫啃食着沉睡的公牛。请务必关闭任何闲置的机器并将能量引导至中央池——火红的仪表会精确显示我们还能节省多少能量。
 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold a Bag of Holding for 300 gold 
+
+.oO   “碎骨者”瓒的日志   Oo.
+> 没什么大事，我该去找房间休息了
+> 一个修复者告诉我她的小队消失了——应该调查一下
+> 找到了俘虏，需要解救他们并报告给布里扎
+> 进入牛头人镇，找到并安全获取地狱火药
+> 发现的不只是地狱火药——应该报告给布里扎
+> 进入旧矮人镇，并确认利思的预言是否属实
+> 找到一个奇怪的腐化样本，应该返回向祖拉汇报
+> 破坏守护恶魔镇大门的火焰塔
+---侧注---
+> E.之母本迪需要一颗灵石来充能我的心灵王冠
+> 大地之母本迪需要一颗灵石来充能我的心灵王冠
+> 工坊老板需要6块暗铁用于枪械零件
+> 铁匠赫克图斯需要8块铁矿石打造巨斧
+> 铁匠赫克图斯用弹药换取铁矿石
+> 阴暗修复者以10金币出售暗视护目镜
+> 一位阴暗修复者以10金币出售暗视护目镜，2名守卫换100金币
+
+> 一位阴暗修复者以10金币出售暗视护目镜，2名守卫换100金币，一个储物袋换300金币
 
 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold a Bag of Holding for 300 gold
+> 一位阴暗修复者以10金币出售暗视护目镜，2名守卫换100金币，一个储物袋换300金币
 
 
-Vials of Healing for 10 gold 
-> A smith could assemble the diving suit if I bring the parts:
-underwater mask, tank full of air & couple of airtight suits 
-> A smith could assemble the diving suit if I bring the parts:
-underwater mask, tank full of air & couple of airtight suits 
+10金币可购买治疗药剂
+> 如果我带来零件，铁匠可以组装潜水服：
+水下呼吸器、装满天空之神储备罐的气瓶及几套密封潜水服
+> 如果我带来零件，铁匠可以组装潜水服：
+水下呼吸器、装满天空之神储备罐的气瓶及几套密封潜水服

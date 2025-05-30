@@ -1,0 +1,315 @@
+Loading...
+加载中...
+
+Earth Mother:    The Dwarf Town... its true name has faded throughout the ages, but the grandeur has endured.
+大地之母：矮人镇……它的真名在岁月长河中逐渐模糊，但辉煌却始终留存。
+
+Fixer:    This place is giving me goose bumps... and I don't think it's just the cold.
+修复者：这里让我起了鸡皮疙瘩……而且我确定不只是因为寒冷。
+
+Earth Mother:    The Dwarf Town... its true name has faded throughout the ages, but the grandeur has endured.
+大地之母：矮人镇……它的真名在岁月长河中逐渐模糊，但辉煌却始终留存。
+
+Fixer:    This place is giving me goose bumps... and I don't think it's just the cold.
+修复者：这里真的有邪教徒？我就说不是我听错了！
+
+High Priest Jaromir:    Ah, there you are! A bit late for the fight, though, we've dealt with the welcoming party.
+高阶祭司贾罗米尔：啊，终于找到你了！不过战斗来得有点晚，我们已经处理完迎宾的家伙了。
+
+Earth Mother:    Good to see you've made it, high priest. Are any of your dwarves in need of healing?
+大地之母：见到你平安抵达很高兴，高阶祭司。你的矮人族有需要治疗的吗？
+
+High Priest Jaromir:    Nay, they'll be fine. Save your powers for whatever lies down there.
+高阶祭司贾罗米尔：不，他们没事。把法力留着应对下面的东西吧。
+
+Fixer:    T-there are cultists here? I knew it, I wasn't just hearing things!
+修复者：T-这里真的有邪教徒？我就说不是我听错了！
+
+High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my dwarves...
+高阶祭司贾罗米尔：我本该等你的，姑娘……我们来这里的路上遭遇伏击……失去了所有矮人……
+
+Earth Mother:    Priest Jaromir, you look battered! Let me take a look at your wounds...
+大地之母：祭司贾罗米尔，你看起来伤痕累累！让我看看你的伤口……
+
+High Priest Jaromir:    I'll be fine, lady. Save your powers for later... something tells me you'll need them.
+高阶祭司贾罗米尔：我会没事的，女士。把法力留到后面吧……我有种预感你会需要它们。
+
+Fixer:    That's terrible! Zan? A-are you sure we should keep going without any b-backup?
+修复者：太糟糕了！瓒？我们真的应该继续前进而不带任何支援吗？
+
+H.Priest Jaromir:    Ah, I see you're trying to put together a diving suit. Very good, but you will need a few items...
+高阶祭司贾罗米尔：啊，我明白你在尝试组装潜水装备。很好，但你需要一些物品……
+
+High Priest Jaromir:    You're going to need a special diving mask and a tank filled with enough air to allow
+高阶祭司贾罗米尔：你需要一副特殊的潜水面罩，以及一个装满足够空气的气瓶，这
+
+you to explore the waters like a fish.     And with all this chilling ice, a suit is much needed, one covered in
+样才能像鱼一样在水中探索。此外，面对这寒冷的冰层，一套覆盖保护油脂的防护服
+
+protective grease... the only problem I see is getting something for your... orc size.   Try finding two pairs.
+是必不可少的……唯一的问题就是为你的……兽人尺寸准备装备。试着找两套。
+
+You'll also need a smith to repair and assemble them properly. There's no room for shoddy work with this.
+你还需要一位铁匠来修理和组装它们，这种事容不得马虎。
+
+H.Priest Jaromir:    Looks like you have everything you need! Talk to my smith below, he'll craft the suit for you.
+高阶祭司贾罗米尔：看起来你已经准备齐全了！去下面找我的铁匠，他会为你打造这套装备。
+
+H.Priest Jaromir:    So you gathered all the suit parts...hmm, go visit Hectus at the camp, he can surely fix it.
+高阶祭司贾罗米尔：所以你收集齐了所有防护服零件……嗯，去营地找赫克图斯吧，他一定能修好它。
+
+High Priest Jaromir:    I have managed to restore life to the machinery here... though many parts have fallen to ruin.
+高阶祭司贾罗米尔：我已成功让这里的机械装置恢复运转……尽管许多部件已经沦为废墟。
+
+H.Priest Jaromir:    Keep your eyes peeled. If you find any dwarven relics, bring 'em here and I'll try to identify them.
+高阶祭司贾罗米尔：留意四周。如果你发现任何矮人族遗物，带来这里让我尝试辨认。
+
+H.Priest Jaromir:    I wasn't expecting to see cultists here... maybe Chieftain Zura is right and they're onto something.
+高阶祭司贾罗米尔：我没想到会在这里遇到邪教徒……也许首领祖拉说得对，他们确实掌握了什么线索。
+
+H.Priest Jaromir:    The underwater structures here would allow my ancestors to closely study the ancient vestiges.
+高阶祭司贾罗米尔：这里的水下建筑能让我的祖先近距离研究远古遗迹。
+
+H.Priest Jaromir:    The archeologists would use special diving suits to navigate the waters. You'll have to improvise.
+高阶祭司贾罗米尔：考古学家会使用特殊潜水装备在水中穿行。你得自己想办法制作。
+
+H.Priest Jaromir:    It's been ages, yet so much seems to have been preserved. Our builders have lived up to their name.
+高阶祭司贾罗米尔：已经很久没见了，但这里似乎保存得相当完好。我们的建造者果然名不虚传。
+
+Dwarf Smith:    Oooh, ya found parts fer a diving suit? Sure, lass, I'll put it together for ya... one moment...
+矮人铁匠：噢噢，你找到潜水装备的零件了？好啊，姑娘，我来帮你组装……稍等片刻……
+
+Dwarf Smith:    Ya filled the tank? Good, good, it ain't leakin'! Let me put yer suit together then...
+矮人铁匠：你把气瓶装满了？很好很好，它没漏气！那我就开始给你组装防护服吧……
+
+Cleaned the rust, fixed the screws and sewed together a suit fer yer size! Hope yer horns won't poke through!
+清理了锈迹、修好了螺丝并缝制了一套适合你尺寸的防护服！希望你的角不会戳出来！
+
+Remember to use the station nearby to refill yer air tank if ya need it. It won't last you forever, lass!
+记得需要时去附近的站点给你的气瓶重新充气。它可不会永远用得完，姑娘！
+
+Dwarf Smith:    Ya found parts fer a diving suit? Ack, go fill the tank first, the air station is right 'ere, by the docks.
+矮人铁匠：你找到潜水装备的零件了吗？哎呀，先去把气瓶装满吧，空气站就在那边码头旁。
+
+Dwarf Smith:    Hmph. There's a lot of water down these caves, lass. Aye, many secrets are hiding beneath.
+矮人铁匠：哼。这些洞穴里水很深，姑娘。确实，许多秘密都藏在深处。
+
+Dwarf Smith:    Legends speak of demons who dwell in the dark depths... if ya see an eerie light, swim away!
+矮人铁匠：传说中沉睡在黑暗深渊里的恶魔……如果你看到诡异的光芒，立刻游开！
+
+Dwarf Smith:    Me grandad was an angler... one day he heard the water call his name! Aye, he was mortified!
+矮人铁匠：我爷爷是个钓鱼人……有一天他听见水流叫他的名字！哎呀，他直接惊呆了！
+
+Dwarf Smith:    Keep close to that Spike Gun, lass! Not many weapons can be as trustworthy underwater.
+矮人铁匠：姑娘，紧握那把尖刺枪！很少有武器能在水下像它一样可靠。
+
+Dwarf Smith:    Always take a harpoon with ya when ye dive deep. A pointy stick could save yer life!
+矮人铁匠：每次下潜都要带上一把鱼叉！一根尖锐的木棍也许能救你的命！
+
+Dwarf Shieldguard:    By Stone's Hammer, lass, I did not think I would live to see this day... this place...
+矮人盾卫：以石之锤起誓，姑娘，我从未想过还能活到见到这一天……这个地方……
+
+Dwarf Shieldguard:    Icepeak Fort pales in front of this great town! Oh, how much knowledge has been lost...
+矮人盾卫：冰峰堡垒在眼前这座伟大城镇面前黯然失色！啊，有多少知识已经遗失了……
+
+Dwarf Shieldguard:    After our ancestors' defeat, cultists have gradually occupied and defiled our cities.
+矮人盾卫：在我们祖先战败后，邪教徒逐渐占据了并亵渎了我们的城市。
+
+Dwarf Shieldguard:    One day we shall reclaim our heritage! Everything I've read about in our old books...
+矮人盾卫：总有一天我们会夺回我们的遗产！我读过所有古书里记载的一切……
+
+Dwarf Shieldguard:    We charged in and smashed the cultists! You should've seen their shocked faces, hah!
+矮人盾卫：我们冲进去把邪教徒击溃了！你该看看他们惊恐的表情，哈哈！
+
+Dwarf Shieldguard:    I don't think they were expecting the old dwellers of this place to return today.
+矮人盾卫：我不认为他们预料到这座地方的旧住民今天会回来。
+
+Dwarf Shieldguard:    A few cultists have scurried up into the upper part of town. They don't dare attack us.
+矮人盾卫：几个邪教徒已经爬到了镇子上部。他们不敢攻击我们。
+
+Dwarf Shieldguard:    We'd help ya break their barricade, but Jaromir wants us to defend the machinery here.
+矮人盾卫：我们本可以帮你突破他们的路障，但贾罗米尔让我们在这里守护机械装置。
+
+Earth Mother:    What a peculiar object... perhaps High Priest Jaromir can tell us something about it.
+大地之母：这是个奇怪的物件……或许高阶祭司贾罗米尔能告诉我们一些关于它的事。
+
+Earth Mother:    That looks like a diving suit... but it's way too small to fit your size.
+大地之母：那看起来像潜水服……但它太小了，根本没法适合你的体型。
+
+Earth Mother:    I can use my magic to breathe underwater, but sadly, I can't do anything for you.
+大地之母：我能用魔法在水下呼吸，但很遗憾，我帮不了你。
+
+Fixer:    You look like you saw a ghost down there! I... uhh, everything here has been secured!
+修复者：你看起来像是看到了鬼！我……呃，这里的一切都已安全了！
+
+Earth Mother:    The dwarves have left early. We should make haste and return to the base camp.
+大地之母：矮人们已经提前离开了。我们应该赶快返回基地营。
+
+Earth Mother:    High Priest Jarmoir has left early. We should make haste and return to the base camp.
+大地之母：高阶祭司贾罗米尔也提前离开了。我们应该赶快返回基地营。
+
+Fixer:    Oh no, no, no, I'm *not* going there!
+修复者：哦不不不，我*不是*要去那里！
+
+Fixer:    T-that place looks too scary, I'm staying here!
+修复者：T-那个地方看起来太可怕了，我要留在这里！
+
+Fixer:    I-I'm afraid of deep water, Zan. I'm staying back!
+修复者：我……我害怕深水，瓒。我要留在后面！
+
+Fixer:    Uh-uh, I am not going there! No, no, no!
+修复者：呃——不不不，我不去那里！不不不！
+
+Fixer:    I'm going to stay back and err... guard the entrance!
+修复者：我要留在后面，嗯……守着入口！
+
+You have nothing to refuel with this machine.
+这台机器没什么可加油的。
+
+High Priest Jaromir:    I see you've found a spare gear. Good, this shall ease your access into the underwater installations.
+高阶祭司贾罗米尔：我看到你找到了备用齿轮。很好，这将帮助你进入水下设施。
+
+The pedestal is empty.
+石台上是空的。
+
+Blue Baron:    Here she is, at last. The call is irresistible... so many questions running through her mind.
+幽蓝男爵：终于来了，她。那呼唤无法抗拒……她的脑海中充满了无数疑问。
+
+Quite a marvelous place, is it not?... So many secrets lie buried here. Forgotten and forever lost.
+真是个奇妙的地方，不是吗？……这里埋藏着如此多的秘密。被遗忘且永远消失。
+
+Will the Halfblood follow the same fate? Will this be her eternal sunken tomb? Minions! Prepare a funeral!
+混血人会遭遇同样的命运吗？这会不会成为她的永恒沉船墓穴？仆从们！准备一场葬礼！
+
+Blue Baron:    The Elf speaks true... she is starting to live up to her true potential. And now, her reward...
+幽蓝男爵：精灵说的是实话……她开始活出了自己的真正潜力。现在，她的奖赏……
+
+...she will claim the Seed. But will she live long enough to lose it? The core of Hell awaits her. And so do I.
+……她将夺取种子。但能否活得足够久以失去它？地狱核心在等待着她。而我也一样。
+
+You'll need a proper tool to mine this ore vein.
+你需要合适的工具来开采这条矿脉。
+
+The mechanism clicks and rumbles but the door stays closed.
+机制发出咔嗒声并震动，但门依然紧闭。
+
+The power line this door is connected to seems to be down.
+这扇门连接的电源线路似乎已断开。
+
+The water is pressuring the door shut.
+水流正将门压得更紧。
+
+The power line this door is connected to seems to be down.
+这扇门连接的电源线路似乎已断开。
+
+This door requires a Stone key to open.
+这扇门需要石钥匙才能开启。
+
+This door is locked from the inside.
+这扇门从内部被锁住了。
+
+This door requires a Stone key to open.
+这扇门需要石钥匙才能开启。
+
+(The grime-encrusted common cuneiform letters reveal a worn out message)
+（沾满污垢的普通楔形文字揭示出一段磨损的信息）
+
+AIR TANK REFUELING STATION
+天空之神燃料补给站
+
+& UNDERWATER GATE CONTROL
+& 水下闸门控制系统
+
+(As you browse through the scientific notes, you notice excerpts from Lith's studies in Valc)
+（当你浏览科学笔记时，注意到利思在瓦尔克的研究摘录）
+
+Earth Mother:    The Cult must have furthered Lith's research during all this time...
+大地之母：邪教可能在这段时间进一步推进了利思的研究……
+
+.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
+.oO   ‘碎骨者’瓒的日志   Oo.
+
+> Not much going on, I should find my room and get rest
+> 没什么大事，我应该找房间休息一下
+
+> A Fixer told me her squad vanished - should investigate
+> 一个修复者告诉我她的小队消失了——需要调查
+
+> Found the captives, need to free them and report to Breaza
+> 找到了俘虏，需要解救他们并报告给布里扎
+
+> Get into the Minotaur Town, find and secure the Hell Powder
+> 进入牛头人镇，找到并夺取地狱火药
+
+> Found more than just Hell Powder - should report to Breaza
+> 不仅仅是地狱火药——需要报告给布里扎
+
+> Enter the old Dwarf Town & check if Lith's visions were true
+> 进入旧矮人镇，并检查利思的预知是否属实
+
+> Found a weird corruption sample, should report back to Zura
+> 发现了一个奇怪的腐化样本——需要向祖拉汇报
+
+> Sabotage the flame towers protecting the Demon Town gate
+> 破坏保护恶魔镇大门的火焰塔
+
+---Side Notes---
+---侧注---
+
+> E. Mother Bendi needs a Spirit Gem to charge my Psi Crown
+> E.之母本迪需要用灵石为我的Psi冠充电
+
+> Earth Mother Bendi needs a Spirit Gem to charge my Psi Crown
+> 大地之母本迪需要用灵石为我的心灵王冠充电
+
+> Workshop Boss needs 6 lumps of Dark Iron for gun parts
+> 工坊老板需要6块暗铁来制作枪支零件
+
+> Smith Hectus needs 8 lumps of Iron for a Great Axe
+> 铁匠赫克图斯需要8块铁矿石打造巨斧
+
+> Smith Hectus is trading ammo for Iron Ore
+> 铁匠赫克图斯用弹药换取铁矿石
+
+> Shady Fixer sells Dark Vision Goggles for 10 gold
+> 阴暗修复者出售暗视护目镜，售价10金币
+
+> A Shady Fixer sells Dark Vision Goggles for 10 gold
+> 阴暗修复者出售暗视护目镜（1
+
+two Sentries for 100 gold
+0金币）、两个守卫（100金币）
+
+> A Shady Fixer sells Dark Vision Goggles for 10 gold
+> 阴暗修复者出售暗视护目镜（
+
+two Sentries for 100 gold
+10金币）、两个守卫（100金币
+
+a Bag of Holding for 300 gold
+）、一个储物袋（300金币）
+
+> A Shady Fixer sells Dark Vision Goggles for 10 gold
+> 阴暗修复者出售暗视护目镜（
+
+two Sentries for 100 gold
+10金币）、两个守卫（100金币
+
+a Bag of Holding for 300 gold
+）、一个储物袋（300金币）
+
+Vials of Healing for 10 gold
+治疗药剂换10金币
+
+> A smith could assemble the diving suit if I bring the parts:
+> 如果我带来零件，铁匠可以组装潜水服：
+
+underwater mask, tank full of air & couple of airtight suits
+水下呼吸器、装满天空之神空气的气瓶及几套密封潜水服
+
+> A smith could assemble the diving suit if I bring the parts:
+> 如果我带来零件，铁匠可以组装潜水服：
+
+underwater mask, tank full of air & couple of airtight suits
+水下呼吸器、装满天空之神空气的气瓶及几套密封潜水服
+

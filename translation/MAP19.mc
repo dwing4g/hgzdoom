@@ -1,359 +1,359 @@
-Yzbeth's Gardner:    Mistress Yzbeth awaits me in her cathedral... she showed me all her secret places... 
-Loading... 
-Yzbeth's Gardner:    I brought you flowers, my queen... oh no. What-? Please! Not again! Noooo!... *Fades*
-Yzbeth:    Reality is a bitch, isn't it? Truth is, my pristine cathedral is nothing more but a rotten hive of sin.
-And the maggots infesting it are still very loyal to the Baron. 
-Yzbeth:    Such tenacity! Such wrath! Come to the ballroom right away, I wish to see more of your moves! 
-Yzbeth:    My, my... is it so? The Iron Divison's champion enters my domain, seeking aid to usurp the Baron?
-And I might just have the key to defeat him... but first, delight me with a display of your raw orcish might! 
-Yzbeth:    Oooh, so quick-tempered! A passionate first impression!... let me see more of that brute strength! 
-The primarch's avatar remains silent. 
-Adur:    I am Adur, Primarch of Hearts! Singer of lust and passion! Weaver of desire...
-You seek to defeat the Baron, but your heart is yet too pure to be allowed inside his sinful citadel.
-...while I do not question your skill on the battlefield, it's the one in the bedsheets that I must test.
-Show me you can conquer a demon through lust, not blade. Only then will your heart be worthy of my taint. 
-Adur:    Elzriel! What brings you to my altar? Feeling lonely again?
-Elzriel:    Feeling my patience tested by this half-blood-half-wit, rather.
-Adur:    That's what you get for breaking Yzbeth's heart... and with a goblin? Ludicrous. 
-Adur:    Did Yzbeth reject you? Pitiful, but alas, I did not ask you to seduce her - any demonblood will do... 
-Adur:    Might may conquer the battlefield, but passion will subdue your foe long before drawing steel. 
-Adur:    An entire army cannot control a city the way debauchery does. Wanton lust will soften any spirit. 
-Adur:    A true demon must know the exquisite pleasures of flesh, and especially how to draw others into them. 
-Adur:    Yzbeth is well versed in the art of seduction, and she's eager to share. Try not to hurt her... too much. 
-Adur:    'tis a pity that you broke Yzbeth's heart. Alas, there are other demonbloods who can initiate you. 
-Adur:    Ahhh... I can feel your heart writhe. Blackened and emburdened with sin by fleeting Yzbeth... 
-Adur:    The Queen of Wrath may be a halfblood, but her lust puts Demons to shame. I accept your offering. 
-The trial of hearts is fulfilled, and my taint you shall now carry! Send the Baron my warmest kisses. 
-A primarch offering altar. 
-Yzbeth:    Look at you! All sweaty and riled up... such heroism must not go unrewarded.
-And I know just what you desire... find a way into my bedchambers, and I will make your wish come true! 
-Yzbeth:    Mmm... my eyes just can't get enough of that sculpted physique!
-Can't help but wonder what motions that hulking body of yours is capable of. How about a dance? 
-Yzbeth:    Oooh, getting a little rough now, are you? 
-Yzbeth:    Ooh! You do love slapping me around, don't you? 
-Yes, unleash your blood's fury! Let me see you dance! 
-Yzbeth:    You kept me waiting. Playing hard to get now, mmh? Too bad the bed has gone cold... 
-Yzbeth:    You kept me waiting. Tch, you silly tease, this bed isn't that easy to keep warm... 
-Yzbeth:    You kept me waiting. This massive bed isn't easy to keep warm, you know... 
-Now it's my turn to tease you! See that spiraling soul fragment? A gift from the Baron.
-Three such fragments make a key to his newfound source of power. He needs it to keep his elf pet in check.
-Can you believe it? He'd rather trust me than Nithriel! Trust... a volatile concept among Demons. You'll see.
-I am not fond of the Baron's orderly ways, but I am not fond of your intention to slay him either...
-Soo, I say we leave it up to chaos! If the fragments find their way into your hands, I won't object!
-A game of hide-and-seek! Something to entertain your wits with. Oh, and if you're a good little stud...
-...I might just help you complete Adur's trial after you find out how to obtain the fragments. *Winks* 
-Yzbeth:    Ow- Heey! Too rough! Do you not care for what I have to say?... 
-Yzbeth:    Ugh! Hey, why so mean now? I just wanted to talk! 
-Yzbeth:    Ough! Hey, aren't you curious about what I have to say?... 
-Careful how hard you want to play!... I might just get upset and scratch back... 
-Yzbeth:    I would never stifle someone's curiosity... but some things are best left unseen. 
-Yzbeth:    You want the key? Take it! Take all you want, and get out of my sight! 
-Yzbeth:    You want the key? Take it! You and the Baron can fight until you bleed each other out! 
-Yzbeth:    You won. Claim the last fragment and the key is yours. The Baron better watch out... 
-Yzbeth:    There's my victor. Here to claim the last fragment? The Baron better watch out! 
-Yzbeth:    There's my victor. Here to claim the last fragment? Or just your heated succubus? 
-Yzbeth:    The key is yours... and so am I.
-As long as it doesn't involve hand-holding, you can do whatever you want with me. 
-Yzbeth:    You have the key... now, for the true reward... come closer. I'm all yours. 
-Yzbeth:    You have the key now. As for Adur's task... come closer. I have much to show you... 
-Yzbeth:    You have the key now. As for Adur's task... come closer. You have much to learn... 
-Yzbeth:    Go ahead. Claim the fragment, and then we will play... 
-Yzbeth:    Nuh-uh. Claim the fragment first. Then, you can claim me. 
-Yzbeth:    Augh! Mmmh, save that for when you're on top of me, stud. 
-Yzbeth:    Owh! Biting already? Don't worry, big girl. We'll be wrestling soon enough. 
-Yzbeth:    Hnf! Can't you hold yourself for a moment? 
-Yzbeth:    Ow! Why do you hate me?!... You got what you wanted from me and now you broke my heart... 
-Yzbeth:    Hopeless brute! Violence is the only thing you're capable of! 
-Yzbeth:    Fuck you! 
-Elzriel:    ...did I really have to watch that? 
-Yzbeth:    *Gasps* Devious brute!!! You got what you wanted from me and now you're shoving me?!...
-Fine!!! So be it!!! I was your only chance to get Adur's taint, but oh well! 
-Yzbeth:    Ugh!!! How dare you shove me like that?! Oh, you really just hate me, don't you!?
-You were so boring anyway! Good luck getting Adur's taint without me showing you some pity! 
-Yzbeth:    Where are you going now, stud?... I'm not going to stay hot forever. 
-Yzbeth:    Keeping me waiting, again? I assure you, it does little to excite me... 
-Yzbeth:    What?! Are you just going to leave like that?! Ugh, how dare you!
-Fine!!! So be it!!! I was your only chance to get Adur's taint, but oh well! 
-Yzbeth:    What?! You're just going to walk away from me now?! Am I too much for you, or what?
-Ugh, you're so boring anyway! Good luck getting Adur's taint without me showing you pity!!! 
-These switch requires a Golden key to operate. 
-Lancer Painting:    Zan?!... oh, the Gods have answered my pleas! I am trapped in this painting! 
-Lancer Painting:    I can hardly endure this torment any longer! Please, warrior, help me out! 
-Lancer Painting:    Zan! I beseech you! Find a way to release me from this wretched canvas! 
-Lancer Painting:    Please, Zan, don't forget about me! 
-Lancer Painting:    There has to be a way to enter the painting... Yzbeth is keeping a hidden access somewhere! 
-Lancer Painting:    I feel a draft behind me. It carries a mixture of scents with it... I can identify fae dust! 
-Lancer Painting:    The draft sometimes carries the sound of footsteps climbing up a flight of stairs... 
-Lancer Painting:    Urgh! I'm losing my temper here! Use your wits, Zan, you're the one who can explore freely! 
-Lancer Painting:    Yes, yes! That's the doll! Now you must enter the painting and bring it to me! 
-Lancer Painting:    I was captured after our grand siege had failed. The scum denied me a warrior's death. 
-Lancer Painting:    Thanks to the succubus matron, Yzbeth, I could be trapped inside this painting for eternity! 
-Lancer Painting:    After entertaining Yzbeth with a few conversations, I've learned how to escape. But I need help. 
-Lancer Painting:    The matron used a doll as a vessel for my curse. Find where she keeps it and bring it to me! 
-Lancer Painting:    There is a pedestal inside the painting. I believe that's where the doll goes. However... 
-Lancer Painting:    ...how would you ever reach the pedestal? You'd have to get inside the painting first... 
-Lancer Painting:    By the Gods, I can hardly endure this any longer... having been paralyzed for so long... 
-Lancer Painting:    The few other captives have simply been petrified. I'd rather be a dead statue than this... 
-Lancer:    Quick! Place the doll on the nearby pedestal! 
-Lancer:    It's great that you found a way inside here, but without the doll, I can't be freed! 
-Lancer:    Yzbeth must have hidden the doll somewhere... who could predict her twisted demeanor? 
-Lancer:    They see a brick wall, I see an orc doll... she once told me this. What could it possibly mean? 
-Lancer:    I feel like the painting itself is... fixating me. The doll could trick it into releasing me! 
-Lancer:    Keep looking, Zan! If it's in vain, then throw the painting in a magma pit and end my suffering... 
-Lancer:    *Stretches* My body is too weak to keep going... don't worry, I just need time to recover. 
-Lancer:    Go without me! The task of defeating the Icon is far more important than coddling me! 
-Lancer:    My magic powers will slowly nourish me back into shape. Don't worry about me! 
-Lancer:    If you're overwhelmed, lead the enemy here! My body may be weak now, but my Crylance isn't. 
-Lancer:    *Stretches and groans* Send my regards to our sisters. I can't wait to see them after so long... 
-Lancer:    How long has it been?... Weeks? Moons? Whole rotations? It's difficult to track time down here. 
-Lancer:    I...I-I can finally move! Thank you, warrior! May the Gods witness your wits and bless you!
-Let us leave this foul place at once!
-*Panting* Oh no... the atrophy... my body is too weak to continue... I'll just slow you down... go on... without me. 
-But before you go... while trapped in the painting, my crystals have gathered an excess of energy...
-...I'll funnel it into this armor amulet. Take it, along with my gratitude. May it protect you well! 
-The pedestal is empty. 
-Primarch Avatar:    You! Down there! You're no servant of Yzbeth, is that right?
-She keeps me trapped behind this glass. Free me, and I will make it worth your while! 
-Primarch Avatar:    You! Get me out of this shameful dump and I'll make you rich! You have my word! 
-Primarch Avatar:    Stop idling about! Rescue me and I'll make you rich! I said you have my word! 
-Elzriel:    I am Elzriel, the Golden Primarch! Giver of wealth! Taker of sovereignty!
-Return me to my altar and I'll give you ninety nine parts off of any deal - an offer you can't refuse! 
-Elzriel:    Where are you taking me?! My shrine is here, in Yzbeth's domain! Don't waste my precious time! 
-Elzriel:   Like the fountain? In this place, water is just as precious as gold! Hurry now, my altar is nearby. 
-The primarch's avatar remains silent. 
-Elzriel:    Ahh, finally back! Yzbeth's soul should burn for a whole century for defying me like this!
-As for your reward... well, if you seek to challenge the Baron you will need my permission. So then...
-...a demon wishing to bear the taint of gold must prove worthy. Thirty thousand gold coins is my price.
-Oh, I did say I'd give you ninety nine parts off, right? Lucky you, that sets you down to three hundred.
-A trivial investment considering the riches that await you in return. Go ahead, start emptying your pockets. 
-Elzriel:    Aww, come on, you don't have a measly three hundred gold coins to spare? 
-Elzriel:    If you can't amass any wealth, how do you expect to garner any notable attention? 
-Elzriel:    Are you even sure you want to do this? Your world will do better under someone with... proper expertise. 
-Elzriel:    The Baron is a master of trade, among other things. To challenge him, you should be at least as good. 
-The scratches covering the golden frame suggest that its content has been pried out recently. 
-Elzriel:    Hrnnn, a pitiful pile of gold... but a deal is a deal. You've earned the taint of the Golden Primarch.
-Oh and... I did mention I would make you rich, right? *Snickers*
-Fool!!! Did you really think I'd risk letting you remove the Baron from power!?
-Trade is going far too well for us under his rule! So here's your share! Enjoy counting the coin, for all eternity!
-Shady Fixer:    ...you too, huh?
-...wait a moment. Here, hold this thing. 
-The offering altar has no use, as the primarch's avatar seems to be missing from its place. 
-A primarch offering altar. 
-Shady Fixer:    Hey, you actually charged it! We can escape now! One moment, let me just-
-...finish stuffing my boots with coin.
-Couldn't you wait for a moment!? Think about how much more gold we could have carried with us!!!
-Ugh, I'm out of here! Come see me at Murguth's camp, maybe selling you some gear will mellow me out. 
-Shady Fixer:    C'mon, grab this artifact already, it's our only real ticket out of here. 
-Shady Fixer:    Well, that's it for us, then. There's no other way out of this hellish prison. 
-Shady Fixer:    I doubt we can find an actual exit... this place has no physical access. 
-Shady Fixer:    I only have a tiny piece of bread left, and I'm not sharing it. 
-Shady Fixer:    Had to eat my last piece of bread... I'd give away all this gold for some food right now. 
-Shady Fixer:    I got too damn greedy coming to this place. Yep, put all my eggs in one basket. 
-Shady Fixer:    I read a lot about this vault - it's inescapable. I hoped the chaotic device would teleport me out. 
-Shady Fixer:    I bet my life on a piece of scrap... maybe a proper demon could use it, but I don't see any around. 
-Shady Fixer:    Perhaps we can find a source of demonic energy over yonder... something to power up the device with. 
-Shady Fixer:    Maybe the primarch drained the device's power while banishing me here. Did I get outconned? 
-Shady Fixer:    Who am I kidding? We're probably going to starve to death in here. Curse my greedy blood! 
-Shady Fixer:    Let's see if we can solve the riddle you revealed... at least we won't die of boredom. 
-Shady Fixer:    One thing I can tell for sure - these four bowls are meant for splitting the fourty coins. 
-Shady Fixer:    Now try this - eight coins for a bova, four for a hog and one for every two chicks. 
-Shady Fixer:    Each peasant has a name and occupation, some referenced inside the others' poem. 
-Shady Fixer:    Gold's value varies, but in the riddle's context... a bova would be taxed around eight gold, mm? 
-Shady Fixer:    One coin per chick really doesn't add up. But one for two chicks... that could work, right? 
-Shady Fixer:    I'm thinking... I'm thinking! 
-Shady Fixer:    ...well? Does it turn on in your hands or something?... no?... guess you're not demon enough for it... 
-Shady Fixer:    Well, to begin with, I guess we need to split fourty gold coins between the four bowls.
-Shady Fixer:    The four peasants have names and occupations... gah, I wish I had some paper to write this down on.
-Shady Fixer:    I recently read that in the Overworld kingdoms, a bova would be taxed sixteen coins...
-...now, humans keep devaluing gold by mixing it with other metals. The riddle is old, so it could be six, eight, ten...
-Shady Fixer:    One gold for one chick feels like too much. But one gold for two chicks... I think I'm onto something.
-Shady Fixer:    Alright, I think I got it! So... wanna hear my solution or do you still feel like jogging your mind? 
-Shady Fixer:    Already looked in there. Didn't find much. 
-Shady Fixer:    I've already searched that place. Just come here and take a look at this. 
-Shady Fixer:    Huh? Did you actually find a pendant of true sight?
-Stuff like this makes me wish I could reach the top of a shelf every once in a while... 
-Shady Fixer:    Congrats, you found a magic trinket, now come grab this artifact so we can get outta here. 
-Shady Fixer:    Fine, I guess you know what you're doing. Uhh, you go ahead, I'll cover you from here. 
-Shady Fixer:    Well that went fast. Go check what's behind that door, now, I'll cover your back! 
-Shady Fixer:    Yeah, we got it! Now go check what's behind that door, I'll cover you from here. 
-Shady Fixer:    Yes! That was the answer! Now go check what's behind that door, I did enough already. 
-An offering bowl. 
-The unholy altar has a blood funnel carved into it. 
-Yzbeth:    Augh! Now, now, let's leave the scratching for later, listen to what I have to say! 
-Yzbeth:    Owh! Not feeling like playing rough now, stud. Save it for later. 
-Yzbeth:    Ouch! Do you really not care for what I have to say?... you're making me sad! 
-Yzbeth:    Argh! Why are you so mean to me?... I just want to talk!... 
-Yzbeth:    *Whimpers* Why are you hitting me? Why do you hate me so much? 
-Yzbeth:    You narrow-sighted brute!!! All you know is violence and cruelty! 
-Yzbeth:    Fuck you! 
-Elzriel:    Good. Smack that bitch again when you see her! 
-Yzbeth:    Welcome to my altar. I see you brought in a most distinguished guest...
-Elzriel:    Shut up, you twisted whore! Wait until the Baron learns of your little rebellion!
-Yzbeth:    Tch, I'm sure the orc stud will deal with him. And you will help her get there! Anyway... 
-Yzbeth:    The first key fragment is inside my mind. Don't mind the mess. 
-Yzbeth:    The first key fragment is inside my mind. Try not to do anything too naughty. 
-Yzbeth:    The first key fragment is in my mind. I'm sure you'll love being inside me! 
-Yzbeth:    I was about to say where the second fragment is, but if you're such a meanie... find it yourself. 
-Yzbeth:    The second key fragment overlooks the void... and the boundaries of my curiosity. 
-Yzbeth:    The second fragment overlooks the void... at the edge of my curiosity. And desire. 
-Yzbeth:    Found the second fragment, huh? Let's see if you even remember where the third is. 
-Yzbeth:    The third fragment is in my bedroom, but you can only approach it from inside my mind. 
-Yzbeth:    The third shard can only be reached through my mind. It awaits you in my bed. And so am I... 
-Yzbeth:    Stop prodding around my mind now, silly. 
-Yzbeth:    Try again- 
-Yzbeth:    Aww, forever lost inside my mind, are you? That's what you get for being such a bad thought. 
-Yzbeth:    Now, now... you better play nice while you're here! 
-Yzbeth:    Careful! As much as I'd love to merge minds with you, it would be terrible for your health. 
-Yzbeth:    Naughty-naughty! Try not to lose your sanity over here... at least for the time being. 
-Yzbeth:    Aww, you just keep craving my mind, don't you? 
-Yzbeth:    Oh, looks like you're in for a welcoming party! Don't let any of my exes get to you, dear- 
-Yzbeth:    Some of my thoughts don't seem to like you. Don't take it too personally now. 
-Yzbeth:    Oooh... looks like you're already garnering some negativity in here. 
-You'll need a shovel to dig here. 
-The doors are locked from the other side. 
-The door is locked from the other side. 
-The door won't budge. 
-The doors won't budge. 
-These door requires a Golden key to open. 
-These door requires a Withered Vine key to open. 
-These door requires a Golden key to open. 
-These doors require a Golden key to open. 
-This door requires a Withered Vine key to open. 
-These doors require a Golden key to open. 
-This door requires a Dark key to open. 
-These doors require a Dark key to open. 
-(A tower of verses is drafted on the pages. The few ones not frantically hatched off make a poem)
-Come and sit on my sofa with me a while
-Take a swim, enjoy some wine
-Warm yourself up by the fireplace
-And you'll find my deepest secrets desire 
-(The alluringly perfumed journal appears to belong to Yzbeth. None of the entries seem to be dated)
-My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?
+伊兹贝思的园丁：    伊兹贝思女士在她的大教堂中等待着我……她向我展示了所有隐秘之地……
+加载中...
+伊兹贝思的园丁：    我带来了花，我的女王……哦不。什么？请！别再这样了！不要啊！！… *消散*
+伊兹贝思：    现实真是个婊子，不是吗？真相是，我那纯粹的大教堂不过是个腐败的罪恶蜂巢。
+而寄生其中的蛆虫们仍对男爵忠心耿耿。
+伊兹贝思：    如此顽强！如此怒火！立刻前往舞厅，我想看看你更多的动作！
+伊兹贝思：    哇，哇……真的吗？铁军的冠军踏入我的领域，寻求帮助推翻男爵？
+我或许正拥有击败他的关键……但在此之前，请用你的原始兽人之力让我欣赏一番吧！
+伊兹贝思：    哦哦，这么暴躁！热烈的第一印象……让我看看你那蛮力！
+原教的化身保持沉默。
+阿杜尔：    我是阿杜尔，心之原教！欲望与激情的歌者！欲望的编织者……
+你寻求击败男爵，但你的心还太纯洁，无法进入他的罪恶城堡。
+……虽然我不质疑你在战场上的技艺，但我必须测试的是床上的那场战斗。
+用欲望而非利刃征服恶魔，唯有如此你的内心才配得上我的污染。
+阿杜尔：    埃尔兹瑞尔！你为何来到我的祭坛？又感到孤独了吗？
+埃尔兹瑞尔：    感觉被这个半血统、半蠢货测试耐心，倒是更贴切。
+阿杜尔：    那是因为你打破了伊兹贝思的心……还用了一个哥布林？荒谬。
+阿杜尔：    伊兹贝思拒绝了你？可悲，但可惜我并未要求你诱惑她——任何恶魔之血都行……
+阿杜尔：    力量或许能征服战场，但激情会在你拔出利刃之前就让敌人屈服。
+阿杜尔：    整支军队也无法像放纵一样控制一座城市。放荡的欲望能让任何意志软化。
+阿杜尔：    真正的恶魔必须懂得肉体的极致愉悦，尤其是如何将他人引入其中。
+阿杜尔：    伊兹贝思精通诱惑的艺术，她渴望与你分享。别……太伤她。
+阿杜尔：    真可惜你打破了伊兹贝思的心。唉，还有其他恶魔之血可以引导你入门。
+阿杜尔：    哦……我能感受到你的心在扭曲。被短暂的伊兹贝思玷污、黑化与压垮了……
+阿杜尔：    愤怒女王虽是混血人，但她的欲望让恶魔都羞愧。我接受你的献祭。
+心之试炼已完成，现在你将承载我的污染！向男爵传达最热烈的吻。
+原教献祭祭坛。
+伊兹贝思：    看你！满头大汗、激动不已……这样的英雄主义怎能不给予回报？
+我知道你渴望什么……找到进入我寝宫的方法，我会实现你的愿望！
+伊兹贝思：    哦……我的目光无法从那雕刻般的身材移开！
+忍不住想知道你那庞大的身躯能做出怎样的动作。来跳支舞吧？
+伊兹贝思：    哦哦，你开始有点粗暴了，对吧？
+伊兹贝思：    啊！你确实喜欢打我耳光，不是吗？
+是的，释放你血液中的怒火！让我看看你的舞蹈！
+伊兹贝思：    你让我等了这么久。现在是在故作矜持吗？啧……可惜床已经凉了……
+伊兹贝思：    你让我等了这么久。哼，你这个傻瓜调情者，这张床可不是那么容易保持温暖的……
+伊兹贝思：    你让我等了这么久。这巨大的床可不是那么容易保持温暖的，你知道吧……
+现在轮到我来调戏你了！看看那螺旋灵魂碎片——是男爵送的礼物。
+三块这样的碎片可以成为他新获得力量源泉的钥匙。他需要用它来控制他的精灵宠物。
+你能相信吗？他宁愿信任我也不愿信任妮丝瑞尔！信任……对恶魔来说是个危险的概念。你很快就会明白。
+我不喜欢男爵那井然有序的方式，但我也讨厌你打算杀死他的意图……
+所以，我们不如交给混沌吧！如果这些碎片落入你的手中，我不会反对的！
+一场捉迷藏的游戏！用来娱乐你的智慧吧。哦，如果你是个乖巧的小家伙……
+……在找到如何获得碎片的方法后，我可能会帮你完成阿杜尔的试炼。*眨眨眼*
+伊兹贝思：    哎呀——嘿！太用力了！你就不在乎我说的话吗？…
+伊兹贝思：    唔！嘿，怎么突然这么刻薄？我只是想和你谈谈！
+伊兹贝思：    唔！嘿，难道你不好奇我要说什么吗？…
+小心你想要玩得多激烈……我可能会生气并抓回去反击！
+伊兹贝思：    我从不会扼杀别人的求知欲……但有些事最好还是不要看见。
+伊兹贝思：    你想得到钥匙？拿去吧！拿走所有你想要的，快离开我的视线！
+伊兹贝思：    你想得到钥匙？拿去吧！你和男爵可以打到彼此流血为止！
+伊兹贝思：    你赢了。拿走最后一块碎片，钥匙就是你的。男爵最好小心点……
+伊兹贝思：    这就是我的胜利者。来领取最后一块碎片吗？男爵最好小心点！
+伊兹贝思：    这就是我的胜利者。来领取最后一块碎片吗？还是只想和我这个热情的魅惑女妖玩闹？
+伊兹贝思：    钥匙归你了……而我也一样。
+只要不牵涉牵手，你想怎么对我都行。
+伊兹贝思：    你拿到了钥匙……现在，真正的奖励……靠近点。我是你的了。
+伊兹贝思：    你拿到了钥匙。至于阿杜尔的任务……靠近点。我有很多要展示给你看的……
+伊兹贝思：    你拿到了钥匙。至于阿杜尔的任务……靠近点。你还有很多要学习的……
+伊兹贝思：    去吧。拿走碎片，然后我们再玩……
+伊兹贝思：    不不不。先拿走碎片。然后，你才能拥有我。
+伊兹贝思：    唔！唔……留着等你骑在我身上时再用吧，小家伙。
+伊兹贝思：    啊呜！已经开始咬了？别担心，大女孩。我们很快就会打一架。
+伊兹贝思：    吁！难道你不能忍耐片刻吗？
+伊兹贝思：    唔！为什么你这么恨我？……你从我身上得到了想要的东西，现在却伤了我的心脏……
+伊兹贝思：    无脑的粗汉！你只会用暴力！
+伊兹贝思：    猜你妈！
+埃尔兹瑞尔：    ……我真的必须看着这一切吗？
+伊兹贝思：    *喘息* 阴险的粗汉！！！你从我身上得到了想要的东西，现在却推我？……
+好啊！！！就这样吧！！！我是你唯一能获取阿杜尔污秽的机会，但算了！
+伊兹贝思：    唔！！！你怎么敢这样推我？哦，你真的就那么恨我吗？！
+你本来就很无聊！没有我的怜悯，你根本无法获得阿杜尔的污秽！
+伊兹贝思：    你现在要去哪儿，小家伙？……我可不会永远这么热乎。
+伊兹贝思：    又让我等你？我保证，这对你毫无吸引力……
+伊兹贝思：    啥？！你就这样离开吗？！唔，你怎么敢这样！
+好啊！！！就这样吧！！！我是你唯一能获取阿杜尔污秽的机会，但算了！
+伊兹贝思：    啥？！你现在就要从我身边走开吗？！是我太难搞了吗，还是怎么着？
+唔，你本来就无聊透顶！没有我的怜悯，你根本无法获得阿杜尔的污秽！！！
+这些机关需要黄金钥匙才能启动。
+长枪绘：    瓒？……哦，诸神终于回应了我的祈求！我被困在这幅画中了！
+长枪绘：    我几乎承受不住这种折磨了！战士，请帮我脱离这困境吧！
+长枪绘：    瓒！求你了！找到方法把我从这幅可憎的画布中释放出来吧！
+长枪绘：    请，瓒，别忘记我！
+长枪绘：    一定有办法进入这幅画……伊兹贝思在某个地方隐藏着入口！
+长枪绘：    我背后有风。它带着混合的气息……我能辨认出妖精之尘！
+长枪绘：    风有时会传来脚步声，像是沿着楼梯向上攀爬……
+长枪绘：    唔！我在这里快要发怒了！用你的智慧，瓒，你才是能自由探索的人！
+长枪绘：    是的，是的！那就是那个娃娃！现在你必须进入画中，把它带给我！
+长枪绘：    我们的大规模围攻失败后被俘虏的。那些渣滓拒绝给我一个战士应有的死亡。
+长枪绘：    多亏了魅惑女魔头伊兹贝思，我才能被困在这幅画中永生永世！
+长枪绘：    在与伊兹贝思进行几次交谈后，我已经学会了如何逃脱。但需要你的帮助。
+长枪绘：    女主人用一个娃娃作为我的诅咒容器。找到她存放的位置并将它带给我！
+长枪绘：    画中有一个底座。我认为那正是娃娃该去的地方。然而……
+长枪绘：    ……你如何才能到达那个底座？你得先进入这幅画才行……
+长枪绘：    诸神啊，我几乎无法再忍受了……被困这么久已经瘫痪了……
+长枪绘：    其他几个俘虏只是被石化了。与其这样活着不如成为一尊死雕像……
+长枪兵：    快！把娃娃放在附近的底座上！
+长枪兵：    你能找到进入这里的办法真是太好了，但没有娃娃，我无法获得自由！
+长枪兵：    伊兹贝思一定把娃娃藏在某个地方……谁能预料到她扭曲的性情？
+长枪兵：    他们看到的是砖墙，我却看到一个兽人娃娃……她曾经对我说过这句话。这究竟意味着什么？
+长枪兵：    我感觉这幅画本身……正在凝视着我。娃娃或许能骗过它，让我获得自由！
+长枪兵：    瓒，继续寻找！如果徒劳无功，就把这幅画扔进熔岩坑，结束我的痛苦……
+长枪兵：    *伸展身体* 我的身体太虚弱无法继续前行……别担心，我只需要一点时间恢复。
+长枪兵：    没必要等我！击败图腾的任务远比照顾我重要得多！
+长枪兵：    我的魔法力量会慢慢恢复我的元气。别担心我！
+长枪兵：    如果你被敌人压倒了，就带他们来这里！我的身体现在虽然虚弱，但我的水晶长矛不会！
+长枪兵：    *伸展着呻吟* 代我向姐妹们问好。经历了这么久，我迫不及待想见到她们……
+长枪兵：    已经过了多久？……几周？几个月？整整一轮？在这里很难追踪时间流逝。
+长枪兵：    我……我终于能动了！谢谢战士！愿诸神见证你的智慧并赐福于你！
+我们立刻离开这个肮脏的地方！
+*喘息着* 哦不……肌肉萎缩……我的身体太虚弱无法继续……我会拖慢你们的进度……快走吧，不用带我。
+但在我离开之前……被困在画中时，我的水晶积攒了过多的能量……
+...我会将它引导到这个护甲符咒中。拿去吧，连同我的感激之情。愿它能好好保护你！
+祭坛是空的。
+原教化身：    你！在下面！你可不是伊兹贝思的手下，对吧？
+她把我困在这块玻璃后面。放我出去，我会让你得到回报！
+原教化身：    你！带我离开这个丢人的地方，我就让你发大财！我以我的名誉起誓！
+原教化身：    停止拖延！救了我，我就让你发大财！我说过我以我的名誉起誓！
+埃尔兹瑞尔：    我是埃尔兹瑞尔，黄金原教！财富的赐予者！主权的夺取者！
+将我送回祭坛，我会给你任何交易中九十九分的利益——这是你无法拒绝的提议！
+埃尔兹瑞尔：    你在带我去哪？！我的神龛就在伊兹贝思的领地里！别浪费我宝贵的时间！
+埃尔兹瑞尔：   像喷泉一样？在这里，水比金子还要珍贵！快点，我的祭坛就在附近。
+原教的化身沉默不语。
+埃尔兹瑞尔：    啊啊，终于回来了！伊兹贝思的灵魂该为这种反抗燃烧整整一个世纪！
+至于你的报酬……嗯，如果你想挑战男爵，必须先获得我的许可。那么……
+……想要承受黄金诅咒的恶魔必须证明自己的价值。三万枚金币是我的价格。
+哦，我确实说过会给你九十九分的利益，对吧？幸运的是，这相当于三百枚金币。
+考虑到你将获得的财富回报，这不过是微不足道的投资。快去，开始掏空你的钱袋吧。
+埃尔兹瑞尔：    哎呀，别这样，你连三百枚金币都舍不得吗？
+埃尔兹瑞尔：    如果你连财富都无法积累，又如何期望获得任何显著的关注？
+埃尔兹瑞尔：    你确定真的想这么做吗？你的世界在拥有……专业能力的人统治下会更好。
+埃尔兹瑞尔：    男爵是贸易大师之一，除此之外还有许多其他才能。要挑战他，你至少得达到同等水平。
+覆盖黄金框架的划痕表明其内容物最近被强行取出。
+埃尔兹瑞尔：    咕噜噜……一堆可怜的金币……但交易就是交易。你已获得黄金原教的诅咒印记。
+哦对了……我确实说过会让你发大财，对吧？*轻笑*
+蠢货！！！你真以为我会冒险让你推翻男爵的统治吗！！？
+在他的统治下贸易繁荣得太过顺利了！所以这是你的份额！尽情数着金币，永远都别停！
+阴暗修复者：……你也是啊，对吧？
+……等等一下。拿着这个东西。
+原教献祭祭坛已经没用了，因为原教的化身似乎不在其原本的位置上。
+一个原教献祭祭坛。
+阴暗修复者：嘿，你竟然充了电！我们现在已经能逃出去了！稍等一下，让我……
+……把靴子塞满金币。
+你不能等等吗？想想我们还能带多少金币走啊！！！
+啧，我走了！去穆尔古斯的营地找我，也许卖给你些装备能让我平静点。
+阴暗修复者：快点，赶紧拿这个神器，这是我们唯一能逃出去的机会。
+阴暗修复者：好了，这就是我们最后的结局了。这里没有其他出路。
+阴暗修复者：我怀疑我们能找到真正的出口……这个地方根本没有物理通道。
+阴暗修复者：我只剩一点点面包了，不跟你分享。
+阴暗修复者：只能吃掉最后一点面包……现在要是能有口吃的，我连这堆金币都舍得送出去。
+阴暗修复者：我来这儿太贪心了……没错，我把所有希望都押在了一个篮子上。
+阴暗修复者：我研究过这个地窖——它根本无法逃脱。我原本指望混沌装置能把我传送出去。
+阴暗修复者：我拿命赌这块破铜烂铁……也许真正的恶魔能用它，但这里连个影子都见不着。
+阴暗修复者：或许我们能在这边找到恶魔能量的来源……用来给装置充能的东西。
+阴暗修复者：或许原教在把我扔到这里的时候就抽走了装置的能量……我是不是被骗了？
+阴暗修复者：我是在逗自己玩吗？我们大概会在里面饿死。该死的贪婪血液！
+阴暗修复者：看看能不能解开你透露的谜题……至少我们不会无聊致死。
+阴暗修复者：我可以确定一件事——这四个碗原本是用来分四十枚金币的。
+阴暗修复者：现在试试这个——波瓦要八枚金币，猪要四枚，每两只小鸡一枚。
+阴暗修复者：每个农夫都有名字和职业，有些在彼此的诗中被提及。
+阴暗修复者：金币的价值会变化，但在谜题的语境里……波瓦大概要征税八枚金币，对吧？
+阴暗修复者：每只小鸡一枚硬币显然不对劲。但两只小鸡一枚……这样可行吗？
+阴暗修复者：我在想……我在想！
+阴暗修复者：……好吧？它是在你手里启动的吗？……不？……看来你不够恶魔才能用上它……
+阴暗修复者：首先，我想我们得把四十枚金币分给这四个碗。
+阴暗修复者：四个农夫都有名字和职业……唉，要是我有纸写下来就好了。
+阴暗修复者：我最近读到，在上界王国里，波瓦要交十六枚硬币的税……
+现在人类通过掺杂其他金属来贬值黄金。这个谜题很古老，所以可能是六、八或十枚……
+阴暗修复者：一只小鸡一枚金币感觉太多了。但两只小鸡一枚……我觉得我有点门道了。
+阴暗修复者：好啦，我想我搞明白了！那……你想听我的解法，还是继续动动脑子？
+阴暗修复者：已经看过那里了，没找到什么有用的东西。
+阴暗修复者：我早就搜过那个地方了，过来瞧瞧这个。
+阴暗修复者：咦？你真的找到了真视吊坠？
+像这种东西让我偶尔也想能够到架子顶上……
+阴暗修复者：恭喜，你找到了魔法小饰品，现在来拿这个神器，我们赶紧离开这里吧。
+阴暗修复者：好吧，我想你是知道该怎么做。呃，你先走，我在这里掩护你。
+阴暗修复者：那倒是挺快的。去检查那扇门后面是什么，我现在就从这里掩护你！
+阴暗修复者：对了，我们成功了！现在去检查那扇门后面是什么，我在这里掩护你。
+阴暗修复者：没错！那就是答案！现在去检查那扇门后面是什么，我已经做得够多了。
+一个供奉碗。
+这不洁的祭坛上刻着一个血槽。
+伊兹贝思：啊！现在现在，先别抓挠了，听我说话！
+伊兹贝思：哦呜！现在不想玩粗暴的游戏了，伙计。留到以后吧。
+伊兹贝思：哎哟！你真的不在乎我所说的话吗？……你在让我伤心！
+伊兹贝思：啊！为什么对你这么狠？……我只是想谈谈！……
+伊兹贝思：*呜咽* 为什么要打我？为什么这么讨厌我？
+伊兹贝思：你这目光短浅的蠢货！！你们只知道暴力和残忍！
+伊兹贝思：去你的！
+埃尔兹瑞尔：很好。下次见到她时再狠狠抽她一顿！
+伊兹贝思：欢迎来到我的祭坛。我看你带来了一位非常尊贵的客人……
+埃尔兹瑞尔：闭嘴，你这扭曲的妓女！等男爵知道你的小叛乱后再说！
+伊兹贝思：哼，我确定那个兽人家伙会处理他。你得帮她过去！反正……
+伊兹贝思：第一块钥匙碎片藏在我的脑海里。别管那些乱七八糟的东西。
+伊兹贝思：第一块钥匙碎片藏在我的脑海里。别做太多调皮的事。
+伊兹贝思：第一块钥匙碎片在我脑海中。我确定你会喜欢待在……我的体内！
+伊兹贝思：我本来想告诉你第二块碎片的位置，但如果你这么讨厌……那就自己去找吧。
+伊兹贝思：第二块钥匙碎片俯瞰着虚空……以及我好奇心的边界。
+伊兹贝思：第二块碎片俯瞰着虚空……在好奇心与欲望的边缘。
+伊兹贝思：找到第二块碎片了？那看看你是否还记得第三块的位置。
+伊兹贝思：第三块碎片在我卧室里，但你只能从我的意识中接近它。
+伊兹贝思：第三块碎片只能通过我的意识才能抵达。它在等你来到我的床边……而我也在那里……
+伊兹贝思：现在别再戳探我的意识了，傻瓜。
+伊兹贝思：再试一次——
+伊兹贝思：唉，你永远都逃不出我的意识吗？这就是你这么糟糕的念头该得到的下场！
+伊兹贝思：现在现在……你最好在这儿好好表现！
+伊兹贝思：小心点！虽然我很想和你融合意识，但对你的健康可不好。
+伊兹贝思：坏孩子——别在这里失去理智……至少暂时不要。
+伊兹贝思：唉，你就是忍不住想要我的意识，对吧？
+伊兹贝思：哦，看起来你将迎来一场欢迎派对！亲爱的，别让我的前任们影响到你——
+伊兹贝思：我的一些思绪似乎不太喜欢你。别太在意现在。
+伊兹贝思：噢……看起来你已经在里面积累了不少负面情绪了。
+你需要一把铲子才能挖这里。
+门从另一侧锁住了。
+这扇门从另一侧锁住。
+门纹丝不动。
+这些门纹丝不动。
+这扇门需要黄金钥匙才能打开。
+这扇门需要枯藤钥匙才能打开。
+这扇门需要黄金钥匙才能打开。
+这些门需要黄金钥匙才能打开。
+这扇门需要枯藤钥匙才能打开。
+这些门需要黄金钥匙才能打开。
+这扇门需要暗影钥匙才能打开。
+这些门需要暗影钥匙才能打开。
+（页面上起草了一座诗篇塔。那些未被疯狂涂改的诗句组成了诗歌）
+来，坐在我沙发上陪我一会儿
+去游泳吧，喝点酒
+在壁炉旁暖暖身子
+你将发现我内心最深的秘密渴望
+（这本散发着诱人香气的日记似乎属于伊兹贝思。但其中的条目似乎都没有日期）
+我的心碎了……位于我领地外的小港口镇曾爆发过起义，但这些勇敢的邪教徒点燃的火焰却被男爵迅速扑灭。
 
-How dare he bring order into our world? My tears of sorrow have drenched the port in bleak mist. The fire is gone...
-How ironic... much like myself, they are using magic walls to conceal their hideout.   If only they could conceal their starvation. I had the crypts sealed off and the only key brought here, where I can cherish it. Sooner or later, little rats will claw away at their coffin, and I shall rescue them like a brooding mother. Our common enemy will unite us.
-
-
-In how many pieces must my heart be shattered? As I strolled through the bathing hall, I witnessed the gold primarch mingling with a lowly goblin! And he shrouded her away from me! Why doesn't he love me? He only cares about the Baron!
-
-I took the primarch's head today! Figuratively, of course... I could never slay someone in cold blood. Still, my admirers were in shock! This declaration of war will show everyone how strong and determined I am. The Baron has no power here!
-
-The primarch's empty threats are music to my ears.  I propped him in the balcony, where everyone can savor his shame.
-He even tried to convince my gardener to free him when visiting my chambers. Too bad my gardener loves me a lot more than he ever did...     I told him so many secrets, just to spite the primarch.     He is so smart and perceptive and... weak.
-
-His human body did not last, but I shall keep his mind.    Somewhere in his garden, where his art will keep growing on... 
-(The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
-My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?
-
-How dare he bring order into our world? My tears of sorrow have drenched the port in bleak mist. The fire is gone...
-How ironic... much like myself, they are using magic walls to conceal their hideout.   If only they could conceal their starvation. I had the crypts sealed off and the only key brought here, where I can cherish it. Sooner or later, little rats will claw away at their coffin, and I shall rescue them like a brooding mother. Our common enemy will unite us.
+为什么我们必须从心中撕出混乱才能服从图腾？他竟敢将秩序强加于我们的世界？我的悲伤泪水让港口笼罩在阴郁的雾气中……火焰已熄灭……
+多么讽刺……他们和我一样，用魔法墙壁隐藏据点。若他们能掩盖饥饿该多好。我把密室封印了，只将钥匙带来此处，好让我珍藏。迟早，这些小老鼠会撕开他们的棺材，我会像忧郁的母亲般救出他们。我们的共同敌人将团结我们。
 
 
-In how many pieces must my heart be shattered? As I strolled through the bathing hall, I witnessed the gold primarch mingling with a lowly goblin! And he shrouded her away from me! Why doesn't he love me? He only cares about the Baron!
+我的心脏必须碎成多少块？当我穿过沐浴厅时，目睹黄金原教与低贱的哥布林混在一起！他竟将她藏在我眼前！他为何不爱我？他只在乎男爵！
 
-I took the primarch's head today! Figuratively, of course... I could never slay someone in cold blood. Still, my admirers were in shock! This declaration of war will show everyone how strong and determined I am. The Baron has no power here!
+我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，我的崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
 
-The primarch's empty threats are music to my ears.  I propped him in the balcony, where everyone can savor his shame.
-He even tried to convince my gardener to free him when visiting my chambers. Too bad my gardener loves me a lot more than he ever did...     I told him so many secrets, just to spite the primarch.     He is so smart and perceptive and... weak.
+原教空洞的威胁对我来说是悦耳的音乐。我把他架在阳台上，让所有人都能品味他的羞耻。
+他甚至曾试图说服我的园丁在他访问我的房间时释放他。可惜我的园丁比我更爱他……我向他说了那么多秘密，只为气愤原教。他如此聪明、敏锐且……软弱。
 
-His human body did not last, but I shall keep his mind.    Somewhere in his garden, where his art will keep growing on... 
-Humans...   such frail and weak creatures, ever seeking to fulfil their purpose before it is viciously snatched away by their timely demise. Unable to understand the joy of pure chaos, they only know how to obey their fate.
+他的肉身终究消逝了，但我会保留他的意识。在某处他的花园里，让他的艺术继续生长……
+（这本散发着诱人香气的日记似乎属于伊兹贝思。但其中的条目似乎都没有日期）
+我的心碎了……位于我领地外的小港口镇曾爆发过起义，但这些勇敢的邪教徒点燃的火焰却被男爵迅速扑灭。
 
-Day after day I sit here and watch them walk these steps in pursuit of their repetitive tasks.   Every now and then, an old one falls to the ground, heart frozen from the strain. Good. I don't want crusty old people around. 
-
-(The tome appears to contain a trove of magic formulae for enchantments and curses) 
-(The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
-Another unbridled force of nature was dragged into the abyss by our everlasting hunger.   I was not there, yet
-I could hear their dying rage from all across Hell.    The Iron Division has learned the fate of those who try to deny us Demons of what we most desire. Such a fierce and exotic breed of warriors they are. I had the pleasure of being gifted some of their best specimen!       The Baron seems to know of my intimate interest in orc culture.
+为什么我们必须从心中撕出混乱才能服从图腾？他竟敢将秩序强加于我们的世界？我的悲伤泪水让港口笼罩在阴郁的雾气中……火焰已熄灭……
+多么讽刺……他们和我一样，用魔法墙壁隐藏据点。若他们能掩盖饥饿该多好。我把密室封印了，只将钥匙带来此处，好让我珍藏。迟早，这些小老鼠会撕开他们的棺材，我会像忧郁的母亲般救出他们。我们的共同敌人将团结我们。
 
 
-The Iron Division appear far more sophisticated than the wild brutes from the Overworld who end up toiling in the mines. For once, they seem to have no men among their ranks - few legends mention a tribe banished into the underground for defiling sacred laws, an amazonian tribe who sought unnatural power in order to dominate all battlefields.  Oh, and that they did! From what I heard, they sliced through our cultist towns like a hot knife!
+我的心必须碎成多少块？当我漫步穿过沐浴厅时，竟目睹黄金原教与一个卑微的哥布林混在一起！他竟然把我心爱的人藏了起来！为什么他不爱我？他只关心男爵！
+
+我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，我的崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
+
+原教空洞的威胁对我来说是悦耳的音乐。我把他的尸体架在阳台上，让所有人都能品味他的羞耻。
+他甚至曾试图说服我的园丁在他访问我的房间时释放他。可惜我的园丁比我更爱他……我向他说了那么多秘密，只为气愤原教。他如此聪明、敏锐且……软弱。
+
+他的肉身终究消逝了，但我会保留他的意识。在某处他的花园里，让他的艺术继续生长……
+人类……多么脆弱又软弱的生物，总是在完成使命前就被无情地夺走生命。他们无法理解纯粹混乱的喜悦，只知道服从命运。
+
+日复一日我坐在这里，看着他们重复着单调的任务。偶尔有年迈者倒下，心脏因过度劳累而冻结。很好。我不想要这些老顽固。
+
+（这本书卷似乎包含大量用于附魔与诅咒的魔法公式）
+（散发着诱人香气的日记似乎属于伊兹贝思。其中没有任何条目标明日期）
+又一股无法驯服的自然之力被我们的永恒饥饿拖入了深渊。我并未在场，
+却能从地狱各处听到他们临死前的怒吼。铁军已明白那些试图剥夺我们恶魔最渴望之物者的命运。如此凶猛而异域的战士种族！我有幸获得了一些他们的最佳样本！男爵似乎知晓我对兽人文化的私密兴趣。
 
 
-
-Regardless, they didn't submit to my wishes, but I don't have the heart to torture such brave and fire-hearted warriors so I had them petrified - all save for the most talkative one, of course!     She will make the apex of my newest exhibition, and my newest magic trick - immortalizing someone inside a painting!     Now, the claws of time will never be able to scratch away her beauty, and I will forever have a wonderful chatting partner! After all,
+铁军看起来远比上界那些沦为矿工的野蛮人更加精明。难得一见的是，他们似乎没有士兵——很少有传说提及一支被放逐到地下的部落，因亵渎神圣律法而遭此下场，那是一支追求非自然力量以主宰所有战场的亚马逊族部落。哦，他们确实做到了！据我所闻，他们像热刀切奶油般劈开我们的教派城镇！
 
 
 
-I have always found paintings to be the most interesting story tellers  -  especially when they can utter words! 
-Oh, dear journal, if only you had eyes to see and heart to feel what my special guests have been going through.
-No amount of volcanic heat could make a demon sweat as much as they do after being sat on the special chair...
-tensing up as they realize that they are the focus of the table's discussion.    Trembling under hungry eyes gazing upon them from every direction. Wincing as the doors open and a dart puts an end to their inconvenient existance. 
-
-(The pages are scribbled with various observations on Yzbeth's dancers and their performances) 
-(The alluringly perfumed journal clearly belongs to Yzbeth. The letters are arranged in a weird manner)
-!gnidnuop si traeh yM   .tra sih tcefrep ot gnihtyreve ecifircas ot ydaer si eH.   .snoitatimil sih dnoyeb dnim sih fo stoor eht gnidaerps neeb sah renedrag ym ,nopu dednal sah ti hcihw no enots yrd eht sevarb taht dees eht ekiL  !feiht koob railucep tsom a gnirimda dna swodahs eht morf gnimool ,ot desu I naht netfo erom yrarbil eht gnitisiv neeb ev'I  .em rof neve ,lufemahs oot raf era yeht rof - sdrow eseht dnatsrednu ot uoy wolla t'nac I tub ,lanruoj raed ,em evigroF 
+无论如何，他们并未屈从于我的意愿，但我没狠心折磨这些勇敢且热血的战士，因此将他们石化了——当然，除了那个最爱唠叨的！她将成为我最新展览的顶点，以及我的新魔法把戏——将某人永远定格在画中！如今，时间的利爪再也无法刮去她的美貌，我将永远拥有一个绝佳的聊天伙伴！毕竟，
 
 
 
-[...] following the research notes from Mistress Nithriel, we have managed to break down and understand the chemicals used against our cultists by the green savages. This is how we can easily make them for ourselves:
+我一直觉得绘画是最有趣的讲故事者——尤其是当它们能开口说话时！
+哦，亲爱的日记，若你有眼睛能看到、有心脏能感受我的特别来宾经历了什么该多好。
+再炽热的火山也无法让恶魔流汗如他们被坐上特制椅子后那样……
+他们紧张地意识到自己正成为桌边讨论的焦点。在四面八方贪婪目光的注视下颤抖着。门打开时，一支箭结束了他们不便的存在。
 
-Green Corrosive Acid - can be easily obtained by mixing a deadly Poison with Green and Cyan Arcane Salts
-Pink Gas - a more elaborate substance, made by mixing Poison with Mana and then adding Pink Arcane Salts 
-(None of the recipes detailed below catch your interest) 
-(The magic pendant reveals an ethereal plaque with a riddle on it)
-Listen well, from now and onward,
-For you are my faithful steward
-If you're wise and you are bold
-You shall count the kingdom's gold.
-Though I keep my subjects safe
-Four of them delay the pay
-Fourty coins appear to miss
-From my castle's treasuries
-Go now and perform the deed
-But first, my advice do heed
-Don't collect four equal parts
-For our fortune will collapse
-Tax with wit and equity
-So they fight themselves, not me. 
-(The magic pendant reveals an ethereal plaque with a riddle on it)
-Even though her husband died,
-Widow Frey appears to thrive
-Every day we see her drink
-From her only bova's milk.
-Oh, she thinks she is so sly
-Not paying the taxes high
-But the lord has heard a squeak
-Two chicks hidden in her attic. 
-(The magic pendant reveals an ethereal plaque with a riddle on it)
-Unlike butcher Iod and Frey,
-Who both have to pay the same
-Cobbler Dovan pays the least
-With his thin hog and eight chicks. 
-(The magic pendant reveals an ethereal plaque with a riddle on it)
-Farmer Drav is doing fine
-With a bova in his barn
-His fat hog eats all it can
-Four chicks sleep well in their pen.
-Once, he eyed the cobbler's coop
-Peeked beneath his straw hat's brim
-If I had that many chicks
-I'd pay twice as much as him. 
-(The magic pendant reveals an ethereal plaque with a riddle on it)
-Butcher Iod is so upset
-His two hogs refuse to mate
-Ever since the plague has hit
-His whole fortune is forfeit.
-Still, he won't admit defeat
-So he's also bought two chicks 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
-> Stranded. Need to find some food and get my bearings 
-> To enter the Icon's lair I need taints from 5 primarchs:
-> Gaun -
-> Adur -
-> Elzriel -
-> Scorlag -
-> Erudin - 
-> To enter the Icon's lair I need taints from 5 primarchs: 
-> Gaun - green - wants a crimson salt statue of myself 
-> Adur - purple - wants me to seduce a demonblood 
-Eraanthe will help me if I find her a sacrificial sword 
-> Elzriel - gold - wants me to offer him 300 gold coins 
-> Scorlag - blue - wants elixir of life and elixir of death 
-> Erudin - red - wants me to perform a bloody betrayal 
-A wounded Bear asked me to warn our camp of an attack 
-Eberon wants me to open the gate by the side of his fort 
-> Port ghost asked me to find his brothers with his pendant 
-> Abedun said I need 3 soul key fragments to sap the Baron 
-> A lancer trapped inside a painting asked me to rescue her 
-> Time to end this war. The Baron's citadel awaits me. 
+（页面上潦草地记录着对伊兹贝思舞者及其表演的各种观察）
+（散发着诱人香气的日记显然属于伊兹贝思。字母以一种奇特的方式排列）
+！跳直砰砰心的我   。术艺的他善完来切一牲牺意愿他   。根之想思的他展拓，限极的己自越超在直一丁园的我，头石燥干的下落它破冲地敢勇子种像就！贼书的怪古最个一赏欣，中影阴在躲，馆书图去地繁频更前以比近最我。此如是也说来我对至甚，了耻可太们它为因——话些这白明你让能不我但，我谅原请，记日的爱亲
+
+
+
+[...] 根据妮丝瑞尔女士的研究笔记，我们已成功解析并理解了绿蛮族针对我们邪教徒使用的化学物质。这是我们可以轻松自制的方法：
+
+绿腐蚀酸——可以通过将致命毒药与绿色和青色魔力盐混合来轻易获得
+粉雾剂——一种更复杂的物质，通过将毒药与魔力混合，再加入粉秘盐制成
+（以下详细列出的配方均未引起你的兴趣）
+（魔法吊坠揭示了一块带有谜语的缥缈铭牌）
+听好了，从现在起，
+你是我忠诚的管家。
+若你明智且勇敢，
+便能清点王国的黄金。
+尽管我保护着我的子民，
+却有四人拖延俸禄。
+四十枚金币似乎失踪，
+从我的城堡宝库中。
+去吧，完成这个行动，
+但先听从我的忠告：
+不要收集等量的四份，
+否则我们的财富将崩塌。
+以智慧与公平征税，
+让他们彼此争斗，而非针对我。
+（魔法吊坠揭示了一块带有谜语的缥缈铭牌）
+尽管她的丈夫已逝，
+寡妇弗雷似乎依然繁荣。
+每天我们看见她饮用，
+仅从她唯一乳牛的奶中。
+哦，她以为自己多么狡猾
+不缴纳高额税款
+但领主听到了一声吱呀
+她在阁楼藏了两只小鸡。
+（魔法吊坠揭示了一块带有谜语的缥缈铭牌）
+不同于屠夫伊奥德和弗雷，
+他们需支付相同税金
+裁缝多凡支付最少
+只因他瘦猪与八只小鸡。
+（魔法吊坠揭示了一块带有谜语的缥缈铭牌）
+农夫德拉经营得不错
+屋内养着一头乳牛
+他的肥猪吃尽所能
+四只小鸡安稳睡在栏中。
+曾有一日，他偷看裁缝的鸡舍
+躲在稻草帽边缘窥探
+若我拥有那么多小鸡
+定会支付双倍税金给他。
+（魔法吊坠揭示了一块带有谜语的缥缈铭牌）
+屠夫伊奥德如此沮丧
+他的两头猪拒绝交配
+自从瘟疫席卷而来
+他全部财富已化为乌有。
+但他仍不愿承认失败
+所以他也买了两只小鸡
+.oO   “碎骨者”瓒的日志   Oo.
+> 被困。需要寻找食物并确定方位
+> 要进入图腾巢穴，我需要从5位原教主那里获取污渍：
+> 加恩 -
+> 阿杜尔 -
+> 埃尔兹瑞尔 -
+> 斯科拉格 -
+> 埃鲁丁 -
+> 要进入图腾巢穴，我需要从5位原教主那里获取污渍：
+> 加恩 - 绿色 - 想要一尊我的赤红盐雕像
+> 阿杜尔 - 紫色 - 想让我诱惑一位恶魔之血者
+若我找到埃拉安瑟并为她寻得献祭之剑，她会帮助我
+> 埃尔兹瑞尔 - 金色 - 想要我提供300枚金币
+> 斯科拉格 - 蓝色 - 想要生命药剂和死神药剂
+> 埃鲁丁 - 红色 - 想让我实施一场血腥背叛
+一只受伤的熊让我警告我们的营地即将遭遇袭击
+埃伯伦希望我打开他堡垒侧边的大门
+> 港口幽灵让我用他的吊坠寻找他的兄弟们
+> 阿贝顿说，我需要三块灵魂钥匙碎片来削弱男爵
+> 一名被困在画中的长枪兵请求我救她
+> 现在是结束这场战争的时候了。男爵城堡正等着我。

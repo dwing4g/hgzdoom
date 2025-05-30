@@ -1,125 +1,125 @@
-Welcome to Hedon's beta testing hub!
-Select a level by jumping in one of the pits and using the front wall.
-You will get the standard gear for the level once you jump, but you can grab more items from the room here, though it's not advised for 1st runs.
+欢迎来到赫顿的测试中心！
+请跳入其中一个坑洞并利用前墙选择关卡。
+跳跃后你会获得该关卡的标准装备，但也可以从这里房间中获取更多物品，不过首次体验不建议这么做。
 
-Please give me all your feedback and report bugs through ModDB comments or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan 
+请通过ModDB评论或发送邮件至hedongame@yahoo.com向我反馈所有意见和报告错误。谢谢，祝你玩得愉快！- 瓚
 
-Map01 - Cold Rock (Start Normally) 
-Map02 - Plaza (Minor Spoilers) 
-Map03 - Barracks (Minor Spoilers) 
-Map04 - Technical Space (Minor Spoilers) 
-Map05 - Grove (Moderate Spoilers) 
-Map06 - Errant Signal (Major Spoilers) 
-Map07 - Parapet (Moderate Spoilers) 
-Map08 - Pale Wind (Major Spoilers) 
-Map09 - Research and Decay (Major Spoilers) 
-Map10 - Crystal Heart (Major Spoilers) 
-Map11 - Deep Chill (Major Spoilers) 
-Map12 - Mansion (Moderate Spoilers) 
-Map13/14/15 - Besieged (Major Spoilers) 
-Map14 - Brazen Bull (Major Spoilers) 
-Map15 - Deep Calls (Major Spoilers) 
-Map16 - Port to Hell (Major Spoilers) 
-Map17 - Hellscape (Major Spoilers) 
-Map18/19/20 - Paradise Lost (Major Spoilers) 
-Map19 - Place Afoul (Major Spoilers) 
-Map20 - Salt and Blood (Major Spoilers) 
-Map21/22 - Bloodrite (Major Spoilers) 
-FIGHT! 
-Terrain randomizer activated. 
-Random tips activated. 
-Tip #35: Rocket jumping allows for shortcuts and different approaches of a level.
-Tip #2: Blood/Gore effects can be turned off from Options - Display Options.
-Tip #3: You can set your automap style and colors from Options - Automap Options.
-Tip #4: Using an Amulet of Shadows prevents seeker projectiles from locking on to you.
-Tip #5: Using an Elemental Ring gives you endless underwater breath.
-Tip #6: Potions of Might greatly reduce your ranged damage (except for melee throws) while active.
-Tip #7: Weaker enemies attempt to flee when badly injured.
-Tip #8: Demons (like Cerberi and Pit Lords) are resistant to fire.
-Tip #9: Some enemies may be immune to the Time Shard's freezing effect but their projectiles aren't.
-Tip #10: Enemies have different fields of view. A Cerberus can see well beyond 180 degrees, while a Crawler is more narrow sighted.
-Tip #11: The game's Wiki page contains information you won't find in-game.
-Tip #12: You can always review messages in the console (DEFAULT: Tilde).
-Tip #13: Press F1 for a quick reference screen of the default inventory item key bindings.
-Tip #14: While in the map screen, you can mark your current position (DEFAULT : M).
-Tip #15: The Potion Launcher's pink toxic gas is highly flammable.
-Tip #16: Forge Elementals don't spawn any Iron Urchins when killed by acid.
-Tip #17: Killing enemies with your Fists will not raise an alert.
-Tip #18: The Crushbow's Impact Bolts have higher damage and penetration at the expense of explosion radius.
-Tip #19: Potions of Stoneskin significantly reduce the explosion radius damage you take.
-Tip #20: Red Crystal clusters explode when hit.
-Tip #21: Bags of Holding only increase your ammo capacity once.
-Tip #22: Sentry Turrets get damaged by water. Swimming while holding one in your hands can be hazardous.
-Tip #23: Saving the game is the strongest spell in the book.
-Tip #24: Memorizing a few consumable hotkeys can be handy in a pinch.
-Tip #25: Use chasecam to better manage your platform jumps. (Default: numpad1)
-Tip #26: Use F6/F9 to quick save/load. If you die, you can also press Use (DEFAULT : E) to load the last save.
-Tip #27: You can toggle random sound pitching from Sound Options - Randomize Pitches.
-Tip #28: You can change the notification/item query message time with the console command - con_notifytime 7.0 (eg. for 7 seconds).
-Tip #29: Warlocks are resistant to elemental damage and certain magic.
-Tip #30: Shooting a Crylance underwater without proper protection will have shocking results.
-Tip #31: Forge Elementals can't open doors so they rely on their Iron Urchins to do it for them.
-Tip #32: The Fire Hammer protects against all fire damage and allows walking on lava unhindered.
-Tip #33: The Great Axe's Thorns buff reduces nature damage (dealt by Initiates) and reflects the pain back to the attacker.
-Tip #34: Using the Shield to block and reflect incoming projectiles is less effective when moving.
-Tip #35: The Hellclaw's melee attack (DEFAULT : R) will restore ammo when damaging living enemies.
-Tip #36: Potions of Haste improve the firing rate of each weapon differently.
-Tip #37: Unlike levers and chains, button switches can be activated by projectiles from afar.
-Tip #38: Strafing right while moving forward will make you slightly faster.
-Tip #39: Hitting enemies with the Storm Staff charges it with mana. The bigger the enemy, the more mana it yields.
-Tip #40: You can keep the Paingun's barrels spinning and ready to fire by holding down reload (DEFAULT : R).
-Tip #41: To kill a boss, shoot at it until it dies.
-Tip #42: She is watching you.
-Tip #43: The tower shields carried by Iron Maidens offer them great protection, but can be bypassed in many ways.
-Tip #44: The lightning bolts cast by Genii do massive splash damage in deep water.
-Tip #45: Potions of Stoneskin protect against physical and nature damage, Elemental Rings protect against all non physical damage.
-Tip #46: Some enemies are more prone to infighting than others. This is also affected by the difficulty level.
-Tip #47: Heavier armor amulets absorb higher amounts of damage, but deplete at a faster rate as a result.
-Tip #48: Power Shards boost your armor by a small amount and provide ammo for the Crylance.
-Tip #49: You can combine kicks with jumping and crouching for higher damage.
-Tip #50: You don't need to have your companions closeby when changing levels. They will join you even when ordered to guard. 
-Endless Mode Activated. 
-Monsters Spawning in 
-Endless Mode Versus Activated. 
-Monsters Spawning in 
-Clearing monsters... 
-Cleaning up... 
-DIE! 
-Current monsters deal more friendly fire. 
-Current monsters deal less friendly fire. 
-1. Black
-2. Blue
-3. Brick
-4. Brown
-5. Cream
-6. Cyan
-7. DarkBrown
-8. DarkGray
-9. DarkGreen
-10. DarkRed
-11. Gold
-12. Gray
-13. Green
-14. LightBlue
-15. Olive
-16. Orange
-17. Purple
-18. Red
-19. Tan
-20. White
-21. Yellow 
-Thanks to EVERYONE who financially supported Hedon I - Crystal Heart on Patreon!
+地图01 - 冷岩（正常开始）
+地图02 - 广场（轻微剧透）
+地图03 - 兵营（轻微剧透）
+地图04 - 技术空间（轻微剧透）
+地图05 - 林地（中等剧透）
+地图06 - 偏离信号（重大剧透）
+地图07 - 城垛（中等剧透）
+地图08 - 苍白之风（重大剧透）
+地图09 - 研究与腐朽（重大剧透）
+地图10 - 水晶之心（重大剧透）
+地图11 - 深寒（重大剧透）
+地图12 - 庄园（中等剧透）
+地图13/14/15 - 被围攻的（重大剧透）
+地图14 - 青铜公牛（重大剧透）
+地图15 - 深唤（重大剧透）
+地图16 - 通向地狱的港口（重大剧透）
+地图17 - 地狱景观（重大剧透）
+地图18/19/20 - 失落天堂（重大剧透）
+地图19 - 污秽之地（重大剧透）
+地图20 - 盐与血（重大剧透）
+地图21/22 - 血祀（重大剧透）
+战斗！
+地形随机化已启动。
+随机提示已激活。
+提示#35：火箭跳可实现捷径和不同的关卡玩法。
+提示#2：可通过选项-显示设置关闭血迹/血腥效果。
+提示#3：可在选项-自动地图设置中自定义自动地图样式与颜色。
+提示#4：使用暗影护符可防止追踪弹药锁定你。
+提示#5：使用元素戒指可获得无限水下呼吸能力。
+提示#6：力量药水在生效期间会大幅降低你的远程伤害（除近战投掷外）。
+提示#7：较弱的敌人在受到严重伤害时会尝试逃跑。
+提示#8：恶魔（如地狱犬和深渊领主）对火焰具有抗性。
+提示#9：某些敌人可能免疫时间碎片的冰冻效果，但它们的投射物不受影响。
+提示#10：敌人的视野范围各不相同。地狱三头犬能看清超过180度的区域，而爬行者的视野较为狭窄。
+提示#11：游戏的维基页面包含你在游戏中无法获取的信息。
+提示#12：你总能在控制台中查看历史消息（默认：波浪号）。
+提示#13：按下F1可快速查看默认物品快捷键绑定界面。
+提示#14：在地图界面时，你可以标记当前位置（默认：M）。
+提示#15：药水发射器喷出的粉色毒气极易燃烧。
+提示#16：锻造元素被酸液击杀时不会生成铁刺。
+提示#17：用双拳击杀敌人不会触发警报。
+提示#18：重击弩的冲击箭在伤害和穿透力上更强，但爆炸范围更小。
+提示#19：石肤药水能显著减少你受到的爆炸范围伤害。
+提示#20：红水晶簇被攻击时会爆炸。
+提示#21：储物袋仅能提升你的弹药容量一次。
+提示#22：守卫炮塔会被水损坏。手持炮塔游泳可能十分危险。
+提示#23：保存游戏是书中最强的法术。
+提示#24：记住几个消耗品快捷键在紧急情况下会派上用场。
+提示#25：使用追逐镜头可以更方便地管理平台跳跃。（默认：数字小键盘1）
+提示#26：按F6/F9可快速存档/读取。若死亡，也可按下使用键（默认：E）加载最后一次存档。
+提示#27：可在选项 - 随机化音调中切换随机声音音调调整功能。
+提示#28：通过控制台命令 - con_notifytime 7.0 可更改通知/物品查询信息的显示时间（例如设置为7秒）。
+提示#29：男巫对元素伤害和部分魔法具有抗性。
+提示#30：未做好防护直接在水下射击水晶长矛会产生令人震惊的结果。
+提示#31：锻造元素无法开启门，因此依赖铁刺代劳。
+提示#32：火锤可完全抵御所有火焰伤害，并允许你在熔岩上无阻碍地行走。
+提示#33：巨斧的荆棘增益（Thorns buff）会减少自然伤害（由入门者造成），并将疼痛反弹给攻击者。
+提示#34：在移动时使用盾牌阻挡并反射来袭投射物的效果较差。
+提示#35：地狱爪的近战攻击（默认：R键）在对活体敌人造成伤害时会恢复弹药。
+提示#36：迅捷药水对每种武器的射击速度提升方式各不相同。
+提示#37：与杠杆和链条不同，按钮开关可通过远程投射物激活。
+提示#38：向前移动时向右横移会使你略微加快速度。
+提示#39：用风暴法杖击中敌人会为其充能魔力。敌人越大，获得的魔力越多。
+提示#40：按住装填键（默认：R）可使痛击枪的弹筒持续旋转并保持待发状态。
+提示#41：要击败Boss，只需持续攻击直到它死亡即可。
+提示#42：她正在注视着你。
+提示#43：铁娘子携带的塔盾能提供强大保护，但可通过多种方式绕过防御。
+提示#44：吉尼释放的闪电球在深水中会造成巨大范围伤害。
+提示#45：石肤药水可抵御物理与自然伤害，元素戒指则能完全抵挡非物理伤害。
+提示#46：部分敌人比其他敌人更容易内讧，这一特性也受难度等级影响。
+提示#47：重型装甲护符能吸收更多伤害，但因此消耗速度更快。
+提示#48：力量碎片可小幅提升防御力，并为水晶长矛提供弹药。
+提示#49：你可以将踢击与跳跃和蹲下动作结合使用以造成更高伤害。
+提示#50：在切换关卡时不需要让同伴靠近身边。即使下令让他们守卫，他们也会加入你。
+无尽模式已激活。
+怪物正在生成中
+无尽对抗模式已激活。
+怪物正在生成中
+清除怪物中...
+清理完毕...
+DIE!
+当前怪物造成更多友军伤害。
+当前怪物造成更少友军伤害。
+1. 黑色
+2. 蓝色
+3. 砖红色
+4. 棕色
+5. 奶油色
+6. 青色
+7. 深棕色
+8. 深灰色
+9. 深绿色
+10. 深红色
+11. 金色
+12. 灰色
+13. 绿色
+14. 浅蓝色
+15. 橄榄色
+16. 橙色
+17. 紫色
+18. 红色
+19. 米色
+20. 白色
+21. 黄色
+感谢所有在Patreon上为《赫顿 I - 水晶之心》提供财务支持的朋友们！
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
 D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
 BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
 MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
 D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole 
-WELCOME TO HEDON'S EPISODE I PATREON GALLERY!
-Do you want to feature in here as a supporter of Hedon?
-Do you want a chance at having drawn a custom avatar of your choosing?
-Do you want to help Hedon grow bigger and hook up to development updates?
-Then join up on Hedon's Patreon! 
+欢迎来到赫顿的EPISODE I Patreon画廊！
+你是否想在这里作为赫顿的支持者被展示？
+你是否想要一个机会绘制自己选择的定制头像？
+你是否想帮助赫顿发展壮大并连接开发更新？
+那么请加入赫顿的Patreon吧！
 Nistal 
 Vodyanoi 
 Nistal (2) 
@@ -160,7 +160,7 @@ D1SoveR
 Danyx992 (4) 
 FrawLawk 
 AlexZerker 
-Thanks to EVERYONE who financially supported Hedon II - Bloodrite on Patreon!
+感谢所有在Patreon上为《赫顿 II - 血祀》提供财务支持的朋友们！
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 Danyx992     ekwood     Infab     SuggestiveBox     Badguy292     Burchy
 Elzevir Mensk     D1SoveR     Vdubs     Chaos Embrace     Willag_mac     Christian Morris
@@ -201,11 +201,11 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr 
-WELCOME TO HEDON'S BLOODRITE PATREON GALLERY!
-Do you want to feature in here as a supporter of Hedon?
-Do you want a chance at having drawn a custom avatar of your choosing?
-Do you want to help Hedon grow bigger and hook up to development updates?
-Then join up on Hedon's Patreon! 
+欢迎来到赫顿的血祀Patreon画廊！
+您是否想作为赫顿的支持者在这里展示？
+您是否希望有机会绘制一个自定义的专属化身？
+您是否想帮助赫顿发展壮大并连接开发更新？
+那么请加入赫顿的Patreon！
 KatG 
 Sleepy Mei 
 Sleepy Mei (2) 
@@ -236,81 +236,81 @@ WillaGrey
 Murdo McClelland 
 Alex 'Razor' Penn (2) 
 SuggestiveBox (3) 
-You can always change music with the console command - changemus TrackName eg. changemus HTrack00 or changemus HTrak18A 
+您始终可以通过控制台命令 - changemus TrackName 来更改音乐，例如：changemus HTrack00 或 changemus HTrak18A
 
-Playing HTrack00
-Breathelast - Sinking Ships (Instrumental) 
-Playing HTrack01
-Akhzul - Cold Rock 
-Playing HTrack02
-Akhzul - Raw Whisper 
-Playing HTrack03
-Akhzul - Orc's Song 
-Playing HTrack04
-Akhzul - Tension 
-Playing HTrack05
-Akhzul - Hold Your Knife 
-Playing HTrack17
-Akhzul - Consumed 
-Playing HTrack06
-Akhzul - Industro 
-Playing HTrack07
-Breathelast - Ascuns in Pereti (Instrumental) 
-Playing HTrack08
-Alexander Brandon - The Craftsman 
-Playing HTrack09
-Breathelast - Dead Coins (Instrumental) 
-Playing HTrack10
-Methadone Skies - Exit the Void 
-Playing HTrack11
-Methadone Skies - Hyperspace 
-Playing HTrack12
-Alexander Branon - One Calm Day 
-Playing HTrack13
-Akhzul - Pale Wind 
-Playing HTrack14
-Akhzul - Come to Church 
-Playing HTrack15
-Akhzul - Longing 
-Playing HTrack16
-Alexander Brandon - Heavy 
-Playing HTrak18A
-Alexander Brandon - Underworld 
-Playing HTrack19
-Shivaxi & Xenofish - Underworld Remix 
-Playing HTrack20
-Breathelast - Unsung Foes (Instrumental) 
-Playing HTrack21
-Zan_HedonDev - Chill 
-Playing HTrak22B
-Alexander Brandon - Deep Chill 
-Playing HTrack23
-Michiel van den Bos - NEWMCA12 
-Playing HTrack24
-Akhzul - No Way Out? 
-Playing HTrack25
-Alexander Brandon - Magnus (No Voice) 
-Playing HTrack26
-Akhzul - Fightmare 
-Playing HTrack27
-Akhzul - Lost Call 
-Playing HTrack28
-Breathelast - Gutter Anthem (Instrumental) 
-Playing HTrack29
-Breathelast - The Bridge (Instrumental) 
-Playing HTrack30
-Breathelast - Firelungs (Instrumental) 
-Playing HTrack31
-Akhzul - It's not Paradise, it's Hell 
-Playing HTrack32
-Doomnezeu - Kranioutopos (Instrumental) 
-Playing HTrack33
-Zan_HedonDev - Down in the Bone Hall 
-Playing HTrack34
-Akhzul - Grit 
-Playing HTrack35
-Doomnezeu - Desertaciune (Instrumental) 
-Playing HTrack36
-Breathelast - Buried (Instrumental) 
-Playing HTrack37
-Mumble Etc. - Cygni 
+播放 HTrack00
+Breathelast - 沉船（器乐版）
+播放 HTrack01
+Akhzul - 冷岩
+播放 HTrack02
+Akhzul - 原始低语
+播放 HTrack03
+Akhzul - 兽人之歌
+播放 HTrack04
+Akhzul - 张力
+播放 HTrack05
+Akhzul - 持住你的刀
+播放 HTrack17
+Akhzul - 被吞噬者
+播放 HTrack06
+Akhzul - 工业风
+播放 HTrack07
+Breathelast - 墙壁中的隐藏（器乐版）
+播放 HTrack08
+Alexander Brandon - 工匠
+播放 HTrack09
+Breathelast - 死币（器乐版）
+播放 HTrack10
+Methadone Skies - 离开虚空
+播放 HTrack11
+Methadone Skies - 超空间
+播放 HTrack12
+Alexander Branon - 一个平静的日子
+播放 HTrack13
+Akhzul - 苍白之风
+播放 HTrack14
+Akhzul - 来教堂
+播放 HTrack15
+Akhzul - 渴望
+播放 HTrack16
+Alexander Brandon - 重压
+播放 HTrak18A
+Alexander Brandon - 地下世界
+播放 HTrack19
+Shivaxi & Xenofish - 地下世界混音版
+播放 HTrack20
+Breathelast - 未被歌颂的敌人（器乐版）
+播放 HTrack21
+瓒_赫顿开发组 - 深寒
+播放 HTrak22B
+Alexander Brandon - 深寒
+播放 HTrack23
+Michiel van den Bos - NEWMCA12
+播放 HTrack24
+Akhzul - 无路可退？
+播放 HTrack25
+Alexander Brandon - 马格努斯（无歌词）
+播放 HTrack26
+Akhzul - 噩战
+播放 HTrack27
+Akhzul - 迷失的呼唤
+播放 HTrack28
+Breathelast - 地沟颂歌（器乐版）
+播放 HTrack29
+Breathelast - 桥（器乐版）
+播放 HTrack30
+Breathelast - 燃肺（器乐版）
+播放 HTrack31
+Akhzul - 这不是天堂，这是地狱
+播放 HTrack32
+Doomnezeu - 克兰诺托波斯（器乐版）
+播放 HTrack33
+瓒_赫顿开发组 - 骨厅深处
+播放 HTrack34
+Akhzul - 磨砺
+播放 HTrack35
+Doomnezeu - 沙漠化（器乐版）
+播放 HTrack36
+Breathelast - 埋葬（器乐版）
+播放 HTrack37
+Mumble Etc. - 仙后座

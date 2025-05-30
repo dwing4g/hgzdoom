@@ -1,268 +1,259 @@
-Loading... 
-The demonic well burns with hellfire oil. 
-The demonic well bubbles with sacrificial blood. 
-The stone socle appears to be missing a gem. 
-The bottom of the font has a few drops of burning oil. 
-This switch requires an Iron key to operate. 
-The bottom of the font has a few drops of blood. 
-This wall looks like it could be broken with a proper tool. 
-Grimy Primacrh Avatar:    ...who are you?...you have mana?... I need... mana... 
-Grimy Primacrh Avatar:    ...who are you?... who am I?... 
-Elzriel:    Scorlag, you pathetic, decrepit wretch... 
-The primarch's avatar remains silent. 
-Scorlag:    ...uegh!!! Why torment me with such a tiny sip?!... there is an Everflowing Chalice in the upper crypts... use it... 
-Scorlag:    ...yes!!! Give Scorlag more mana!...
-Sweet mana...I can see now! Wait... who ARE you?
-YOU'RE AN INTRUDER! HELP! HEEELP!!! 
-Grimy Primarch:    ...who are you?...do you have mana?... 
-Grimy Primarch:    ...the grime...mana...I need mana...bring it to me in the Chalice... 
-Grimy Primarch:    ...the grime...mana...I need mana... 
-Grimy Primarch:    ...a thirst that burns so deeply... 
-Scorlag:    ...oil...mana...poison...green...pink...phylactery...death... 
-Scorlag:    ...hell oil...mana...poison...swiftly kills the body. 
-Scorlag:    ...green and pink arcane...extinguishes the soul. 
-Scorlag:    ...pour it in a phylactery...a liquid so foul... 
-Scorlag:    ...life and death...you have them...you feel their power...so alluring...offer them to me... 
-Scorlag:    ...you bring me death...but where is life? 
-Scorlag:    ...the vision...remember...the vision... 
-Scorlag:    ...what is death without life?... 
-Scorlag:    ...you've seen it...the vision...the shewolf of your clan carries life... 
-Grimy Primacrh Avatar:    NOOO!!! LEAVE ME ALONE!!! HELP!!! 
-Scorlag:    You have demonic blood running through your veins... but there is more than meets the eye...
-...let us see... who ARE you?... 
-Scorlag:    ...the orcs who defied their nature...the orcs who broke their mortal bonds.
-...their bold quest reaching its climax as they drank from the Fountain of Life... eternal Life. Beauty. Strength.
-We share something... for I am the Primarch of Transformation... the patron of alchemy... the vessel of alteration.
-You seek to slay the Blue Baron in pursuit of your own kind's salvation... I am not to judge your motivations...
-...but if you wish to prove worthy of dethroning him... bring me the Elixir of Death... and the Elixir of Life.
-...go now. It is time for you to defy your nature...
-Old Orc:    You are awake. I could hear Scorlag reaching out to you during my meditation.
-Old Orc:    So. The rumors are true. You are one of them... 
-Scorlag:    ...pure life and pure death... now you know what kind of powers await... if only you dare...consume them.
-...and so, you carry my taint... go now... I need...to rest... 
-A primarch offering altar. 
-Rebel's Pendant of True Sight:    *Resonates as it reveals the illusory walls* 
-Flame Beacon Ghost:    You are close... I can sense my brothers nearby... free them... so I can rest... 
-Flame Beacon Ghost:    Release my brothers from this tomb... I must know what fate has befallen them... 
-Flame Beacon Ghost:    ...they are safe!... thank you, Halfblood... the flame burns once again...
-Rebel:    Breathe out, brothers. I don't believe this demon is here to slay us... come in. Let us talk.
-Abedun:    Welcome, Halfblood. I am Abedun, disgraced noble of the Kingdom of Sun... a distant place in the Overworld...
-I see the beacon keeper's pendant has helped you find us. It pains me to learn that we're the only rebels left alive...
-...regardless, we have a strong ally in you. Your name is spoken in hushed tones around here. We know what you seek.
-Any enemy of the Baron is a friend of ours. And we cannot defeat him alone. Before you try to face him, know this:
-Rumor has it, after merging forces with Nithriel, the Baron has come into the possession of an immense power...
-To guard the source of this power, he has built a vault that can only be opened by three soul key fragments.
-He clearly doesn't trust the elf, as the fragments were given for keeping to Yzbeth, a mad succubus matron.
-Yzbeth uses illusions to guard her secrets. The fake walls you passed through? It's her magics that inspired us.
-If you wish to pass her walls, you'll need to enchant a Pendant of True Sight with the mind of someone close to her.
-Someone who knows her secrets... and here lies the issue. Her servants are not just loyal, but enamored with her.
-Most demons control us through fear. But not Yzbeth. Her servants are... very willing. You won't take any alive.
-But let us not despair. You wouldn't have gotten so far without being resourceful. You must find a way, Halfblood...
-...and find it quickly. The Baron is holding a ritual as we speak. Who knows what evils he will unearth if not stopped? 
-This mithril padlock requires an Iron key to open. 
-Press Use to skip briefing 
-Abedun:    You need Yzbeth's soul key fragments to defeat the Baron. Use your wits, Halfblood, you're our only hope. 
-The humming well bubbles with mana. 
-Abedun:    Please, Halfblood, we need the bottles for when we depart. If you need mana, take it from the fountain. 
-Abedun:    Oh! You have the fragments. I bow before you, Halfblood. If anyone can save us all, it is you.
-Once inside the Baron's citadel, look for the vault where the power source is. It can't be too hard to find.
-Who knows... maybe you can even acquire the power for yourself. It may as well aid you in slaying the tyrant.
-I will be praying for you... but before you go, I wish to offer you something...
-...the feather of an angel. It will aid you when you need it the most. Now go. May Air lighten your step. 
-Abedun:    Nobody knows what the Baron's power source is. Or where it came from. Is it an object? Or a creature? 
-Abedun:    You have the fragments. Now gain entry to the Baron's citadel and bring his reign to an end... 
-Abedun:    Appeasing the primarchs isn't enough to defeat the Baron. His new power makes him invincible. 
-Abedun:    You have travelled far and fought hard. The Gods have made you our champion. Bring us our freedom! 
-Abedun:    Yes! That must be one of the soul fragments. You will have to find the other two now... 
-Abedun:    You found two of the soul fragments! Once you have all three, you'll be able to open the Baron's vault! 
-Abedun:    Your wit lights your path, Halfblood. I'm impressed. Use that pendant and find the soul fragments. 
-Abedun:    Finding a pure pendant is a good start, but you still need to enchant it with a servant's mind. 
-Abedun:    The beacon keeper's pendant is of no use to you now. You'll need to find a pure one to enchant. 
-Abedun:    Do not tarry. If the Baron completes his ritual, he might end up too powerful to defeat at all. 
-Abedun:    The other two fragments must be close to where the first one was. Go back there and keep searching. 
-Abedun:    Yzbeth must be keeping the third fragment close to her. Go back to her mansion and search for it. 
-Abedun:    Yzbeth must be hiding the fragments inside her cathedral. Rumors say the building itself is an illusion. 
-Abedun:    When you find someone who knows Yzbeth's secrets, use the scroll to bind his mind to the pendant. 
-Abedun:    Aside from a Pendant of True Sight, you'll need an Enchant Trinket scroll. Try the crypt keeper's office. 
-Abedun:    I wish I knew more about the Baron's intentions for the ritual. All I know that Nithriel is also involved... 
-Abedun:    There is a giant salt mine below us. The slaves have been worked to death to gather rare salts for the ritual. 
-Abedun:    Demons use salt as currency in the Overworld kingdoms. But since the slaves are dead, the mine is on hold... 
-Abedun:    Political intrigues have made me lose my place among nobles. I ended up being the mine foreman here in Hell. 
-Abedun:    The horrors I have witnessed have left me scarred. All this pain and suffering that they feast upon... 
-Abedun:    I bear the guilt, for I have sold many of my kin to the demons. I will forever atone for my sins... 
-Abedun:    Seeing that I could no longer bear the insanity, they forced me to join the Cult. At first, I agreed... 
-Abedun:    Cult initiates have their eyes removed so they can't read. Through worship, they build a hellish new sight. 
-Abedun:    After my first eye was removed, a third one opened. I... suddenly became aware of how oblivious I have been. 
-Abedun:    As the last group of slaves was rounded up for sacrifice, I backstabbed the guards and started a rebellion. 
-Abedun:    We ran as far as we could... me, the old orc and Scrawn the sculptor made it to this ancient sanctuary. 
-Abedun:    We survive thanks to fungi and the mana from this well. They give us enlightenment and vivid dreams. 
-Abedun:    We fight in the name of the Elemental Gods now. Only They can redeem us from the demonic corruption. 
-Abedun:    When the Baron fulfils the role of the Icon and unites the demons under him, our world will fall... 
-Old Orc:    The Iron Division... our grandfathers would often tell the tale... you bear half of their blood. 
-Old Orc:    The demons brought me to the salt mine as a liaison. To keep the other orc slaves from revolting. 
-Old Orc:    A while ago, demons came in with a few of your sisters. Prisoners, taken after your failed assault. 
-Old Orc:    I was intrigued to see them, but alas... even after all this time, our kinds do not see eye to eye. 
-Old Orc:    You know well what the fate of an honourless orc is. I tried to pacify my brethren, but to no avail... 
-Old Orc:    The tale of your tribe still burns... you lost your men in fair battle, and sought to cheat fate. 
-Old Orc:    Instead of giving in, your ancestors abandoned our lands in search of the forbidden Fountain of Life. 
-Old Orc:    Your ancestors succeeded in their quest. The Fountain made them born anew. Strong. Beautiful. Proud. 
-Old Orc:    Eternal life is a curse. A transgression of our birth path. Your kind was banished from our lands. 
-Old Orc:    I see that the Iron Division has thrived in the underground... how long has it been? Five centuries? 
-Old Orc:    I do not begrudge you. After all, I see no surface orc marching against the demons now... 
-Old Orc:    Has the moment come for you to challenge the Baron? Fight well, warrior. Show us you're a true orc. 
-Old Orc:    As you may know, the surface world is rife with demonic corruption. Even orcs have succumbed to it. 
-Old Orc:    I am but a worthless slave. I may be unchained, but I am not free. Our hope lies with you, warrior. 
-Old Orc:    If the Iron Division defeats the Baron here, I shall praise your clan for the remainder of my life. 
-Old Orc:    There are others like me, Scrawn and Abedun in the world... lost souls who wait to be awakened. 
-Old Orc:    If we fail, let us fail fighting. For the sake of our blood and our honor! The Gods are watching us. 
-Old Orc:    ... 
-Scrawn:    *Squints as he measures you top to bottom, pondering briefly*
-Scrawn:    *Snatches away your journal and starts sketching something*
-Scrawn:    *Hands your journal back and points at it* 
-Scrawn:    *Brings his palms together and bows his head in gratitude* 
-Scrawn:    *Nods and motions you to step in the middle of the room and strike a pose*
-Scrawn:    *Wipes his forehead, glancing at his work of art with satisfaction* 
-Scrawn:    *Points at the drawing in your journal* 
-Scrawn:    *Points at the nearby crimson salt rock, then shows you seven fingers* 
-Scrawn:    *Points at the marked spot in your journal, and mimics striking a chisel with his hammer* 
-Scrawn:    *Mumbles* 
-Scrawn:    ... 
-The tank barely has a few drops of hellfire oil sizzling at the bottom. 
-The tank contains enough hellfire oil for any concoction. 
-The tank barely has a few drops of mana pooling at the bottom. 
-The tank contains enough mana for any concoction. 
-The tank barely has a few drops of poison lingering at the bottom. 
-The tank contains enough poison for any concoction. 
-The tank barely has a few drops of sacrificial blood boiling at the bottom. 
-The tank contains enough sacrificial blood for any concoction. 
-The tank needs to be filled first. 
-The pan's rim glows with bright green hues. 
-The pan's rim glows with bright pink hues. 
-The pan's rim glows with bright cyan hues. 
-There are no more anointed bottles to pour this potion into. 
-There are no more anointed vials to pour this potion into. 
-There are no more anointed cans to pour this concoction into. 
-There are no more anointed bottles to pour this concoction into. 
-There are no more anointed bottles to pour this potion into. 
-There is no Anointed Phylactery to pour this potion into. 
-You hear a low rumble but the machine does nothing. 
-This switch requires a Bloody Axe key to operate. 
-The mechanism lacks an operation lever. 
-The cracked window could easily be shattered. 
-The debris clogging the reservoir could be dislodged with a proper tool. 
-The crimson salt chunk could be dislodged with a proper tool. 
-Erudin:    Who steps inside my lair? The aspiring usurper? I must say, you look good drenched in red.
-Elzriel:    You'd do well to hang around Erudin. You might learn a lesson or two.
-Erudin:    She is capable enough already, Elzriel. After all, she is half-demon... 
-But where are my manners? Let me introduce myself: I am Erudin, Primarch of Subterfuge...
-Don't be intimidated. I only have a simple task for you: if you so much desire to bear my taint...
-Betray someone important. Spill blood. Prove me that you have what it takes to rival the Baron's skill.
-Simple enough, isn't it? Just make sure your betrayal involves... lots of bloodshed. 
-The primarch's avatar remains silent. 
-Erudin:    You betrayed both your sisters and the demons? Preposterous. Where is the proof? 
-Erudin:    You carried out the betrayal against your sisters? Where is the proof? 
-Erudin:    You betrayed a pit lord? I want proof of this treacherous deed! Show me his useless head! 
-Erudin:    You tricked a pit lord into sending his army to certain death? Bring me his useless head... 
-Erudin:    Poisoning your warlord's warg is awfully cruel, but it's hardly the bloody betrayal that I seek. 
-Erudin:    Putting one of your sisters out of her misery doesn't count, dear. I asked for bloodshed. 
-Erudin:    What's holding you back, dear? Your sisters have a whole camp above, waiting to be ambushed... 
-Erudin:    If you can't handle my task, how could you handle politics? Might as well leave the Baron to it. 
-Erudin:    Time belongs to the victor. History is shaped by the victor. Truth is decided by the victor. 
-Erudin:    To manipulate, you need not hide one truth among nine lies, but one lie among nine truths. 
-Erudin:    If you seek the favor of the masses, remember... perception is worth a lot more than reality. 
-Erudin:    When you're powerless you owe everyone a favor. I asked you for a betrayal... and make it bloody. 
-Erudin:    Oh, my, two betrayals? Truly nobody can stay in your way to success, Halfblood!... 
-Erudin:    How did it feel?... ripping that amulet from one of the many orcs you got killed?... 
-Erudin:    So... you earned a pit lord's trust only to get his men butchered and bring me his head...
-You beat me at my own game, Halfblood. I'd say you are prepared. 
-For my end of the deal... red taint you shall receive. The Baron better watch out for you! 
-A primarch offering altar. 
-This gates won't budge. 
-This door requires a Blood key to open. 
-This door requires a Dark key to open. 
-The liquid is pressuring the door shut. 
-This door requires a Blood key to open. 
-This door requires a Dark key to open. 
-This door requires a Blood key to open. 
-SACRIFICIAL BLOOD 
-HELLFIRE OIL 
-EVERFLOWING CHALICE 
-KEEPER OF ALL GRATES 
-(The scroll is full of crude drawings depicting various salt block cutting techniques) 
-(An old parchment seems to have been preserved by a crust of salt. It cracks as you unroll it)
-The cultists were right, they have eyes everywhere. The Baron himself must have shook the tunnel down to trap me.
-This is what I deserve for trying to escape.  But what choice do I have?   The slaves can barely survive weeks before being sacrificed on the brink of starvation.    Their blood flows everywhere, gushing out as we strike the salt walls.
+加载中...
+恶魔井正燃烧着地狱火油。
+恶魔井内泛着献祭之血的泡沫。
+石基似乎缺少一颗宝石。
+水槽底部残留几滴燃烧的地狱火油。
+此开关需用铁钥匙才能开启。
+水槽底部残留几滴鲜血。
+这堵墙似乎可以用合适的工具打破。
+污秽的原教化身：……你是谁？……你竟有魔力？……我需要……魔力……
+污秽的原教化身：……你是谁？……我是谁？……
+埃尔兹瑞尔：斯科拉格，你这个可悲、衰败的家伙……
+原教的化身保持沉默。
+斯科拉格：……呜啊！！！为何用如此微小的一口折磨我？……上层墓穴里有一只永流圣杯……使用它……
+斯科拉格：……是的！！！赐予斯科拉格更多魔力吧……
+甜美魔力……我现在能看清了！等等……你到底是谁？
+你是入侵者！救命！救命！！！
+腐化原教：……你是谁？……你有魔力吗？……
+腐化原教：……污垢……魔力……我需要魔力……将它带到圣杯前……
+腐化原教：……污垢……魔力……我需要魔力……
+腐化原教：……一种灼烧得如此深邃的渴望……
+斯科拉格：……油……魔力……毒……绿色……粉色……封印容器……死亡……
+斯科拉格：……地狱火油……魔力……毒……迅速杀死肉体。
+斯科拉格：……绿色与粉色的奥术之力……熄灭灵魂。
+斯科拉格：……将其倒入封印容器中……一种如此肮脏的液体……
+斯科拉格：……生命与死亡……你拥有它们……你能感受到它们的力量……如此诱人……将它们献给我……
+斯科拉格：……你带来的是死亡……但生命在哪里？
+斯科拉格：……那个幻象……记住……那个幻象……
+斯科拉格：……没有生命，死亡又是什么？……
+斯科拉格：……你曾见过它……那个幻象……你族中的灰狼承载着生命……
+污秽的原教化身：！！！别管我了！！！救命！！！
+斯科拉格：……你的血脉中流淌着恶魔之血……但还有更多隐藏的秘密……
+……让我们看看……你是谁？……
+斯科拉格：……那些违背本性的兽人……那些挣脱凡躯束缚的兽人。
+……他们大胆的征程在饮下生命之泉后达到高潮……永恒的生命。美丽。力量。
+我们有共同之处……因为我即是转化原教……炼金守护者……改变的容器。
+你为拯救同类而追杀幽蓝男爵……我不会评判你的动机……
+……但如果你想证明自己有资格推翻他……将死神药剂与生命药剂带来给我……
+……现在就去吧。是时候你违背本性了……
+老兽人：你醒了。我能在冥想时听到斯科拉格向你伸出手。
+老兽人：所以。传言是真的。你是其中之一……
+斯科拉格：……纯净的生命与纯粹的死亡……现在你知道等待你的力量是什么样的了……只要你敢……吞食它们。
+……因此，你携带着我的污染……现在就去吧……我需要……休息……
+原教献祭祭坛。
+真视之叛逆吊坠：*揭示幻象墙壁时产生共鸣*
+火焰灯塔幽灵：你已接近……我能感知到附近的兄弟们……释放他们……这样我才能安息……
+火焰灯塔幽灵：解放我的兄弟们脱离这座坟墓……我必须知道他们的命运如何……
+火焰灯塔幽灵：……他们安全了！……谢谢，混血人……火焰再次燃烧起来了……
+反抗者：深呼吸，兄弟们。我不相信这个恶魔是来杀我们的……进来吧。让我们谈谈。
+阿贝顿：欢迎，混血人。我是阿贝顿，太阳王国被贬的贵族……上界一个遥远的地方……
+我看到灯塔守护者的吊坠帮助你找到了我们。得知我们是唯一还活着的反抗者，令我感到痛心……
+……无论如何，你是我们强大的盟友。你的名字在这里低声传颂。我们知道你在寻找什么。
+任何男爵的敌人都是我们的朋友。而我们无法独自击败他。在你尝试面对他之前，请记住：
+传言称，在与妮丝瑞尔合并力量后，男爵已获得了巨大的权力……
+为了守护这份力量的源头，他建造了一座地窖，唯有三块灵魂钥匙碎片才能开启。
+他显然不信任精灵，因为这些碎片原本是交给伊兹贝思保管的——一位疯狂的魅惑女魔头。
+伊兹贝思用幻象来守护她的秘密。你穿过那些假墙？那正是她魔法启发我们的灵感。
+若想穿越她的屏障，你需要将真视吊坠施法于一个亲近她的人的心智上。
+一个知晓她秘密的人……而问题就在这里。她的仆从不仅忠诚，还对她充满迷恋。
+大多数恶魔通过恐惧控制我们。但伊兹贝思不是如此。她的仆从……非常乐于效劳。你不会带活人回去的。
+不过让我们不要绝望。若没有你的机智，你不可能走到这一步。你必须找到方法，混血人……
+……并尽快找到它们。男爵正在举行仪式，谁知道如果他不被阻止会释放出什么邪恶？
+这把秘银锁需要用铁钥匙打开。
+按使用键跳过简报
+阿贝顿：你需要伊兹贝思的灵魂钥匙碎片来击败男爵。用你的智慧吧，混血人，你是我们唯一的希望。
+嗡鸣的泉水中充满了魔力。
+阿贝顿：请，混血人，我们需要瓶子在离开时使用。如果你需要魔力，就从泉眼中取用吧。
+阿贝顿：哦！你已经获得了碎片。我向你鞠躬，混血人。如果有人能拯救我们所有人，那就是你了。
+一旦进入男爵的城堡，寻找存放力量源头的地窖。它不可能太难找到。
+谁知道呢……也许你甚至可以为自己获得这份力量。它或许能帮助你斩杀暴君。
+我会为你祈祷……但在你离开之前，我想送你一件礼物……
+……一片天使的羽毛。当你最需要时它会助你一臂之力。现在去吧。愿天空之神轻抚你的脚步。
+阿贝顿：没人知道男爵的力量源头是什么，或者它从何而来。它是物体？还是生物？
+阿贝顿：你已获得碎片。现在进入男爵的城堡，终结他的统治……
+阿贝顿：安抚原教主们不足以击败男爵。他新获得的力量使他无敌。
+阿贝顿：你已经跋涉千里、历经苦战。诸神选中你作为我们的救世主。为我们带来自由吧！
+阿贝顿：没错！那一定是其中一块灵魂碎片。你现在必须寻找另外两块……
+阿贝顿：你找到了两块灵魂碎片！一旦集齐三块，就能打开男爵的地窖！
+阿贝顿：你的智慧为你照亮前路，混血人。我印象深刻。使用那枚吊坠，去寻找剩下的灵魂碎片吧。
+阿贝顿：找到一枚纯净的吊坠是个好的开端，但你仍需用仆人的意志为其施以咒语。
+阿贝顿：灯塔守卫者的吊坠对你现在毫无用处。你需要找一枚纯净的来施法。
+阿贝顿：不要耽搁！如果男爵完成仪式，他可能会变得强大到无法战胜。
+阿贝顿：另外两块碎片应该就在第一块碎片所在的地方附近。回去继续寻找吧。
+阿贝顿：伊兹贝思一定将第三块碎片藏在她身边。回到她的庄园去寻找吧。
+阿贝顿：伊兹贝思一定将碎片藏在她的大教堂里。传言称这座建筑本身就是一个幻象。
+阿贝顿：当你找到知晓伊兹贝思秘密的人时，用卷轴将他的意识绑定到真视吊坠上。
+阿贝顿：除了真视吊坠外，你还需要附魔饰品卷轴。可以尝试密室守卫办公室。
+阿贝顿：我真希望了解更多关于男爵仪式意图的事。唯一知道的是妮丝瑞尔也牵涉其中……
+阿贝顿：我们下方有一座巨大的盐矿。奴隶们被榨干生命以收集用于仪式的稀有盐分。
+阿贝顿：恶魔在上界王国中用盐作为货币。但因为奴隶们都死了，盐矿现已停工……
+阿贝顿：政治阴谋让我失去了贵族的地位。我最终成了地狱里这座矿的监工。
+阿贝顿：我所目睹的恐怖让我留下伤痕。他们以这些痛苦和折磨为食……
+阿贝顿：我背负着罪孽，因为我曾将许多族人卖给恶魔。我会永远赎清我的罪过……
+阿贝顿：当我再也无法承受疯狂时，他们强迫我加入邪教。起初，我同意了……
+阿贝顿：邪教入门者被摘除双眼以防止阅读。通过崇拜，他们获得地狱般的全新视觉。
+阿贝顿：在我第一个眼睛被移除后，第三个眼睛突然睁开。我……突然意识到自己曾多么盲目。
+阿贝顿：当最后一批奴隶被押送至祭坛时，我背后刺杀守卫并发动了叛乱。
+阿贝顿：我们跑得尽可能远……我和老兽人、雕塑师斯克朗终于抵达了这座古老的圣所。
+阿贝顿：多亏真菌和这口井的魔力，我们得以生存。它们赋予我们启迪与生动的梦境。
+阿贝顿：如今我们以元素之神之名战斗。唯有他们能拯救我们脱离恶魔腐化。
+阿贝顿：当男爵成为图腾并统御恶魔时，我们的世界将覆灭……
+老兽人：铁军……我们的祖父们常讲述这个故事……你体内流淌着他们一半的血脉。
+老兽人：恶魔把我带到盐矿作为联络人。为了防止其他兽人奴隶反抗。
+老兽人：不久前，恶魔带着你们几位姐妹来了。她们是被你们失败的突袭所俘虏的囚犯。
+老兽人：我对他们的到来感到好奇，但唉……即使经历了这么久，我们种族之间始终无法达成共识。
+老兽人：你清楚无耻兽人的下场。我试图安抚我的族人，却毫无成效……
+老兽人：你们部落的故事仍在我心中燃烧……你们在公平的战斗中失去了同伴，却企图篡改命运。
+老兽人：而非屈服，你的祖先放弃了我们的土地，去寻找禁忌的生命之泉。
+老兽人：你的祖先成功完成了他们的使命。生命之泉使他们重获新生，变得强大、美丽而骄傲。
+老兽人：永生是一种诅咒。是对我们出生之路的背叛。你们种族被驱逐出了我们的土地。
+老兽人：我看到铁军在地下繁盛……已经多久了？五百年了？
+老兽人：我不嫉妒你们……毕竟，我如今并未见到任何地表兽人对抗恶魔……
+老兽人：你是否准备好挑战男爵了？战士，战斗吧。让我们看看你是否配得上真正的兽人身份。
+老兽人：如你所知，地表世界充斥着恶魔腐化。就连兽人也难逃其害。
+老兽人：我不过是个无用的奴隶。虽然被解除了枷锁，但我仍未获得自由。我们的希望寄托在你身上，战士。
+老兽人：如果铁军在此击败男爵，我会终生歌颂你们的族群。
+老兽人：世界上还有像我这样的人……斯克朗、阿贝顿……那些等待觉醒的迷失灵魂。
+老兽人：若我们失败，就让我们在战斗中失败吧！为了我们的血脉与荣誉！诸神正在注视着我们。
+老兽人：……
+斯克朗：*眯眼打量你从头到脚，短暂沉思*
+斯克朗：*抢走你的笔记本开始速写*
+斯克朗：*将笔记本还给你并指向画作*
+斯克朗：*双手合十，低头致意*
+斯克朗：*点头示意你站到房间中央摆姿势*
+斯克朗：*擦了擦额头，满意地打量自己的作品*
+斯克朗：*指着你笔记本里的素描*
+斯克朗：*指向附近的赤红盐岩，然后伸出七根手指*
+斯克朗：*指向笔记本中标记的位置，模仿挥动锤子凿击的动作*
+斯克朗：*喃喃自语*
+斯克朗：...
+坦克底部仅剩几滴地狱火油在微弱燃烧。
+罐中存有足够的地狱火油，足以制作任何药剂。
+罐底仅有几滴魔力在聚集。
+罐中存有足够的魔力，足以制作任何药剂。
+罐底仅有几滴毒液残存。
+罐中存有足够的毒液，足以制作任何药剂。
+罐底仅有几滴献祭之血正在沸腾。
+罐中存有足够的献祭之血，足以制作任何药剂。
+罐子需要先加满液体。
+锅沿泛着明亮的绿色光芒。
+锅沿泛着鲜艳的粉红色光芒。
+锅沿泛着清新的青蓝色光芒。
+已无圣瓶可盛装此药剂。
+已无药剂瓶可盛装此药剂。
+已无罐子可盛装此药剂。
+已无圣瓶可盛装此药剂。
+已无药剂瓶可盛装此药剂。
+没有圣约封印容器可用以盛装此药剂。
+你听到低沉的轰鸣声，但机器毫无反应。
+这个开关需要血斧钥匙才能操作。
+机械装置缺少操作手柄。
+这扇裂开的窗户很容易被击碎。
+堵塞蓄水池的碎片可以用合适的工具清除。
+赤红盐块也可以用合适的工具移除。
+埃鲁丁：谁敢闯入我的巢穴？是那个渴望篡位的家伙吗？我必须说，你沾满鲜血的样子倒也英姿飒爽。
+埃尔兹瑞尔：你最好跟埃鲁丁多待会儿，也许能学到些东西。
+埃鲁丁：她已经足够有能力了，埃尔兹瑞尔。毕竟，她是半恶魔……
+但我的礼节呢？让我自我介绍：我是埃鲁丁，诡计原教……
+别被吓到。我只给你一个简单的任务：如果你渴望承受我的污染……
+背叛某位重要人物。流血。证明你有资格与男爵的技艺一较高下。
+这不是很简单吗？只需确保你的背叛伴随着……大量的血腥场面。
+原教的化身保持沉默。
+埃鲁丁：你背叛了你的姐妹和恶魔？荒谬！证据在哪里？
+埃鲁丁：你对你的姐妹实施了背叛？证据在哪里？
+埃鲁丁：你背叛了一位深渊领主？我要这份叛徒行为的证明！把他的无用头颅给我！
+埃鲁丁：你欺骗了一位深渊领主，让他派出军队走向必死之局？把他的无用头颅带来……
+埃鲁丁：毒杀你战团长的狼灵是极其残忍的事，但远非我所寻求的血腥背叛。
+埃鲁丁：让你的姐妹解脱痛苦并不算数，亲爱的。我需要的是流血事件。
+埃鲁丁：你在犹豫什么，亲爱的？你的姐妹们正上方有一整个营地，等待被突袭……
+埃鲁丁：如果你连我的任务都应付不了，又怎能处理政治？不如让男爵来接手吧。
+埃鲁丁：时间属于胜利者，历史由胜利者塑造，真相由胜利者决定。
+埃鲁丁：若想操控他人，不必在九个谎言中隐藏一个真相，而是在九个真相中植入一个谎言。
+埃鲁丁：如果你想获得民众的青睐，请记住……人们的认知比现实更有价值。
+埃鲁丁：当你无能为力时，你欠每个人一个恩情。我要求你背叛……而且要血腥的背叛。
+埃鲁丁：哦，天哪，两次背叛？真是无人能阻挡混血人通往成功的道路！……
+埃鲁丁：感觉如何？……从你杀死的众多兽人中扯下那枚护身符时……
+埃鲁丁：所以……你赢得了深渊领主的信任，却让他的部下被屠杀，并将他的头颅带来给我……
+混血人，你赢了我这场游戏。我可以说你已经准备好了。
+至于我的交易条件……你将获得红色污染。男爵最好小心提防你！
+原教献祭祭坛。
+这些大门无法移动。
+这扇门需要血钥匙才能开启。
+这扇门需要暗影钥匙才能开启。
+液体正在将门压紧。
+这扇门需要血钥匙才能开启。
+这扇门需要暗影钥匙才能开启。
+这扇门需要用血钥匙才能开启。
+献祭之血
+地狱火油
+永流圣杯
+万礼守护者
+（卷轴上布满粗糙的盐块切割技法插图）
+（一张古老的羊皮纸似乎被盐层保护着，展开时会裂开）
+邪教徒说得对，他们无处不在。男爵本人恐怕是故意塌陷隧道来困住我的。
+我逃亡所受的惩罚就是如此。但有什么选择？奴隶们连活上几周都难，便要被饿死边缘献祭。他们的血到处流淌，我们敲击盐墙时不断喷涌而出。
 
-What sort of cursed place is this? How could a noble man like me end up here?...I should have joined the Cult while...
-(The rest of the writing trails off into an incoherent smudge) 
-Call of Chaos - First Chant
-T'wards the gates of initiation
-Marching as we chant
-Call the younglings and the dimwits
-Join us in our chant
-Rip them from their stiffened roots
-Marching as we chant
-Read to them the call of chaos
-Join us in our chant
-For, to pass the initiation
-Marching as we chant
-First, we must consume the Knowledge 
-Join us in our chant 
-Path to Chaos - Chapter III
-Knowing the right teachings gives us the key to open the path.     Devotion gives us the strength to start walking it.
-But only a lifetime of Hedonism will soften the body, the mind and the spirit in anticipation for the chaotic embrace 
-that awaits us.     Only when life becomes pain, and pain becomes pleasure can we fulfil our purpose.     For how else would we prepare to descend into the blissful womb of afterlife, if we aren't yearning for its never-ending warmth? 
+这是什么样的诅咒之地啊？像我这样体面的人怎么会沦落到这里？……我本该早些加入邪教的……
+（其余文字逐渐模糊成一片混乱的污渍）
+混沌召唤——第一声吟唱
+朝向启蒙之门前进
+我们齐声吟唱着前行
+呼唤那些年轻者与愚者
+加入我们的吟唱
+将他们从僵硬的根基中撕裂
+我们齐声吟唱着前行
+向他们宣读混沌的召唤
+加入我们的吟唱
+因为，要通过启蒙仪式
+我们齐声吟唱着前行
+首先，我们必须吞食知识
+加入我们的吟唱
+混沌之路——第三章
+掌握正确的教义，我们将获得开启道路的钥匙。虔诚赋予我们踏上这条路的力量。
+但唯有终生沉溺于赫顿主义，才能让身体、心智与灵魂在混沌拥抱来临前逐渐软化。
+那等待我们的……唯有当生命化作痛苦，而痛苦化作愉悦，我们才能完成使命。否则，若非渴望其永无止境的温暖，我们又如何准备沉入来世的 blissful 娩？
 
-For the Worthless - 2nd Verse
-For the ones who worshipped Demons before learning the Call of Chaos
-For the ones who indulged themselves to a life of pleasure before pledging to Worship 
-For the ones who fell into afterlife before preparing themselves for chaos' embrace
-You have no worth, and still we remember you. 
-Embrace of the Afterlife - Final Word
-[...]  but ultimately, we are not immortal. Unlike the Demon, who lives within the embrace of chaos, we have to die for it.    And for those who devote their lives to this final moment, Death itself will end their journey and 
+只为徒劳——第二段
+那些在学习混沌召唤前崇拜恶魔的人
+那些在承诺崇拜前沉迷享乐的人
+那些在准备接受混沌拥抱前便堕入来世的人
+你们毫无价值，而我们仍记得你们。
+来世之拥——结语
+[...] 但最终，我们并非不朽。与生活在混沌怀抱中的恶魔不同，我们必须为它死去。而对于将一生奉献于此终局时刻的人，死亡本身将终结他们的旅程并……
 
-lower them below the earth, where the tendrils of chaos will tear them limb from limb and set their spirit free. 
-KNOWLEDGE 
-WORSHIP 
-HEDONISM 
-DEATH 
-ALCHEMY MACHINE INSTRUCTIONS
-For our devotion and sacrifice, our Demon masters have bestowed upon us this alchemy machine - a contraption that will allow even the most foolish of initiates to prepare the substances required for rituals. Observe the components:
+将他们送入地下深处，混沌的触须会撕碎他们的肢体，释放他们的灵魂。
+知识
+崇拜
+赫顿主义
+死亡
+炼金机器说明书
+为了我们的奉献与牺牲，我们的恶魔大师们赐予我们这台炼金机器——一台能让最愚昧的入门者准备仪式所需物质的装置。请观察其组件：
 
-The four tanks are destined for prime fluids - oil, mana, poison and blood. Do not mismatch them! For a tank to lend 
-its content to the final concoction, the switch must be flipped up.      Opposingly, flipping it down will close the tap.
-The three kegs are destined for arcane salts. Once again, do not mismatch the color! Simply pour the salts into the 
-top pan, and they will be ready to catalyse the final concoction.  When everything is prepared, pull the main lever.
-(A note appears to have been recently added at the bottom)
-It appears that some of us have taken excessive advantage of this great machine and produced potions for their own private benefit. In order to combat contraband, our Demon masters have cursed the machine so that it may only lend its product to special anointed bottles. Do not squander these bottles, as they are reserved for the important rites. 
-
-
-Healing - mix blood with green and pink arcane salts, pour result in vials
-Haste - hellfire oil, sacrificial blood and pink arcane salts, store in the labelled bottles
-Hellfire cans - mix hellfire oil with green arcane salts and store in metal cans 
-The instructions are clear now. If the cerberi run out of breath during the ritual, the guilt falls upon you. 
-[...] to brew a fine Potion of Stoneskin, an alchemist must make use of his finest reserve of mana.    But much like any strengthening potion, the boon this substance offers must be paid for with blood, which should be mixed in equal part with the mana. The potency of this potion is guaranteed by adding arcane salts - namely the green and cyan ones [...] 
+四个罐子专用于基础液体——油、魔力、毒液和血液。切勿混用！若要让
+罐中内容物融入最终药剂，开关需向上翻转。相反，向下翻转会关闭阀门。
+三个桶专用于秘盐。再次提醒，切勿混淆颜色！只需将秘盐倒入
+顶部的容器，它们将准备好催化最终药剂。当所有材料准备就绪后，拉动主杠杆。
+（底部似乎最近添加了笔记）
+看起来我们中的一些人过度利用了这台伟大的机器，制作了私用药剂。为了对抗违禁品，我们的恶魔大师们诅咒了这台机器，使其产物只能供给特选的圣瓶使用。切勿浪费这些瓶子，它们专用于重要仪式。
 
 
-(You browse through what looks like an alchemist's notebook. The last entry details how to brew a sleep potion)
-[...]  Of course, the answer lied with the old masters!      The risks I have taken stealing the books shall soon pay off! And after studying them carefully, I've learned how they could create an effective sleeping potion from any kind of green poison, by mixing it with mana and then adding cyan salts. As soon as I get full access to the new alchemy machine, I shall craft it!    No longer will the wailing of the dying slaves torment my rest.
+治疗——将血液与绿色和粉色秘盐混合，倒入标有标签的瓶子中
+加速——地狱火油、献祭之血和粉色秘盐混合，存入标注的瓶子中
+地狱火罐——将地狱火油与绿色秘盐混合后存入金属罐中
+现在指示已经很清楚了。如果在仪式中地狱犬耗尽了气息，罪责将落在你身上。
+[...] 要酿造一瓶优质的石肤药水，炼金术士必须使用他最珍贵的魔力储备。但就像任何强化药剂一样，这种物质带来的好处必须用血液来偿还——应与魔力等量混合。通过添加秘盐（尤其是绿色和青色的）来保证药剂的效果 [...]
 
 
-
-(An additional note is scribbled at the bottom)
-Taking it on an empty stomach causes frightening hallucinations. I should infuse it into some meat and eat it. 
-(The book appears to have been written a millenia ago. An old demonic seal marks it as forbidden knowledge)
-Chronicles of the Schism - Dawn of the First Century
-[...]  as their numbers kept dwindling, the Old God worshipping pagans were forced to relinquish their beliefs, or lose the favor of the Church of Self.     Their dated ways were truly a thorn in the side of their brethren, who rejected to bow before the caprices of the Elemental Gods.    The ones who insisted on keeping their old beliefs were shunned and cast away from their community. Scholars have discovered that they had scurried into the Underworld, where they sought shelter from the enlightened world.     While the followers of Self took fate into their own hands, they cowered in fear before floods and earthquakes. While we were building roads and ports, they slaved away erecting lavish underground temples.     While we were furthering our art and knowledge, they garnished their caves full of statues depicting angels.  While we were reaping the bountiful harvest under the sun, they chanted and called for their long lost glorious past, like blind maggots writhing in the gutters, further away than ever from the light.
+（你翻阅着看起来像炼金术士笔记的书页。最后一条记录详细说明了如何酿造睡眠药水）
+[...] 当然，答案就在旧大师们那里！我冒险偷取书籍所承担的风险即将得到回报！在仔细研究后，我学会了如何通过将任何绿色毒药与魔力混合，并加入青盐，从而制作出有效的睡眠药水。一旦我获得炼金机器的完全使用权，我就会立刻制作它！那些垂死奴隶的哀嚎将不再扰乱我的安眠。
 
 
 
-
-
-
-
-
-The first century has been a period of prosperity for us. The magical arts of Body, Mind and Spirit have expanded far beyond the savage elements, healing and soothing our existence far more reliably than any God could. Every time nature has punished us, we pushed it back to its place with our own powers, instead of praying it away.  But, as we know, every garden has its weeds.  In the last years, more and more rumors have been mentioning the name of a heretical Cult growing in the shadow of the Self.   Drunkards fill the taverns with talk of humans being lured into a perverted belief spun by demons. But in lack of any proper evidence, we can only believe this Cult to be an easy way out for the lowlifes and miscreants who aren't capable of honing their Self in order to ascend to a superior life.  Besides, demons have long been conquered and driven below the earth, where they fester and fight with the pagans, the dwarves and all the other stubborn rats who couldn't withstand the might of our light.  [...]
+（底部另有一则潦草笔记）
+空腹服用会导致可怕的幻觉。我应该将其灌注到一些肉中再食用。
+（这本书似乎写于数千年前。一个古老的恶魔封印标记着这是被禁止的知识）
+《分裂纪年——第一世纪黎明》
+[...] 随着人数不断减少，崇拜旧神的异教徒被迫放弃信仰，否则就会失去自我教会的恩宠。他们的过时方式确实成了兄弟们的刺痛，他们拒绝向元素之神的任性低头。坚持保留旧信仰的人被排斥并驱逐出社群。学者们发现，他们逃往了地下世界，在那里躲避光明世界的启蒙。当自我教徒将命运掌握在自己手中时，他们却因洪水和地震而恐惧颤抖；当我们修建道路与港口时，他们在地下建造奢华的神庙；当我们推动艺术与知识的发展时，他们用雕像填满洞穴，描绘天使的模样；当我们沐浴阳光收获丰饶时，他们吟唱呼唤早已消逝的辉煌过往，如同盲眼苍蝇在沟渠中蠕动，比以往更远离光明。
 
 
 
@@ -271,45 +262,54 @@ The first century has been a period of prosperity for us. The magical arts of Bo
 
 
 
-Abedun:    Enjoying the read? My kin saw the worshipers of Air as foolish pagans... but I now believe otherwise. 
-(The perfumed note is signed by the succubus matron Yzbeth)
-My dear crypt keeper, if your morbid curiosity has pushed you here, I beg you, don't go any further.    There are three giant rats trapped beyond.    I am sure you have seen plenty of fat rats circling the tombs, but these are not the kind that you can swiftly catch and eat.   There is barely any flesh on their bones, for they've been starving. You wouldn't want to release a pack of giant hungry rats upon you, would you?  Please, if you hear them scratch at the wall, then come see me at my mansion, as I have the only key to the padlock. Worry not - I have the power to tame these beasts. 
-
-
-
-
-(The letter bears the scent of succubus matron Yzbeth)
-Oh, crypt keeper, be a dear and do me a favor.  If the Halfblood comes knocking at your door, be as kind as to give her one of your Trinket Enchantment scrolls.     Don't worry about aiding your master's foe, it's very unlikely that she will know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether 
-
-
-one of your Trinket Enchantment scrolls.     Don't worry about aiding your master's foe, it's very unlikely that she will know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether 
-
-you anger the Cult and the Baron, or the local Matron, the price of disobeying will be high.   Weigh your choices.   Mwah! 
-At long last, I can write down my frustration! I went through such an arduous journey, enduring whip and starvation as I disguised myself among the cultists.      I braved the Sea of Flames, with only a sliver of hope to give me enough force to endure the heat. Still, my grandfathers showed a will of steel by building their place of worship in Hell, against all the demonic presence.     I must show that I am worthy of finding their treasure - except I wasn't expecting such a cryptic riddle!    I thought the obelisks would just show me the way! I wish I had thought of writing their codes on parchment earlier. Now I have to travel back...
+第一世纪对我们而言是繁荣时期。身体、心灵与精神的魔法艺术已远超原始元素，比任何神明更能可靠地治愈并抚慰我们的存在。每当自然惩罚我们时，我们便以自身力量将其驱逐回原位，而非祈求消灾。但正如我们所知，每座花园都有杂草。近年来，越来越多传闻提及在自我阴影下滋生的异端邪教。醉汉们在酒馆里谈论人类被恶魔编织的扭曲信仰所引诱。然而缺乏确凿证据，我们只能认为这邪教不过是那些无法锤炼自我的低人和恶徒逃避现实的捷径。况且，恶魔早已被征服并驱逐至地底，在那里与异教徒、矮人及其他顽固的老鼠们争斗不休……
 
 
 
 
 
-(The nearby obelisk's riddle is scribbled in charcoal below) 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
-> Stranded. Need to find some food and get my bearings 
-> To enter the Icon's lair I need taints from 5 primarchs:
-> Gaun -
-> Adur -
-> Elzriel -
-> Scorlag -
-> Erudin - 
-> To enter the Icon's lair I need taints from 5 primarchs: 
-> Gaun - green - wants a crimson salt statue of myself 
-> Adur - purple - wants me to seduce a demonblood 
-Eraanthe will help me if I find her a sacrificial sword 
-> Elzriel - gold - wants me to offer him 300 gold coins 
-> Scorlag - blue - wants elixir of life and elixir of death 
-> Erudin - red - wants me to perform a bloody betrayal 
-A wounded Bear asked me to warn our camp of an attack 
-Eberon wants me to open the gate by the side of his fort 
-> Port ghost asked me to find his brothers with his pendant 
-> Abedun said I need 3 soul key fragments to sap the Baron 
-> A lancer trapped inside a painting asked me to rescue her 
-> Time to end this war. The Baron's citadel awaits me. 
+
+
+
+阿贝顿：享受阅读吗？我的族人曾将天空之神的信徒视为愚昧的异教徒……但如今我确信并非如此。
+（带有香料气息的便条上署名魅惑女魔头伊兹贝思）
+亲爱的密室守卫，如果你因病态的好奇心来到这里，请务必不要继续深入。在墙外被困着三只巨型老鼠。我敢肯定你见过许多肥胖的老鼠围绕墓穴打转，但这些可不是你能迅速捕捉并食用的普通鼠类。它们的骨骼几乎毫无血肉，因为早已饿得奄奄一息。你难道不想放任一群饥饿的巨鼠扑向你吗？请记住——若听到它们抓挠墙壁的声音，请前往我的庄园找我。唯有我掌握着锁匙。无需担忧——我拥有驯服这些野兽的力量。
+
+
+
+
+（信件散发着魅惑女魔头伊兹贝思的香气）
+啊，密室守卫，做个乖孩子帮我个忙吧。如果混血人敲响你的门，请好心地给她一份你的饰品附魔卷轴。别担心帮助主人的敌人——她几乎不可能知道如何使用这份卷轴。除非……当然，如果她携带真视吊坠的话。但即使如此……无论是
+
+
+一份你的饰品附魔卷轴。别担心帮助主人的敌人——她几乎不可能知道如何使用这份卷轴。除非……当然，如果她携带真视吊坠的话。但即使如此……无论是
+
+惹怒邪教与男爵，还是当地的女主人，违抗的代价都会很高。权衡你的选择吧。Mwah!
+终于，我可以写下我的挫败感了！我经历了一场极其艰难的旅程，在伪装成邪教徒的过程中忍受鞭打与饥饿。我勇敢地穿越火焰之海，仅凭一丝希望支撑着自己承受酷热。然而，我的祖辈们却以钢铁般的意志在地狱中建造了他们的神殿，对抗所有恶魔的存在。我必须证明自己值得找到他们的宝藏——但我不曾料到会遇到如此隐晦的谜题！我以为方尖碑只会指引我方向……如果早些时候我就把它们的密码写在羊皮纸上就好了。现在我不得不返回……
+
+
+
+
+
+（附近方尖碑上的谜题用炭笔潦草地写着）
+.oO   “碎骨者”瓒的日志   Oo.
+> 被困住。需要寻找食物并确定方位
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
+> 加恩 -
+> 阿杜尔 -
+> 埃尔兹瑞尔 -
+> 斯科拉格 -
+> 埃鲁丁 -
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
+> 加恩 - 绿色 - 想要一座我的血红色雕像
+> 阿杜尔 - 紫色 - 希望我引诱一位恶魔之血者
+如果我找到埃尔兹瑞尔并给她一把献祭之剑，埃拉安瑟会帮助我
+> 埃尔兹瑞尔 - 金色 - 想要我提供300枚金币
+> 斯科拉格 - 蓝色 - 需要一瓶生命药剂和一瓶死神药剂
+> 埃鲁丁 - 红色 - 想让我执行一场血腥背叛
+一只受伤的熊让我警告我们的营地即将遭遇袭击
+埃伯伦希望我打开他堡垒旁的大门
+> 港口幽灵让我用他的吊坠寻找他的兄弟们
+> 阿贝顿说我要收集3片灵魂钥匙碎片才能削弱男爵
+> 被困在画中的长枪兵请求我救她出去
+> 该结束这场战争了。男爵城堡在等我。

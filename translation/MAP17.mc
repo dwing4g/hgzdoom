@@ -1,52 +1,52 @@
-Eraanthe:    There's the Baron's fleet! Don't get any funny ideas now, wait until we reach the shore! 
-Reaver:    They're trying to board our ship! 
-Crystal Curator:    They are attacking us! To arms! 
-Bear Warrior:    Arrgh, they're boarding our ship! Push them back! 
-Witch:    Umm, ladies? I believe our ship is being boarded. 
-Earth Mother:    Oh my! What was that? Are they trying to board our ship? 
-Fixer:    Huh? What's that sound? Is someone climbing on our ship?! 
-Eraanthe:    Sounds like they're trying to board our ship. Go deal with them! 
-Blue Baron:    *Murmurs* 
-Blue Baron:    ...the ones who defy their masters perish first... 
-The cracked door window looks like it could easily be shattered. 
-Nithriel:    Oh my... I was not expecting guests. Come in, Halfblood, don't be shy... I'm just around the corner. 
-Nithriel:    Surprise!
-Tiati:    Zan... she's...c-controlling... me... urgh-
-Nithriel:    Surprised to see your little friend here? She was rather helpful with retrieving the Seed for me.
-The Baron was slightly reluctant to share it, but thanks to you two, it's in my possession now!
-Tiati:    Zan... ugh... go-
-Nithriel:    Silence, worm! Your pitiful savior is powerless before me now. I'll enjoy draining the life out of y-
-What?! Where did y-
-NOOOOOOOO- 
-Eraanthe:    Don't pester me now! I must make sure the boat stays on course. 
-Fixer:    *Is too absorbed by the surrounding machinery to notice you* 
-Fixer:    N-not now, Zan! I-I need to focus! 
-Earth Mother:    Let me know if you are in need of my magic. I'll tend to you however I can. 
-Earth Mother:    Earth protect you! 
-Bear Warrior:    Stay sharp! They might try to outmaneuver us! 
-Bear Warrior:    This is it, the Baron is in our reach! For the Iron Division! 
-Reaver:    I'll lay down covering fire, go kick their ass! 
-Reaver:    Keep your eyes peeled, they might try to board our ship again. 
-Witch:    Well, Bonebreaker? Are you crazy enough to board the Baron's ship? 
-Crystal Curator:    I'll protect the ship! Go find Nithriel! 
-The door won't budge. 
-This door requires a Golden key to open. 
-This door requires a Blood key to open. 
-This door requires a Golden key to open. 
-This door requires a Blood key to open. 
-This door requires a Golden key to open. 
-Captain's Log
-57/3rd/1106   I thought this was going to be a regular supply run, but lo and behold, the Baron appears perched up atop of his flagship, observing our fleet.   I think my contact inside the minotaur town factory will have interesting news to share... granted he hasn't been worked to death already. I better watch my thoughts now, the Baron is close.
+埃拉安瑟：看！男爵的舰队来了！现在别打什么坏主意，等我们到达岸边再说！
+掠夺者：他们正在试图登船！
+水晶管理员：他们在攻击我们！全体战斗！
+熊战士：啊呜，他们正登上我们的船！把他们推回去！
+女巫：呃，女士们？我觉得我们的船正在被登船。
+大地之母：天哪！那是什么声音？他们是想登船吗？
+修复者：咦？那是什么声音？有人在爬船吗？！
+埃拉安瑟：听起来他们正试图登船。去处理他们！
+幽蓝男爵：*低语*
+幽蓝男爵：……反抗主人的人，最先灭亡……
+裂开的门窗看起来很容易就能碎掉。
+妮丝瑞尔：天啊……我没想到会来客人。进来吧，混血人，别害羞……我在拐角处。
+妮丝瑞尔：惊喜！
+提娅媞：瓒……她……在控制我……呃——
+妮丝瑞尔：没想到会在这里见到你的小跟班？她之前帮了我不少忙，成功找回了种子。
+男爵起初有些不愿分享它，但多亏了你们两人，现在它在我手中了！
+提娅媞：瓒……呃……走——
+妮丝瑞尔：闭嘴，虫子！你的可怜救世主现在在我面前毫无力量。我会享受从你身上榨取生命——
+什么？！你去哪儿了——
+不！！！
+埃拉安瑟：现在别烦我！我必须确保船保持航向。
+修复者：*过于专注于周围的机械装置而没注意到你*
+修复者：不……现在，瓒！我……我需要集中注意力！
+大地之母：如果你需要我的魔法，请告诉我。我会尽我所能照顾你。
+大地之母：大地守护你！
+熊战士：保持警惕！他们可能会试图绕过我们！
+熊战士：就是现在，男爵就在我们的攻击范围内！为了铁军！
+掠夺者：我会提供火力掩护，你去给他们点教训！
+掠夺者：注意观察，他们可能会再次登船。
+女巫：嗯，碎骨者？你疯了吗？要登上男爵的船吗？
+水晶管理员：我会保护船只！去找妮丝瑞尔！
+这扇门纹丝不动。
+这扇门需要黄金钥匙才能打开。
+这扇门需要血钥匙才能打开。
+这扇门需要黄金钥匙才能打开。
+这扇门需要血钥匙才能打开。
+这扇门需要黄金钥匙才能打开。
+船长日志
+57日/3月/1106年  我以为这次只是普通的补给任务，没想到男爵竟坐在他的旗舰上观察我们的舰队。我想我那位在牛头人镇工厂的线人会带来有趣的新闻……当然前提是他还活着。现在得注意说话了，男爵就在附近。
 
 
-58/3rd/1106   We were greeted at the port by the warlock chief bitch. Her face was more wry than I remember. If only
-I could've heard what she told the Baron.. everyone looks to be more agitated than usual. I need to meet my contact.
-59/3rd/1106   A million curses on that wretched elf! We barely dropped anchor for a day and she orders us to prepare to leave. Urgently. Wonder why the Baron doesn't put her in her place. Much to my expectations, her cultists did load our ships with weapon crates, and a bunch of Hellions joined, slinging around the new hell powder guns I heard rumors about. My contact was right... if these contraptions catch on, politics will soon shift. Now... how do I ride this wave? 
+58日/3月/1106年  我们在港口被女巫首领迎接。她的表情比记忆中更加阴郁。
+若能听到她对男爵说的话就好了……所有人都显得比平常更焦躁。我得去找我的线人。
+59日/3月/1106年  精灵真是个该死的存在！我们刚停泊一天，她就命令我们紧急准备撤离。真奇怪男爵为何不把她按在原位。正如我所料，她的邪教徒们给我们的船装满了武器箱，还有一群地狱之徒加入，挥舞着我听说过的新型地狱火枪。我的线人说得没错……如果这些装置普及开来，政治格局很快就会改变。现在……我该如何顺势而为？
 
 
 
-I will be spending the rest of the journey locked inside the engine room, as it appears to be the only place capable of shielding me from certain intrusive thoughts. Make sure none of our bumbling cultists open the doors! -Mistress N 
+我会在剩下的航程中锁在引擎室里，因为看起来这是唯一能让我摆脱某些侵扰性思绪的地方。确保我们的笨拙邪教徒们不要打开门！——妮丝瑞尔女士
 
-UPPER DRAWBRIDGE 
-MAST SNAPPER 
-HULL PIERCER 
+上层吊桥
+桅杆狙击者
+船体穿透者

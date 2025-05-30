@@ -1,694 +1,694 @@
-Bear Warrior:    For the Iron Division, sarge! Kick the Baron's ass! 
-Lancer:    Slay the Baron and avenge our fallen, Zan! 
-Witch:    Bring us the Baron's head, Bonebreaker! 
-Reaver:    For Valc! Make the Baron pay, Zan! 
-Fixer:    You got this, sarge! Kick the Baron's ass! 
-Earth Mother:    Return to us victorious, Zan! 
-Loading... 
-A big rock. 
-Abhaoth:    ...do you remember anything? You hit your head pretty hard. Again... 
-Abhaoth:    You're closer than ever now... yes... I can feel your presence drawing near...
-I'm held prisoner in a dark citadel at the heart of the island...
-...but your demon blood alone isn't enough to grant you entry... you'll have to taint your heart. 
-Abhaoth:    Now, now... pull yourself together, champion... I'm sure there's a place for you in paradise.
-But before you ascend into paradise...
-...you must descend into Hell.
+熊战士：为铁军，上尉！踢碎男爵的狗头！
+长枪兵：斩杀男爵，为阵亡者复仇，瓒！
+女巫：将男爵的头颅献给我们，碎骨者！
+掠夺者：为了瓦尔克！让男爵付出代价，瓒！
+修复者：上尉你行的！踢碎男爵的狗头！
+大地之母：以胜利归来，瓒！
+加载中...
+一块大石头。
+阿波豪斯：……你还记得什么吗？你脑袋撞得挺重的。又重了……
+阿波豪斯：你现在比以往更接近了……是的……我能感受到你的存在正在靠近……
+我被囚禁在岛屿心脏处的黑暗城堡中……
+……但仅凭你的恶魔血脉还无法让你进入……你必须玷污自己的心。
+阿波豪斯：现在，现在……振作起来，冠军……我相信天堂一定有你的位置。
+但在你升入天堂之前……
+……你必须深入地狱。
 ACT II
-THE CORE OF HELL ERUPTS 
-You don't have anything to fix the bridge with. 
-You'll need a shovel to dig here. 
-The mechanism lacks an operation lever. 
-Gaun:    Mmmm, another guest. Come in, girl, don't be shy. I'm Gaun, Primarch of Prestige, King of Glory!!
-Elzriel:    Hi there Gaun... bloated and full of shit as always, aren't you?
-Gaun:    Silence! That's no way to address the greatest Primarch there is! 
-Yes, I am the greatest demon primarch! And you are a great warrior too! Unlike this red fraud here...
-Mmmm, I know what you two desire. You wish to kill the Baron, don't you? Which one of you will do it, mmm?
-You see these statues, Halfling? Legends of your clan, immortalized in stone! Springs of envy for your eyes.
-Show me your desire to be among them... bring me a statue of yourself! Mmmm, made from rare crimson salt!
-A statue worthy of your pride! That'll prove me you have what it takes to be a true demon, not just a bastard! 
-The primarch's avatar remains silent. 
-Gaun:    Mmm, you have the statue? Put it on the altar so I can see it in its full glory! 
-Gaun:    What, you can't find a worthy sculptor to represent you? Then you haven't made a name for yourself! 
-Gaun:    If you don't have a statue, you don't have worshippers! Any worthy demon needs worshippers! 
-Gaun:    Look at you... so much potential. You should be the queen of your people, not their servant. 
-Gaun:    Look at those tattered rags you're wearing. You look like a rabid mutt. A pawn for your clan. 
-Gaun:    What will happen after you kill the Baron? Will they welcome you as a warlord? Or discard you? 
-Gaun:    What's the point of existing alone? You might as well perish now, if nobody will remember you. 
-Gaun:    If you're too slow, the red one might kill the Baron before you! You'll miss your only purpose. 
-Gaun:    Well? How does it feel to have a statue?... now imagine thousands of people bowing before it.
-...I know just where to put it! Well, you've earned my taint! Now go! Show the world your true glory! 
-A primarch offering altar. 
-The cracked wall could be broken down with a proper tool. 
-Flame Beacon Ghost:    ...who dares enter this cursed port?... this is no place for the living...
-...a brave soul... yes... you can save us... they trapped us inside the chapel... please... help us... 
-Flame Beacon Ghost:    ...please... save us... we're imprisoned inside the chapel... 
-Flame Beacon Ghost:    ...a few of us turned against the Cult... for our sin, the whole port was punished... 
-Flame Beacon Ghost:    ...no food nor ale...it was only a matter of time until we started killing each other...
-...some of my brothers may still live... please... take my pendant and find them... in the crypts east of here... 
-Flame Beacon Ghost:    ...the pendant will reveal you their hiding place... search the old crypts, to the east... 
-Flame Beacon Ghost:    ...I was the keeper of the flame... the spiritual guide of this community... 
-Flame Beacon Ghost:    ...I should have known better... so foolish... ratted out by my own disciples... 
-Flame Beacon Ghost:    ...something changed... the demons have been tormenting us more and more... 
-Flame Beacon Ghost:    ...demons feed upon our suffering... the sacrifices have become unbearable... 
-Flame Beacon Ghost:    ...the Cult has been perverted beyond belief... I did not join to be a slave to demons... 
-Flame Beacon Ghost:    ...the Baron is preparing something... his coronation as the Icon of Demons is nigh... 
-Flame Beacon Ghost:    ...you can still stop the Baron's conquest... find my brothers... they will help you... 
-Yzbeth's Gardner:    Did mistress Yzbeth's send me one of her hellions? What are you doi- 
-Impaled Brain:    *Sings and hums* 
-You don't have any magic means to enchant the pendant. 
-The human brain appears to be kept alive by the device. 
-Impaled Brain:    My beautiful mushrooms are growing so well! Will mistress Yzbeth like them? 
-Impaled Brain:    I should check on the flowers. Their scent has become so magnificent. 
-Impaled Brain:    Mistress Yzbeth loves my flowers. She means the world to me. 
-Impaled Brain:    She loves me more than the other servants. She always gives me her attention. 
-Yzbeth's Gardner:    ...I must bring mistress Yzbeth her flowers. 
-The gate winch is missing a component. 
-Reaver:    Incoming! 
-Bear Warrior:    To battle! Feed them to the earth! 
-Witch:    Boom! Hahahahaha! 
-Bear Warrior:    Who goes there? Come down here and face me, demon! *Coughs* 
-Bear Warrior:    Bonebreaker! Thank the Earth for sending you! We fucked up... demons got us... you have to... 
-*Coughs* ...go south. Our camp is close... the demons are preparing to assault it... warn our sisters! 
-...forget about anything else you were doing and go! I can't resist much longer... find a way across the bridge... 
-Bear Warrior:    *Coughs* Don't kill me... I can endure the pain... I need to know that our camp is warned! 
-Bear Warrior:    You're the only one I can trust to deliver the message. I failed our sisters... don't do it too! 
-Bear Warrior:    They can attack anytime! Leave everything you're doing and get to the camp! Honor your oaths! 
-Bear Warrior:    We were sent here as lookouts, but our bloodlust took over and we attacked the bridge guards. 
-Bear Warrior:    *Coughs* We stormed them and took over the trench... for a while, we held... pushed them back. 
-Bear Warrior:    The bridge suddenly exploded and demons attacked! We couldn't send a runner back anymore. 
-Bear Warrior:    I survived the first counterattack but they will return! Please, carry my message! 
-Bear Warrior:    *Coughs* Our camp is in danger! Find a way around the bridge... run... warn our sisters... 
-Lord Eberon:    Traitorous scum!!! Did that whore Yzbeth send you?! How dare you betray Lord Eberon?! 
-Lord Eberon:    Hah! Pathetic idiots!... Unlike you, who sided with me! Good, I have a task for you...
-The Baron wants me to crush the orcs, but someone sabotaged the nearby gate, cutting my troops off.
-The gate needs a special winch wheel to open. Take this key and go find a spare one in the salt mine.
-You seem tougher than the rabble I sent there before you, so hurry up! The orcs can return anytime! 
-Lord Eberon:    Arrgh! Kill all these lowly traitors! Finish them off and I'll reward you handsomely! 
-Lord Eberon:    You got the wheel?! The gate mechanism is by the elevator to the salt mine, hurry up!!! 
-Lord Eberon:    Are you deaf?! I said the mechanism is by the elevator to the salt mine!!! Move it!!! 
-Lord Eberon:    *Squints* I bet it's Yzbeth who sabotaged the gate. Does she think she can outsmart me?! 
-Lord Eberon:    Serve me well... I reward my loyal agents handsomely. So move your ass! Open that gate!!! 
-Lord Eberon:    *Squints* You're not one of Yzbeth's hellions, are you? My vision is too clouded to tell... 
-Lord Eberon:    I took some shrapnel to the face while fighting orcs. My healer better arrive here soon! 
-Lord Eberon:    A few orcs attacked from the south earlier, and they were well armed. How'd they get here? 
-Lord Eberon:    I thought the rebellion at the mine was quelled! Hrr... I should not talk openly about it. 
-Lord Eberon:    Cultists have been spreading rumors that the Halfblood is here. Idiots! She died long ago! 
-Lord Eberon:    If the Baron wants me to finish up the orcs, so shall it be! Only a fool would defy the Icon! 
-Lord Eberon:    I'd finish the orcs if my reinforcements weren't stuck! Hurry up and fix that stupid winch! 
-Lord Eberon:    I've already sent my cultists after spare parts. Go to the mine and see what's the hold up! 
-Lord Eberon:    Good, you opened the gate. Now go give my cultists some aid! I want that orc camp eradicated! 
-Lord Eberon:    Huh? Primarch Adur asked you to bed a demon? Bitch, I can't even see how ugly you are! 
-Lord Eberon:    You do well to serve the Blue Baron. He's the Icon we have awaited for a millenia to come! 
-Lord Eberon:    Soon, the Baron will call for us to unite! We will finally conquer the world for ourselves! 
-Lord Eberon:    We lingered in the shadows long enough! No more politics and puppeteering! Time for blood! 
-Lord Eberon:    We'll rise like magma erupting from a volcano! And we'll burn down everything in our wake! 
-Lord Eberon:    We'll collapse the entire Underworld, then we'll slay everything that lives above. Slowly. 
-Lord Eberon:    Imagine the pure dread that awaits us. The promised feast of emotions makes me salivate. 
-You'll need a shovel to dig here. 
-The switch requires a Crystal key to activate. 
-Challenging the Baron without a means to sap his power would be unwise. 
-You do not feel prepared to challenge the Baron. 
-The gate rejects your blood. 
-(A parchment lies hidden behind the pillow. It appears to contain a rough map of the south-western coast)
-(A red X mark stands out. You copy it over your own map) 
-(A parchment lies hidden behind the pillow. It appears to contain a rough map of the south-western coast)
-(A red X mark stands out. You already copied it over your own map) 
-The socket has the shape of a chaotic symbol. 
-The door won't budge. 
-The door is locked from the inside. 
-The gate is locked from the other side. 
-This door requires a Withered Vine key to open. 
-These gates require either a Copper or a Golden key to open. 
-This door requires a Copper key to open. 
-(The ledger appears to keep track of thousands of cultists offered for sacrifice) 
-(A waft of intoxicatingly sweet perfume fills your nostrils as you unroll the note)
-Oh, my dearest gardener! I am in awe at your ingenuity! The blood that fuels your veins, nurturing the flowers like a vile mother! How poetic! Who would have thought? Out of all the rabble here, you would, of course! You're such a smart man, a defier of his own cursed destiny, a breaker of bonds! You have certainly overstepped your Cult's bonds... have you not?
+地狱核心爆发了
+你没有任何东西可以修复桥梁。
+你需要一把铲子才能在这里挖掘。
+这个装置缺少操作杆。
+加恩：嗯哼，又来一位客人。进来吧，女孩，别害羞。我是加恩，声望原教，荣耀之王！！
+埃尔兹瑞尔：嘿，加恩……你还是老样子，臃肿且满嘴粪便啊？
+加恩：安静！那不是称呼最高原教的方式！
+是的，我就是最伟大的恶魔原教！而你也是位伟大的战士！不像这个红毛骗子……
+嗯哼，我知道你们两个想要什么。你们想杀死男爵，对吧？哪一个会去做这件事，嗯？
+你看这些雕像，半身人？这是你们族群的传说，被石头永恒铭刻！它们是因你的眼睛而生出嫉妒的源泉。
+展示你渴望成为他们的一员……带来一座你的雕像！嗯哼，用稀有赤红盐制成的！
+一座配得上你骄傲的雕像！这将证明你具备成为真正恶魔的资格，而不仅仅是杂种！
+原教的化身保持沉默。
+加恩：嗯哼，你有雕像吗？把它放在祭坛上，让我以全貌欣赏！
+加恩：什么？你找不到值得信赖的雕塑家来为你塑像？那你还没为自己赢得名声！
+加恩：如果你没有雕像，就没有信徒！任何值得尊敬的恶魔都需要信徒！
+加恩：看看你……潜力如此巨大。你应该成为族人的女王，而不是他们的仆人。
+加恩：看看你穿的破烂衣衫。你看起来像个发疯的杂种。是你们族群的棋子。
+加恩：杀了男爵之后会发生什么？他们会欢迎你成为战帅吗？还是抛弃你？
+加恩：独自存在有什么意义？如果没人记得你，你现在就该死去。
+加恩：如果你太慢，红毛家伙可能在你之前杀死男爵！你会错失唯一的意义。
+加恩：嗯？拥有雕像的感觉如何……现在想象成千上万的人向它跪拜。
+……我知道该把雕像放在哪里了！好了，你已赢得我的污染！去吧！向世界展示你的真正荣光！
+原教献祭祭坛。
+这道裂墙可以用合适的工具打破。
+火焰灯塔幽灵：……谁敢闯入这个诅咒的港口？……这里不是活人该来的地方……
+……一个勇敢的灵魂……是的……你能救我们……他们把我们困在教堂里……求你……帮帮我们……
+火焰灯塔幽灵：……求你……救救我们……我们被困在教堂里……
+火焰灯塔幽灵：……我们中的一些人背叛了邪教……因我们的罪孽，整个港口都遭到了惩罚……
+火焰灯塔幽灵：……没有食物也没有酒……迟早我们会互相残杀……
+……我的一些兄弟可能还活着……请……拿走我的吊坠，去东边的墓穴找他们……
+火焰灯塔幽灵：……吊坠会指引你找到他们的藏身之处……前往东方的老墓穴搜寻……
+火焰灯塔幽灵：……我曾是火焰的守护者……这个社区的精神向导……
+火焰灯塔幽灵：……我本该更明白……多么愚蠢……被自己的弟子出卖了……
+火焰灯塔幽灵：……有些事情变了……恶魔们对我们的折磨越来越频繁……
+火焰灯塔幽灵：……恶魔以我们的痛苦为食……献祭已经变得难以承受……
+火焰灯塔幽灵：……邪教已经被扭曲到极点……我加入他们并非为了成为恶魔的奴隶……
+火焰灯塔幽灵：……男爵正在筹备某件事……他作为恶魔图腾的加冕仪式即将来临……
+火焰灯塔幽灵：……你仍有机会阻止男爵的征服……找到我的兄弟们……他们会帮助你……
+伊兹贝思的园丁： mistress Yzbeth派来了一名地狱之徒吗？你在做什么——
+受刑大脑：*吟唱和哼唱*
+你没有任何魔法手段可以施咒吊坠。
+人类的大脑似乎被装置维持着生命。
+受刑大脑：我的美丽蘑菇长得这么好！伊兹贝思大人会喜欢吗？
+受刑大脑：我应该去查看一下花。它们的香气变得如此美妙。
+受刑大脑：伊兹贝思大人喜欢我的花。她对我来说意义重大。
+受刑大脑：她比我其他仆人更爱我。她总是给予我她的关注。
+伊兹贝思的园丁：……我必须把伊兹贝思大人的花送过去。
+大门绞盘缺少一个部件。
+掠夺者：来了！
+熊战士：战斗吧！把它们喂给大地！
+女巫：轰！哈哈哈！
+熊战士：谁在那里？下来这里，恶魔，面对我！*咳嗽*
+熊战士：碎骨者！感谢大地派你来！我们搞砸了……恶魔抓住我们了……你必须……
+*咳嗽* ……向南走。我们的营地就在附近……恶魔们正在准备进攻……警告我们的姐妹们！
+……别管你在做什么，立刻出发！我撑不了多久了……找到过桥的方法……
+熊战士：*咳嗽* 别杀我……我能忍受疼痛……我需要确认我们的营地已收到警告！
+熊战士：你是唯一能传递消息的人。我辜负了姐妹们……别再这样做了！
+熊战士：他们随时可能进攻！放下一切，立刻赶到营地！履行你的誓言！
+熊战士：我们被派来当斥候，但血性控制了我们，攻击了桥上的守卫。
+熊战士：*咳嗽* 我们突袭了他们并占领了战壕……一段时间内我们坚守住了……将他们击退了。
+熊战士：桥突然爆炸了，恶魔们袭击！我们再也无法派信使回去了。
+熊战士：*咳嗽* 我活过了第一次反击，但他们还会回来！请，传递我的消息！
+熊战士：*咳嗽* 我们的营地有危险！绕过桥梁找条路……跑吧……警告我们的姐妹们……
+领主埃伯伦：叛徒渣滓！！！那个妓女伊兹贝思派你来的吗？！竟敢背叛领主埃伯伦？！
+领主埃伯伦：哈！可悲的蠢货……不像你们，谁选择了我！很好，我有个任务给你……
+男爵想让我碾碎兽人，但有人破坏了附近的门，切断了我的部队。
+这扇门需要用特殊的绞盘轮来开启。拿这把钥匙去盐矿找备用零件。
+你看起来比之前派去的杂兵更结实，所以快点！兽人随时可能回来！
+领主埃伯伦：啊！杀掉这些卑微的叛徒！干掉他们我重重赏赐！
+领主埃伯伦：你拿到轮子了吗？！闸门机关在通往盐矿的升降梯旁，快点！！！
+领主埃伯伦：你聋了吗？！我说机关就在通往盐矿的升降梯旁边！！！快行动！！！
+领主埃伯伦：*眯眼* 我打赌是伊兹贝思破坏了闸门。她以为能骗过我吗？！
+领主埃伯伦：好好为我效力……我会重赏忠诚的部下。所以快点！打开那扇门！！！
+领主埃伯伦：*眯眼* 你不是伊兹贝思的地狱之徒吧？我的视力太模糊了分不清……
+领主埃伯伦：与兽人战斗时我面部被弹片击中了，治疗者最好尽快赶到这里！
+领主埃伯伦：几小时前南方有兽人袭击，他们装备精良。他们是怎么来的？
+领主埃伯伦：我以为矿井的叛乱已经平息了！呃……我不该公开谈论这件事。
+领主埃伯伦：邪教徒们散布谣言说混血人在这里。蠢货！她早就死了！
+领主埃伯伦：如果男爵想让我彻底解决兽人，那便如此吧！只有傻瓜才会违抗图腾！
+领主埃伯伦：若不是增援部队被困住，我早该结束这场战斗了！快去修好那个愚蠢的绞盘！
+领主埃伯伦：我已经派邪教徒去寻找备用零件了。去矿井看看出了什么问题！
+领主埃伯伦：很好，你打开了闸门。现在去给我的邪教徒们提供支援！我要彻底摧毁那群兽人营地！
+领主埃伯伦：哼？原教阿杜尔让你与恶魔交配？贱人，我连你有多丑都看不下去了！
+领主埃伯伦：你为幽蓝男爵效力倒是不错。他是我们等待千年的图腾！
+领主埃伯伦：不久后，男爵将号召我们联合！我们将终于为自己征服世界！
+领主埃伯伦：我们在阴影中徘徊太久啦！再没有政治和操控！该流血了！
+领主埃伯伦：我们会如岩浆从火山喷发般崛起！并摧毁一切挡在我们面前的东西！
+领主埃伯伦：我们将彻底坍塌整个地下世界，然后屠杀所有生活在地表的生命。缓慢而彻底。
+领主埃伯伦：想象那等待我们的纯粹恐惧。承诺的感官盛宴让我垂涎三尺。
+你需要一把铲子来挖掘这里。
+这个开关需要水晶钥匙才能激活。
+在没有削弱他力量的方法的情况下挑战男爵是不明智的。
+你并不觉得自己准备好挑战男爵了。
+这扇门拒绝你的血液。
+（一张纸隐藏在枕头后面。看起来像是西南海岸的粗略地图）
+（红色X标记格外显眼。你将其复制到自己的地图上）
+（一张纸隐藏在枕头后面。看起来像是西南海岸的粗略地图）
+（红色X标记格外显眼。你已经将它复制到自己的地图上了）
+这个插槽的形状是一个混乱的符号。
+这扇门无法打开。
+这扇门是从内部锁住的。
+这道闸门是从另一侧锁住的。
+这扇门需要枯藤钥匙才能开启。
+这些闸门需要用铜钥匙或黄金钥匙才能开启。
+这扇门需要用铜钥匙才能开启。
+（账本似乎记录了数千名被献祭的邪教徒）
+（当你展开纸条时，一股令人陶醉的甜香涌入鼻腔）
+哦，我最亲爱的园丁！我对你的才智感到惊叹！流淌在你血管中的血液，像一个邪恶的母亲一样滋养花朵！多么诗意啊！谁能想到？在这群乌合之众中，偏偏是你，当然会如此！你是如此聪明的人，一个反抗自己诅咒命运的叛逆者，一个打破束缚的勇者！你显然已经逾越了邪教的束缚……难道不是吗？
 
 
-But don't let any worry cloud your mind, no. My compassion knows no bounds, especially with all these beautiful flowers adorning my sanctuary! Their scent will certainly make me forget about all the books that have been disappearing from the library.   You are such a trickster, you could almost steal my heart! Use the knowledge to grow more lovely scented flowers... and I won't be pressed to remove it from your skull and feed it to the worms.   -   Your beloved Matron, Yzbeth
-
-
-
-P.S. Oh, and stop using disgusting animals to feed my plants. I have sent you someone with a much fairer blood instead. 
-TOMB OF THE WINDRIDERS 
-(A set of raw, bloody demonic words form into a verse right before your eyes)
-If you seek to prove your worth
-Start counting from south to north
-Light the first, the third and fifth
-And the path will be revealed 
-(An old note is tucked in by the sack. As you unroll it, ash dust falls out)
-You fetch me a good price for that salt, I went through a lot of crap to smuggle it out unnoticed.  Remember, this is the last time I'm doing this, I have a much better deal coming up.   Let's just say it involves a recently constructed alchemy machine. Bring me as much oil, mana and blood as you can - I don't care where you get them from. And don't forget about the arcane salts, I need pink ones.   If this works out, we can start selling might potions for a fortune! 
+但别让任何担忧扰乱你的思绪，不。我的仁慈没有边界，尤其是这些美丽的花朵装饰着我的圣所！它们的香气一定会让我忘记图书馆里消失的书籍。你真是个骗子，几乎能偷走我的心！用知识培育更多芬芳的花朵……我就不必强行从你颅骨中取出并喂给蠕虫了。——你最亲爱的女主人，伊兹贝思
 
 
 
-Blood Rites - Chapter II
-[...]    and for the halfblooded bastards who wish to pursue the call of their stronger side, the answers lie within the shrines of the Primarchs. As explained in the previous chapter, there are five Demon Primarchs who govern the taints of chaos, and each and every one of them needs to be appeased with symbolic offerings or, at times, even sacrifices.
+附言：哦，还有，别再用肮脏的动物来浇灌我的植物了。我已经派来了一个拥有更纯净血液的人。
+风行者墓穴
+（一组原始、血腥的恶魔文字在你眼前凝聚成诗句）
+如果你想证明自己的价值
+从南向北开始计数
+点燃第一、第三和第五个
+路径将被揭示
+（一张旧纸条被塞在麻袋旁。当你展开它时，灰烬簌簌落下）
+你为那盐卖了个好价钱，我经历了不少麻烦才把它走私出去而未被发现。记住，这是我最后一次这么做，我有个更好的交易即将来临。简单说，这涉及一台新近建造的炼金机器。给我尽可能多的油、魔力和血液——不管从哪里获取都行。别忘了秘盐，我需要粉色的。如果这次成功了，我们就能以高价出售强力药剂！
 
 
-Gaun is the Primarch of Pride and Prestige. Those who wish to make a name for themselves must prove that they revel in the midst of the masses - for a true Demon despises solitude, and a modest name bears no weight.  An audience with
 
-Gaun will most oftenly reflect the halfblood's deepest pride in a request for a lavish object worthy of open display.
-Adur is the Primarch of Hearts and Emotions. It is no secret that Demons are unparalleled seducers, always knowing which strings to pull.    Adur will often ask those who wish to bear her taint to prove that they can employ the same persuasive abilities.   The halfblood should better be prepared to find a Demon that's willing to teach this art form.
-
-
-Elzriel is the Primarch of Gold.     Those who obtain an audience with him will quickly learn how to squander their hard earned wealth, for it is an entire wealth that the Primarch usually asks for - unless the halfblood negotiates better.
-
-Scorlag is the Primarch of Transformation and Alteration. Those who are lucky enough to obtain an audience will soon have their patience tested, as Scorlag is known to be hardly coherent, sometimes only being able to contact the half-blood while they are in a dream state.   Scorlag will undoubtedly ask for rare, alluring and highly potent substances.
+血之仪式 第二章
+[...] 对于那些渴望追随自身更强一面的混血贱种，答案就藏在原教主神殿之中。正如前一章所述，有五位恶魔原教统御混沌之污，每一位都需要通过象征性贡品或有时甚至牺牲来安抚。
 
 
-Erudin is the Primarch of Subterfuge. Showing the most fearsome trait of a Demon, Erudin will often ask the halfblood to slash their bonds and relinquish any form of loyalty.    She is difficult to appease, but her lessons are worth it.  [...] 
+加恩是掌管骄傲与声望的原教主。那些渴望扬名立万之人必须证明自己能在人群中尽情张扬——因为真正的恶魔憎恶孤独，而微不足道的名字毫无分量。
 
-Bracer of the Revenant - 100g
-Potion of Might - 100g
-Amulet of Shadows - 70g
-Vial of Healing - 15g
-Elemental Ring - 80g
-Potion of Stoneskin - 35g
-Scroll of Magma Ball - 10g
-Light Armor Amulet - 75g
-Bag of Holding - 350g 
-Hellclaw - 15g
-Ammo Box - 20g
-Spikes - 5g
-Fragfire Can - 15g
-Box of Acid Potions - 25g
-Box of Toxic Potions - 35g
-Boltmag - 25g
-Light Armor Amulet - 75g
-Bag of Holding - 350g 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
-> Stranded. Need to find some food and get my bearings 
-> To enter the Icon's lair I need taints from 5 primarchs:
-> Gaun -
-> Adur -
-> Elzriel -
-> Scorlag -
-> Erudin - 
-> To enter the Icon's lair I need taints from 5 primarchs: 
-> Gaun - green - wants a crimson salt statue of myself 
-> Adur - purple - wants me to seduce a demonblood 
-Eraanthe will help me if I find her a sacrificial sword 
-> Elzriel - gold - wants me to offer him 300 gold coins 
-> Scorlag - blue - wants elixir of life and elixir of death 
-> Erudin - red - wants me to perform a bloody betrayal 
-A wounded Bear asked me to warn our camp of an attack 
-Eberon wants me to open the gate by the side of his fort 
-> Port ghost asked me to find his brothers with his pendant 
-> Abedun said I need 3 soul key fragments to sap the Baron 
-> A lancer trapped inside a painting asked me to rescue her 
-> Time to end this war. The Baron's citadel awaits me. 
-Minotaur Lord Murguth:    Halfblood! I knew you would come. 
-Minotaur Lord Murguth:    Oh... I suppose the burden of our situation was too heavy for you. 
-Minotaur Axeman:    You! Do my eyes deceive me?... come on in, Lord Murguth needs to see you. 
-Bear Warrior:    Bonebreaker! You just keep returning from the dead, eh? Come in, Murguth's looking for ya. 
-Bear Warrior:    ...nevermind. 
-Minotaur Lord Murguth:    You have gained more scars since we last met, Halfblood. Welcome back among us.
-It is difficult to measure time here, but we must have arrived at the Core of Hell a few days after you did.
-The Baron's citadel lies close, northwards. His minions are ready to defend it, but that's not our only obstacle.
-Vile energies harvested from thousands of sacrifices shroud the Icon's throne, boiling up the blood of intruders.
-As you may know, only a demonblood can hope to reach the citadel unscathed... I can see a spark in your eyes.
-Temper that rage for now. Your demon blood will only get you halfway there, as I have learned from this book.
-The texts say that a halfblood must bear each of the five demonic taints to be allowed passage to the citadel.
-Your heart must be emburdened with sin - and for that, you shall journey to the shrines of the Demon Primarchs.
-Gaun, Adur, Elzriel, Scorlag and Erudin. They are the five primarchs whom you must appease. But heed my word:
-They are weavers of chaos and sin, and will undoubtedly try to corrupt you. Use your wits to gain their favor.
-And make haste. The Queen of Wrath is already ahead of you, but we can't put the same trust in her as in you.
-If we don't slay the Baron here, the hordes of chaos will conquer the world. So go! Fire burn in your heart! 
-Press Use to skip briefing 
-Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more... 
-Captain Dura:    I was wondering when you'd show up... wait, what? Our lookouts got into trouble?
-Damn it! Alright, I'll send a squad up there to clean up the mess. As for you, come in, Grund wants to see you. 
-Captain Dura:    You're late, sergeant... and what the fuck happened to the lookout squad? Ugh, Earth's mercy...
-Move your ass inside! Grund wants to have a word with you... 
-Captain Dura:    I was wondering when you'd show up... come inside, Grund wants to have a word with you... 
-Warlord Grund:    So, you're alive. Maybe next time you decide to leave us behind, you won't be as lucky.
-So unless you want to end up like Tiati in that cage over there, you better listen to me very carefully...
-We're in the belly of the beast right now. A savage, fiery and unforgiving beast. We can barely hold up.
-We could've brought more supplies or troops, but we had one less boat thanks to you. As for Tiati's fuck up...
-Grrh... so. Murguth has told you about the demon primarchs. I personally don't put any trust in demon tales...
-...but I'll give you a chance to gain their blessings or taints or whatever, if it helps you kill the Baron.
-One day. That's the time you've got to prepare. Once I call for the final assault, you better be right here.
-I'm not relying on the Queen of Wrath. You will be the one leading the charge. Am I clear? Good. Dismissed. 
-Captain Dura:    You're late to the bloodbath! What the fuck happened to our lookouts? What a fucking mess... 
-Press Use to skip briefing 
-Warlord Grund:    Whether you appease the primarchs or not, you have one day. Then, we're going for the kill. 
-Reaver:    Zan! I was sent after you. Something big is going on. Come with me, Grund will brief us.
-And keep your head down. The forest is crawling with demons... 
-Reaver:    Zan! I was sent after you. Something big is going on. Come with me, Grund will brief us. 
-Reaver:    Damn it, Zan, don't die on me!!! 
-Warlord Grund:    Time's up early, sergeant. The demons are making a major move. We must act now.
-You're moving in! I hope appeasing the primarchs was worth stealing my elixir and poisoning my warg... 
-You're moving in! I hope appeasing the primarchs was worth disregarding and stealing from a superior... 
-Advisor:    Scouts have reported a large number of demons marching out of the Baron's citadel...
-Warlord Grund:    And fire blazing from the spires. Tiati's freaking out... they're preparing something.
-Enough wasting time! This is it, sergeant. The time to fulfil your destiny! The fight of your life!
-Lead our troops and push the demons back! Then cross through that portal and finish the Baron off!
-For our fallen sisters! For Valc! Fight with honor! Fight with pride! Fight for the Iron Division!
-Reaver:    We won't fail you, sisters! Come on, Zan, I'll take you to our squad. Lead us to victory!
-Warlord Grund:    Use the forest to your advantage, we'll keep the other routes secure. Earth protect you!
-Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight beside my sisters once more!
-I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
-I funneled it into this armor amulet. Take it, along with my gratitude. Now let's go! The battle awaits! 
-Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle! 
-Press Use to skip briefing 
-Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight along my sisters once more!
-I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
-...I funneled it into this armor amulet. Take it, along with my gratitude. Now let's go! The battle awaits! 
-Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle! 
-Shady Fixer:    A birdie told me there's something Grund has that you need. I might be able to help. 
-Shady Fixer:    Hey, do you have any need for that crimson salt? I could buy some off of you... 
-Shady Fixer:    So, are you looking to spend that gold? The prices are on the tablet here. 
-Shady Fixer:    C'mon, don't be stingy... you never know when Grund decides to confiscate all this stuff. 
-Shady Fixer:    If you wanna fight the Baron, you better gear up now. Having gold won't help you if you're dead. 
-Shady Fixer:    That'll come in handy.
-Shady Fixer:    A good choice.
-Shady Fixer:    With this stuff, you'll be a killing machine.
-Shady Fixer:    Gold well spent.
-Shady Fixer:    An armed orc is a happy orc.
-Shady Fixer:    Here you go.
-Shady Fixer:    It'll serve you well.
-Shady Fixer:    I get the chings, you get the kills.
-Shady Fixer:    There you go, have fun.
-Shady Fixer:    Money well spent. 
-(You buy a Hellclaw for 15 gold) 
-(You buy a Bracer of the Revenant for 100 gold) 
-Shady Fixer:    Sorry, babe. No gold, no dice. 
-(You buy an Ammo Box for 20 gold) 
-(You buy a Potion of Might for 100 gold) 
-Shady Fixer:    If you can't afford to buy it, I can't afford to sell it. 
-(You buy several Spikes for 5 gold) 
-(You buy an Amulet of Shadows for 70 gold) 
-Shady Fixer:    I know you want it, but I can't just give it for free. 
-(You buy a Fragfire Can for 15 gold) 
-(You buy a Vial of Healing for 15 gold) 
-Shady Fixer:    Nothing's free in this world, babe. It's just how it works. 
-(You buy a Box of Acid Potions for 25 gold) 
-(You buy an Elemental Ring for 80 gold) 
-Shady Fixer:    Nothing's free in this world, babe. It's just how it works. 
-(You buy a Box of Toxic Potions for 35 gold) 
-(You buy a Scroll of Magma Ball for 10 gold) 
-Shady Fixer:    Nuh-uh. You need gold to buy from this shop. 
-(You buy a Boltmag for 25 gold) 
-(You buy a Potion of Stoneskin for 35 gold) 
-Shady Fixer:    Sorry babe, looks like you can't afford it. 
-(You buy a Light Armor Amulet for 75 gold) 
-Shady Fixer:    The prices are on the tablet, babe. You know how to count, right? 
-Shady Fixer:    Now that's an artifact worth having. I even packed it with a little ammo, just for you, babe.
-(You buy a Bag of Holding for 350 gold) 
-Shady Fixer:    Sorry babe, I won't lower the bag's price. You know well it's worth every coin. 
-Bear Warrior:    Hey, you can't just confiscate our gold like that! 
-Reaver:    Yes she can, dumbass! Errm... are we all good, sarge? No need for Grund to know about this, right? 
-You don't have any proper food to mix the substance with. 
-Warg:    *Sniffs the bowl* 
-Warg:    *Growls menacingly*
-Minotaur Axeman:    I hear the warg isn't pleased with your presence. You should get Grund's permission to go there. 
-You don't have any substance to spike the liver with. 
-(You pet the warg) 
-E. M. Bendi:    That's very kind of you, Zan. It may not be much, but everything counts! 
-E. M. Bendi:    That's very kind of you, Zan. A small splash of mana is fairer than a big one from a cursed chalice! 
-The barrel has a few drops of mana at the bottom. 
-Fixer:    Uhh... the demons are attacking! Looks like a lot are coming in! 
-Bear Warrior:    Stand your ground! The Bonebreaker is with us! For the Iron Division! 
-Min. Lord Murguth:    The beast is cornered and bleeding. Are you prepared to deal the killing blow, warrior? 
-Min. Lord Murguth:    If the primarchs have failed to sway you, so will the Baron. You are ready to face him. 
-Min. Lord Murguth:    You butchered the armies of chaos, leaving a blazing path behind. You are worthy! 
-Min. Lord Murguth:    Why do you delay the inevitable? Strike now, while your flame burns the brightest! 
-Min. Lord Murguth:    You gained all of the five demonic taints. Only a strong heart can bear such wicked weight. 
-Min. Lord Murguth:    Warlord Grund has a map of the primarch shrines, but her camp has been cut off from us. 
-Min. Lord Murguth:    How goes your quest, warrior? Have the primarchs been reasonable with their demands? 
-Min. Lord Murguth:    Your heart may be ready, but what about your steel? The Baron still has formidable power. 
-Min. Lord Murguth:    A foul earthquake has collapsed the tunnel which connects our camps, isolating us. 
-Min. Lord Murguth:    Some of us could hear whispers coming from the citadel. The Baron calls for our blood. 
-Min. Lord Murguth:    This island lies at the very heart of Hell. A place worthy of being home to the demons. 
-Min. Lord Murguth:    The sea of fire fills the deepest layer of the Underworld. The lowest we have ever been. 
-Min. Lord Murguth:    When we crossed that hellish bridge, we left the world we knew behind. Perhaps forever. 
-Min. Lord Murguth:    Demons thrive in this fiery archipelago. The heat is challenging even for a pyromancer. 
-Min. Lord Murguth:    No army can invade this place. We should have known this when we first set off to war. 
-Min. Lord Murguth:    I read tales of ancient human-built temples here. Reminders of the Elemental Gods' power. 
-Shady Fixer:    Here. Mix it with hog liver, Grund's warg loves it. And remember - you didn't get this from me. 
-Shady Fixer:    You need poison to brew something more complicated? Alright, as long as it helps us get out of this hole... 
-Shady Fixer:    That's a big 'ol rock of salt. Here's fifty for it. 
-Shady Fixer:    I'll only give you fourty for this one. Take it or leave it. 
-Shady Fixer:    Don't wanna poison the mutt? Unless you have another way to put it to sleep, poison's all I have. 
-Shady Fixer:    Found what you were looking for? You owe me. And remember, I haven't offered you any poison. Or advice. 
-Shady Fixer:    I can't believe how much gold we left behind in that primarch's vault. It's haunting my dreams. 
-Shady Fixer:    I've been hard at work... recovering the supplies lost by our sisters during the first campaign. 
-Shady Fixer:    Demons are too dumb to invent stuff. That's why they're so eager to get their claws on our gear. 
-Shady Fixer:    Making a lil' profit won't hurt anyone. This gear no longer figures on any inventory list, anyway. 
-Shady Fixer:    Cultists are so oblivious to their belongings... I feel like I'm stealing from children. 
-Shady Fixer:    Sneaking into Yzbeth's palace wasn't hard. Convincing the primarch to show me his vault was... 
-Witch Brewer:    Hey... those bags you're carrying... are they arcane salts? 
-Witch Brewer:    Oh, hey, it's little miss dipshit. I'll move these fragile potions out of the way if you don't mind. 
-Witch Brewer:    Ugh, you again. Lucky me there isn't much left for you to break. 
-Witch Brewer:    Still alive? There's a few healing pots left if you need, but don't expect any more to come. 
-Witch Brewer:    ...oh... for me?...
-Witch Brewer:    ...fine... I guess I'll accept your apology. These salts will ease my work a bit.
-Here's some ammo for the Pox in return. Just watch where you're shooting it. 
-Here's a Potion of Haste... I would've brewed something better if my gear hadn't been shattered. 
-Witch Brewer:    ...uhh... well. Apologies accepted. These salts will make my work a lot easier...
-Here something in return, I had this spare Pox ammo laying around. You might want it. 
-Here's a Potion of Stoneskin... it's not much, but I had to use the spare reagents to cover up for the mana. 
-Witch Brewer:    ...hey, thanks a bunch! These salts will help my brews catalyze much faster.
-Here's a little something in return, I had this spare Pox ammo laying around. Give 'em hell! Heh. 
-Here's a Potion of Might... this'll turn you into a fearsome killing machine! 
-Witch Brewer:    Quit buggering me! Can't you see how busy I am? 
-Witch Brewer:    Can't you see I'm busy? Let me be... 
-Witch Brewer:    Found a yeast bag? Uhh, I don't really need it, but I'm sure Ingrim could put it to good use. 
-Witch Brewer:    Off to face the Baron all by yourself? I'm suddenly not so mad I have to stay here and stir. 
-Witch Brewer:    So tired... I don't know for how long I've been awake since we can't even measure time here. 
-Witch Brewer:    My arms are stiff from all the stirring... at least now I can beat the Bears at armwrestling. 
-Witch Brewer:    So... hot... we'll start turning into raisins when the water runs out. Unless demons kill us first. 
-Witch Brewer:    Of course Zura didn't want to board the ship... she always has a reason to hang behind. 
-Witch Brewer:    I could've stayed in the port and help my chieftain collect demon guns for research, but noo... 
-Witch Brewer:    If we win this war, I better get my own alchemy shop in Valc. And an apprentice to torment. 
-Witch:    Yeah! Eat acid you freaks! 
-Witch:    Cultists are so pathetic! They can't match our weapons so they resort to surprise attacks. 
-Witch:    Still holding up, Halfblood? If you need healing, there should be a few spare potions around. 
-Witch:    That cannon behind us looks quaint... you're a siege engineer, aren't you? Can you use it? 
-Witch:    I've seen some crazy guns back in the port. Demons may be slow, but they adapt to war quickly. 
-Witch:    I saw a demon shooting a Pox! He'd load potions from the end of the barrel and... boom! What an idiot! 
-Witch:    We never thought we'd find our own supplies among the demons. They are quite the hoarders. 
-Bear Warrior:    For the Iron Division! 
-Bear Warrior:    The cultists are getting desperate! All they can do is throw meat in the grinder. 
-Bear Warrior:    You're earning your scars very quickly, Bonebreaker. Share some tales with us! 
-Bear Warrior:    I'm ready to stomp some cultist scum! Try not to kill them all by yourself, eh? 
-Bear Warrior:    I can't believe we got so far. No army has ever dreamed of reaching the Core of Hell. 
-Bear Warrior:    We truly are the strongest clan of orcs! We put all of the wild orc tribes to shame! 
-Bear Warrior:    Imagine what glory awaits us once we slay the Baron! The bards will praise our name! 
-Reaver:    Mow them down! 
-Reaver:    If we keep getting attacked like this, we'll be dead before we reach the Baron's citadel. 
-Reaver:    Taking a break? I feel you. Just don't get caught off guard by Grund, she's on the edge. 
-Reaver:    I hope the Earth Mothers' protective ward reaches this far... demons might jump us anytime. 
-Reaver:    Is it true that Tiati got possessed by Nithriel? Grund wouldn't let us get near her cage. 
-Reaver:    It's crazy how these mind magic freaks can just work you like a puppet. Poor Tiati... 
-Reaver:    We killed a Psi Demon back in the port... or so I thought. When I checked the body, I heard whispers. 
-Bear Warrior:    *Growls* 
-Bear Warrior:    Wretched cultists! They're coming out of the white ashes, I'm telling you! 
-Bear Warrior:    Enjoying Hell, sarge? This place is a plague on the bottom of the Underworld. 
-Bear Warrior:    Keep an eye on those piles of white ash! Don't breathe in too hard around 'em. 
-Bear Warrior:    My throat is dry already. How do the cultist bastards survive without water here? 
-Bear Warrior:    I thought Hell was only a myth... looks like it's real. And just as bad as I imagined. 
-Bear Warrior:    I can bear the fire and brimstone... but those white ashes... I swear they are cursed! 
-Captain Dura:    Why haven't you crossed that portal yet? You can do this, warrior. Don't hesitate. 
-Captain Dura:    Our scouts have failed us... this is what happens when we fail to obey orders. 
-Captain Dura:    You're lucky to be the only reliable halfblood around. You really pissed Grund off. 
-Captain Dura:    I see more and more of us are giving in to bloodlust and overstepping our orders. 
-Captain Dura:    We are the strongest warriors of the Underworld. That's might, wit and discipline. 
-Captain Dura:    I wonder where Eraanthe is now. I doubt she'd be willing to team up with you, though. 
-Captain Dura:    I know it was the Queen of Wrath who piloted the boat, but you should've waited for us. 
-Captain Dura:    The Gods must favor you and Tiati if they save you from certain death even down here. 
-Captain Dura:    We crammed everyone on a trading ship and sailed off here. We're few, but we're angry. 
-Captain Dura:    The future of our world is decided here. I expect you to be at your absolute best now. 
-Bear Warrior:    Thank you, Halfblood. Here... take these boltmags, I won't be needing them anymore. 
-Bear Warrior:    Thank you, Halfblood. Here... take this amulet... it belonged to my dead squad mate... 
-Bear Warrior:    I may have survived, but my honor hasn't. Grund will have me whipped after I recover. 
-Bear Warrior:    If you hadn't found me, the demons could have assaulted our camp without any warning! 
-Bear Warrior:    I hope you get a better shot at being a hero than I did. Strike the Baron for us all! 
-Bear Warrior:    I'll end up scrubbing the bathhouse if we return to Valc. Still, it's better than Hell. 
-Bear Warrior:    Hail, Bonebreaker! I bet Hell is quaking under your boots already! 
-Bear Warrior:    Earth strengthen your arm! Strike the heart of the Baron and crown our victory! 
-Bear Warrior:    We may die of thirst, but our axes won't! Let's keep them drenched in blood! 
-Bear Warrior:    We've fought so long and hard! Once we conquer the demons, everyone will honor our name! 
-Bear Warrior:    Earth's might, Bonebreaker! Give the demons and their human thralls no quarter! 
-Bear Warrior:    Whadaya think of the effigies? We should prop some impaled cultists around Valc too! 
-Bear Warrior:    The cultists barely opposed our landing. We crushed them like bugs and took the camp. 
-Bear Warrior:    These defenses are pretty worn out. The inhabitants of Hell must infight quite a lot. 
-Witch:    Zura went crazy when she realised what Tiati had done. After Lith's precedent, I can relate to her. 
-Witch:    Killing the Baron will resolve the demonic threat, but the corruption won't be going anywhere... 
-Witch:    The Seed could help us understand how the corruption came to be... I hope it wasn't lost in fire. 
-Witch:    Our ship only had room for a few dozen troops. Grund picked us because we're the Division's finest. 
-Warlord Grund:    Stop wasting time, sergeant. We won't be able to hold this place much longer. 
-Warlord Grund:    Why are you still here?! Get your ass in there and get the job done, warrior! 
-Warlord Grund:    You better be prepared. The Baron is bound to have many tricks up his sleeve. 
-Warlord Grund:    Poison won't work against demons, sergeant. Get whatever gear you can and move it. 
-Warlord Grund:    This is the fight of your life, give it everything you've got! 
-Warlord Grund:    For the Iron Division! Return to us with victory! 
-Warlord Grund:    Primarchs are the closest thing a demon has to gods. They embody every aspect of evil. 
-Warlord Grund:    Nobody knows how the primarchs appeared. They rarely involve themselves with mortals. 
-Warlord Grund:    I don't like this primarch deal, but Lord Murguth insists that you obtain their taint. 
-Warlord Grund:    Our tales only mention the requirement of demon blood to reach the Icon's throne... 
-Warlord Grund:    Never forget where your heart and honor belong. You are a warrior of the Iron Divison. 
-Warlord Grund:    If you really must make deals with the primarchs, at least don't let them corrupt you. 
-Warlord Grund:    What? One of the primarchs asked you for an Elixir of Life? How did he... absolutely not! 
-Warlord Grund:    The primarchs are playing with you! They couldn't have known about the Elixir... 
-Warlord Grund:    Do not insist, sergeant. I made myself clear. There are some lines that we don't cross. 
-Warlord Grund:    The Elixir of Life is a sacred part of our clan. I will not let it fall into demon hands. 
-Warlord Grund:    If you're so curious about the Elixir, ask Breaza. I don't have time for history lessons. 
-Advisor:    Make sure the forest is clear. You don't want to get flanked after you pass through the portal. 
-Advisor:    Make use of our presence here while you can. We won't be able to aid you inside the citadel. 
-Advisor:    Don't underestimate the Baron. Once you're inside his lair, he has every advantage over you. 
-Advisor:    I'm sure Nithriel and the Baron are looking to backstab each other. Try to isolate them. 
-Advisor:    We drafted a map of the area from the documents we found. The primarch shrines are marked on it. 
-Advisor:    We have cleared out the south coast but we don't have enough troops to hold a larger area. 
-Advisor:    The Baron's citadel lies past the northern forest. Most of the attacks seem to come from north. 
-Advisor:    Mmm, there's a small port to the north west. They could ship in reinforcements from there too... 
-Advisor:    The demons have a giant salt mine nearby. Many slaves have met their cruel end there. 
-Advisor:    We believe some of our own who were taken prisoner ended up in the mine. They're long dead now... 
-Tiati:    Zan?... is that you? I... I'm so sorry. I couldn't control myself... thank the Earth you survived! 
-Tiati:    I wanted to warn you earlier, but you left in a rush. Be careful... I don't like this a single bit. 
-Tiati:    My connection to Nithriel has flared up. I can feel her at the top of the citadel... she's... evolving? 
-Tiati:    Something changed... it's like the faint dot in the back of my head has burst into a thousand more. 
-Tiati:    You're walking into a death trap. But no death trap has stopped you so far, right? Good luck, Zan... 
-Tiati:    I don't even know what happened... I just felt my mind invaded by Nithriel's whispers... and demands. 
-Tiati:    Lith's betrayal makes much more sense to me now... it was so hard to resist. It almost drove me amok! 
-Tiati:    Guess I know why Nithriel didn't finish me off back at the Crystal Heart... she needed a new agent. 
-Tiati:    When the port assault started, Nithriel made her move... she made me steal that Corrupt Seed and flee. 
-Tiati:    She worked me like a puppet! I mustered all my willpower to blow the ship up... it was a desperate act. 
-Tiati:    I somehow survived and woke up on the island. I'm so glad you made it! But Nithriel is here too... 
-Tiati:    Since I can feel the warlock, I can track her too. This is why Grund spared my life and put me here. 
-Tiati:    ...Nithriel and the Baron aren't alone. The shadowy figure... it is imprisoned inside the citadel. 
-Crystal Curator:    I'd love to join you in this final fight, but I must stay here and overlook the ward. 
-Crystal Curator:    After all we've been through, I know one thing - If someone can kill the Baron, it's you. 
-Crystal Curator:    Retrieve the Crystal Disk at all costs. Victory is pointless if we return to a dying home. 
-Crystal Curator:    Equip yourself well now. You'll have to use your weapons and artifacts to their fullest. 
-Crystal Curator:    I hope Grund wasn't as harsh with you as she was with me. But she is right. We had orders. 
-Crystal Curator:    I should have steadied my desire to recover the Disk... alas, we risked and we failed. 
-Crystal Curator:    Our bloodlust is a double-edged blade. If we lose our wits, it turns against us. 
-Crystal Curator:    If Nithriel is here, then so is the Disk. We have one last chance to set things right. 
-Crystal Curator:    I can't believe how reckless Tiati was, blowing that ship up. I pray the Disk is intact. 
-Crystal Curator:    The Gods have shielded you from the blast!... your crystal amulet must've helped too. 
-Grand Earth Mother Breaza:    I see my prayers have been answered once again. So relieved to see you, Zan... 
-Grand E.M. Breaza:    Saying our farewells? Don't make this too hard for me, Zan... 
-Grand E.M. Breaza:    Whatever you do, return from the citadel alive. Don't make me come after you. 
-Grand E.M. Breaza:    I have no advice left to give. You've been long preparing for this... you know the best. 
-Grand E.M. Breaza:    The warriors are waiting for you... and so does your destiny. Make us proud. 
-Grand E. M. Breaza:    You're looking for an Elixir of Life? Grund has one, but she'd never part with it... 
-Grand E.M. Breaza:    Over five hundred rotations ago, the Iron Division was born from the Fountain of Life. 
-Grand E.M. Breaza:    A group of warriors discovered the legendary fountain. The water revived our dying clan. 
-Grand E.M. Breaza:    The elixir flows in our very blood now, granting us strength... and life. A very long life. 
-Grand E.M. Breaza:    We must protect the secret of our nature. The elixir is as sacred to us as the Crystal Disk. 
-Grand E.M. Breaza:    The water enlightened our minds. It led us underground, where we discovered the Crystal Heart. 
-Grand E.M. Breaza:    Grund speaks true... we can't let the elixir fall into demon hands. It would be dishonorable. 
-Grand E.M. Breaza:    If there is no other way... I won't interfere. But think about it twice before you... take it. 
-Grand E.M. Breaza:    We broke the old orcish laws when we drank the water. And for that, we paid the price. 
-Grand E.M. Breaza:    We're exhausted from having to fly over the fire sea... it was quite a task guiding the ship. 
-Grand E.M. Breaza:    There is no time to rest. We will grow this grove against all odds, until it drains us dead. 
-Grand E.M. Breaza:    Now I see what Hell is like... if we don't slay the Baron, our home will look just the same. 
-Grand E.M. Breaza:    Keeping this crystal ward alive is no easy task... if only we had our Sacred Disk back. 
-Grand E.M. Breaza:    I felt something was wrong with Tiati. I tried to keep her close but alas, she slipped off. 
-Grand E.M. Breaza:    We did our best to heal Tiati's mind, but we aren't versed in the schools of self magic. 
-Grand E.M. Breaza:    Our elemental might is great, but nature has laws. We don't cure madness, nor raise dead. 
-Grand E.M. Breaza:    Be careful, Zan. You may be strong, but our foes are close to their source of power here. 
-Minotaur Axeman:    The tunnel leading to Grund's camp has collapsed, you'll have to wait for me to clear it. 
-Minotaur Axeman:    *Sings* Strike the earth, strike the stone. Strike until the gold's your own! 
-Minotaur Axeman:    Remember your oaths, warrior. You are here to remove the Baron, not take his place. 
-Minotaur Axeman:    We are all doing our duty. Grund's warg has shown a temper worthy of a true warrior. 
-Minotaur Axeman:    It took me a while to clear the tunnel. We should have brought more pickaxes with us. 
-Minotaur Axeman:    I keep grinding my horns against the rock. Mining was easier when I was a calf... 
-Minotaur Axeman:    We may be few, but we're ready to fight to the last. Our sacrifices will be remembered. 
-Minotaur Axeman:    If you require access to the warlord's quarters, you better get her permission. 
-Minotaur Axeman:    Mining is a rite of passage for our calves. Adults are too big to fit through a gallery. 
-Minotaur Axeman:    I witnessed a cultist peeking at us from above the canyons. They are afraid of us. 
-Minotaur Axeman:    I caught that shady Fixer poking around here earlier. She's never up to any good. 
-Minotaur Axeman:    I bet it was the demons who collapsed the tunnel. They don't dare fight us fairly. 
-Minotaur Axeman:    It is an honor to be here. We shall cleanse the fire sea from demons and avenge our dead! 
-Minotaur Axeman:    *Squints at you* 
-Earth Mother:    *Chanting* 
-Lady Ingrim:    Oh, you found yeast? I'm cut off from the still, but once the tunnel is cleared, I'll get brewin'. 
-Lady Ingrim:    Oh, you found yeast? This'll lift our spirits! I'll get brewin', drop by later for a drink. 
-Lady Ingrim:    Fresh brew, coming right up!
-I also found this potion inside the yeast bag. Heh, you must have stumbled upon a smuggler's den. 
-Lady Ingrim:    Hmm, I found this potion inside the yeast bag. A sign that you need to equip yourself well. 
-Lady Ingrim:    Sorry, praaks aren't allowed to drink here. 
-Lady Ingrim:     I'd give you a drink, but the fate of our world should remain in the hands of someone sober. 
-Lady Ingrim:    You are more than prepared for this, champion. Your finest moment of glory is in reach. 
-Lady Ingrim:    My late lord would have yearned to be here now. I know he's watching. All our fallen are. 
-Lady Ingrim:    Don't tarry. You'll have plenty of time for drinks and tales after you return. Victoriously. 
-Lady Ingrim:    I couldn't miss the chance to be here and see my fallen avenged. We're living a historic moment. 
-Lady Ingrim:    Icepeak will fight to the last drop of blood. One way or another, we'll carve a notch in history. 
-Lady Ingrim:    Grund wasn't fond of taking us non-combatants here, but I made her a good point about morale. 
-Lady Ingrim:    I may not have the best ingredients and utensils, but still, I won't let our army march hungry. 
-Lady Ingrim:    The cultists here look more malnourished than the usual. No wonder... all they eat is fungi. 
-Lady Ingrim:    My family brewed fungus ale during hard times. The Brewer Guild has averted a lot of unrest. 
-Lady Ingrim:    Look who made it! Help yourself to what you can. Our champion needs to be in top shape now. 
-Lady Ingrim:    [...] pungent yellow root?... are you sure?
-Maid:    If it worked for my mother, it should work for you... 
-Maid:    This place is a nightmare. The ashes make me miss brooming some good ol' dust. 
-Maid:    I don't even know why they dragged me here. Lady Ingrim said my presence lifts the spirits. Hah. 
-Maid:    These cultist animals always make a mess! They don't give a praak's ass about keeping things tidy. 
-Maid:    Are you really going into the Baron's castle all alone? What can I say, may the Gods protect you! 
-Dwarf Militia:    W...what do you want... hic! Demon! Have you... come to take me? Hic! Hahahah! 
-Dwarf Militia:    Go on... hic! Drag me away in chains. Hic! I'll pick their lock when I'm sober, hahaha! Hic. 
-Dwarf Militia:    Hic!... are you lost? If you can't find it in a cupboard, look it up in a book! Hic! 
-Dwarf Militia:    ...aye! Fate may lead you astray, but you own the legs that walk her path... hic! 
-High Priest Jaromir:    How was the baptism in the sea of flames? Fire Himself has forged you into a steel titan! 
-H.Priest Jaromir:    The chisel rests upon the stone, waiting for the hammer to strike. Strike victory, lass. 
-H.Priest Jaromir:    Don't let hesitation erode you. Your fate is already uttered, you need only write its words. 
-H.Priest Jaromir:    The millstone turns slowly, but it always makes a full turn. A new future is born today. 
-H.Priest Jaromir:    Do you need to hear more inspiring words? If not, then what're ya waiting for? Off with ye! 
-H.Priest Jaromir:    Demons keep throwing bodies at us. They feast on others' fear, but now... they are the ones afraid. 
-H. Priest Jaromir:    Stay awhile and rest your heels. But don't rest for too long, or the demons will get us! Hehe. 
-H.Priest Jaromir:    You can't reach the Baron's citadel  yet because your heart's virtue trumps your half-blood. 
-H.Priest Jaromir:    If the primarchs try to trick you, trick them back! That'll prove them you're demon enough. 
-H.Priest Jaromir:    The Queen of Wrath will have an easier time getting there... but can we trust her motives? 
-H.Priest Jaromir:    Like icy water breaking the rock apart, the primarchs will undoubtedly try to erode your heart. 
-H.Priest Jaromir:    I hope you built your walls strong, lass. May they protect your soul in the trial that lies ahead. 
-Dwarf Shieldguard:    Hey lass, here, I found this tank in a locker before we left out ancient town.
-There ain't much water to drown in around Hell, but I heard the fungus caves to the west are full of gas! 
-Dwarf Shieldguard:    Arf! Hell's worthy of its denizens. Look at this place! Despicable! Dirty! Barren! 
-Dwarf Shieldguard:    If I slay two more dozen chaots, I'll surely make a name for meself! Let me at 'em! 
-Dwarf Shieldguard:    Bonebreaker... is it true ya got yer name from wrestling down a warg barehanded? 
-Dwarf Shieldguard:    I already miss our lost town. At least the cold didn't make me want to throw my armor off. 
-Reaver:    I can't believe the lookouts failed to send a runner back! Grund should've sent me up there instead. 
-Reaver:    If the Baron is so powerful, why doesn't he just come out of his lair? He must be up to something... 
-Reaver:    Our forest scouts have located the Baron's citadel. It's guarded by a cursed gate that boils your blood. 
-Reaver:    Not sure if I'm losing my mind or not, but I saw beams of light erupting from the citadel's direction. 
-Reaver:    We would all love to challenge the Baron, but it looks like you're going to have to face him alone. 
-Workshop Boss:    Going up against the Baron? Remember, the mind freaks can't do shit against our sentry guns. 
-Workshop Boss:    What's up, big girl? Aren't you supposed to be searching for the primarch shrines or something? 
-Workshop Boss:    This place sucks. I'd rather be sweating my ass over the Great Forge back home, thank you. 
-Workshop Boss:    We couldn't carry our siege weapons here. We might have to... relieve the demons of their own. 
-Workshop Boss:    I took a good look at the Paingun. Crazy how the demons have managed to copy our crystal designs. 
-Workshop Boss:    I wonder if Nithriel... I mean she's an elf... and the crystals... and the temple you found... 
-Workshop Boss:    It's hard to stay focused in here. I gotta hurry up and fix this sentry before our scouts return. 
-Workshop Boss:    Breaking this Paingun down was easy... now, to put it back together... ugh, I can't stay focused. 
-Hectus:    You found an Iron-Bound Tome? Show me!...
-*Browses the tome and squints*
-If only I had the materials to craft some of these weapons. Ah, but there is one little thing I can make...
-A token of my gratitude. This ring will make you kick harder than a minotaur and punch like a god. 
-Hectus:    If you're going to challenge the Baron, remember - the sharpest weapon is your wit. 
-Hectus:    Warlord Grund was displeased with your recklessness. But yet, you emerged from the fire, forged anew. 
-Hectus:    Watch how gently I strike. Steady your arm, and the steel will bend. Strike too hard... and boom. 
-Hectus:    We couldn't carry many supplies here. I'm forced to work with pig iron scrapped from the cultists. 
-Hectus:    I am grateful for the tome, but it serves us little purpose other than being a peculiar showpiece. 
-Hectus:    Legends tell of an iron-bound tome with forbidden schematics that was lost in the libraries of Hell... 
-Hectus:    This is but one island of Hell's archipelago. How many dark secrets have the demons buried here? 
-Hectus:    Meddling with the primarchs is beneath us... but I won't question Lord Murguth's findings. Carry on. 
-E. M. Bendi:    Oh, dear, that's a lot of mana! I don't condone the use of cursed artifacts, but... just this once.
-I kept these scrolls for desperate times, but now that we have mana, you can have them! Earth's blessings! 
-Earth Mother Bendi:    Watch your step, please! The seeds have a hard time sprouting as it is... 
-Earth Mother Bendi:    ...A Spirit Gem? Oh, right! Give me a moment and I'll have your Psi Crown recharged!
-There you go! This should protect you from the Baron's mind magic... at least for a while. 
-E.M. Bendi:    So you're off to fight the Baron? Remember, he's a mind master. Shield yourself with the Psi Crown! 
-E.M. Bendi:    So you're off to fight the Baron? The Psi Crown would have been useful, but alas, you'll make do. 
-E.M. Bendi:    The soil is cursed, no plant can grow by itself in this inferno. We're using magic to form a grove. 
-E.M. Bendi:    Thanks for providing us with mana. It's nice that we won't have to drain ourselves to death... yet. 
-E.M. Bendi:    Water alone can't nurture the seeds here - mana has been helpful, but our reserves are spent. 
-E.M. Bendi:    Our magics were aided by crystals when growing Valc's Grove. Without the Disk, we are feeble. 
-E.M. Bendi:    The Cult is terrible at growing crops or keeping livestock. They rely on demons to keep them fed. 
-E.M. Bendi:    There's nothing to hunt here. Except for demons, of course... but they certainly taste terrible! 
-E.M. Bendi:    Did you know that demons can go without eating for ages? As long as they leech on peoples' misery... 
-Fixer:    Not now, sarge! We've got demons to kill! 
-Fixer:    I wonder who built these portals. They don't look demon-made, and cultists don't seem to use them. 
-Fixer:    This island hides a lot of secrets. Have you seen the obelisks? They have some sort of code going on. 
-Fixer:    I think juxtaposing the obelisks' inscriptions will reveal the riddle. If only we could find them all... 
-Fixer:    I heard ancient humans once fought the demons here. They must've long been converted into cultists. 
-Bear Warrior:    Give them no ground! For the Iron Division! 
-Bear Warrior:    Hold your axe high, Bonebreaker! Strike the beast's heart, we'll keep the rabble off your back. 
-Bear Warrior:    Hell looks scarred from infighting. Without the Baron's fist, demons would be killing each other. 
-Bear Warrior:    A week wouldn't pass here without some local pit lord trying to overthrow the seat of power. 
-Bear Warrior:    Cultists may be assholes, but at least they don't backstab their kin in the middle of a fight. 
-Witch:    Watch out for the Forge Elementals! They're trying to flank us. 
-Witch:    The dark citadel is guarded by a blood gate. When we approached it, our veins began to burn. 
-Witch:    Demons are masters of torture. Some things I've seen here make the testing labs in Valc look pleasant. 
-Witch:    Cultists have grown accustomed to pain, so their masters need fresh spirits to feed upon the misery of. 
-Witch:    Nothing motivates a demon like hunger. The Baron has promised an endless feast through conquest. 
-Minotaur Pyromancer:    Tread lightly, Halfblood. The dead have no rest down here, in Hell. 
-Minotaur Pyromancer:    The soil is cursed. We can't bury our dead here, so I preserve their bodies in amber. 
-Minotaur Pyromancer:    Our fallen deserve a proper burial. But until we return home, their spirits fight on. 
-Minotaur Pyromancer:    A worthy warrior will live forever among the Gods. Embrace your death with honor! 
-Wounded Fixer:    ... 
-Wounded Shieldguard:    Nay, I won't remove me armor! What if the demons gate in right next to me?! 
-Wounded Shieldguard:    I'd rather die from one o' the blue babes. Me shield won't stop 'er bullets anyway. 
-Wounded Shieldguard:    Have ya' seen them blazing? The pretty flesh burns off, leaving ugly bones behind. 
-Wounded Shieldguard:    Fifty of me ancestors died by demon claw! I've two more to kill to clear our name! 
-Bear Warrior:    I can't believe you blew up the Baron's ship! Bet he had to fly for the rest of the trip. 
-Bear Warrior:    We fished Tiati from a piece of debris. When she told us what happened, Grund locked her up. 
-Bear Warrior:    Thank the Earth you survived. We can stomp the serpent's body, but only you can cut the head. 
-Bear Warrior:    The Queen of Wrath is already out there mingling with those primarchs. You better catch up! 
-Minotaur Axeman:    Travel swiftly out there. Our foes have many doors, while we have few eyes. 
-Minotaur Axeman:    Hell burns with the souls of countless sacrifices. If you hear them call, move faster. 
-Minotaur Axeman:    The hearth of the Underworld shall be purged of demons and restored to the true god - Fire. 
-Minotaur Axeman:    Beware of deceivers. The most evil demons are not the ones who fight, but the ones who talk. 
-Fixer:    When the Baron's ship exploded, the fleet was thrown off course. Heh, you and Tiati caused a mess. 
-Fixer:    We've travelled very far. I came all the way from the Parapet and ended at the bottom of the earth... 
-Fixer:    I never liked the Underworld that much. I miss chilling by the mountain side and watching the stars. 
-Fixer:    The Overworld doesn't even know what's going on down here... yet here's where their fate is decided. 
-Fixer:    I never imagined I'd see someone jump from ship to ship like you did. Y-you're a real badass! 
-Fixer:    Grund yelled at us for leaving our troops behind. Hey, we were just trying to stop the Baron! 
-Fixer:    She's right though, I'm pretty sure I'm not supposed to be here. T-this place is so scary! 
-Fixer:    The heat makes me think of the frost goblins who live near Icepeak. I'd rather be among them now. 
-Earth Mother:    We're all relieved to see you made it. I wish I could join you again, but I'm needed here... 
-Earth Mother:    We're almost out of mana so it's back to using the good old plants to heal the wounded. 
-Earth Mother:    At least I don't need to wait for the herbs to dry... the plants here are already dry as dust. 
-Earth Mother:    I doubt I'll find any fae to shake dust out of down here. At least the fungi grow aplenty. 
-Bear Warrior:    You worked wonders using the demons' cannons against them. I mean... you are a siege engineer. 
-Bear Warrior:    You gonna go back to drafting catapult parts once this is over? War has changed quite a bit... 
-Bear Warrior:    I fought to defend Valc. I fought to avenge our fallen sisters. I'll fight to save our world. 
-Bear Warrior:    Argh, I'm thinking to much about home! We still have one more fight to make it out of. 
-Bear Warrior:    Iron shield you! With you back at our side, we have new hope to claim our victory! 
-Bear Warrior:    Grund scolded us for going after the Baron by ourselves. We did kinda give in to bloodlust... 
-Bear Warrior:    This is a legendary moment! Our deeds here will forever remain engraved in stone! 
-Bear Warrior:    Fight hard and we might become warlords ourselves... take on the mantle of our fallen leaders! 
-Reaver:    We're close to putting an end to this campaign. I expect some desperate moves from the demons. 
-Reaver:    I really hate Hellions and their Painguns... our shield amulets can't keep up with the bullets. 
-Reaver:    I wonder if guns will become popular with the demons now. So far, they've mostly stuck to magic. 
-Reaver:    The demon grunts surely love their Hellclaws. I heard the glove part is made from their own skin grafts. 
-Reaver:    It was great fighting alongside you, but Grund wants us to hold the camp, so you're solo now. 
-Reaver:    I don't regret us going after the Baron on our own... it was worth a shot, and you lived anyway. 
-Reaver:    If the Baron didn't fear for his life, he wouldn't be holed up in his cursed citadel, right? 
-Reaver:    Nobody seems to trust the Queen of Wrath anymore. She obviously has her own agenda. 
-Witch:    For half a millenia I've worked on explosives and I've never seen a fireball as big as the one you caused. 
-Witch:    We earned a worthy victory in the port town, given they were surprisingly well prepared for our attack. 
-Witch:    Zura must've had a fit when she found out the Seed was gone. Lucklily for Tiati, she's not around now. 
-Witch:    I'd love to join you again, but Grund wants us here. After Tiati's episode, she's keeping a keen eye on us. 
-Eraanthe:    How did you even acquire the taints so quickly? And why are you rubbing it in my face now?! 
-Eraanthe:    Oh, you want to tease me, don't you? *Pouts her lips* You're such a tough smurf, aren't you? 
-Eraanthe:    In case you haven't noticed, I haven't given my sword away yet! Do you really want to taste it? 
-Eraanthe:    Don't you have a Baron to kill? Afraid it's you who's going to die? Don't worry, I'll do the job. 
-Eraanthe:    *Gasps* You actually found it? Wait for me behind the antechamber, I'll be there in a moment.
-Eraanthe:    There we go. Now, for my end of the deal... let's get this over with. I have a Baron to kill!
-Elzriel:    ...hot. 
-Eraanthe:    You know... I've been thinking about your request and we might be able to help each other out... 
-Eraanthe:    What? Adur wants you to bed a demonblood? Hah! Or maybe?... maybe we could help each other out... 
-Gaun will let me keep my sword if I offer an equally precious one instead. A ruby sacrificial sword more exactly.
-I was given this key. Allegedly, there's a tomb down in the salt mine to the north east where the sword could be.
-Be a dear and have a look for it. Save me the effort and I might just use that energy to help you out. Hmph. 
-Eraanthe:    Why are you still here?! Do you want to work this deal out or not? 
-Eraanthe:    As I said, the tomb is down below in the salt mine, north east of here. 
-Eraanthe:    Now, I don't know whether the sword even exists or not. That's why I'm sending you after it. 
-Eraanthe:    I'm still bargaining with Gaun, by the way. Hurry up and find that sword before the deal's off. 
-Eraanthe:    A salt statue?! Really? That's it? Oh, he's given you an easy task just to spite me, I bet! 
-Eraanthe:    What? Adur asked you to rut a demon and you came to me?... Hah! I'm not that desperate... yet. 
-Eraanthe:    Dumb oaf! What were you thinking?! Blowing the Baron's ship only gave him a push to fly away! 
-Eraanthe:    What do you want now? Can't you see I'm in the middle of something? Stay out of my pentagram! 
-Eraanthe:    It turns out we halfbloods aren't demon enough to enter the Baron's citadel. Us? Too pure? Pft! 
-Eraanthe:    Must I really put up with the demands of the demon primarchs to prove that I'm worthy of passage? 
-Eraanthe:    I have already appeased four of the primarchs, but this maggot won't let me challenge the Baron! 
-Eraanthe:    Gaun won't give me the taint unless I offer my sword on the altar. I can't relinquish my weapon! 
-Eraanthe:    Enjoy the time you have to catch up. Sooner or later, I'll convince this worm to grant me passage. 
-Eraanthe:    I won't let you steal my pleasure of slitting the Baron's throat! Stop getting in the way already! 
-Reaver:    We're ready for action. Let's crush the demons for a thousand years to come! 
-Reaver:    Cleared the way already? It sounded like a hell of a fight out there. 
-Reaver:    We're close! The portal is just to the north! 
-Witch:    We're close to the portal! I can already feel my blood boil... 
-Lancer:    The portal is close! I can feel its foul aura from here. 
-Earth Mother:    We're near the portal! I can feel the spirits of the sacrificed writhe already. 
-Bear Warrior:    The portal is right around the corner! Charge! 
-Fixer:    The portal is close! You can do it, Zan! 
-Lancer:    This is as far as my body can go, Zan. Only you can end this war now! 
-Earth Mother:    We can't go any further, Zan. Only you can end this war! May the Gods protect you! 
-Fixer:    Urgh! I don't think I'm getting any closer to that citadel, Zan. You're on your own now! 
-Reaver:    This is as far as we can go, sergeant. Once you pass that portal, you're on your own. 
-Witch:    Ugh. I can feel my veins writhe! I won't go far past that portal and live, Bonebreaker. 
-Bear Warrior:    I hate staying back, but we can't get past the portal. It's up to you now, sarge. 
+与加恩会面时，半血统者往往通过请求展示奢华物品来体现其最深层的傲慢。
+阿杜尔是掌管心与情感的心之原教。众所周知，恶魔是无与伦比的诱惑者，总能精准地牵动人心。那些渴望承受她污秽之人需证明自己具备相同的说服力。混血人最好做好准备，寻找一位愿意教授这门技艺的恶魔。
+
+
+埃尔兹瑞尔是金之原教。获得他接见的人会迅速学会如何挥霍他们辛苦赚来的财富——因为原教通常要求的是整笔财富，除非混血人能谈出更好的条件。
+
+斯科拉格是掌管转化与改变的转化原教。那些幸运获得接见之人将很快面临考验——因为斯科拉格以思维混乱著称，有时只能在半血统者处于梦境状态时与其接触。他无疑会要求稀有、诱人且效力强大的物质。
+
+
+埃鲁丁是诡计原教。她展现出恶魔最可怕的特质：常要求半血统者割裂羁绊并放弃任何形式的忠诚。她难以安抚，但所授技艺价值非凡。[...]
+
+亡灵护腕 - 100克
+力量药水 - 100克
+暗影护符 - 70克
+治疗药剂 - 15克
+元素戒指 - 80克
+石肤药水 - 35克
+熔岩球卷轴 - 10克
+轻甲护符 - 75克
+储物袋 - 350克
+地狱爪 - 15克
+弹药箱 - 20克
+尖刺 - 5克
+碎火罐 - 15克
+酸药盒 - 25克
+毒药盒 - 35克
+弹夹 - 25克
+轻甲护符 - 75克
+储物袋 - 350克
+.oO   ‘碎骨者’瓒的日志   Oo.
+> 被困。需要寻找食物并确定方位
+> 进入图腾巢穴需要从五位原教主那里获得污渍：
+> 加恩 -
+> 阿杜尔 -
+> 埃尔兹瑞尔 -
+> 斯科拉格 -
+> 埃鲁丁 -
+> 进入图腾巢穴需要从五位原教主那里获得污渍：
+> 加恩 - 绿色 - 想要一座我的猩红盐雕像
+> 阿杜尔 - 紫色 - 想让我诱惑一位恶魔之血
+如果我找到一把献祭用的剑，埃拉安瑟会帮助我
+> 埃尔兹瑞尔 - 金色 - 想让我向他提供300枚金币
+> 斯科拉格 - 蓝色 - 想要生命药剂和死神药剂
+> 埃鲁丁 - 红色 - 想让我实施一场血腥背叛
+一只受伤的熊让我警告我们的营地有袭击
+埃伯伦让我打开他堡垒旁边的门
+> 港口幽灵请求我用他的吊坠找到他的兄弟们
+> 阿贝顿说我要获得3块灵魂钥匙碎片才能削弱男爵
+> 一名被困在画中的长枪兵请求我救她
+> 结束这场战争的时候到了。男爵城堡正等待着我。
+牛头人领主穆尔古斯：    混血人！我知道你会来。
+牛头人领主穆尔古斯：    哦……我想我们的处境太沉重了，你承受不住。
+牛头人斧兵：    你！我的眼睛欺骗我了吗？……进来吧，领主穆尔古斯需要见你。
+熊战士：    碎骨者！你总是从死里复活，对吧？进来吧，穆尔古斯在找你。
+熊战士：    ……算了。
+牛头人领主穆尔古斯：    自从上次见面以来，你的伤疤又多了不少，混血人。欢迎回来与我们同在。
+在这里测量时间很困难，但我们可以确定，我们抵达地狱核心的时间比你晚了几天。
+男爵城堡位于北方不远处。他的爪牙已准备就绪，但这并非唯一的障碍。
+从数千次献祭中汲取的邪恶能量笼罩着图腾王座，沸腾着入侵者的血液。
+正如你所知，唯有恶魔之血才能希望无损抵达城堡……我能从你眼中看到一丝火花。
+暂时压抑这怒火吧。你的恶魔血脉只能带你走到一半，这是我从这本书中学到的。
+文本记载，混血人必须承受五种恶魔污染才能获得进入城堡的许可。
+你的心中必须背负罪孽——为此，你需要前往恶魔原教主的神殿。
+加恩、阿杜尔、埃尔兹瑞尔、斯科拉格和埃鲁丁。他们是你必须安抚的五位原教主。但听我的忠告：
+他们是混乱与罪孽的编织者，势必会试图腐蚀你。用智慧赢得他们的青睐。
+快点行动吧。愤怒女王已经领先于你，但我们无法像信任你一样信任她。
+如果我们不在此处斩杀男爵，混沌军团将征服世界。去吧！让火焰在你心中燃烧！
+按使用键跳过简报
+牛头人领主穆尔古斯：    你若没有五位原教主的污染，便无法抵达男爵身边。这本书会告诉你更多……
+队长杜拉：    我正纳闷你何时才会出现……等等，什么？我们的哨兵陷入麻烦了？
+该死！好吧，我会派一队人上去清理残局。至于你，进来吧，格伦德想见你。
+队长杜拉：    你来晚了，中士……那哨兵小队到底发生了什么？他妈的，地球的怜悯啊……
+快点进去！格伦德想和你谈谈……
+队长杜拉：    我正纳闷你何时才会出现……进来吧，格伦德想和你谈谈……
+男巫格伦德：    所以，你还活着。也许下次你决定甩下我们时，就不会这么幸运了。
+除非你想像提娅媞那样被困在那边的笼子里，否则最好仔细听我说……
+我们现在正处在敌人的心脏地带。一个野蛮、炽热且无情的巨兽。我们几乎撑不住了。
+本可以多带些补给或部队，但因为你的缘故少了一艘船。至于提娅媞的失误……
+格...所以穆尔古斯已经告诉你关于恶魔原教的事了。我个人对恶魔的故事完全不信任……
+...但我会给你一个机会获得他们的祝福、污染或任何东西，只要能帮你杀死男爵。
+一天时间。这就是你准备的时间。一旦我发起最后进攻，你最好立刻出现在这里。
+我不依赖愤怒女王。你会是冲锋的主力。明白了吗？很好。退下吧。
+队长杜拉：    你来晚了！血战已经开始！那哨兵小队到底怎么了？这他妈一团糟……
+按使用键跳过简报
+男巫格伦德：    无论你是否安抚原教主，你只有一天时间。然后，我们就要发起致命一击。
+掠夺者：    瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
+并保持低调。森林里到处都是恶魔……
+掠夺者：    瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
+掠夺者：    该死，瓒，别在我面前死了！！！
+男巫格伦德：    中士，时间不等人了。恶魔们正在发动大规模进攻。我们必须立刻行动。
+你们上来了！我希望安抚原教主值得偷走我的药剂并毒害我的狼灵……
+你们上来了！我希望安抚原教主值得无视并从上级身上偷取……
+顾问：    探子报告说，大量恶魔正从男爵城堡中 march 出来……
+男巫格伦德：    并且塔尖燃起烈焰。提娅媞惊慌失措……他们正在准备什么。
+别浪费时间了！中士，这就是你实现命运的时刻！你一生中最重要的一战！
+带领我们的军团击退恶魔！然后穿过那个传送门，彻底解决男爵！
+为了我们阵亡的姐妹们！为了瓦尔克！以荣誉战斗！以骄傲战斗！为铁军而战！
+掠夺者：    我们不会辜负你，姐妹们！来吧，瓒，我会带你去我们的小队。带领我们取得胜利！
+男巫格伦德：    利用森林地形，我们会守住其他路线。大地庇佑你们！
+长枪兵：    我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
+我有东西给你……在画中被困期间，我的水晶聚集了过量的能量……
+我把能量注入这枚护符装甲中。拿去吧，还有我的感激之情。现在出发吧！战斗正在等我们！
+女巫：    恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
+按使用键跳过简报
+长枪兵：    我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
+我有东西给你……在画中被困期间，我的水晶聚集了过量的能量……
+我把能量注入这枚护符装甲中。拿去吧，还有我的感激之情。现在出发吧！战斗正在等我们！
+女巫：    恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
+阴暗修复者：    有只鸟告诉我，格伦德那里有你需要的东西。我或许能帮上忙。
+阴暗修复者：    嘿，你是否需要那种赤红盐？我可以从你这儿买一些……
+阴暗修复者：所以，你想花掉这些金币吗？价格都在这里的小板上。
+阴暗修复者：别小气啊……你永远不知道格伦德什么时候会没收这些东西。
+阴暗修复者：如果你想打男爵的主意，现在就得装备起来。光有钱也救不了你命。
+阴暗修复者：这会派上大用场。
+阴暗修复者：是个好选择。
+阴暗修复者：有了这些装备，你会成为一台杀戮机器。
+阴暗修复者：金币花得值。
+阴暗修复者：武装的兽人就是快乐的兽人。
+阴暗修复者：给你。
+阴暗修复者：这会让你受益匪浅。
+阴暗修复者：我拿钱，你拿命。
+阴暗修复者：给你，玩得开心点。
+阴暗修复者：金币花得值。
+（你用15枚金币购买了地狱爪）
+（你用100枚金币购买了亡灵护腕）
+阴暗修复者：抱歉，宝贝。没有金币，就没戏。
+（你用20枚金币购买了弹药箱）
+（你用100枚金币购买了力量药水）
+阴暗修复者：如果你买不起，我也卖不出去。
+（你用5枚金币购买了几根尖刺）
+（你用70枚金币购买了暗影护符）
+阴暗修复者：我知道你想买，但不能白送。
+（你用15枚金币购买了碎火罐）
+（你用15枚金币购买了治疗药剂）
+阴暗修复者：这个世界没有免费的东西，宝贝。这就是规则。
+（你用25枚金币购买了酸药盒）
+（你用80枚金币购买了元素戒指）
+阴暗修复者：这个世界没有免费的东西，宝贝。这就是规则。
+（你用35枚金币购买了毒药盒）
+（你用10枚金币购买了熔岩球卷轴）
+阴暗修复者：不不不。你需要金币才能从这家店买东西。
+（你用25枚金币购买了弹夹）
+（你用35枚金币购买了石肤药水）
+阴暗修复者：抱歉，宝贝，看来你买不起。
+（你用75枚金币购买了轻甲护符）
+阴暗修复者：价格都在小板上，宝贝。你会数数吧？
+阴暗修复者：这可是值得拥有的神器。我甚至装了一点弹药，专门为你准备的，宝贝。
+（你用350枚金币购买了储物袋）
+阴暗修复者：抱歉，宝贝，我不打算降低袋子的价格。你清楚它每枚硬币都值这个。
+熊战士：嘿，你不能就这样没收我们的金币！
+掠夺者：是啊，她可以，笨蛋！呃……我们大家都没事吧，上尉？不需要让格伦德知道这件事，对吧？
+你没有合适的食材来混合这种物质。
+狼灵：*嗅了嗅碗*
+狼灵：*发出威胁性的低吼*
+牛头人斧兵：我听说狼灵对你在场感到不满。你应该先获得格伦德的许可才能去那里。
+你没有能用来刺激肝脏的物质。
+（你抚摸了狼灵）
+E.M.本迪：瓒，这非常友善。虽然不多，但每一点都算数！
+E.M.本迪：瓒，这非常友善。一滴魔力比从诅咒酒杯中倒出的大杯魔力更公平！
+桶底有一些魔力的痕迹。
+修复者：呃……恶魔正在进攻！看起来有很多敌人正涌来！
+熊战士：站稳阵脚！碎骨者与我们同在！为了铁军！
+领主穆尔古斯：野兽已被逼入绝境并流血。战士，你准备给予致命一击了吗？
+领主穆尔古斯：如果原教主未能动摇你的心志，男爵也会如此。你已准备好直面他了。
+领主穆尔古斯：你屠杀了混沌军团，留下一条燃烧的血路。你值得这份荣耀！
+领主穆尔古斯：为何拖延不可避免的命运？现在就行动吧，趁你的火焰最为炽烈！
+领主穆尔古斯：你已获得五种恶魔污染。唯有坚强的心脏才能承受这般邪恶之重。
+领主穆尔古斯：男巫格伦德掌握着原教神殿的地图，但她的营地已被我们切断联系。
+领主穆尔古斯：你的征途进展如何，战士？原教主们是否已满足了他们的要求？
+领主穆尔古斯：你的心或许已准备好，但你的钢铁意志呢？男爵仍拥有强大的力量。
+领主穆尔古斯：一场剧烈的地震摧毁了连接我们营地的隧道，将我们与外界隔绝。
+领主穆尔古斯：有些人听到了来自城堡的低语。男爵在召唤我们的鲜血。
+领主穆尔古斯：这座岛屿位于地狱的核心地带。一个值得恶魔栖息的地方。
+领主穆尔古斯：火海填满了地下世界的最深层。我们曾到达过的最低点。
+领主穆尔古斯：当我们跨过那座地狱般的桥梁时，便已将熟悉的世界抛在身后。或许永远无法再回去。
+领主穆尔古斯：恶魔在这片炽热的群岛中繁衍生息。就连火法师也难以承受这股高温。
+领主穆尔古斯：没有任何军队能入侵此地。我们当初出征时就该明白这一点。
+领主穆尔古斯：我读到过关于这里古代人类建造的神庙的故事。那是元素之神力量的见证。
+阴暗修复者：给你。混入猪肝，格伦德的灵狼最喜欢这个。记住——这可不是从我这儿白拿的。
+阴暗修复者：你需要毒药来酿造更复杂的配方？好吧，只要能帮我们逃出这个洞穴……
+阴暗修复者：这是块大盐岩。五十枚金币换它。
+阴暗修复者：这次只给你四十枚。要还是不要？
+阴暗修复者：不想毒死那条狗？除非你有别的办法让它睡着，否则毒药就是我唯一能提供的了。
+阴暗修复者：找到你要的东西了吗？你欠我的。记住，我没提供毒药——也没给任何建议。
+阴暗修复者：我们遗落在那个原教地窖里的黄金实在太多了，简直让我夜不能寐。
+阴暗修复者：我一直在努力……回收我们在第一次战役中失去的物资。
+阴暗修复者：恶魔太愚笨了，无法发明东西。这也是为什么他们如此渴望得到我们的装备。
+阴暗修复者：赚点小钱又不会伤及任何人。反正这些装备已经不在任何物资清单上了。
+阴暗修复者：邪教徒对他们的财物如此漠视……我感觉自己像是在偷孩子们的东西。
+阴暗修复者：潜入伊兹贝思的宫殿并不困难。说服原教展示他的地窖……
+女巫酿造师：嘿……那些你背的袋子……难道是魔力盐吗？
+女巫酿造师：哦，嘿，小傻瓜。如果你不介意的话，我先把这些易碎的药水挪开。
+女巫酿造师：啧，又是你。幸好剩下不多能让你打碎的东西了。
+女巫酿造师：你还活着？如果需要的话还有一些治疗药剂，但别指望还能再拿到更多了。
+女巫酿造师：……哦……给我？……
+女巫酿造师：……好吧……我想我接受你的道歉了。这些盐会让我工作轻松一些。
+这是些瘟疫弹药作为回报。只是注意你射击的方向。
+这是瓶迅捷药水……如果我的装备没被砸碎，我本可以酿制更好的东西。
+女巫酿造师：……呃……好吧。道歉已接受。这些盐会让我的工作轻松很多……
+这里还有点东西作为回报，我之前留着一些瘟疫弹药。你可能需要它。
+这是瓶石肤药水……虽然不多，但为了弥补魔力不足，我只能用备用材料来凑合。
+女巫酿造师：……嘿，多谢啦！这些盐会让我的酿造过程催化得更快。
+这里还有点小礼物，我之前留着一些瘟疫弹药。让他们尝尝地狱滋味！呵呵。
+这是瓶力量药水……这会让你变成可怕的杀戮机器！
+女巫酿造师：别烦我！你没看到我在忙吗？
+女巫酿造师：你没看到我在忙吗？让我安静一会儿……
+女巫酿造师：找到酵母袋了？呃，其实我不太需要它，但因格利姆说不定能用得上。
+女巫酿造师：一个人去面对男爵？我突然就不那么生气了，不用在这里搅拌了。
+女巫酿造师：好累……我们连时间都无法测量，不知道已经清醒了多久。
+女巫酿造师：手臂都僵硬了，全是搅拌的功劳……至少现在能赢熊族掰手腕了。
+女巫酿造师：这么……热……水用完时我们会变成葡萄干。除非恶魔先杀了我们。
+女巫酿造师：当然祖拉不想上船……她总是有理由躲在后面。
+女巫酿造师：我本可以在港口帮酋长收集恶魔火枪做研究，但算了……
+女巫酿造师：如果打赢这场战争，我一定要在瓦尔克开间自己的炼金铺子，还要个徒弟来折磨。
+女巫：Yeah！吃酸吧你们这些怪胎！
+女巫：邪教徒太 pathetic 了！他们武器打不过我们，就只能偷袭。
+女巫：混血人，还能撑住吗？如果你需要治疗，应该还有一些备用药剂。
+女巫：我们身后的那门大炮看起来有点老式……你是攻城师吧？能用它吗？
+女巫：我在港口见过一些奇怪的武器。虽然恶魔行动缓慢，但它们能迅速适应战争。
+女巫：我看到一个恶魔在发射瘟疫弹药！他会从炮管末端装填药剂……轰！真是个蠢货！
+女巫：我们从未想过会在恶魔中找到自己的补给。它们还真是囤积狂。
+熊战士：为了铁军！
+熊战士：邪教徒已经绝望了！他们只能把肉块扔进磨盘。
+熊战士：碎骨者，你很快就该获得伤疤了。给我们讲讲你的故事吧！
+熊战士：我准备踩碎这些邪教徒渣滓！别一个人全灭他们，知道吗？
+熊战士：我们居然能走到这里，简直难以置信。没有军队曾幻想过抵达地狱核心。
+熊战士：我们真是兽人中最强大的族群！连所有野蛮兽人部落都比不上我们！
+熊战士：想象一下，一旦我们斩杀男爵，会获得怎样的荣耀！吟游诗人必将传颂我们的名字！
+掠夺者：碾碎他们！
+掠夺者：如果一直这样被攻击，我们会在抵达男爵城堡前就死光。
+掠夺者：休息一下？我懂你的感受。但别被格伦德偷袭，她已经逼近边缘了。
+掠夺者：希望大地之母的防护屏障能覆盖到这里……恶魔随时可能突袭我们。
+掠夺者：提娅媞真的被妮丝瑞尔附身了吗？格伦德连靠近她的笼子都不让。
+掠夺者：这些心灵恶魔真是疯狂……他们能像提线木偶一样操控你。可怜的提娅媞……
+掠夺者：我们在港口杀了一个心灵恶魔……或者我这么以为。当我检查尸体时，听到有低语声。
+熊战士：*低吼*
+熊战士：可恶的邪教徒！他们从白灰中爬出来，我告诉你！
+熊战士：上尉，你享受地狱吗？这里简直是地下世界的瘟疫。
+熊战士：留意那些白灰堆！别太靠近它们呼吸。
+熊战士：我的喉咙已经干了。这些邪教徒杂种怎么能在没有水的地方生存？
+熊战士：我以为地狱只是传说……看来是真的。而且比我想像中还要糟糕。
+熊战士：我能忍受火焰和硫磺……但那些白灰……我发誓它们是被诅咒的！
+队长杜拉：你还没穿过那个传送门？战士，你能做到的。别犹豫。
+队长杜拉：我们的侦察兵失败了……这就是我们不服从命令的后果。
+队长杜拉：你幸运地成为唯一可靠的混血人。你真的把格伦德惹恼了。
+队长杜拉：我看到越来越多的人屈服于血腥欲望，逾越了命令的界限。
+队长杜拉：我们是地下世界最强壮的战士。那是力量、智慧和纪律的结合。
+队长杜拉：我想知道埃拉安瑟现在在哪里。我不认为她愿意与你并肩作战。
+队长杜拉：我知道是愤怒女王驾驶的那艘船，但你本该等我们。
+队长杜拉：诸神一定偏爱你和提娅媞……连在这里都能救你一命。
+队长杜拉：我们将所有人塞进一艘贸易船上，驶向这里。我们人数虽少，但怒火滔天。
+队长杜拉：我们世界的未来就决定于此。我期待你能发挥出绝对的实力。
+熊战士：谢谢，混血人。来……拿这些弹夹，我不再需要它们了。
+熊战士：谢谢，混血人。来……拿这枚护身符……它曾属于我的阵亡战友……
+熊战士：我或许活了下来，但荣誉却已不复存在。格伦德会在我不知情的情况下鞭打我。
+熊战士：若不是你找到我，恶魔们可能会毫无预兆地突袭我们的营地！
+熊战士：希望你能比我更有机会成为英雄。为我们所有人，击倒男爵吧！
+熊战士：如果回到瓦尔克，我可能得打扫浴室。不过，这总比地狱好。
+熊战士：致敬，碎骨者！我打赌地狱已经在你脚下颤抖了！
+熊战士：大地的力量强化你的手臂！击碎男爵的心脏，为我们的胜利加冕！
+熊战士：我们可能会渴死，但我们的战斧绝不会！让它们继续浸染鲜血吧！
+熊战士：我们已经奋战这么久这么艰难！一旦征服恶魔，所有人都会敬重我们的名字！
+熊战士：大地的伟力，碎骨者！给恶魔和他们的仆从留下零分！
+熊战士：你觉得那些雕像怎么样？我们也在瓦尔克周围竖立一些被钉死的邪教徒吧！
+熊战士：邪教徒几乎没抵抗我们的登陆。我们像碾碎虫子一样击败他们并占领了营地。
+熊战士：这些防御工事已经破败不堪。地狱的居民一定经常互相争斗。
+女巫：祖拉在意识到提娅媞做了什么后彻底疯了。根据利思的例子，我能够理解她。
+女巫：杀死男爵能解决恶魔威胁，但腐败不会就此消失……
+女巫：种子或许能帮助我们了解腐败是如何产生的……我希望它没有被火焚毁。
+女巫：我们的船只能容纳几十名士兵。格伦德选择我们是因为我们是军团中最优秀的。
+男巫格伦德：中士，别浪费时间了！我们恐怕撑不了多久了。
+男巫格伦德：你为什么还在这里？！快进去完成任务，战士！
+男巫格伦德：你最好做好准备。男爵肯定有许多诡计藏在袖子里。
+男巫格伦德：毒药对恶魔无效，中士。拿走你能拿到的装备，立刻行动！
+男巫格伦德：这是你一生中最重要的一战！全力以赴吧！
+男巫格伦德：为了铁军！带着胜利归来！
+男巫格伦德：原教主是恶魔最接近诸神的存在。他们完美诠释了邪恶的每一个方面。
+男巫格伦德：没人知道原教主是如何出现的。他们极少干涉凡人的事务。
+男巫格伦德：我不喜欢这场原教交易，但领主穆尔古斯坚持要你获取他们的污染。
+男巫格伦德：我们的传说只提到需要恶魔血液才能抵达图腾王座……
+男巫格伦德：永远记住你的心与荣誉属于何处。你是铁军的战士。
+男巫格伦德：如果你真的必须与原教主交易，至少别让他们腐蚀你。
+男巫格伦德：什么？一个原教主向你要生命药剂？他是怎么……绝对不行！
+男巫格伦德：原教主们在戏弄你！他们不可能知道生命药剂的事……
+男巫格伦德：别再坚持了，中士。我已经说得很清楚了。有些界限我们不能跨越。
+男巫格伦德：生命药剂是我们族中神圣的一部分。我绝不会让它落入恶魔之手。
+男巫格伦德：如果你对生命药剂这么好奇，就去问布里扎吧。我不需要上历史课。
+顾问：确保森林清理干净。穿过传送门后可别被包围了。
+顾问：趁现在利用我们的存在。我们无法在城堡内帮你。
+顾问：不要低估男爵。一旦你进入他的巢穴，他将占据所有优势。
+顾问：我确信妮丝瑞尔和男爵正等着互相背后捅刀。试着孤立他们。
+顾问：我们根据找到的文件绘制了区域地图。原教神殿的位置都标记在上面。
+顾问：我们已清理了南岸区域，但兵力不足无法守住更大范围。
+顾问：男爵城堡位于北方森林以北。大部分攻击似乎都来自北方。
+顾问：嗯……西北方向有个小港口。他们也可以从那里运送增援部队……
+顾问：恶魔们附近有一座巨型盐矿。许多奴隶在那里惨死于酷刑。
+顾问：我们相信一些被俘的同伴最终也被关进了矿井。他们早已死去……
+提娅媞：瓒？……是你吗？我……我真的很抱歉。我当时无法控制自己……感谢大地，你活下来了！
+提娅媞：我想早点警告你，但你当时仓促离开。小心点……我对这一切一点都不喜欢。
+提娅媞：我与妮丝瑞尔之间的联系突然变得强烈了……我能感受到她在城堡顶端……她……在进化吗？
+提娅媞：有什么变化……就像后脑勺那个微弱的光点突然爆裂成上千个。
+提娅媞：你正走向一个死亡陷阱。但到目前为止，还没有什么能阻止你，对吧？祝你好运，瓒……
+提娅媞：我甚至不知道发生了什么……我只是感觉我的意识被妮丝瑞尔的低语入侵了……还有她的要求。
+提娅媞：利思的背叛现在对我来说更有意义了……当时抵抗得那么艰难。它几乎让我精神崩溃！
+提娅媞：我想明白了为什么妮丝瑞尔在水晶之心没杀我……她需要一个新代理人。
+提娅媞：当港口突袭开始时，妮丝瑞尔采取了行动……她让我偷走那颗腐化种子然后逃走。
+提娅媞：她把我当提线木偶一样操控！我拼尽全力炸毁了那艘船……那是绝望的举动。
+提娅媞：我 somehow 生存了下来，在岛上醒来。真 glad 你平安无事！但妮丝瑞尔也在这里……
+提娅媞：既然我能感知到巫师，我也能追踪她。这就是格伦德为何饶我一命并把我放在这里的原因。
+提娅媞：……妮丝瑞尔和男爵并非孤身一人。那个影子人物……它被囚禁在城堡内。
+水晶管理员：我很想加入你们最后的战斗，但必须留在这里监督屏障。
+水晶管理员：经历了这么多，我知道一件事——如果有人能杀死男爵，那一定是你。
+水晶管理员：无论如何都要取回水晶圆盘。若我们回到垂死的家园，胜利毫无意义。
+水晶管理员：现在装备好自己吧。你必须充分发挥武器和神器的力量。
+水晶管理员：我希望格伦德没像对我那样严厉对待你。但她是对的。我们有命令要执行。
+水晶管理员：我本该稳住想要取回圆盘的欲望……唉，我们冒险了却失败了。
+水晶管理员：我们的贪欲是一把双刃剑。如果失去理智，它就会反噬我们。
+水晶管理员：如果妮丝瑞尔在这里，那么圆盘也一定在此。我们还有最后一次机会扭转局势。
+水晶管理员：我简直不敢相信提娅媞的鲁莽，炸毁那艘船……我祈祷圆盘完好无损。
+水晶管理员：诸神已为你挡下爆炸！……你的水晶护符想必也起了作用。
+伟大的大地之母布里扎：我看到我的祈祷再次应验了。见到你真让我松了一口气，瓒……
+伟大的E.M.布里扎：在道别吗？别让这太难为我，瓒……
+伟大的E.M.布里扎：无论你做什么，从城堡活着回来。别让我去追你。
+伟大的E.M.布里扎：我已经没什么建议可给了。你早已做好了充分准备……你知道怎么做最好。
+伟大的E.M.布里扎：战士们在等你……你的命运也在等待着你。让我们为你感到骄傲。
+伟大的E.M.布里扎：你在寻找生命药剂？格伦德有一瓶，但她绝不会交出它……
+伟大的E.M.布里扎：五百年多前，铁军从生命之泉诞生。
+伟大的E.M.布里扎：一群战士发现了传说中的泉源。那水让我们的族群重获新生。
+伟大的E.M.布里扎：如今生命药剂已融入我们的血脉，赋予我们力量……以及生命。一种极其漫长的生命。
+伟大的E.M.布里扎：我们必须守护我们的秘密。生命药剂对我们而言神圣，如同水晶圆盘一般。
+伟大的E.M.布里扎：那水启迪了我们的智慧。它引导我们深入地下，发现了水晶之心。
+伟大的E.M.布里扎：格伦德说得没错……我们绝不能让生命药剂落入恶魔之手。这将是耻辱。
+伟大的E.M.布里扎：如果别无他法……我不会阻拦你。但你在……取走它之前，请再三思量。
+伟大的E.M.布里扎：当我们饮下那水时，打破了旧有的兽人律法。为此，我们付出了代价。
+伟大的E.M.布里扎：我们不得不飞越火海……引导船只的任务相当艰巨。
+伟大的E.M.布里扎：没有时间休息。我们会不惜一切代价培育这片林地，直到它耗尽我们的生命。
+伟大的E.M.布里扎：现在我明白了地狱是什么样子……如果我们不击败男爵，我们的家园将与从前毫无二致。
+伟大的E.M.布里扎：维持这道水晶屏障的生机绝非易事……若能找回圣盘该多好。
+伟大的E.M.布里扎：我察觉到提娅媞有些不对劲。我试图拉近她的距离，但无奈她还是溜走了。
+伟大的E.M.布里扎：我们尽力治愈提娅媞的心智，但我们并不精通自我魔法的学派。
+伟大的E.M.布里扎：我们的元素之力强大，但自然自有其法则。我们无法治愈疯狂，也无法起死回生。
+伟大的E.M.布里扎：小心点，瓒。你或许很强，但我们的敌人正接近他们的力量源泉。
+牛头人斧兵：通往格伦德营地的隧道塌了，你得等我清理完才能通过。
+牛头人斧兵：*唱着* 击打大地，击打岩石。击打直到黄金归你所有！
+牛头人斧兵：记住你的誓言，战士。你在此是为了铲除男爵，而非取代他的位置。
+牛头人斧兵：我们都在履行职责。格伦德的灵狼展现出了真正战士的怒火。
+牛头人斧兵：我花了不少时间才清理完隧道。我们本该带更多鹤嘴锄来的。
+牛头人斧兵：我一直用角磨蹭岩石。当年我还是小牛犊时，采矿可轻松多了……
+牛头人斧兵：我们虽寡，却誓与敌人血战到底。我们的牺牲将被铭记。
+牛头人斧兵：若你需要进入男巫府邸，最好先征得她的许可。
+牛头人斧兵：采矿是幼崽的成人礼。成年牛头人太庞大，无法通过隧道。
+牛头人斧兵：我曾在峡谷上方目睹一名教徒偷窥我们。他们惧怕我们。
+牛头人斧兵：我早些时候抓到那个阴暗修复者在此徘徊。她从不做好事。
+牛头人斧兵：我赌是恶魔毁了这条隧道。它们不敢与我们公平决斗。
+牛头人斧兵：能站在这里是莫大荣誉！我们将净化火海中的恶魔，为逝者复仇！
+牛头人斧兵：*眯眼盯着你*
+大地之母：*吟唱*
+因格利姆女士：哦，你找到了酵母？我暂时无法酿酒了，但等隧道清理完，我就开始酿造。
+因格利姆女士：哦，你找到了酵母？这会提振我们的士气！我会马上酿酒，稍后来喝一杯吧。
+因格利姆女士：新鲜的酒酿，马上奉上！
+我还在酵母袋里发现了这个药水。嘿，你一定是偶然闯入了走私者的藏身之处。
+因格利姆女士：嗯，我在酵母袋里发现了这个药水。这是你需要好好装备的信号。
+因格利姆女士：抱歉，普拉克人不能在这里喝酒。
+因格利姆女士：我想给你喝一杯，但世界的命运应该由清醒的人来掌控。
+因格利姆女士：你已做好充分准备，冠军。你的荣耀时刻即将来临。
+因格利姆女士：我已故的领主此刻若在场定会欣慰。我知道他正在注视着我们。所有阵亡的战友也都在这里。
+因格利姆女士：别耽搁了。你返回后还有充足时间饮酒叙旧，胜利归来时再畅谈。
+因格利姆女士：我怎能错过见证战友复仇的机会？我们正经历历史性的一刻。
+因格利姆女士：冰峰会拼尽最后一滴血奋战到底。无论何种方式，我们终将在史册上刻下印记。
+因格利姆女士：格伦德本不喜带非战斗人员前来，但我用士气说服了她。
+因格利姆女士：我虽缺乏最佳原料与器具，但绝不会让军队饿着肚子行军。
+因格利姆女士：这里的邪教徒看起来比寻常更营养不良。难怪……他们只吃菌类。
+因格利姆女士：我家族在困难时期曾酿造菌类啤酒。酿酒公会成功平息了诸多动荡。
+因格利姆女士：看谁来了！随意取用你需要的物资吧。我们的冠军现在必须保持最佳状态。
+因格利姆女士：……浓烈的黄色根茎？……你确定吗？
+侍女：如果对我的母亲有效，对你应该也适用……
+侍女：这里简直是个噩梦。这些灰烬让我怀念打扫些干净的灰尘。
+侍女：我甚至不知道为何把我带到这里。因格利姆女士说我的存在能提振士气。哈！
+侍女：这些邪教徒家伙总是弄得一团糟！他们连普拉克人的屁都不在乎，懒得保持整洁。
+侍女：你真的要独自进入男爵的城堡吗？唉，愿诸神保佑你！
+矮人民兵：呃……你想干什么…… hic！恶魔！你……来抓我吗？ hic！哈哈哈！
+矮人民兵：去吧…… hic！把我用锁链拖走。 hic！等我清醒了就撬开他们的锁，哈哈哈！ hic。
+矮人民兵： hic！……你迷路了吗？如果找不到，就查书啊！ hic！
+矮人民兵： ……对！命运或许会误导你，但你拥有踏出这条路的双腿…… hic！
+高阶祭司贾罗米尔：火焰之海中的洗礼如何？火神亲自将你锻造成钢铁巨人！
+高阶祭司贾罗米尔：凿子已置于石上，等待锤击。出击吧，姑娘。
+高阶祭司贾罗米尔：不要让犹豫侵蚀你。你的命运已被宣告，只需书写它的篇章。
+高阶祭司贾罗米尔：磨盘转动缓慢，但终会完成一圈。今日，一个新的未来诞生了。
+高阶祭司贾罗米尔：你还想听更多鼓舞人心的话吗？若不想，那还等什么？快走吧！
+高阶祭司贾罗米尔：恶魔们不断向我们投掷尸体。他们以他人的恐惧为食，但如今……他们才是害怕的一方。
+高阶祭司贾罗米尔：暂且休息片刻，让双脚歇一歇。不过别太久，否则恶魔们会找到我们的！呵呵。
+高阶祭司贾罗米尔：你尚无法抵达男爵城堡，因为你的善良之心战胜了半血之躯。
+高阶祭司贾罗米尔：如果原教主试图欺骗你，就反将他们一军！这将证明你足够恶魔般狡猾。
+高阶祭司贾罗米尔：愤怒女王前往那里会更轻松……但我们可以信任她的动机吗？
+高阶祭司贾罗米尔：如同冰水侵蚀岩石，原教主们无疑会试图腐蚀你的心脏。
+高阶祭司贾罗米尔：希望你筑起了坚固的城墙，姑娘。愿它们在即将到来的试炼中守护你的灵魂。
+矮人盾卫：嘿，姑娘，给你，我离开古老城镇前在储物柜里找到这个水桶。
+地狱周围没多少水能淹死人，不过我听说西边的真菌洞穴里满是气体！
+矮人盾卫：呜哇！地狱配得上它的居民。看看这地方！可憎！肮脏！荒芜！
+矮人盾卫：如果我能再斩杀二十多个混沌生物，我肯定能扬名立万！让我上吧！
+矮人盾卫：碎骨者……你那名字真的是从徒手制服狼灵得来的吗？
+矮人盾卫：我已经想念我们失去的小镇了。至少寒冷没让我想脱下铠甲。
+掠夺者：我简直不敢相信哨兵没能派信使回来！格伦德本该派我去那里的。
+掠夺者：如果男爵如此强大，为何他不直接从巢穴中现身？他一定在谋划什么……
+掠夺者：我们的森林侦察队已锁定男爵城堡。它被一道诅咒之门守护，这道门会沸腾你的血液。
+掠夺者：不确定我是不是疯了，但我觉得城堡方向有光柱喷涌而出。
+掠夺者：我们都想挑战男爵，但看起来你得独自面对他。
+工坊老板：要对抗男爵？记住，那些精神错乱者根本无法对抗我们的守卫炮。
+工坊老板：嘿，大姑娘？你不是该去寻找原教神殿吗？
+工坊老板：这地方真他妈糟糕。我宁愿在家大锻炉上流汗，谢谢。
+工坊老板：我们没法带重型武器过来。也许得……从恶魔手里夺回它们的装备。
+工坊老板：我仔细看了下痛击枪。真是疯狂，恶魔居然能复制我们的水晶设计。
+工坊老板：我 wonder 如果妮丝瑞尔……我是说她是个精灵……还有这些水晶……以及你发现的那个神殿……
+工坊老板：这里很难保持专注。我得赶紧修好这守卫，不然侦察队回来就麻烦了。
+工作坊老板：拆解这痛击枪很容易……现在要重新组装……呃，我实在没法集中精神了。
+赫克图斯：你找到了铁封典籍？给我看看！……
+*翻阅典籍并眯眼凝视*
+若我有材料打造其中一些武器就好了。啊，但有一件小事我可以做……
+这是我的谢礼。这枚戒指会让你踢得比牛头人还猛，拳力堪比神明。
+赫克图斯：如果你要挑战男爵，记住——最锋利的武器是你的智慧。
+赫克图斯：男巫格伦德对你鲁莽的行为感到不满。但你却从烈焰中重生，重铸了自我。
+赫克图斯：看我如何轻柔地击打。稳住手臂，钢铁便会弯曲。击打得过猛……砰！
+赫克图斯：我们无法携带太多补给来到这里。只能用从邪教徒那里搜集的废铁勉强应付。
+赫克图斯：我感谢这本典籍，但它对我们而言除了作为奇特展品外并无实际用途。
+赫克图斯：传说中有一本铁封典籍，内含被禁的图纸，在地狱图书馆中遗失……
+赫克图斯：这里只是地狱群岛中的一个岛屿。恶魔们在此埋藏了多少黑暗秘密？
+赫克图斯：干涉原教主的事宜低人一等……但我不质疑领主穆尔古斯的研究成果。继续行动吧。
+E.M.本迪：哦，天哪，这魔力可真多！我并不赞成使用诅咒神器，但……就这一次吧。
+我保留这些卷轴是为了紧急时刻，但现在我们有了魔力，你可以拿去啦！大地的祝福！
+大地之母本迪：请小心脚下！种子本来就难以发芽……
+大地之母本迪：……灵石？哦，对了！让我稍等片刻，我马上为你充能心灵王冠！
+给你！这应该能保护你免受男爵的心智魔法侵袭……至少暂时如此。
+E.M.本迪：所以你要去挑战男爵吗？记住，他是心灵大师。用心灵王冠保护自己！
+E.M.本迪：所以你要去挑战男爵吗？心灵王冠会很有用，但唉，你只能靠其他方式了。
+E.M.本迪：这里的土壤被诅咒了，没有植物能自行生长在这地狱般的环境中。我们正在用魔法打造一片林地。
+E.M.本迪：感谢你提供魔力。至少我们现在不必耗尽自己生命……暂时还行。
+E.M.本迪：单靠水无法滋养这些种子——魔力帮了大忙，但我们的储备已经见底了。
+E.M.本迪：我们在培育瓦尔克丛林时借助水晶的力量，若没有圆盘，我们的魔力便微弱不堪。
+E.M.本迪：邪教在种植作物或饲养牲畜方面极其低效，他们依赖恶魔来维持生存。
+E.M.本迪：这里没什么可猎取的……除了恶魔当然——但它们的味道显然很糟糕！
+E.M.本迪：你知道吗？恶魔可以长时间不进食，只要它们能汲取人类的苦难……
+修复者：上尉！现在不是时候！我们还有恶魔要消灭！
+修复者：我很好奇是谁建造了这些传送门。它们看起来不像恶魔所为，邪教徒似乎也不使用它们。
+修复者：这座岛屿隐藏着许多秘密。你看到那些方尖碑了吗？它们上面刻有某种密码。
+修复者：我认为对照方尖碑上的铭文能揭示谜题。如果能找到所有铭文……
+修复者：我听说古代人类曾在此地与恶魔作战。他们恐怕早已被转化成了邪教徒。
+熊战士：给他们留不出立足之地！为了铁军！
+熊战士：碎骨者，高举你的斧头！击碎那怪物的心脏，我们会为你挡住杂兵。
+熊战士：地狱似乎因内斗而伤痕累累。若没有男爵的拳头，恶魔们恐怕早已自相残杀。
+熊战士：这里每周都会有人类深渊领主试图推翻权力中心。
+熊战士：邪教徒或许是混蛋，但至少他们在战斗中不会背叛自己的族人。
+女巫：小心锻造元素！它们正试图从侧翼包抄我们。
+女巫：黑暗城堡被血门守护着。当我们接近时，血管开始灼烧。
+女巫：恶魔是折磨的大师。这里有些景象让瓦尔克的测试实验室都显得温馨。
+女巫：邪教徒早已习惯痛苦，所以他们的大师需要新鲜的灵魂来汲取苦难。
+女巫：没有什么能比饥饿更能激励恶魔了。男爵承诺通过征服带来无尽盛宴。
+牛头人火系法师：混血人，小心行事。地狱深处的亡灵无法安息。
+牛头人火系法师：这里的土壤被诅咒了。我们不能在此埋葬死者，所以我用琥珀保存他们的遗体。
+牛头人火系法师：我们的逝者应得体面安葬。但直到我们返回家园，他们的灵魂仍会继续战斗。
+牛头人火系法师：一位值得尊敬的战士将在诸神中永生。以荣誉拥抱你的死亡吧！
+受伤的修复者：...
+受伤的盾卫兵：不，我不会脱下盔甲！如果恶魔们就在我的旁边开门呢？！
+受伤的盾卫兵：我宁愿被那些蓝色的小家伙杀死。我的盾牌也挡不住它们的子弹啊。
+受伤的盾卫兵：你见过那燃烧的景象吗？漂亮的肉被烧掉，只剩下丑陋的骨头。
+受伤的盾卫兵：我有五十位祖先死于恶魔利爪！我还要再杀两个才能洗清我们的耻辱！
+熊战士：我简直不敢相信你炸了男爵的船！他肯定得飞完剩下的旅程了。
+熊战士：我们从一块碎片中救出了提娅媞。她告诉我们发生了什么后，格伦德把她关起来了。
+熊战士：感谢大地让你活下来。我们能踩碎蛇身，但只有你能斩断它的头颅。
+熊战士：愤怒女王已经混入那些原教主之中了。你最好赶紧追上！
+牛头人斧兵：迅速行动吧。我们的敌人有无数门路，而我们仅有少数眼睛。
+牛头人斧兵：地狱因无数牺牲者的灵魂燃烧而炽热。若听到它们呼唤，就加快脚步。
+牛头人斧兵：地下世界的火源将被净化恶魔，重归真神——火焰。
+牛头人斧兵：警惕欺骗者。最邪恶的恶魔并非那些战斗者，而是那些说话者。
+修复者：当男爵的船爆炸时，舰队偏离了航线。嘿，你和提娅媞制造了一场混乱。
+修复者：我们已经走得很远了。我从城垛一路来到这里，竟到了地底……
+修复者：说实话我对地下世界并不太喜欢。我怀念在山边悠闲地待着、看星星的日子。
+修复者：上界甚至不知道这里发生了什么……而这里正是他们命运的决定地。
+修复者：我从未想过会看到有人像你这样从一艘船跳到另一艘船。你这家伙真是个狠角色！
+修复者：格伦德大喊着责备我们抛弃了部队。嘿，我们只是想阻止男爵而已！
+修复者：她说得对……我觉得我本不该出现在这里。这地方太吓人了！
+修复者：这里的炎热让我想起住在冰峰附近的冰霜哥布林。我宁愿现在和他们待在一起。
+大地之母：看到你平安归来我们都很欣慰。我很想再次加入你们，但这里需要我……
+大地之母：我们的魔力几乎耗尽了，只能重新依靠古老的植物来治疗伤者。
+大地之母：至少我不必等待草药风干……这里的植物早已像尘土一样干燥。
+大地之母：我怀疑这里能找到任何妖精帮我抖掉灰尘。至少菌类生长得足够多。
+熊战士：你用恶魔的大炮对抗敌人简直创造了奇迹。我说……你可是攻城师啊。
+熊战士：等这场战争结束后，你会回去继续设计投石机零件吗？战争已经改变了很多……
+熊战士：我为保卫瓦尔克而战，为复仇我们的姐妹们而战。我会为了拯救世界而战。
+熊战士：啊！我一直在想家！我们还得再打一场才能脱身。
+熊战士：有你站在我们这边！有了你的回归，我们重燃了夺取胜利的希望！
+熊战士：格伦德责备我们独自追击男爵。我们确实被复仇欲望驱使……
+熊战士：这是个传奇时刻！我们的事迹将永远铭刻在石碑上！
+熊战士：奋战到底，也许我们能成为军阀……继承我们逝去领袖的衣钵！
+掠夺者：我们即将结束这场战役了。我预料恶魔们会采取绝望的举动。
+掠夺者：我真的讨厌地狱之徒和他们的痛击枪……我们的盾牌护身符根本挡不住子弹。
+掠夺者：我猜恶魔们现在可能会开始喜欢枪械了。到目前为止，他们大多还是依赖魔法。
+掠夺者：那些恶魔杂兵肯定很爱他们的地狱爪。我听说手套部分是用他们自己的皮肤移植的。
+掠夺者：和你并肩作战真是一段美好的回忆……但格伦德让我们守住营地，所以现在你得独自行动了。
+掠夺者：我不后悔我们独自追击男爵……那是个值得尝试的赌注，而且你终究活了下来。
+掠夺者：如果男爵不害怕自己的性命，他也不会龟缩在诅咒城堡里吧？
+掠夺者：没人再信任愤怒女王了。她显然有自己的计划。
+女巫：我研究炸药已有半千年之久，却从未见过像你引发的那样巨大的火球。
+女巫：我们在港口小镇的胜利值得称道——他们居然意外地做好了应对我们攻击的准备。
+女巫：祖拉发现种子失踪时肯定气得跳脚。幸好提娅媞现在不在场，否则她恐怕会闹出什么幺蛾子。
+女巫：我很想再次与你并肩作战……但格伦德让我们留在这里。自从提娅媞那件事后，她对我们盯得很紧。
+埃拉安瑟：你究竟是怎么这么快就获得污染的？现在还故意在我面前炫耀？！
+埃拉安瑟：哦，你想逗我开心吗？*撅起嘴唇* 你这个小精灵还真是难缠呢，不是吗？
+埃拉安瑟：如果你还没注意到的话，我的剑至今还在手！你真的想尝尝它的滋味吗？
+埃拉安瑟：难道你没 Baron 要杀吗？害怕自己会死？别担心，我会替你完成任务。
+埃拉安瑟：*惊呼* 你真的找到了？等我一下，我在前厅后面等你，马上就好。
+埃拉安瑟：好了。现在轮到我的部分了……让我们结束这一切吧。我还有个男爵要杀！
+埃尔兹瑞尔：……热。
+埃拉安瑟：你知道吗……我一直在想你的请求，也许我们能互相帮助……
+埃拉安瑟：什么？阿杜尔让你和恶魔之血同床？哈！或者……或许我们能互相帮忙……
+如果我用一把同样珍贵的剑交换，加恩就会让我保留这把剑。更准确地说，是一把红宝石献祭之剑。
+我得到了这把钥匙。据说在北方盐矿深处有一座墓穴，那把剑可能就在那里。
+做个好孩子，帮我找找看。省去我的麻烦，我或许可以用这份能量帮你一把。哼。
+埃拉安瑟：你为什么还在这里？！你是要完成这笔交易还是想拖延时间？
+埃拉安瑟：正如我所说，墓穴就在盐矿深处，位于这里的东北方向。
+埃拉安瑟：现在，我不知道那把剑是否真的存在……这也是为何我要派你去寻找它。
+埃拉安瑟：顺便说一句，我还在和加恩讨价还价。快点找到那把剑，别让交易黄了。
+埃拉安瑟：盐雕？真的？这就是你要找的东西？哦，他一定是故意给你安排个轻松任务来气我！
+埃拉安瑟：什么？阿杜尔让你和恶魔交配，你却来找我？……哈！我还没 desperate 到那个地步……至少现在还不是。
+埃拉安瑟：笨蛋！你当时在想什么？！炸毁男爵的船只会让他的飞艇更轻松逃走！
+埃拉安瑟：你现在又想要什么？难道你看不出我在忙吗？别碰我的五芒星！
+埃拉安瑟：原来我们这些半血统者还不够恶魔，进不了男爵城堡。我们？太纯洁了？哼！
+埃拉安瑟：难道我真的要为了证明自己值得通行而屈服于恶魔原教主的要求吗？
+埃拉安瑟：我已经安抚了四位原教主，但这个蛆虫却阻止我挑战男爵！
+埃拉安瑟：除非我在祭坛上献出我的剑，加恩才不会给我污染。我不能放弃武器！
+埃拉安瑟：尽情享受你剩下的时间追查真相吧。迟早我会说服这个虫子让我通行。
+埃拉安瑟：我绝不会让你偷走我割断男爵喉咙的快感！快点让开，别挡道了！
+掠夺者：我们准备好了！让我们为千年的和平碾碎这些恶魔！
+掠夺者：道路已经清除了？外面那场战斗听起来像是地狱般的厮杀！
+掠夺者：我们快到了！传送门就在北边！
+女巫：我们接近传送门了！我已经能感觉到血液在沸腾……
+长枪兵：传送门很近！我甚至能从这里感受到它的腐臭气息。
+大地之母：我们快到传送门了！我能感觉到献祭者的灵魂正在扭动。
+熊战士：传送门就在转角处！冲啊！
+修复者：传送门很近！瓒，你能做到的！
+长枪兵：我的身体已经到达极限了，瓒。只有你能结束这场战争！
+大地之母：我们无法再前进，瓒。只有你能结束这场战争！愿诸神庇佑你！
+修复者：呃！我觉得我离那座城堡越来越远了，瓒。现在你只能独自面对了！
+掠夺者：我们只能走到这里了，中士。一旦你穿过那道传送门，就只能靠你自己了。
+女巫：呃！我感觉血管在抽搐！我绝不会越过那道传送门苟活下来，碎骨者。
+熊战士：我讨厌留在后面，但我们无法突破传送门。现在轮到你了，中士。

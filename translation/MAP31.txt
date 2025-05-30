@@ -1,0 +1,948 @@
+Welcome to Hedon's beta testing hub!
+欢迎来到赫顿的测试中心！
+
+Select a level by jumping in one of the pits and using the front wall.
+请跳入其中一个坑洞并利用前墙选择关卡。
+
+You will get the standard gear for the level once you jump, but you can
+跳跃后你会获得该关卡的标准装备，但也可以从这里房
+
+grab more items from the room here, though it's not advised for 1st runs.
+间中获取更多物品，不过首次体验不建议这么做。
+
+Please give me all your feedback and report bugs through ModDB comments
+请通过ModDB评论或发送邮件至hedongame@yahoo.com向我反馈
+
+or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
+所有意见和报告错误。谢谢，祝你玩得愉快！- 瓚
+
+Map01 - Cold Rock (Start Normally)
+地图01 - 冷岩（正常开始）
+
+Map02 - Plaza (Minor Spoilers)
+地图02 - 广场（轻微剧透）
+
+Map03 - Barracks (Minor Spoilers)
+地图03 - 兵营（轻微剧透）
+
+Map04 - Technical Space (Minor Spoilers)
+地图04 - 技术空间（轻微剧透）
+
+Map05 - Grove (Moderate Spoilers)
+地图05 - 林地（中等剧透）
+
+Map06 - Errant Signal (Major Spoilers)
+地图06 - 偏离信号（重大剧透）
+
+Map07 - Parapet (Moderate Spoilers)
+地图07 - 城垛（中等剧透）
+
+Map08 - Pale Wind (Major Spoilers)
+地图08 - 苍白之风（重大剧透）
+
+Map09 - Research and Decay (Major Spoilers)
+地图09 - 研究与腐朽（重大剧透）
+
+Map10 - Crystal Heart (Major Spoilers)
+地图10 - 水晶之心（重大剧透）
+
+Map11 - Deep Chill (Major Spoilers)
+地图11 - 深寒（重大剧透）
+
+Map12 - Mansion (Moderate Spoilers)
+地图12 - 庄园（中等剧透）
+
+Map13/14/15 - Besieged (Major Spoilers)
+地图13/14/15 - 被围攻的（重大剧透）
+
+Map14 - Brazen Bull (Major Spoilers)
+地图14 - 青铜公牛（重大剧透）
+
+Map15 - Deep Calls (Major Spoilers)
+地图15 - 深唤（重大剧透）
+
+Map16 - Port to Hell (Major Spoilers)
+地图16 - 通向地狱的港口（重大剧透）
+
+Map17 - Hellscape (Major Spoilers)
+地图17 - 地狱景观（重大剧透）
+
+Map18/19/20 - Paradise Lost (Major Spoilers)
+地图18/19/20 - 失落天堂（重大剧透）
+
+Map19 - Place Afoul (Major Spoilers)
+地图19 - 污秽之地（重大剧透）
+
+Map20 - Salt and Blood (Major Spoilers)
+地图20 - 盐与血（重大剧透）
+
+Map21/22 - Bloodrite (Major Spoilers)
+地图21/22 - 血祀（重大剧透）
+
+FIGHT!
+战斗！
+
+Terrain randomizer activated.
+地形随机化已启动。
+
+Random tips activated.
+随机提示已激活。
+
+Tip #35: Rocket jumping allows for shortcuts and different approaches of a level.
+提示#35：火箭跳可实现捷径和不同的关卡玩法。
+
+Tip #2: Blood/Gore effects can be turned off from Options - Display Options.
+提示#2：可通过选项-显示设置关闭血迹/血腥效果。
+
+Tip #3: You can set your automap style and colors from Options - Automap Options.
+提示#3：可在选项-自动地图设置中自定义自动地图样式与颜色。
+
+Tip #4: Using an Amulet of Shadows prevents seeker projectiles from locking on to you.
+提示#4：使用暗影护符可防止追踪弹药锁定你。
+
+Tip #5: Using an Elemental Ring gives you endless underwater breath.
+提示#5：使用元素戒指可获得无限水下呼吸能力。
+
+Tip #6: Potions of Might greatly reduce your ranged damage (except for melee throws) while active.
+提示#6：力量药水在生效期间会大幅降低你的远程伤害（除近战投掷外）。
+
+Tip #7: Weaker enemies attempt to flee when badly injured.
+提示#7：较弱的敌人在受到严重伤害时会尝试逃跑。
+
+Tip #8: Demons (like Cerberi and Pit Lords) are resistant to fire.
+提示#8：恶魔（如地狱犬和深渊领主）对火焰具有抗性。
+
+Tip #9: Some enemies may be immune to the Time Shard's freezing effect but their projectiles aren't.
+提示#9：某些敌人可能免疫时间碎片的冰冻效果，但它们的投射物不受影响。
+
+Tip #10: Enemies have different fields of view. A Cerberus can see well beyond 180 degrees, while a Crawler is more narrow sighted.
+提示#10：敌人的视野范围各不相同。地狱三头犬能看清超过180度的区域，而爬行者的视野较为狭窄。
+
+Tip #11: The game's Wiki page contains information you won't find in-game.
+提示#11：游戏的维基页面包含你在游戏中无法获取的信息。
+
+Tip #12: You can always review messages in the console (DEFAULT: Tilde).
+提示#12：你总能在控制台中查看历史消息（默认：波浪号）。
+
+Tip #13: Press F1 for a quick reference screen of the default inventory item key bindings.
+提示#13：按下F1可快速查看默认物品快捷键绑定界面。
+
+Tip #14: While in the map screen, you can mark your current position (DEFAULT : M).
+提示#14：在地图界面时，你可以标记当前位置（默认：M）。
+
+Tip #15: The Potion Launcher's pink toxic gas is highly flammable.
+提示#15：药水发射器喷出的粉色毒气极易燃烧。
+
+Tip #16: Forge Elementals don't spawn any Iron Urchins when killed by acid.
+提示#16：锻造元素被酸液击杀时不会生成铁刺。
+
+Tip #17: Killing enemies with your Fists will not raise an alert.
+提示#17：用双拳击杀敌人不会触发警报。
+
+Tip #18: The Crushbow's Impact Bolts have higher damage and penetration at the expense of explosion radius.
+提示#18：重击弩的冲击箭在伤害和穿透力上更强，但爆炸范围更小。
+
+Tip #19: Potions of Stoneskin significantly reduce the explosion radius damage you take.
+提示#19：石肤药水能显著减少你受到的爆炸范围伤害。
+
+Tip #20: Red Crystal clusters explode when hit.
+提示#20：红水晶簇被攻击时会爆炸。
+
+Tip #21: Bags of Holding only increase your ammo capacity once.
+提示#21：储物袋仅能提升你的弹药容量一次。
+
+Tip #22: Sentry Turrets get damaged by water. Swimming while holding one in your hands can be hazardous.
+提示#22：守卫炮塔会被水损坏。手持炮塔游泳可能十分危险。
+
+Tip #23: Saving the game is the strongest spell in the book.
+提示#23：保存游戏是书中最强的法术。
+
+Tip #24: Memorizing a few consumable hotkeys can be handy in a pinch.
+提示#24：记住几个消耗品快捷键在紧急情况下会派上用场。
+
+Tip #25: Use chasecam to better manage your platform jumps. (Default: numpad1)
+提示#25：使用追逐镜头可以更方便地管理平台跳跃。（默认：数字小键盘1）
+
+Tip #26: Use F6/F9 to quick save/load. If you die, you can also press Use (DEFAULT : E) to load the last save.
+提示#26：按F6/F9可快速存档/读取。若死亡，也可按下使用键（默认：E）加载最后一次存档。
+
+Tip #27: You can toggle random sound pitching from Sound Options - Randomize Pitches.
+提示#27：可在选项 - 随机化音调中切换随机声音音调调整功能。
+
+Tip #28: You can change the notification/item query message time with the console command - con_notifytime 7.0 (eg. for 7 seconds).
+提示#28：通过控制台命令 - con_notifytime 7.0 可更改通知/物品查询信息的显示时间（例如设置为7秒）。
+
+Tip #29: Warlocks are resistant to elemental damage and certain magic.
+提示#29：男巫对元素伤害和部分魔法具有抗性。
+
+Tip #30: Shooting a Crylance underwater without proper protection will have shocking results.
+提示#30：未做好防护直接在水下射击水晶长矛会产生令人震惊的结果。
+
+Tip #31: Forge Elementals can't open doors so they rely on their Iron Urchins to do it for them.
+提示#31：锻造元素无法开启门，因此依赖铁刺代劳。
+
+Tip #32: The Fire Hammer protects against all fire damage and allows walking on lava unhindered.
+提示#32：火锤可完全抵御所有火焰伤害，并允许你在熔岩上无阻碍地行走。
+
+Tip #33: The Great Axe's Thorns buff reduces nature damage (dealt by Initiates) and reflects the pain back to the attacker.
+提示#33：巨斧的荆棘增益（Thorns buff）会减少自然伤害（由入门者造成），并将疼痛反弹给攻击者。
+
+Tip #34: Using the Shield to block and reflect incoming projectiles is less effective when moving.
+提示#34：在移动时使用盾牌阻挡并反射来袭投射物的效果较差。
+
+Tip #35: The Hellclaw's melee attack (DEFAULT : R) will restore ammo when damaging living enemies.
+提示#35：地狱爪的近战攻击（默认：R键）在对活体敌人造成伤害时会恢复弹药。
+
+Tip #36: Potions of Haste improve the firing rate of each weapon differently.
+提示#36：迅捷药水对每种武器的射击速度提升方式各不相同。
+
+Tip #37: Unlike levers and chains, button switches can be activated by projectiles from afar.
+提示#37：与杠杆和链条不同，按钮开关可通过远程投射物激活。
+
+Tip #38: Strafing right while moving forward will make you slightly faster.
+提示#38：向前移动时向右横移会使你略微加快速度。
+
+Tip #39: Hitting enemies with the Storm Staff charges it with mana. The bigger the enemy, the more mana it yields.
+提示#39：用风暴法杖击中敌人会为其充能魔力。敌人越大，获得的魔力越多。
+
+Tip #40: You can keep the Paingun's barrels spinning and ready to fire by holding down reload (DEFAULT : R).
+提示#40：按住装填键（默认：R）可使痛击枪的弹筒持续旋转并保持待发状态。
+
+Tip #41: To kill a boss, shoot at it until it dies.
+提示#41：要击败Boss，只需持续攻击直到它死亡即可。
+
+Tip #42: She is watching you.
+提示#42：她正在注视着你。
+
+Tip #43: The tower shields carried by Iron Maidens offer them great protection, but can be bypassed in many ways.
+提示#43：铁娘子携带的塔盾能提供强大保护，但可通过多种方式绕过防御。
+
+Tip #44: The lightning bolts cast by Genii do massive splash damage in deep water.
+提示#44：吉尼释放的闪电球在深水中会造成巨大范围伤害。
+
+Tip #45: Potions of Stoneskin protect against physical and nature damage, Elemental Rings protect against all non physical damage.
+提示#45：石肤药水可抵御物理与自然伤害，元素戒指则能完全抵挡非物理伤害。
+
+Tip #46: Some enemies are more prone to infighting than others. This is also affected by the difficulty level.
+提示#46：部分敌人比其他敌人更容易内讧，这一特性也受难度等级影响。
+
+Tip #47: Heavier armor amulets absorb higher amounts of damage, but deplete at a faster rate as a result.
+提示#47：重型装甲护符能吸收更多伤害，但因此消耗速度更快。
+
+Tip #48: Power Shards boost your armor by a small amount and provide ammo for the Crylance.
+提示#48：力量碎片可小幅提升防御力，并为水晶长矛提供弹药。
+
+Tip #49: You can combine kicks with jumping and crouching for higher damage.
+提示#49：你可以将踢击与跳跃和蹲下动作结合使用以造成更高伤害。
+
+Tip #50: You don't need to have your companions closeby when changing levels. They will join you even when ordered to guard.
+提示#50：在切换关卡时不需要让同伴靠近身边。即使下令让他们守卫，他们也会加入你。
+
+Endless Mode Activated.
+无尽模式已激活。
+
+Monsters Spawning in
+怪物正在生成中
+
+Endless Mode Versus Activated.
+无尽对抗模式已激活。
+
+Monsters Spawning in
+怪物正在生成中
+
+Clearing monsters...
+清除怪物中...
+
+Cleaning up...
+清理完毕...
+
+DIE!
+DIE!
+
+Current monsters deal more friendly fire.
+当前怪物造成更多友军伤害。
+
+Current monsters deal less friendly fire.
+当前怪物造成更少友军伤害。
+
+1. Black
+1. 黑色
+
+2. Blue
+2. 蓝色
+
+3. Brick
+3. 砖红色
+
+4. Brown
+4. 棕色
+
+5. Cream
+5. 奶油色
+
+6. Cyan
+6. 青色
+
+7. DarkBrown
+7. 深棕色
+
+8. DarkGray
+8. 深灰色
+
+9. DarkGreen
+9. 深绿色
+
+10. DarkRed
+10. 深红色
+
+11. Gold
+11. 金色
+
+12. Gray
+12. 灰色
+
+13. Green
+13. 绿色
+
+14. LightBlue
+14. 浅蓝色
+
+15. Olive
+15. 橄榄色
+
+16. Orange
+16. 橙色
+
+17. Purple
+17. 紫色
+
+18. Red
+18. 红色
+
+19. Tan
+19. 米色
+
+20. White
+20. 白色
+
+21. Yellow
+21. 黄色
+
+Thanks to EVERYONE who financially supported Hedon I - Crystal Heart on Patreon!
+感谢所有在Patreon上为《赫顿 I - 水晶之心》提供财务支持的朋友们！
+
+Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
+Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
+
+Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
+Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
+
+D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
+D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
+
+BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
+BeardedDoomGuy, FrawLawk, AlexZerker, Sakis Lioliosidis, Lem, Kat G, Sasha the Lynx, BazookaDre,
+
+MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
+MonsterGang, Alex Ashe, Tadhg Briody, Xev, dirtygrass, Deathmarine, JKeyes, Vince gent, Knugen,
+
+D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
+D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
+
+WELCOME TO HEDON'S EPISODE I PATREON GALLERY!
+欢迎来到赫顿的EPISODE I Patreon画廊！
+
+Do you want to feature in here as a supporter of Hedon?
+你是否想在这里作为赫顿的支持者被展示？
+
+Do you want a chance at having drawn a custom avatar of your choosing?
+你是否想要一个机会绘制自己选择的定制头像？
+
+Do you want to help Hedon grow bigger and hook up to development updates?
+你是否想帮助赫顿发展壮大并连接开发更新？
+
+Then join up on Hedon's Patreon!
+那么请加入赫顿的Patreon吧！
+
+Nistal
+Nistal
+
+Vodyanoi
+Vodyanoi
+
+Nistal (2)
+Nistal (2)
+
+Sarah
+Sarah
+
+Lem
+Lem
+
+Robopatron
+Robopatron
+
+Kiyu69
+Kiyu69
+
+Karitan Aegis
+Karitan Aegis
+
+Kiyu69 (2)
+Kiyu69 (2)
+
+Vodyanoi (2)
+Vodyanoi (2)
+
+Kyurae Minasaki
+Kyurae Minasaki
+
+Danyx992
+Danyx992
+
+Copper Boltwire (1 & 2)
+Copper Boltwire (1 & 2)
+
+ekwood
+ekwood
+
+papyLaPlage
+papyLaPlage
+
+Danyx992 (2)
+Danyx992 (2)
+
+Kyurae Minasaki (2)
+Kyurae Minasaki (2)
+
+Karitan Aegis (2)
+Karitan Aegis (2)
+
+Sasha The Lynx (Avatar created by Sasha the Lynx)
+Sasha The Lynx (Avatar created by Sasha the Lynx)
+
+Iceman13
+Iceman13
+
+Albatross
+Albatross
+
+Danyx992 (3)
+Danyx992 (3)
+
+Vodyanoi (3)
+Vodyanoi (3)
+
+Daniel Jewell
+Daniel Jewell
+
+ekwood (2)
+ekwood (2)
+
+papyLaPlage (2)
+papyLaPlage (2)
+
+ArtOfShred
+ArtOfShred
+
+DTheRage
+DTheRage
+
+Vivien Lynn (Reward slot gifted by Albatross)
+Vivien Lynn (Reward slot gifted by Albatross)
+
+M.A.Kerr
+M.A.Kerr
+
+RawbGM
+RawbGM
+
+Metazealot
+Metazealot
+
+Karitan Aegis (3)
+Karitan Aegis (3)
+
+Albatross (2)
+Albatross (2)
+
+BeardedDoomGuy
+BeardedDoomGuy
+
+CopperBoltwire (3)
+CopperBoltwire (3)
+
+D1SoveR
+D1SoveR
+
+Danyx992 (4)
+Danyx992 (4)
+
+FrawLawk
+FrawLawk
+
+AlexZerker
+AlexZerker
+
+Thanks to EVERYONE who financially supported Hedon II - Bloodrite on Patreon!
+感谢所有在Patreon上为《赫顿 II - 血祀》提供财务支持的朋友们！
+
+LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
+LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
+
+Danyx992     ekwood     Infab     SuggestiveBox     Badguy292     Burchy
+Danyx992     ekwood     Infab     SuggestiveBox     Badguy292     Burchy
+
+Elzevir Mensk     D1SoveR     Vdubs     Chaos Embrace     Willag_mac     Christian Morris
+Elzevir Mensk     D1SoveR     Vdubs     Chaos Embrace     Willag_mac     Christian Morris
+
+Gary_#23     Jacob Markley     papyLaPlage     Anna_Maniac     Daniel Jewell     KitsuneNZ
+Gary_#23     Jacob Markley     papyLaPlage     Anna_Maniac     Daniel Jewell     KitsuneNZ
+
+Robert Phair     Karitan Aegis     adamboye     strange desire     Kyurae Minasaki     KnobGoblin
+Robert Phair     Karitan Aegis     adamboye     strange desire     Kyurae Minasaki     KnobGoblin
+
+Mortician175     Alex 'Razor' Penn     KECG     Metazealot     Darth-Morella     Albatross
+Mortician175     Alex 'Razor' Penn     KECG     Metazealot     Darth-Morella     Albatross
+
+Mr Red     Copper Boltwire     Emotive Remembrancer     Regular Dude     Mercs     ArtOfShred
+Mr Red     Copper Boltwire     Emotive Remembrancer     Regular Dude     Mercs     ArtOfShred
+
+DS98     Vodyanoi     Salokin Sekwah     Iceman13     Ion B. Fork     Robopatron
+DS98     Vodyanoi     Salokin Sekwah     Iceman13     Ion B. Fork     Robopatron
+
+Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Siegfried Pinzer
+Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Siegfried Pinzer
+
+AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
+AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey ha ha     
+
+ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
+Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
+
+GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
+GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
+
+Father Opossum     Hatguy     Julien Grenier     Chainworm Kommando     Paul     Stormyface
+Father Opossum     Hatguy     Julien Grenier     Chainworm Kommando     Paul     Stormyface
+
+Willa Grey     BloodRaven     Jessy Ruiz     puddy1     Alexzerker     BreadMan
+Willa Grey     BloodRaven     Jessy Ruiz     puddy1     Alexzerker     BreadMan
+
+Frank     Frawlawk     Shroomer     Piklz     Ycoobooveech     Sarah
+Frank     Frawlawk     Shroomer     Piklz     Ycoobooveech     Sarah
+
+RawbmGM     White Sarcophagus     Anri_Wanri     Joseph Culbertson     Terrible Gyros     Nick
+RawbmGM     White Sarcophagus     Anri_Wanri     Joseph Culbertson     Terrible Gyros     Nick
+
+Tadhg Briody     Richard Winfield     onionknight007     L3GAC7     Lynn
+Tadhg Briody     Richard Winfield     onionknight007     L3GAC7     Lynn
+
+William Stowe     M.A. Kerr     Alexander Howard     Benjamin Judah Phelps     SuperShamu     Bradley Greene
+William Stowe     M.A. Kerr     Alexander Howard     Benjamin Judah Phelps     SuperShamu     Bradley Greene
+
+Flakbait     Conor Ryan     D the Rage     Jawblade     Tyler Brogna     Zephonius
+Flakbait     Conor Ryan     D the Rage     Jawblade     Tyler Brogna     Zephonius
+
+Nistal     Knugen     Kiyu 69     Lilium     Koomi     Hrogue     Ivalera-Pixie
+Nistal     Knugen     Kiyu 69     Lilium     Koomi     Hrogue     Ivalera-Pixie
+
+Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath     Abreu
+Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath     Abreu
+
+Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
+Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH   
+
+dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
+  Dark Castle dm3_inks     Doom64Hunter     elm     Kat G     Komen    
+
+neonblitzer     Nothing Here     Robin Law     Agar6     William M
+ leebigh neonblitzer     Nothing Here     Robin Law     Agar6     Willi
+
+awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
+am M awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
+
+Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
+Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
+
+Rougetaal     Frostburn34     Thomas Read     Cave Johnson     Dege De     ecamber
+Rougetaal     Frostburn34     Thomas Read     Cave Johnson     Dege De     ecamber
+
+Jess     Joslyn     Keary R Read     Lem     Sakis Lioliosidis     ZombieSweeper     Bender
+Jess     Joslyn     Keary R Read     Lem     Sakis Lioliosidis     ZombieSweeper     Bender
+
+Zeuraith     Techno_Joe     Ugly bastard tag in twitter     Vilhelm Puddintain     Sasha the Lynx
+Zeuraith     Techno_Joe     Ugly bastard tag in twitter     Vilhelm Puddintain     Sasha the Lynx
+
+Ben Croft     daskbruh     Zerzey     BazookaDre     frog.foot     Henry Harland Proudlock Propsting
+Ben Croft     daskbruh     Zerzey     BazookaDre     frog.foot     Henry Harland Proudlock Propsting
+
+Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     Krimm Fortuna     Sexy Sadie
+Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     Krimm Fortuna     Sexy Sadie
+
+Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
+Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis patreonpatreonpatre
+
+patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
+on     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
+
+Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
+Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
+
+Xev     Deathmarine     Drasticdoggo     Meena D.     John Poole     Killswitch
+Xev     Deathmarine     Drasticdoggo     Meena D.     John Poole     Killswitch
+
+Eric Coutu     homemadepasta     Jkeyes     Mechazaurus     Vince gent     K G
+Eric Coutu     homemadepasta     Jkeyes     Mechazaurus     Vince gent     K G
+
+Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilhalfer
+Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilhalfer
+
+JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
+JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackso
+
+cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
+n cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
+
+Sunshine     Zane Ward     Uncle Fass     Michel Mohr
+Sunshine     Zane Ward     Uncle Fass     Michel Mohr
+
+WELCOME TO HEDON'S BLOODRITE PATREON GALLERY!
+欢迎来到赫顿的血祀Patreon画廊！
+
+Do you want to feature in here as a supporter of Hedon?
+您是否想作为赫顿的支持者在这里展示？
+
+Do you want a chance at having drawn a custom avatar of your choosing?
+您是否希望有机会绘制一个自定义的专属化身？
+
+Do you want to help Hedon grow bigger and hook up to development updates?
+您是否想帮助赫顿发展壮大并连接开发更新？
+
+Then join up on Hedon's Patreon!
+那么请加入赫顿的Patreon！
+
+KatG
+KatG
+
+Sleepy Mei
+Sleepy Mei
+
+Sleepy Mei (2)
+Sleepy Mei (2)
+
+Luke Pwner
+Luke Pwner
+
+Badguy292
+Badguy292
+
+Luke Pwner (2)
+Luke Pwner (2)
+
+Badguy292 (2)
+Badguy292 (2)
+
+adamboye
+adamboye
+
+D1soveR (2)
+D1soveR (2)
+
+Eisenhorn
+Eisenhorn
+
+ChainwormKommando
+ChainwormKommando
+
+Lynn
+Lynn
+
+Sleepy Mei (3)
+Sleepy Mei (3)
+
+Red Charge
+Red Charge
+
+SuggestiveBox
+SuggestiveBox
+
+Mr Red
+Mr Red
+
+Mortician175
+Mortician175
+
+Arn
+Arn
+
+Bluefire
+Bluefire
+
+Infab
+Infab
+
+SuggestiveBox (2)
+SuggestiveBox (2)
+
+Alex 'Razor' Penn
+Alex 'Razor' Penn
+
+Simon P
+Simon P
+
+AMIG
+AMIG
+
+Mechfried
+Mechfried
+
+screenThief
+screenThief
+
+WillaGrey
+WillaGrey
+
+Murdo McClelland
+Murdo McClelland
+
+Alex 'Razor' Penn (2)
+Alex 'Razor' Penn (2)
+
+SuggestiveBox (3)
+SuggestiveBox (3)
+
+You can always change music with the console command - changemus TrackName
+您始终可以通过控制台命令 - changemus TrackName 来更
+
+eg. changemus HTrack00 or changemus HTrak18A
+改音乐，例如：changemus HTrack00 或 changemus HTrak18A
+
+Playing HTrack00
+播放 HTrack00
+
+Breathelast - Sinking Ships (Instrumental)
+Breathelast - 沉船（器乐版）
+
+Playing HTrack01
+播放 HTrack01
+
+Akhzul - Cold Rock
+Akhzul - 冷岩
+
+Playing HTrack02
+播放 HTrack02
+
+Akhzul - Raw Whisper
+Akhzul - 原始低语
+
+Playing HTrack03
+播放 HTrack03
+
+Akhzul - Orc's Song
+Akhzul - 兽人之歌
+
+Playing HTrack04
+播放 HTrack04
+
+Akhzul - Tension
+Akhzul - 张力
+
+Playing HTrack05
+播放 HTrack05
+
+Akhzul - Hold Your Knife
+Akhzul - 持住你的刀
+
+Playing HTrack17
+播放 HTrack17
+
+Akhzul - Consumed
+Akhzul - 被吞噬者
+
+Playing HTrack06
+播放 HTrack06
+
+Akhzul - Industro
+Akhzul - 工业风
+
+Playing HTrack07
+播放 HTrack07
+
+Breathelast - Ascuns in Pereti (Instrumental)
+Breathelast - 墙壁中的隐藏（器乐版）
+
+Playing HTrack08
+播放 HTrack08
+
+Alexander Brandon - The Craftsman
+Alexander Brandon - 工匠
+
+Playing HTrack09
+播放 HTrack09
+
+Breathelast - Dead Coins (Instrumental)
+Breathelast - 死币（器乐版）
+
+Playing HTrack10
+播放 HTrack10
+
+Methadone Skies - Exit the Void
+Methadone Skies - 离开虚空
+
+Playing HTrack11
+播放 HTrack11
+
+Methadone Skies - Hyperspace
+Methadone Skies - 超空间
+
+Playing HTrack12
+播放 HTrack12
+
+Alexander Branon - One Calm Day
+Alexander Branon - 一个平静的日子
+
+Playing HTrack13
+播放 HTrack13
+
+Akhzul - Pale Wind
+Akhzul - 苍白之风
+
+Playing HTrack14
+播放 HTrack14
+
+Akhzul - Come to Church
+Akhzul - 来教堂
+
+Playing HTrack15
+播放 HTrack15
+
+Akhzul - Longing
+Akhzul - 渴望
+
+Playing HTrack16
+播放 HTrack16
+
+Alexander Brandon - Heavy
+Alexander Brandon - 重压
+
+Playing HTrak18A
+播放 HTrak18A
+
+Alexander Brandon - Underworld
+Alexander Brandon - 地下世界
+
+Playing HTrack19
+播放 HTrack19
+
+Shivaxi & Xenofish - Underworld Remix
+Shivaxi & Xenofish - 地下世界混音版
+
+Playing HTrack20
+播放 HTrack20
+
+Breathelast - Unsung Foes (Instrumental)
+Breathelast - 未被歌颂的敌人（器乐版）
+
+Playing HTrack21
+播放 HTrack21
+
+Zan_HedonDev - Chill
+瓒_赫顿开发组 - 深寒
+
+Playing HTrak22B
+播放 HTrak22B
+
+Alexander Brandon - Deep Chill
+Alexander Brandon - 深寒
+
+Playing HTrack23
+播放 HTrack23
+
+Michiel van den Bos - NEWMCA12
+Michiel van den Bos - NEWMCA12
+
+Playing HTrack24
+播放 HTrack24
+
+Akhzul - No Way Out?
+Akhzul - 无路可退？
+
+Playing HTrack25
+播放 HTrack25
+
+Alexander Brandon - Magnus (No Voice)
+Alexander Brandon - 马格努斯（无歌词）
+
+Playing HTrack26
+播放 HTrack26
+
+Akhzul - Fightmare
+Akhzul - 噩战
+
+Playing HTrack27
+播放 HTrack27
+
+Akhzul - Lost Call
+Akhzul - 迷失的呼唤
+
+Playing HTrack28
+播放 HTrack28
+
+Breathelast - Gutter Anthem (Instrumental)
+Breathelast - 地沟颂歌（器乐版）
+
+Playing HTrack29
+播放 HTrack29
+
+Breathelast - The Bridge (Instrumental)
+Breathelast - 桥（器乐版）
+
+Playing HTrack30
+播放 HTrack30
+
+Breathelast - Firelungs (Instrumental)
+Breathelast - 燃肺（器乐版）
+
+Playing HTrack31
+播放 HTrack31
+
+Akhzul - It's not Paradise, it's Hell
+Akhzul - 这不是天堂，这是地狱
+
+Playing HTrack32
+播放 HTrack32
+
+Doomnezeu - Kranioutopos (Instrumental)
+Doomnezeu - 克兰诺托波斯（器乐版）
+
+Playing HTrack33
+播放 HTrack33
+
+Zan_HedonDev - Down in the Bone Hall
+瓒_赫顿开发组 - 骨厅深处
+
+Playing HTrack34
+播放 HTrack34
+
+Akhzul - Grit
+Akhzul - 磨砺
+
+Playing HTrack35
+播放 HTrack35
+
+Doomnezeu - Desertaciune (Instrumental)
+Doomnezeu - 沙漠化（器乐版）
+
+Playing HTrack36
+播放 HTrack36
+
+Breathelast - Buried (Instrumental)
+Breathelast - 埋葬（器乐版）
+
+Playing HTrack37
+播放 HTrack37
+
+Mumble Etc. - Cygni
+Mumble Etc. - 仙后座
+

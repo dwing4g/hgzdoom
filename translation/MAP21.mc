@@ -1,207 +1,207 @@
-Pit Lord Commander:    The Halfblood has arrived! Prepare for your final stand, fools!!! 
-Pit Lord Commander:    How is she still alive?!! COME ON!!! It's just ONE. FUCKING. ORC!!! 
-Pit Lord Commander:    Where did she go?! We can't lose track of her!!! Arrgh, too much blood clouding my vision!!! 
-Pit Lord Commander:    No!!! We can't let her get any closer! Do something!!! 
-Pit Lord Commander:    NO!!! How is this possible?!... we have failed the Baron!!! 
-A powerful magic ward keeps the gate sealed. 
-Blue Baron:    ... 
-Blue Baron:    Tell me, Halfblood - how much does a fly know of the world around the rotten fruit it feasts upon?
-You had the chance to burrow yourself away from the horrors of the Void... but you persisted.
-...and every insect that lives to irritate is doomed to the same fate...
-...it gets squashed. 
-Abhaoth:    Good. You made it. Quickly, now! Use the soul key fragments to free me from the Baron's vault.
-Primarch Adur:    ...my, oh my! I had no clue you're in cahoots with her! Of course...
-Primarch Elzriel:    Are you sure you wanna free her? It's not too late to join the winning side!
-Primarch Erudin:    Let her pursue her delusions. It should at least entertain us...
-Abhaoth:    This forsaken place will erode your sanity. Don't let them sway you from your task. 
-Primarch Gaun:    A warrior of your magnitude, taking orders from a shadowy rat. Pathetic.
-Primarch Elzriel:    Hmph. Warrior of magnitude... if it wasn't for that slimy goblin, she'd be rotting in my vault now.
-Abhaoth:    Focus. 
-Primarch Adur:    ...don't you miss the warm embrace of the Queen of Wrath? She's up there fighting the Baron alone. 
-Primarch Adur:    ...Yzbeth has been missing you. You'd have such a good time among demons... if only you joined us. 
-Abhaoth:    The other soul locks must be nearby. Make haste and release me already! 
-Primarch Erudin:    You already betrayed your sisters for me. Do you still think there is a way back? 
-Primarch Erudin:    You're a cold heart killer. Your orc sisters know it too. They are afraid of you. 
-Primarch Erudin:     You sunk so low, jumping through all our hoops only so you could die here. Was it worth it? 
-Abhaoth:    We all have to sacrifice something to preserve our world. 
-Primarch Scorlag:    You value death more than you value life... but is your death worth more than your life?... 
-Primarch Scorlag:    You value life more than you value death... but is your life worth more than your death?... 
-Abhaoth:    All our lives will be worthless if we fail to stop them, Zan. 
-Abhaoth:    At long last... release the cell lock! I believe the time has come for us to meet in the flesh. 
-Abhaoth:    Yes! That's one of the soul locks! Keep going...
-Primarch Elzriel:    Come now, oh great Bonebreaker! Can you really trust the shadow?
-Primarch Erudin:    Can she trust any of us at all?... 
-Abhaoth:    You are getting closer! One last lock to go.
-Primarch Gaun:    Hurry up, mongrel! Charge, slash, kill! You can still earn yourself a forgotten hero's death! 
-Abhaoth:    Yes! The vault is open! Come! Release me from this torturous cell...
-Primarch Adur:    The prison tower is in your reach, noble knight! But is it a princess you're freeing? Or a hag?... 
-Abhaoth:    Now that he can no longer siphon my powers, you may stand a chance! Go! Slay the Baron! 
-Abhaoth:    Nithriel is attempting to summon her ancestors from beyond the Void... you must stop her! 
-Abhaoth:    You have no time to waste! If they succeed in their mad plan, we will all be decimated! 
-Abhaoth:    I am too weak to join you... the burden of our future rests upon your shoulders now. 
-Abhaoth:    I tried to stop them... guess you can tell how that went. But there is still hope in you! 
-Abhaoth:    If demons don't overtake the world, then Nithriel will. She is vulnerable now... kill her. 
-Abhaoth:    I will do everything I can to protect you from their mind tricks. Keep me in your mind. 
-Abhaoth:    Go, Zan... take the elevator to the top of the spire. That's where the summoning takes place. 
-Abhaoth:    Well... who did you expect?
-Abhaoth:    I... they drained me of all power. Go without me! Take the elevator to the top of the spire... 
-The soul screen blocks your passage.
-Abhaoth:    The barrier won't yield until you put all three soul fragments in place. 
-The soul key crystals are not aligned. 
-Eraanthe:    Urgh! You slithering sack of slugs! This isn't over!!! One day, I will have my revenge... 
-Nithriel:    Stomp her, you fool! Why did you let her escape?! 
-Nithriel:    She has released Abhaoth! Fool! How could you let this happen!? 
-Blue Baron:    Your tone is ripe with arrogance. You would do well to uphold our pact.
-Nithriel:    Oh, dear Baron. As long as our interests remain aligned, I have no reason to do otherwise.
-The beacon has enough energy. Activate the Disk! Let us not keep our progenitors waiting.
-Blue Baron:    Travelling without full power poses a great risk. Stay the course... I won't allow her to interfere. 
-The elevator isn't powered up. 
-Blue Baron 
-Blue Baron:    Grrrh... enough of this!...
-I will show you the true horror of my world!
-Abhaoth:    Dive! 
-Abhaoth:    Look out! 
-Darn it!... Okay... find a way to climb the spires and turn the beacons off! 
-Blue Baron:    Your struggle has been entertaining, but I am the master of your destiny... now perish! 
-Abhaoth:    Zan!!!... No!... 
-Abhaoth:    One down, two more to go! 
-Abhaoth:    Two down, get the last one before it's too late! 
-Abhaoth:    One down, two more to go! 
-Abhaoth:    Two down, get the last one before it's too late! 
-Abhaoth:    One down, two more to go! 
-Abhaoth:    Two down, get the last one before it's too late! 
-Grand Earth Mother Breaza:    Zan!!! Thank the Earth!...
-Grand E. M. Breaza:    Easy now... walk a bit if you can. Your body has weakened a lot ever since... 
-Hellion:    Are you ready now, my green darlings? Open the door slowly. Don't try anything naughty!
-Abhaoth:    Make. Them. Pay.
-Fixer:    No!!! What have you done?!
-Earth Mother:    Saved you. Come, sisters! With Zan here, we may stand a chance!
-Reaver:   Demon reinforcements will be here any moment now. What do we do, sarge?
-Abhaoth:    ...defend yourselves... 
-This door requires a Vine key to open. 
-Witch:    ...are we seriously going to fend off waves of demons from a flimsy crate barricade? 
-Reaver:    Hey, a bunch of crates and barrels is all we could put together without arousing suspicion! 
-Bear Warrior:    Get ready. They'll be swarming us any moment now. 
-Bear Warrior:    FOR THE IRON DIVISION!!! 
-Lancer:    Fight to the last breath, sisters! Show them that we'll never yield! 
-Earth Mother:    You've drained the Earth of her blood! Now we shall feed her yours!!! 
-Reaver:    Damn it, they won't stop pouring in! 
-Bear Warrior:    We'll kill every single demon if we have to! Keep firing! 
-Fixer:    Look! Cultists! Keep fighting, they must be getting desperate! 
-Blue Baron:    *Growls*
-Abhaoth:    ...you're weakening him. Keep fighting. 
-Abhaoth:    Push. Him. Out.
-Blue Baron:    *Groans*
-Abhaoth:    Purge him out of your mind! Fight!
-Blue Baron:    *Cries in pain*
-Abhaoth:    Yes!!! Destroy him! 
-Nithriel:    No! You almost had her! Arrrgh! Abhaoth, you mingling rat! 
-Nithriel:    Hahahah! And so dies the mighty Halfblood! Well done, my dear Baron... 
-Lancer Dendra:    Zan! Over here!
-Lancer Dendra:    Good to see you've regained your consciousness. It's been a while-
-???:    *Knocks at the main entrance*
-Lancer Dendra:    Oh, no. They're back already. Quick, gather our sisters here!
-Hellion:    Hey there, dearies! You know what we're here for, so don't try to delay the fun! 
-Hellion:    Come now, babes. The more you keep us waiting, the slower the sacrifice will be! 
-Hellion:    What's taking you so long? This isn't the time to put on makeup. 
-Hellion:    If you don't appease us soon, I'll have my lovely brute here open the door... 
-Earth Mother:    ...the key is over there. Open the doors now, Zan.
-Abhaoth:    ...you are their only hope... 
-Reaver:    ...who do you think they will take away today?
-Fixer:    I don't know... why can't they just leave us alone? 
-Reaver:    The demons are knocking at our gate already?... Okay. Let's go... 
-Bear Warrior:    Hey, look who's here! Our fallen hero. Pay up, ladies, I won the bet.
-Witch:    Oh, shut up... help yourself to some food, sarge. There aren't many mouths left to feed as of late. 
-Bear Warrior:    Hey, look who's here! Our fallen hero... wait. It's the time, right?
-Witch:    Good thing I'm drunk enough. Let's go, ladies. The culling awaits. 
-Reaver:    You're back... the time has come, right?...
-Witch:    Well, I guess I'm drunk enough now. Let's go, ladies. The culling awaits. 
-Lancer:    I knew you'd recover... alas, the fight against the Baron has let us all scarred. 
-Lancer:    The demons have come?... Well then... let us gather up. 
-Lancer:    Zan! I knew you'd recover!... Oh... the demons are here? I see. Let us gather up. 
-Lancer:    We are all that is left... I suppose cheating fate has only lasted us so long. 
-Lancer:    The Crystal Heart has fallen. Our world has almost entirely withered away... 
-Lancer:    The demons have allowed us to preserve our library here, but we must pay in blood. 
-Lancer:    Every several days they return and choose one of us for sacrifice. A slow, sad end... 
-Lancer Dendra:    Why are you still here?! Go, we can't keep them waiting! 
-Lancer Dendra:    Please, Zan. We have no means of opposing them anymore. Just do as I say... 
-Lancer Dendra:    We can't negotiate with them! If we don't offer one of our own, they will kill us all! 
-Lancer Dendra:    Our sisters are upstairs. Gather them here at once! 
-Abhaoth:    ...what kind of life is this?... 
-Abhaoth:    ...you can't let the Baron's grasp tighten... 
-Grand E. M. Breaza:    Don't push yourself too hard now. Go upstairs and get something to eat. 
-Grand E. M. Breaza:    I did everything in my power to heal you. You've been out for months... 
-Grand E. M. Breaza:    You did everything you could. Try not to think about it right now. 
-Grand E. M. Breaza:    It's a miracle that I was able to recover your body. Alas, we had to retreat... 
-Advisor:    Are you feeling well, Bonebreaker? Your presence here will certainly lift the spirits. 
-Advisor:    The demons have conquered the Underworld. There is nowhere left to hide... or maybe... 
-Advisor:    Hmm... I doubt the Overworld is any safer. The human kingdoms have long been subdued... 
-Advisor:    The north-western peaks are hard to reach... perhaps the frost goblins could shelter us?... 
-Reaver:    It's nice to have you back, sergeant. Don't be too hard on yourself about our defeat. 
-Reaver:    I heard you fought valiantly against the Baron. We all did everything we could to stop him. 
-Reaver:    We knew it was a losing battle... we never had a chance. Still, it was worth giving it a shot. 
-Reaver:    Might as well kick back and enjoy what's left of our world. It's going to end soon enough. 
-Fixer:    Every week, they come take one of us away. I can't bear this anymore! 
-Fixer:    They're treating us like cattle... they won't stop until we're all sacrificed. 
-Fixer:    Is there any chance you could save us?... But where will we flee to?... they're everywhere! 
-Fixer:    *Shivers and breathes anxiously* 
-Reaver:    This is pointless. We're trapped in here like a bunch of startled praaks. 
-Reaver:    We should've fled the Underworld while we still had a chance. I guess we'll die alongside Valc. 
-Reaver:    You've been unconscious for quite long, haven't you? Here's a tip - try not to look outside. 
-Reaver:    The Baron's influence has spread like wildfire. Nothing can stop the demons now that they're united. 
-Witch:    You look like you could really use a drink. It'll help you more than any potion at this point. 
-Witch:    There aren't many fun things left to do around here. The demons have taken everything away... 
-Witch:    Yeah, yeah, we tried to fight back. It's just suicide at this point. Fuck it... 
-Witch:    Hey, guess we can pride ourselves with how far we got. Too bad history won't remember us. 
-Bear Warrior:    How did the fight with the Baron go? I mean... we know how it ended. But it must've been close! 
-Bear Warrior:    The demons let us escape back here only so they could watch us die slowly. Sick bastards... 
-Bear Warrior:    I hate to just stay here and take this shit! Breaza is too cowardly to rally us to battle! 
-Bear Warrior:    You've slain more demons than all of us combined! Don't tell me you're willing to accept defeat. 
-Bear Warrior:    Who's it going to be next, huh? I bet they'll leave you last. They want you to suffer. 
-Bear Warrior:    I'll gladly take a painful death over living on in this shitty new world... 
-Bear Warrior:    Hey... if you wanna try doing something stupid... we've got your back. 
-Bear Warrior:    Do we really wanna die like a bunch of mongrels? What happened to our warrior spirit? 
-Earth Mother:    Make peace with the Gods, warrior. Stay true and they will embrace you. 
-Earth Mother:    We cannot outlive the Earth... the demons have poisoned her beyond hope. 
-Earth Mother:    All that matters now is the memory we leave behind. It will carry our soul onwards. 
-Earth Mother:    The Iron Division will not live in chains. I'm ready to die with honor, if so are you. *Winks* 
-Blue Baron:    Your grasp over reality is weak... come... jump into the abyss...
-The razors will grind your flesh... the fire will consume your soul...
-Abhaoth:    Over here! Catch my hands! 
-Nithriel:    Finish her off already! We're too close to lose everything now! 
-Nithriel:    I have no use for weak allies, Baron! Finish. Her. Off. 
-Nithriel:    Finally! She was far too close, dear Baron! I expected more from you... 
-Nithriel:    Yes! I'm so close! I can feel the Void overtaking me! 
-Nithriel:    The beacon is ready! I just need a little bit more... 
-Nithriel:    Oh, great precursors, I am coming! I shall guide you to back to our world! 
-Blue Baron:    There is no escape from here...
-Abhaoth:    Quick! Take cover behind me! 
-Blue Baron:    Why do you resist?...
-Abhaoth:    Over here! I will absorb the damage... 
-Blue Baron:    You... you cannot defeat us!
-Abhaoth:    Hurry up! Ngh... I don't know for how long I can keep doing this! 
-Blue Baron:    Arrrrrgh!...
-Abhaoth:    *Pants in exhaustion* Zan... get behind me... I... 
-Nithriel:    Finally! Well done, my dear Baron! Nothing can stop us now! Prepare this world for my return... 
-Blue Baron:    Noooooo!!! This... how could I fail so?... This cannot... this cannot be-
-Nithriel:    Good job getting rid of him, Halfblood, but you are always too late! Enjoy peace! It won't last long...
-Battered and bloodied from head to toe, Zan gazed upon the Icon's body as it twitched and spurted purple slime.
-It was no mind trick... the Baron was truly dead.      A shadowy figure darted over the Halfblood's head, shaking her out of her trance.      All she could hear next was Nithriel's rasp laughter.   Abhaoth conjured dark tendrils, lashing them at the pod with fury and desperation, but alas, it was hopeless. As she collapsed to the ground in exhaustion, the image of bright rays of light decomposing the Elf's body was ingrained in her fading vision.      Zan hopped next to her and pounded on the glass, but it was too late...
+深渊领主指挥官：混血人来了！蠢货们，准备迎接你们的最终决战！！！
+深渊领主指挥官：她怎么还活着？！！快点！！！就一个！该死的！兽人！！！
+深渊领主指挥官：她去了哪里？！！我们不能失去她的踪迹！！！啊呜，太多血模糊了我的视线！！！
+深渊领主指挥官：不！！！我们不能让她靠近！想办法！！！
+深渊领主指挥官：不！！！这怎么可能？...我们辜负了男爵！！！
+一道强大的魔法屏障封住了大门。
+幽蓝男爵：...
+幽蓝男爵：告诉朕，混血人——你可知腐烂果实在上空盘旋的飞虫，对世界了解多少？
+你曾有机会逃离虚空的恐怖...却依然坚持前行。
+...而每只活到恼怒的昆虫，终将面临同样的命运...
+……它会被碾碎。
+阿波豪斯：很好。你来了。快点！用灵魂钥匙碎片把我从男爵的地窖中解救出来。
+原教阿杜尔：……我的天啊！我竟不知你和她暗中勾结！当然……
+原教埃尔兹瑞尔：确定要放她自由吗？现在还来得及加入胜利的一方！
+原教埃鲁丁：让她继续她的妄想吧，至少能给我们点乐趣……
+阿波豪斯：这荒芜之地会侵蚀你们的理智。别让它们动摇你的任务。
+原教加恩：一个如此强大的战士，却要听从一只阴暗老鼠的命令。真是可悲。
+原教埃尔兹瑞尔：哼。强大战士……若不是那个滑溜的哥布林，她此刻应该正在我的地窖里腐烂了。
+阿波豪斯：专注。
+原教阿杜尔：……你难道不怀念愤怒女王温暖的拥抱吗？她正独自在上面与男爵战斗。
+原教阿杜尔：……伊兹贝思一直在想念你。如果你加入我们，就能在恶魔中享受乐趣……只要你愿意。
+阿波豪斯：其他灵魂锁应该就在附近。快点，把我释放出来吧！
+原教埃鲁丁：你已经为了我背叛了姐妹们。你还以为有回头路吗？
+原教埃鲁丁：你是冷酷无情的杀手。你的兽人姐妹也清楚这一点。她们都害怕你。
+原教埃鲁丁：你堕落得如此之深，跳过我们所有的陷阱只为在这里死去。值得吗？
+阿波豪斯：我们所有人都必须为守护世界付出代价。
+原教斯科拉格：你更看重死亡而非生命……但你的死亡是否比生命更有价值？…
+原教斯科拉格：你更看重生命而非死亡……但你的生命是否比死亡更有价值？…
+阿波豪斯：如果没能阻止他们，我们的生命都将毫无意义，瓒。
+阿波豪斯：终于……释放细胞锁！我相信现在是我们以肉身相见的时刻了。
+阿波豪斯：对！那就是一个灵魂锁！继续前进……
+原教埃尔兹瑞尔：来吧，伟大的碎骨者！你真的能信任那个阴影吗？
+原教埃鲁丁：她能信任我们中的任何一个吗？…
+阿波豪斯：你越来越接近了！只剩最后一道锁。
+原教加恩：快点，杂种！冲锋、劈砍、击杀！你还能争取一个被遗忘的英雄之死！
+阿波豪斯：对！地窖已打开！来吧！从这痛苦的牢笼中释放我……
+原教阿杜尔：贵族骑士！监狱塔已在你掌控之中！但你释放的是公主还是老妇人？…
+阿波豪斯：现在他无法汲取我的力量了，你或许有机会！快去！击杀男爵！
+阿波豪斯：妮丝瑞尔正试图从虚空中召唤她的祖先……你必须阻止她！
+阿波豪斯：你没有时间浪费了！如果他们成功实施疯狂计划，我们都会被毁灭！
+阿波豪斯：我太虚弱无法与你并肩作战……我们的未来重任现在交给你了。
+阿波豪斯：我曾试图阻止他们……猜猜结果如何。但你仍有希望！
+阿波豪斯：若恶魔不征服世界，妮丝瑞尔就会。她此刻脆弱……击杀她。
+阿波豪斯：我会尽全力保护你免受他们的精神操控。将我留在你的意识中。
+阿波豪斯：去吧，瓒……乘坐电梯到尖塔顶端。那里的召唤仪式正在进行。
+阿波豪斯：嗯……你期望谁出现？
+阿波豪斯：我……他们抽干了我所有的力量。独自前行吧！去电梯到尖塔顶端……
+灵魂屏幕阻挡了你的去路。
+阿波豪斯：屏障不会消散，直到你将三块灵魂碎片全部归位。
+灵魂钥匙水晶未对齐。
+埃拉安瑟：啧！你这蠕动的 slug 垃圾袋！这一切还没结束！！！总有一天我会复仇……
+妮丝瑞尔：踩死她，你这个蠢货！为什么放她逃走了？！
+妮丝瑞尔：她释放了阿波豪斯！蠢货！你怎么能让她这样！？
+幽蓝男爵：你的语气充满傲慢。最好遵守我们的协议。
+妮丝瑞尔：哦，亲爱的男爵。只要我们的利益一致，我也没有理由做其他事。
+灯塔有足够的能量。激活圆盘！让我们不要让先祖们等太久。
+幽蓝男爵：没有全功率旅行风险极大。坚持原路……我不会让她干扰你。
+电梯尚未启动电源。
+幽蓝男爵
+幽蓝男爵：咕噜……够了！……
+我会让你见识我世界真正的恐怖！
+阿波豪斯：跳入！
+阿波豪斯：小心！
+该死……好吧……找到方法攀上尖塔并关闭灯塔！
+幽蓝男爵：你的挣扎很有趣，但我掌控着你的命运……现在去死吧！
+阿波豪斯：瓒！！！……不！……
+阿波豪斯：一个倒下，还有两个要对付！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
+阿波豪斯：一个倒下了，还有两个要对付！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
+阿波豪斯：一个倒下了，还有两个要对付！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
+伟大的大地之母布里扎：瓒！！！感谢大地之母……
+伟大的E.M.布里扎：别慌……如果还能走的话就慢慢走。你的身体自从……已经虚弱很多了……
+地狱之徒：你们现在准备好了吗，我的绿色小可爱们？慢慢打开门。别想什么恶作剧！
+阿波豪斯：让他们付出代价。
+修复者：不！！！你做了什么？！
+大地之母：救了你。来吧，姐妹们！有瓒在，我们或许还有机会！
+掠夺者：恶魔增援随时会到。上尉，我们现在该怎么办？
+阿波豪斯：……保护自己……
+这扇门需要用藤蔓钥匙才能打开。
+女巫：……我们真的要用这种易碎的箱子挡住恶魔浪潮吗？
+掠夺者：嘿，我们只能凑合用这些箱子和桶，不然会引起怀疑！
+熊战士：准备好了。他们随时会涌上来！
+熊战士：为了铁军！！！
+长枪兵：姐妹们，战斗到最后一口气！让他们看看我们永不屈服！
+大地之母：你已经吸干了大地的血液！现在让我们用你的血来喂养她！！！
+掠夺者：该死，他们还在源源不断地涌进来！
+熊战士：如果必须的话，我们会杀死每一个恶魔！继续射击！
+修复者：看！邪教徒来了！继续战斗，他们一定很绝望了！
+幽蓝男爵：*低吼*
+阿波豪斯：……你在削弱他。继续战斗。
+阿波豪斯：推。他。出去。
+幽蓝男爵：*呻吟*
+阿波豪斯：从你脑海中驱逐他！战斗！
+幽蓝男爵：*痛叫*
+阿波豪斯：是的！！！摧毁他！
+妮丝瑞尔：不！你差点就抓住她了！啊啊啊！阿波豪斯，你这个混血的鼠辈！
+妮丝瑞尔：哈哈哈！伟大的混血人就此陨落！做得好，我亲爱的男爵……
+长枪兵丹德拉：瓒！这边！
+长枪兵丹德拉：很高兴看到你恢复意识。好久不见——
+???: *敲击大门*
+长枪兵丹德拉：哦不。他们已经回来了。快，召集我们的姐妹们到这里！
+地狱之徒：嘿，亲爱的们！你们知道我们来做什么的，所以别想拖延乐趣！
+地狱之徒：来吧，宝贝们。你们越等，牺牲就越慢！
+地狱之徒：你磨蹭什么？这不是化妆的时间！
+地狱之徒：如果你不尽快安抚我们，我就会让我的可爱野蛮人打开门……
+大地之母：……钥匙在那边。瓒，现在打开大门。
+阿波豪斯：……你是他们唯一的希望……
+掠夺者：……你觉得他们会今天带走谁？
+修复者：我不知道……为什么他们不能让我们安静一会儿？
+掠夺者：恶魔已经在敲我们的门了？……好吧。我们走吧……
+熊战士：嘿，看看谁来了！我们的落魄英雄。姐妹们，付钱吧，我赢了赌注。
+女巫：哦，闭嘴……上尉，帮自己拿点吃的吧。最近能喂的人越来越少啦。
+熊战士：嘿，看看谁来了！我们的落魄英雄……等等。该是时候了，对吗？
+女巫：幸好我喝得够醉。姐妹们，走吧。清理行动在等着我们。
+掠夺者：你回来了……时机到了，对吧？……
+女巫：嗯，我想我现在已经醉得够了。姐妹们，走吧。清理行动在等着我们。
+长枪兵：我知道你会恢复……唉，与男爵的战斗让我们所有人都伤痕累累。
+长枪兵：恶魔来了吗？……好吧，那我们赶紧集合吧。
+长枪兵：瓒！我知道你会恢复！……哦……恶魔来了？我明白了。我们赶紧集合吧。
+长枪兵：我们所剩无几……我想命运的作弊只维持了这么久。
+长枪兵：水晶之心已经陨落。我们的世界几乎完全枯萎了……
+长枪兵：恶魔允许我们将图书馆保存在这里，但我们必须用鲜血来偿还。
+长枪兵：每隔几天他们就会回来，选择我们中的一人献祭。缓慢而悲惨的结局……
+长枪兵丹德拉：你为什么还在这里？！快走吧，我们不能让他们等太久！
+长枪兵丹德拉：请，瓒。我们已经无法再与他们对抗了。只管听我的话……
+长枪兵丹德拉：我们不能和他们谈判！如果我们不献出自己人，他们会杀死我们所有人！
+长枪兵丹德拉：我们的姐妹们在楼上。立刻把她们召集到这里来！
+阿波豪斯：……这样的生活是什么样的？……
+阿波豪斯：……你不能让男爵的掌控进一步加深……
+伟大的E.M.布里扎：现在别逼自己太紧了。上楼去吃点东西吧。
+伟大的E.M.布里扎：我尽了全力来治愈你。你已经昏迷了好几个月……
+伟大的E.M.布里扎：你已经尽力了。现在试着不要去想这些事情。
+伟大的E.M.布里扎：能恢复你的身体真是奇迹。唉，我们不得不撤退了……
+顾问：骨碎者，你感觉好些了吗？你的出现一定会提振士气。
+顾问：恶魔已经征服了地下世界。我们已无处可藏……或者也许……
+顾问：嗯……我怀疑上界也并不安全。人类王国早已被征服……
+顾问：西北部的山峰难以抵达……或许冰霜哥布林能庇护我们？……
+掠夺者：很高兴你回来，中士。别太责怪自己这次的失败。
+掠夺者：我听说你与男爵殊死搏斗了。我们都尽了全力阻止他。
+掠夺者：我们知道这是一场注定失败的战斗……我们从未有过机会。但至少尝试过也算值得。
+掠夺者：不如放松一下，享受我们所剩无几的世界吧。它很快就会结束的。
+修复者：每周他们都会带走我们中的一个！我已经受不了了！
+修复者：他们把我们当牲口一样……他们不会停止直到我们全部被献祭。
+修复者：你有没有可能救我们？……但我们能逃到哪里去？……他们无处不在！
+修复者：*发抖并焦虑地呼吸着*
+掠夺者：这毫无意义。我们就像一群受惊的普拉克人一样被困在这里。
+掠夺者：我们应该趁还有机会时逃离地下世界。我想我们只能和瓦尔克一起死去。
+掠夺者：你已经昏迷很久了，对吧？这里有个提示——尽量别往窗外看。
+掠夺者：男爵的影响力像野火一样蔓延开来。现在恶魔们团结一致，没有任何东西能阻止他们了。
+女巫：你看起来真的需要一杯酒。现在这比任何药水都更能帮到你。
+女巫：这里剩下的有趣事情已经不多了。恶魔们把一切都拿走了……
+女巫：是啊，是啊，我们试过反抗。但现在连自杀都不值得了。管他了……
+女巫：嘿，猜猜我们能为此感到自豪的是多远的路程。可惜历史不会记住我们。
+熊战士：与男爵的战斗结果如何？我是说……我们知道结局是什么。但那一定是一场惊险的对决！
+熊战士：恶魔们只让我们逃回这里，好看着我们慢慢死去。恶心的杂种……
+熊战士：我实在受不了就待在这里接受这一切！布里扎太懦弱了，连号召大家战斗都不敢！
+熊战士：你已经斩杀了比我们所有人加起来还多的恶魔！别告诉我你愿意接受失败。
+熊战士：接下来会轮到谁呢？我打赌他们会最后才轮到你。他们想让你受苦。
+熊战士：与其苟活在这个 shitty 新世界，我宁愿选择痛苦的死亡……
+熊战士：嘿……如果你想尝试做些愚蠢的事……我们会在你身后。
+熊战士：我们真的要像一群野狗一样死去吗？我们的战士精神去哪儿了？
+大地之母：战士，与诸神和解吧。保持真诚，他们终将拥抱你。
+大地之母：我们无法超越大地……恶魔们已让她中毒至无望之地。
+大地之母：现在最重要的是我们留下的记忆。它将带着我们的灵魂继续前行。
+大地之母：铁军不会屈居于枷锁之下。如果你也愿意，我随时准备以荣誉赴死。*眨眨眼*
+幽蓝男爵：你对现实的掌控力太薄弱了……来吧……跳入深渊……
+剃刀会碾碎你的肉体……烈火将吞噬你的灵魂……
+阿波豪斯：这边！抓住我的手！
+妮丝瑞尔：快结束她吧！我们离失去一切已经太近了！
+妮丝瑞尔：我可不需要软弱的盟友，男爵！结束她。
+妮丝瑞尔：终于！她离得太近了，亲爱的男爵！我对你的表现感到失望……
+妮丝瑞尔：是的！我如此接近！我能感受到虚空正在吞噬我！
+妮丝瑞尔：灯塔已经准备好了！我只需要再一点时间……
+妮丝瑞尔：哦，伟大的先驱者们，我来了！我会引导你们回到我们的世界！
+幽蓝男爵：这里没有逃脱的可能……
+阿波豪斯：快！躲在我后面！
+幽蓝男爵：你为何抵抗？……
+阿波豪斯：这边！我会吸收伤害……
+幽蓝男爵：你……你无法击败我们！
+阿波豪斯：快点！唔……我不知道还能坚持多久！
+幽蓝男爵：啊——……
+阿波豪斯：*喘息着* 瓚……躲在我后面……我……
+妮丝瑞尔：终于！亲爱的男爵，干得好！现在无人能阻挡我们！准备让这个世界迎接我的归来吧……
+幽蓝男爵：不！！！这……我为何会失败？……这不可能……这不可能——
+妮丝瑞尔：混血人，你成功除掉了他，但你总是来得太晚！享受片刻的安宁吧！它不会持续太久……
+瓒浑身伤痕累累、血迹斑斑地凝视着图腾的尸体，只见它抽搐着喷出紫色黏液。
+这并非心灵操控……男爵真的死了。一个阴影般的身影掠过混血人的头顶，将她从幻觉中唤醒。接下来她只听到妮丝瑞尔沙哑的笑声。阿波豪斯召唤出黑暗触须，愤怒而绝望地向茧体发起攻击，但这一切都无济于事。当她因疲惫倒地时，明亮光线分解精灵身体的画面已深深烙印在她逐渐模糊的视野中。瓒跳到她身旁并砸向玻璃，但一切都太迟了……
 
 
 
 
-Nithriel:    Masters! Your daughter has arrived!... Wait... No!... What happened here?!
-As the Baron's dying echoes riled up the spirits of the sacrificed, Zan made her swift escape back to the camp.
-Having overcome all the hellish trials through wit and might, her heart pounded proudly. She was victorious. 
-Having overcome many of the hellish trials through wit and might, her heart eased with relief. She had won. 
-Now that the hellish trials she had endured were finally behind, her heart's beat would mellow. It was over. 
-The hellish trials she had endured had left her heart scarred. She glanced back briefly. It was finally over. 
-ART, ANIMATION, PROGRAMMING, WRITING, LEVEL DESIGN, SOUND DESIGN, PUBLISHING by Zan_HedonDev
+妮丝瑞尔：大师们！你们的女儿来了！……等等……不！……这里发生了什么？！
+随着男爵临终的回响激起了献祭者的灵魂，瓒迅速逃离回到营地。
+凭借智慧与力量战胜所有地狱般的试炼，她的心跳骄傲地鼓动着。她取得了胜利。
+凭借智慧与力量战胜了许多地狱般的试炼，她的内心因释然而平静下来。她赢了。
+如今那些她历经的地狱般试炼终于过去，她的心跳声将变得平缓。一切都结束了。
+她所经历的地狱般试炼已让心脏留下伤痕。她短暂地回望一眼。终于结束了。
+美术、动画、程序、写作、关卡设计、音效设计、出版由瓒_赫顿开发组完成
 
-After losing their Icon, the hordes of chaos were quick to turn on each other, driven by their lust for power.
-As the plan for a united invasion was ruined, their foul influence over the world would soon begin to dwindle.
-SOUNDTRACK
+失去图腾后，混沌军团迅速转向彼此攻击，被对权力的渴望驱使。
+随着联合入侵计划的失败，他们对世界的恶劣影响将很快减弱。
+配乐
 Akhzul
 Breathelast
 Alexander Brandon
@@ -209,58 +209,58 @@ Doomnezeu
 Methadone Skies
 Michiel van den Bos
 Ariah
-Zan_HedonDev
-The demons may have been defeated, but the scars they left behind burned like painful embers.
-Lord Murguth journeyed to his ancestral home, hoping to recover the heritage lost among the ruins.
-Cover art by Dario Martinez, Pau Barz
-Extra posters & paintings by Eraanthe, Jessy Ruiz, JustSomeNoob, Pyss 
-The dwarves returned to Icepeak, hoping to be able to repopulate their ancient towns one day.
-Lady Ingrim soon gave birth to her late lord's son, sparking hope for a brighter future.
-VOICE ACTING
-Zan - Olivia Steele
-Bear Warrior - Sara Mears
-Lancer - Emaline Tuck
-Reaver - SB Steagall
-Fixer - Sophia Rosie
-Witch - Midnight Datura
-Earth Mother - Katie Otten
-The King (easter egg) - Jon St. John
-Under the Curator's care, the Disk worked to reinvigorate the dying crystal formations. 
-The Disk was returned just in time to reinvigorate the dying energy crystal formations. 
-The Lancers discussed the future of their caste, wondering how they'd replace their fallen.
-Thanks to all the dedicated testers for their feedback and suggestions:
+瓒_赫顿开发组
+恶魔或许已被击败，但它们留下的伤痕如同痛苦的灰烬般灼烧着。
+领主穆尔古斯前往祖宅，希望能找回在废墟中遗失的传承。
+封面插画由Dario Martinez, Pau Barz创作
+额外海报与绘画作品由Eraanthe、Jessy Ruiz、JustSomeNoob、Pyss完成
+矮人返回冰峰，希望有朝一日能重新繁衍他们的古老城镇。
+因格利姆女士不久后诞下了她已故领主的儿子，点燃了对更美好未来的希望。
+配音演员
+瓒 - Olivia Steele
+熊战士 - Sara Mears
+长枪兵 - Emaline Tuck
+掠夺者 - SB Steagall
+修复者 - Sophia Rosie
+女巫 - Midnight Datura
+大地之母 - Katie Otten
+国王（彩蛋）- Jon St. John
+在策展人的照料下，圆盘努力使濒死的晶簇重获生机。
+圆盘及时返回，以重振濒死的能量水晶结构。
+长枪团讨论了他们阶级的未来，思索着如何取代那些阵亡者。
+感谢所有致力于测试的人员提供的反馈和建议：
 Mr Red, DevouredOne, Anna_Maniac, Eraanthe, Bluefire, TaBby, KECG, Hatguy, Badguy292
 Sykomancer, spart_n, Red Charge, The Individualist, Corn on the Macabre, Stormyface
-As the crystals nourished the Underworld with heat and light, the flora began to recover.
-This allowed for many dissidents of the Cult to survive and lay the foundation for a free life.
-SPECIAL THANKS TO iamfailtacular - bits of character and lore inspiration
+随着水晶以热能和光能滋养地下世界，植物开始恢复。
+这使得许多邪教的异见者得以生存，并为自由生活奠定基础。
+特别感谢 iamfailtacular - 提供部分角色与世界观灵感
 
-Mr. Red - proof reading
-Vostyok, JaywalkingKnight, DoomKrakken, Nuke - help with technical issues
-Sgt_Mark_IV - brutal friendly AI
-Nash Muhandes - improved player movement
-And thanks to everyone making Hedon fanart and memes! 
-The Iron Division leaders held council to assess their victory, and discuss the future of their clan.
-Chieftain Zura brought up the dark corruption. It was one of the many threats that still loomed over.
-GZDOOM ENGINE
-Graf Zahl - lead development
-The Doom Community - feedback and contributions
-John Carmack - original id Tech 1 Engine
-Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
-Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing
-A plan was devised to rebuild Valc into a stronghold worthy of those who stood brave against the Demons.
-Visitors came eager to trade goods and war stories. The legend of the Iron Division spread far and wide.
+Mr. Red - 校对工作
+Vostyok, JaywalkingKnight, DoomKrakken, Nuke - 协助解决技术问题
+Sgt_Mark_IV - 极端友好的AI
+Nash Muhandes - 改进了玩家的移动方式
+感谢所有创作赫顿同人图和表情包的朋友！
+铁军领袖们召开议会评估胜利，并讨论他们族群的未来。
+首领祖拉提到了黑暗腐化的问题。这是众多仍笼罩在头顶的威胁之一。
+GZDOOM引擎
+Graf Zahl - 主导开发
+Doom社区 - 反馈与贡献
+John Carmack - 原始id Tech 1引擎
+Rachael, Graf Zahl - hGZDoom（赫顿专用的GZDoom分支）
+Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux编译与测试
+制定了一项计划，将瓦尔克重建为值得那些勇敢对抗恶魔之人驻守的据点。
+来访者们热切地想要交易物资和战争故事。铁军的传奇在各地流传开来。
 SLADE3 DOOM EDITOR by Simon Judd
 GZDOOM BUILDER
-MaxED - design and programming
-Gez - game configurations
-ULTIMATE DOOM BUILDER boris, ZZYZX - programming dpJudas - OpenGL renderer
+MaxED - 设计与编程
+Gez - 游戏配置
+ULTIMATE DOOM BUILDER boris, ZZYZX - 编程；dpJudas - OpenGL渲染器
 
 
-StrikerMan780 - 64 bit version
-Talon1024 - Linux compatibility anotak - performance optimizations
+StrikerMan780 - 64位版本
+Talon1024 - Linux兼容性；anotak - 性能优化
 
-Thanks to EVERYONE who financially supported Hedon on Patreon!
+感谢所有在Patreon上资助赫顿的朋友们！
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 Danyx992     ekwood     Infab     SuggestiveBox     Badguy292     Burchy
 Elzevir Mensk     D1SoveR     Vdubs     Chaos Embrace     Willag_mac     Christian Morris
@@ -301,29 +301,29 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
-After so many months of hardship and struggle, the war was finally won by the greenskins and their allies.
-The few remaining Cult towns fell swiftly under the vengeance-thirsty orc blades. The Earth drank well.
-When the bloodlust cooled off, the war moved from battlefields to taverns, under the ears of the bards.
-And as the warriors recounted their feats against impossible odds, one name would always be uttered...
-Everyone:    HAIL THE BONEBREAKER!!!
-The end... 
-Loading... 
-The tendrils won't move apart. 
-These doors won't budge. 
-These doors are locked from the other side. 
-This door requires a Blood key to open. 
-This door requires a Bloody Axe key to open. 
-This switch requires a Bloody Axe key to operate. 
-(A journal appears to have been brutally tossed around by an outburst of corrupt tendrils)
-This is the end of an era. An era of hiding in the dark and seeking a way to summon my dormant ancestors to the world where they belong. Soon enough, the demon thralls will begin to purge any potential opposition and prepare a new world for our people. And I will lead them as their rightful queen!  The Baron has come to terms with this plan  -  he knows better than to oppose me!  And now that the Corrupt Seed is in my hands, I shall finally ascend.  The void awaits me. 
+历经数月的艰难困苦，兽人及其盟友终于赢得了这场战争。
+残存的邪教城镇迅速被饥渴复仇的兽人利刃攻陷。大地畅饮了一场。
+当嗜血的欲望冷却下来后，战争便从战场上转移到了酒馆，在吟游诗人的耳畔继续流传。
+而当战士们讲述着在绝境中战胜不可能的壮举时，总会有一个名字被反复提及……
+所有人：    欢呼吧，碎骨者！！！
+……
+加载中……
+这些触须无法分开。
+这些门纹丝不动。
+这扇门是从另一侧锁住的。
+这扇门需要用血钥匙打开。
+这扇门需要用血斧钥匙打开。
+这个开关需要使用血斧钥匙才能操作。
+（一本日记似乎被腐败触手的爆发撕扯得支离破碎）
+这是一个时代的终结。一个在黑暗中隐藏、寻找一条让我的沉睡祖先回归他们应有世界的方法的时代。很快，恶魔仆从们将开始肃清任何潜在的反对者，并为我们的人民打造一个新世界。而我将成为他们的女王！男爵已接受这个计划——他比任何人都清楚反抗的愚蠢！如今腐化种子在我手中，我终将踏上升华之路。虚空在等待着我。
 
 
 
 
-South - The Great Stump
-East - Reaver Headquarters
-West - Grove Portal Cave 
-Thanks to EVERYONE who financially supported Hedon on Patreon!
+南方 - 巨树桩
+东方 - 掠夺者总部
+西方 - 绿洲传送洞穴
+感谢所有在Patreon上支持赫顿的人！
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 Danyx992     ekwood     Infab     SuggestiveBox     Badguy292     Burchy
 Elzevir Mensk     D1SoveR     Vdubs     Chaos Embrace     Willag_mac     Christian Morris
@@ -364,11 +364,11 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr 
-WELCOME TO HEDON'S BLOODRITE PATREON GALLERY!
-Do you want to feature in here as a supporter of Hedon?
-Do you want a chance at having drawn a custom avatar of your choosing?
-Do you want to help Hedon grow bigger and hook up to development updates?
-Then join up on Hedon's Patreon! 
+欢迎来到赫顿的血祀Patreon画廊！
+你想在这里作为赫顿的支持者展示吗？
+你想要一个机会绘制自己选择的定制化身吗？
+你想帮助赫顿成长并连接到开发更新吗？
+那么加入赫顿的Patreon吧！
 KatG 
 Sleepy Mei 
 Sleepy Mei (2) 

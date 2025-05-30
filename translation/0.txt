@@ -410,10 +410,10 @@ Picked up a Password Scroll.   (Quest Item)
 拾取了一个密码卷轴。  (任务物品)
 
 Picked up a Psi Crown.   (Quest Item)
-拾取了一个Ψ皇冠。  (任务物品)
+拾取了一个心灵王冠。  (任务物品)
 
 Picked up a Psishroom.   (Quest Item)
-拾取了一个Ψ菇。 (任务物品)
+拾取了一个灵菇。 (任务物品)
 
 Picked up a gold coin.
 拾取了一枚金币。
@@ -575,16 +575,16 @@ Picked up a Mortar of Earth Pigment.   (Quest Item)
 拾取了一个大地颜料罐。  (任务物品)
 
 Picked up a bowl of Scribe Embers.   (Quest Item)
-拾取了一碗文士之烬。  (任务物品)
+拾取了一个抄写者余烬之碗。  (任务物品)
 
 Picked up an Iron-Bound Tome.   (Quest Item)
-拾取了一个铁质书本。  (任务物品)
+拾取了一个铁封典籍。  (任务物品)
 
 Picked up a Vial of Healing.
-拾取了一个治疗瓶。
+拾取了一个治疗药剂。
 
 Picked up a Fixer's Dark Vision Goggles.
-拾取了一个修理工的夜视护目镜。
+拾取了一个修复者的夜视护目镜。
 
 Picked up a Potion of Stoneskin.
 拾取了一瓶石肤药水。
@@ -599,16 +599,16 @@ Picked up an Elemental Ring.
 拾取了一个元素戒指。
 
 Picked up a Potion of Might.
-拾取了一瓶威力药水。
+拾取了一瓶力量药水。
 
 Picked up a Potion of Haste.
-拾取了一瓶急速药水。
+拾取了一瓶迅捷药水。
 
 Picked up a Sentry Gun.
 拾取了一把哨兵枪。
 
 Picked up an Amulet of Shadows.
-拾取了一个阴影护身符。
+拾取了一个暗影护符。
 
 Picked up a Choker of the Beast.
 拾取了一个野兽颈圈。
@@ -617,7 +617,7 @@ Picked up a Bag of Holding. (Ammo & One Time Ammo Capacity Upgrade)
 拾取了一个手提袋。(弹药和一次性弹药的容量升级)
 
 Picked up a Bracer of the Revenant.
-拾取了一个亡灵手镯。
+拾取了一个亡灵护腕。
 
 Picked up a Mystery Potion.
 拾取了一瓶神秘药水。
@@ -632,7 +632,7 @@ Recharged your Diving Suit with an Air Tank.
 使用了一个空气罐为潜水服充气。
 
 Picked up a Charged Psi Crown.
-拾取了一个充能的Ψ皇冠。
+拾取了一个充能的心灵王冠。
 
 Picked up the Boots of Journey.
 拾取了旅行之靴。
@@ -641,7 +641,7 @@ Picked up a Ring of the Red Monk.
 拾取了一枚红僧之戒。
 
 Picked up a Scroll of Magma Ball.
-拾取了一个岩浆球卷轴。
+拾取了一个熔岩球卷轴。
 
 Picked up a Scroll of Nourish.
 拾取了一个滋养卷轴。
@@ -668,7 +668,7 @@ Iron pickaxe - A simple iron pickaxe used for mining.   (Quest Item)
 铁镐 - 用于采矿的简易铁镐。  (任务物品)
 
 Power Core - A crystal commonly used by the Iron Division Orcs to power their devices.   (Quest Item)
-动力核心 - 一种铁师兽人常用的水晶，为他们的设备提供动力。  (任务物品)
+动力核心 - 一种铁军兽人常用的水晶，为他们的设备提供动力。  (任务物品)
 
 Moondrop Flower - The pale petals of this eerie smelling flower glisten in the moon light.   (Quest Item)
 落月之花 - 这种气味阴森的花朵的苍白花瓣在月光下闪闪发光。  (任务物品)
@@ -692,7 +692,7 @@ Can of Enchanted Purple Ink - This ink is used by scribes to create spirit magic
 附魔紫墨罐 - 这种墨水是文士用来制作精神魔法卷轴的。  (任务物品)
 
 Toolkit - This box contains various tools used by the Fixers for maintenance work.   (Quest Item)
-工具箱 - 这个箱子里有修理工用于维护工作的各种工具。  (任务物品)
+工具箱 - 这个箱子里有修复者用于维护工作的各种工具。  (任务物品)
 
 Iron Ingot - The heavy, cold bar is ready to be forged into a new shape.   (Quest Item)
 铁锭 - 沉重而冰冷的铁条已经准备好被锻造成新的形状。  (任务物品)
@@ -803,10 +803,10 @@ Password Scroll - The oily paper is scribbled with random words.   (Quest Item)
 密码卷轴 - 油腻的纸张上涂满了随机的文字。  (任务物品)
 
 Psi Crown - This weird device can presumably allow the wearer to pass through psionic fields unharmed.   (Quest Item)
-Ψ皇冠 - 这个奇怪的装置可以让佩戴者不受伤害地通过精神领域。  (任务物品)
+心灵王冠 - 这个奇怪的装置可以让佩戴者不受伤害地通过精神领域。  (任务物品)
 
 Psishroom - The ethereal fungus emits strange vibrations.   (Quest Item)
-Ψ菇 - 虚无的真菌会发出奇怪的振动。  (任务物品)
+灵菇 - 虚无的真菌会发出奇怪的振动。  (任务物品)
 
 Gold Coins - Although gold isn't of much value within the Iron Division, it is always welcome when trading with outsiders.   (Quest Item)
 金币 - 虽然黄金在铁器部内没有什么价值，但在与外人交易时，它总是受到欢迎。  (任务物品)
@@ -884,7 +884,7 @@ Bag of Yeast - The bag is filled with a vital ingredient for baking and brewing.
 酵母袋 - 袋子里装的是烘焙和酿酒的重要原料。  (任务物品)
 
 Orc Doll - The lovingly crafted rag doll resembles an Iron Division Lancer.   (Quest Item)
-兽人玩偶 - 这个精心制作的布娃娃类似于铁师长。  (任务物品)
+兽人玩偶 - 这个精心制作的布娃娃类似于铁军长。  (任务物品)
 
 Primarch Avatar - The golden plate resonates with the voice of a demon primarch.   (Quest Item)
 首领头像 - 金色的盘子上有恶魔首领的声音。  (任务物品)
@@ -953,22 +953,22 @@ Pit Lord Head - The severed head of an arrogant pit lord who put his trust in th
 坑道领主的头颅 - 一个傲慢的坑道领主的断头，他把自己的信任放在了错误的人身上。  (任务物品)
 
 Depleted Armor Amulet - The amulet is completely lifeless, its wearer having been brutally assaulted and overwhelmed.   (Quest Item)
-耗尽的盔甲护身符-护身符完全没有生命力，它的佩戴者被残酷的攻击和压倒。 (任务物品)
+耗尽的盔甲护符-护符完全没有生命力，它的佩戴者被残酷的攻击和压倒。 (任务物品)
 
 Mortar of Earth Pigment - This crystal-infused pigment is used by scribes to create earth magic spell scrolls.   (Quest Item)
 大地颜料研钵 - 这种被水晶注入的颜料被文士们用来制作大地魔法卷轴。  (任务物品)
 
 Bowl of Scribe Embers - The mix of enchanted embers is used by scribes to create fire magic spell scrolls.   (Quest Item)
-文士之烬碗 - 文士用混合的附魔之烬来制作火系魔法卷轴。  (任务物品)
+抄写者余烬之碗 - 抄写者用混合的附魔之烬来制作火系魔法卷轴。  (任务物品)
 
 Iron-Bound Tome - This chained tome contains schematics for many outlawed weapons and artifacts. A blacksmith would find it invaluable.   (Quest Item)
-铁甲书 - 这本被锁住的书包含了许多非法武器和神器的图样。铁匠会发现它是非常宝贵的。  (任务物品)
+铁封典籍 - 这本被锁住的书包含了许多非法武器和神器的图样。铁匠会发现它是非常宝贵的。  (任务物品)
 
 Vial of Healing - This vial restores 10 hit points upon drinking.
-治疗瓶 - 这个小瓶在喝下后可以恢复10点生命值。
+治疗药剂 - 这个小瓶在喝下后可以恢复10点生命值。
 
 Fixer's Goggles - While activated, these goggles will help you see through darkness with ease. Lasts until out of charge.
-修理工的护目镜 - 当激活时,这些护目镜将帮助你轻松地看清黑暗。持续到能量耗尽。
+修复者的护目镜 - 当激活时,这些护目镜将帮助你轻松地看清黑暗。持续到能量耗尽。
 
 Potion of Stoneskin - Drinking this potion will turn your skin into stone scales, greatly increasing your physical, blast and nature damage resistance. Lasts 45 seconds.
 石肤药水 - 喝下此药水后，你的皮肤会变成石质鳞片，大大增加你的物理、爆炸和自然伤害抵抗力。可持续45秒。
@@ -983,22 +983,22 @@ Elemental Ring - This enchanted ring will greatly protect the wearer against ele
 元素戒指 - 这个附魔戒指将极大地保护佩戴者免受元素和魔法伤害，并使他们拥有水下呼吸。可持续90秒。
 
 Potion of Might - Drinking this will grant you ungodly strength but sap your dexterity. You gain HP regeneration and increased melee and throwing damage but your other ranged attacks will be weaker. Lasts 60 seconds.
-威力药水 - 喝下它将赋予你逆天的力量，但会削弱你的灵活性。你会获得HP再生和增加近战和投掷伤害，但你的其他远程攻击会变弱。持续时间为60秒。
+力量药水 - 喝下它将赋予你逆天的力量，但会削弱你的灵活性。你会获得HP再生和增加近战和投掷伤害，但你的其他远程攻击会变弱。持续时间为60秒。
 
 Potion of Haste - Drinking this potion will instil you with a burst of magic that increases attack speed. Lasts 30 seconds.
-急速药水 - 喝下此药水将给你灌输一阵魔法，增加攻击速度。持续30秒。
+迅捷药水 - 喝下此药水将给你灌输一阵魔法，增加攻击速度。持续30秒。
 
 Sentry Gun - One of the most advanced weaponry of the Iron Division, the Sentry Gun can be deployed to provide cover and security within a certain area.
-哨兵枪 - 哨兵枪是铁师最先进的武器之一，可以在一定范围内提供掩护和安全。
+哨兵枪 - 哨兵枪是铁军最先进的武器之一，可以在一定范围内提供掩护和安全。
 
 Amulet of Shadows - Wearing this dark crystal will turn you into a blurry shadow, making you faster and harder to aim at. Lasts 75 seconds.
-阴影护身符 - 佩戴这个黑暗水晶会使你变成一个模糊的阴影，使你的速度更快，更难瞄准。持续时间为75秒。
+暗影护符 - 佩戴这个黑暗水晶会使你变成一个模糊的阴影，使你的速度更快，更难瞄准。持续时间为75秒。
 
 Choker of the Beast - Wearing this collar will shroud you in a fearsome vampiric aura, forcing most enemies to flee and giving your attacks the ability to drain life. Lasts 30 seconds.
-野兽之环 - 戴上这个项圈将使你笼罩在可怕的吸血鬼光环中，迫使大多数敌人逃离，并使你的攻击具有消耗生命的能力。持续时间为30秒。
+野兽颈圈 - 戴上这个项圈将使你笼罩在可怕的吸血鬼光环中，迫使大多数敌人逃离，并使你的攻击具有消耗生命的能力。持续时间为30秒。
 
 Bracer of the Revenant - Equipping this artifact will enchant your Axe to strike with the frigid power of Ice. Lasts 120 seconds.
-亡灵手镯 - 装备这个神器将使你的斧子具有冰冷的力量。持续时间120秒。
+亡灵护腕 - 装备这个神器将使你的斧子具有冰冷的力量。持续时间120秒。
 
 Mystery Potion - A strange looking layered potion. You have no clue what effect it would have upon drinking.
 神秘药水 - 一种看起来很奇怪的分层药水。你不知道喝下它后会有什么效果。
@@ -1010,7 +1010,7 @@ Diving Suit - This air-tight suit allows the wearer to stay underwater for exten
 潜水服 - 这套气密服可以让穿戴者在水下停留很长时间，同时也可以保护他们免受某些危险的影响。可以持续到充能完毕。
 
 Charged Psi Crown - The artifact is charged and ready to protect the wearer against a good portion of mind damage. Lasts until out of charge.
-充能的Ψ皇冠 - 该神器已充能并准备好保护佩戴者免受相当一部分精神伤害。持续时间到用完为止。
+充能的心灵王冠 - 该神器已充能并准备好保护佩戴者免受相当一部分精神伤害。持续时间到用完为止。
 
 Boots of Journey - When equipped, this pair of old, inconspicuous boots will lighten the wearer's legs and increase movement speed. Lasts until unequipped
 旅行之靴 - 当装备上这双旧的、不显眼的靴子时，将减轻穿戴者的腿部负担并提高移动速度。持续到没有装备为止。
@@ -1019,7 +1019,7 @@ Ring of the Red Monk - When equipped, this ring will greatly increase unarmed da
 红僧之戒 - 装备后，这枚戒指将大大增加徒手伤害，并赋予使用者的拳头以红僧的传奇力量。持续到未装备为止。
 
 Scroll of Magma Ball - This spell will hurl a ball of magma that explodes on impact.
-岩浆球卷轴 - 这个法术会投掷出一个岩浆球，在撞击时爆炸。
+熔岩球卷轴 - 这个法术会投掷出一个熔岩球，在撞击时爆炸。
 
 Nourish - This spell will fill the caster's body with nurturing energies, slowly regenerating their wounds. Lasts 60 seconds.
 滋养 - 这个咒语将使施法者的身体充满滋养的能量，慢慢地使他们的伤口再生。持续60秒。
@@ -1028,7 +1028,7 @@ Journal - This handful of greasy, coarse papers bound by shaky iron hoops is mor
 日记本 - 这本由摇晃的铁箍捆绑的油腻粗糙的纸张，足以追踪你在战场上的任务。
 
 Enchanted Purple Ink Recipe - Reading this scroll could offer some insight on how to brew enchanted purple ink.
-附魔紫墨配方 - 阅读这个卷轴可以获得一些关于如何酿造附魔紫墨的见解。
+附魔紫墨水配方 - 阅读这个卷轴可以获得一些关于如何酿造附魔紫墨水的见解。
 
 Great Forge Instructions - Reading this scroll could offer some insight on how to operate the Great Forge's equipment.
 大锻炉说明 - 阅读此卷可以了解如何操作大锻炉的设备。

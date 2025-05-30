@@ -1,691 +1,691 @@
-Loading... 
-Warlord Grund:    It's your lucky day, Halfblood, your name was cleared of cowardice. Get up, Breaza wants to see you.
-Grand Earth Mother Breaza:    Welcome back among us, Zan. I apologise for the harsh reception.
-Tiati here has told us about what happened. The news about Valc's siege strikes yet another heavy blow against us...
-We are all that's left of our campaign force, and receiving reinforcements from home was our last and only hope.
-I have summoned you all here to inform you that we have run short on both time and options. You know what we must do.
-Minotaur Lord Murguth:    The Earth is calling us back. We march forth, and die with honour!
-Grand Earth Mother Breaza:    Indeed we shall. But we will not die in vain. We have to bring the Demons to their knees.
-Advisor:    Now we are a mouse, trying to bring down a mammoth. All we need is to find the right crack to slip through.
-Grand Earth Mother Breaza:    It is the only path left to take. Give the news to your warriors, and tell them to prepare.
-High Priest Jaromir:    We've been prepared for ages, lady. All we need is for the horns to call for battle.
-Grand Earth Mother Breaza:    Well then, this is it... do you have any questions?
-Eraanthe:    If I may... now that your precious smurf has returned, I assume our contract still holds?...
-Grand Earth Mother Breaza:    You will earn your vengeance, Queen of Wrath. Sooner than you may think.
-Well then, you all know what to do. As for you, Zan, I want you to get some rest. We have a spare room for you and Tiati.
-Advisor:    And take this Force Pike, for the love of all Gods. How have you made it so far without one? 
-Advisor:    And take this Crylance, for the love of all Gods. How have you even made it so far without one- 
-Grand E. M. Breaza:    I'd rather she avoided fighting now, Advisor. Give your bruises some time to heal, Zan. 
-Oh, and take this journal if you wish. Perhaps a little writing will help you ease your mind before we set off.
-Dismissed. 
-Press Use to skip briefing 
-Press Use to skip debriefing 
-Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready. 
-Press Use to skip briefing 
-Grand Earth Mother Breaza:    Use the ruby to get into the minotaur town, Zan. And please, be careful. 
-Press Use to skip debriefing 
-Grand Earth Mother Breaza:    You look so tired. Get some sleep and we'll talk when you are awake. 
-Press Use to skip briefing 
-Grand E. M. Breaza:    Jaromir has left our camp an hour ago. Head south-east of here and meet up with him. 
-Press Use to skip debriefing 
-Grand E.M. Breaza:    Figure a way to get into the mine north of here and find our sappers. We're counting on you. 
-This wall looks like it could be broken with a proper tool. 
-You'll need a proper tool to mine this ore vein. 
-The pedestal's locking mechanism prevents the ruby from being removed. 
-The pedestal is empty. 
-Fixer:    Look out! 
-Fixer:    D-demons!!! 
-Fixer:    Y-you! Zan? I need your help!
-Fixer:    I was part of the forest group!... th-they sent me here to set up that roadblock to the mansion... but when I returned to check on them, they were all gone!!! A-and cultists were looting our camp! I-I'll show you! 
+加载中...
+男巫格伦德：混血人，今天是你的幸运日，你的名字已清除了懦弱的指控。快起来吧，布里扎想见你。
+伟大的大地之母布里扎：欢迎回到我们之中，瓒。我为之前的冷遇道歉。
+提娅媞在这里告诉我们发生了什么。瓦尔克的围攻消息又给我们带来了沉重打击...
+我们只剩下原本远征军的残余力量，而从家乡获得增援是我们最后也是唯一的希望。
+我召集你们所有人在此，是为了告知你们我们已耗尽时间和选项。你们知道我们必须做什么。
+牛头人领主穆尔古斯：大地在召唤我们回归。我们前进吧，以荣誉战死！
+伟大的大地之母布里扎：确实如此。但我们不会白白死去。我们必须让恶魔跪地臣服。
+顾问：现在我们就像老鼠，试图推翻猛犸象。只要找到合适的裂缝就能突围。
+伟大的大地之母布里扎：这是唯一可行的道路。通知你的战士们，让他们做好准备。
+高阶祭司贾罗米尔：我们已经准备了许久，夫人。只需角号召唤战斗即可。
+伟大的大地之母布里扎：那么，这就是最后的时刻……你们还有什么问题吗？
+埃拉安瑟：如果可以的话……现在你珍贵的小精灵回来了，我假设我们的契约仍然有效？…
+伟大的大地之母布里扎：愤怒女王，你将获得复仇，而且比你想象得更快。
+那么，你们都知道该怎么做。至于你，瓒，我希望你能好好休息一下。我们为你们和提娅媞准备了空房间。
+顾问：带上这把力量长矛吧，为了诸神之名。你怎能在没有它的情况下走到这里？
+顾问：带上这把水晶长矛吧，为了诸神之名。你甚至能带着它走到这里——
+伟大的E.M.布里扎：我宁愿她现在避开战斗，顾问。瓒，让你的淤青好好恢复一下吧。
+哦，如果你想的话，可以拿走这本笔记。也许写点东西能帮你缓解出发前的思绪。
+退下吧。
+按使用键跳过简报
+按使用键跳过复盘
+伟大的大地之母布里扎：很好……瓒，现在去休息吧，之后你可以在营地帮忙。你的房间应该准备好了。
+按使用键跳过简报
+伟大的大地之母布里扎：用红宝石进入牛头人镇，瓒。请务必小心。
+按使用键跳过复盘
+伟大的大地之母布里扎：你看起来这么累。休息一下，等你醒来我们再谈。
+按使用键跳过简报
+伟大的E.M.布里扎：贾罗米尔一小时前已经离开了我们的营地。向东南方向走，与他会合。
+按使用键跳过复盘
+伟大的E.M.布里扎：想办法进入这里北方的矿井，找到我们的工兵。我们正依赖你。
+这堵墙看起来可以用合适的工具打破。
+你需要合适的工具来开采这条矿脉。
+底座的锁定机制阻止了红宝石被移除。
+底座是空的。
+修复者：小心！
+修复者：D-恶魔！！！
+修复者：Y-你！瓒？我需要你的帮助！
+修复者：我曾是森林小组的一员！……他们派我去庄园那边设置路障……但当我回去查看时，所有人都不见了！！！A-还有邪教徒在洗劫我们的营地！我……我带你们去看看！
 
-Fixer:    Brrr, this place gives me the creeps. 
-Fixer:    This way! Our camp was in the forest to the right. 
-Fixer:    Uh, it's so cold here... I hope you know where you're taking us. 
-Fixer:    Can you believe this? A rainstorm in the underground?! I told 'em it's a bad omen, I did! 
-Fixer:    We had supplies stashed here, but it looks like the cultists have stolen most of them. 
-Fixer:    This is where we were holding the line... no sign of battle, nothing other than the looters!
-The cultist fortress is just up ahead. It's the only place where they could have taken our sisters. 
-Fixer:    We were trying to tunnel around their wall and take them by surprise, but we hit this rock layer... 
-Fixer:    W-wait, you're not going to assault their gate head-on, are you?! That's suicide! 
-Fixer:    I-I can't believe we're doing this!... 
-Fixer:    Breaza! I-I'm from the forest group, something bad happened! The cultists have captured our sisters!
-Grand Earth Mother Breaza:    ... 
-Advisor:    We don't have any troops we can spare right at the moment... unless... Breaza? 
-Grand Earth Mother Breaza:    ...I don't like this a single bit but we have no choice. Zan, I need you to investigate. 
-Find out what happened to our warriors, but don't take any unnecessary risks. We can't lose anyone else now...
-Fixer:    I'll help with what I can. D-don't worry ma'am, we'll stay out of trouble! 
-This wall looks like it could be broken with a proper tool. 
-Spirit Mistress:    I've been expecting you... 
-Suspicious Armor:    *Squeaks* 
-Reaver:    Psst! Hey, you!
-Fixer:    Sisters! We're here to save you. 
-Reaver:    The levers are at the end of the corridor, set us free! 
-Reaver:    Zan! Thank the Earth for sending you! We got captured by this powerful warlock. She suppressed our minds, we couldn't even fire at her! She left her right hand in charge here...   calls herself the Spirit Mistress. 
+修复者：啧啧，这里真让人毛骨悚然。
+修复者：这边走！我们的营地就在右边的森林里。
+修复者：呃，这里好冷……希望你知道要带我们去哪儿。
+修复者：你能相信吗？地下居然有暴雨！我早就说过这是不祥之兆了！
+修复者：我们在这里存了一些物资，但看起来邪教徒偷走了大部分。
+修复者：这就是我们坚守的防线……没有战斗痕迹，只有洗劫者的踪迹！
+邪教徒要塞就在前方。那是他们能带走姐妹们唯一的地方。
+修复者：我们试图绕过他们的城墙突袭，但撞上了这层岩石……
+修复者：W-等一下！你不会直接强攻他们的大门吧？！那可是自杀啊！！
+修复者：I-I不敢相信我们居然要这么做！……
+修复者：布里扎！我……我是森林小组的，出了大事了！邪教徒抓走了我们的姐妹们！！
+伟大的大地之母布里扎：……
+顾问：我们现在根本无法派出任何部队……除非……布里扎？
+伟大的大地之母布里扎：……我不喜欢这么做，但我们别无选择。瓒，你需要去调查。
+查明我们战士的下落，但不要冒不必要的风险。现在不能再有人失踪了……
+修复者：我会尽我所能帮忙。D-请放心，女士，我们会避开麻烦！
+这堵墙看起来用合适的工具就能打破。
+灵女：我一直在等你……
+可疑铠甲：*吱吱*
+掠夺者：嘘！嘿，你！
+修复者：姐妹们！我们来救你们了。
+掠夺者：走廊尽头有杠杆，快放我们出去！
+掠夺者：瓒！感谢大地派你来！我们被这个强大巫师抓了。她压制了我们的意识，连开火都做不到！她留下右手在这里……自称灵女。
 
-Reaver:    The Spirit Mistress has the key to the prison. She likes to spend her time in the nearby patio. 
-Reaver:    We can talk later, you have to hurry up and set us free! 
-Orc Warriors:    We're free! Hail the Bonebreaker!
-Witch:    Don't cheer yet, we still have to get out of here. 
-Fixer:    Oh, no... w-what have they done... 
-Reaver:    Bastards... 
-Reaver:    Sounds like they're calling for reinforcements. 
-Bear Warrior:    More skulls to crush! For the Iron Division! 
-Bear Warrior:    Found our imprisoned sisters? Go report to Breaza, right away! 
-Bear Warrior:    You found our captive sisters? Go debrief with Breaza immediately! 
-Witch:    Sweet home. Glad to hear Breaza's in charge, Grund would've chewed us up for this mess. 
-Bear Warrior:    Hail, sisters! It's good to be back among our own again. 
-Reaver:    I never thought I'd make it back alive. Let's go see Breaza. 
-Fixer:    F-finally, back to safety! Let's go t-tell Breaza everything that happened! 
-This switch requires a Copper key to work. 
-The gates are stuck. 
-The gates seem barred from the other side. 
-The door is locked from inside. 
-The gates are locked tight. 
-This door is locked. You notice an Axe emblem above it. 
-These doors require a Copper key to open. 
-This door requires a Copper key to open. 
-This door requires an Axe key to open. 
-(This journal appears to belong to the Spirit Mistress. You decipher the strange runes with ease)
-Day 54, 3rd Qrt. An. 1106
-Just great!  I left my decrepit mansion hoping for an adventure and Mistress Nithriel has brought me to this damp and dull place! On the positive side, she's entrusted me with commanding it so I will have my new servants arrange the premises to my liking.  What won't change so soon is the presence of these persistent orcs outside of our walls.
-
-
-Day 55, 3rd Qrt. An. 1106
-Nithriel has finally talked about her exploits... to a certain degree. She had to expend large amounts of her power to retrieve this mystical artifact... so that's why she needed me. She's asked me to summon my warlocks and ready a mana funneling ritual.  It appears that she still requires energy for her upcoming journey.  Very well, I'll oblige.
+掠夺者：灵女掌握着监狱的钥匙。她喜欢在附近的露台消磨时间。
+掠夺者：稍后再谈，你得赶紧放我们出去！
+兽人战士：我们自由了！欢呼吧，碎骨者！
+女巫：别急着庆祝，我们还得从这里逃出去。
+修复者：哦不……w-他们到底做了什么……
+掠夺者：该死的……
+掠夺者：听起来他们在叫援军。
+熊战士：更多头骨要碾碎！为了铁军！
+熊战士：找到我们的囚禁姐妹了？立刻去报告布里扎！
+熊战士：你找到了我们的俘虏姐妹？马上去向布里扎汇报！
+女巫：甜蜜的家。听到布里扎负责真好，格伦德肯定会把我们撕碎才对这摊烂摊子。
+熊战士：致敬，姐妹们！能再次回到自己的人中真是太好了。
+掠夺者：我从没想到还能活着回来。走吧，去见布里扎。
+修复者：F-终于回到安全的地方了！快去跟布里扎说发生的一切！
+这个开关需要用铜钥匙才能启动。
+大门卡住了。
+大门似乎被从另一侧堵住了。
+门从内部锁住了。
+大门被牢牢锁住。
+这扇门是锁着的。你注意到门上方有一个斧头徽记。
+这些门需要用铜钥匙才能打开。
+这扇门需要用铜钥匙才能打开。
+这扇门需要用斧钥匙才能打开。
+（这本日记似乎属于灵女。你轻松地解读了奇怪的符文）
+第54天，第三季度，安年1106年
+真棒！我离开破旧的庄园希望能开启冒险，结果妮丝瑞尔女士却带我来到这个阴暗沉闷的地方！不过积极的一面是她将指挥权交给我，这样我的新仆人就能按照我的喜好布置这里了。很快改变不了的是我们城墙外这些顽固兽人的存在。
 
 
-Day 56, 3rd Qrt. An. 1106
-Drat! Just as I returned here today, I noticed a praak running off with my Spirit Gem clutched into it's slimy claws!
-I chased it all the way to the throne room, but he vanished without a trace! The cultists are still searching for it...
-Day 57, 3rd Qrt. An. 1106
-It seems like Nithriel is planning to leave to Hell.   She's got an appointment with the Blue Baron I presume... I hope she doesn't plan to forget me here. I'm supposed to receive an official order from her today, and I'm quite nervous. 
-
-Official order from the authority of High Mistress Nithriel
-My dearest sister, I am departing to Hell today.  It is time for each of us to tend to their duties, and yours will be just as important as mine. I will break the orc siege, and offer you the greenskin prisoners for interrogation.
-
-Your duty is to find out the number of the survivors and their positions, so we can devise a plan to put an end to their wretched presence here in the Underworld, once and for all. Fear not, as Demons will aid you in this war.
-
-There is, however, a more urgent task at hand.  I'm expecting a particularly strong orc to show up at your door.
-The Halfblood. Set up a trap, and capture her. Then throw her into the corruption pits beneath the castle.  I will slow down her advance and buy you time to prepare. Be vigilant and make sure that she doesn't lose her life. Yet.
-
-I shall return in due time once I bring the artifact to where it belongs. Tend to your orders. Do not disappoint me. 
-Interrogation Report - Day 57, 3rd Quarter, Anum 1106
-We have commenced the interrogation of the first prisoner. As expected, she has refused to talk. We applied an increasing amount of pain, but it seems that these greenskins are well trained and devoted to their cause.  She has ultimately died under the hot rod's pain. We will require a mentalist or a succubus to yield any result here. 
+第55天，第三季度，安年1106年
+妮丝瑞尔终于谈及她的冒险经历……在某种程度上。她不得不耗费大量魔力来获取这件神秘神器……所以这就是她需要我的原因。她让我召唤男巫并准备一场魔力汇聚仪式。看起来她仍需能量为即将到来的旅程做准备。很好，我会遵从。
 
 
-Rites of Initiation
-[...] And who is more blessed than him who can harness the power of mana? Who can be more ready to overcome his flesh than the Initiate? And the Cult shall chisel and shape this blessing in return for his devout service.
+第56天，第三季度，安年1106年
+该死！我刚回到这里就发现一个普拉克正带着我的灵石逃窜，它用黏腻的爪子紧紧抓着！
+我一路追到王座大厅，但它却毫无踪迹地消失了！邪教徒们仍在搜寻它……
+第57天，第三季度，安年1106年
+看起来妮丝瑞尔计划前往地狱。她应该要与幽蓝男爵会面……我希望她不会在这里把我遗忘。我今天本应收到她的正式命令，此刻我相当紧张。
 
-For it is him who willingly offers his fleshly eye on the altar, and him who will receive the Godly sight in turn. 
-(The scroll mentions various strategic positions and interests of the Demons. A code is written at the end - 2367) 
-Advisor:    Interesting plan you found... we had no clue that the cultists were infighting over the mansion. 
-(The scroll bears the intricate seal of a highly ranked Pit Lord)
-My faithful worshipers, I assure you that we will have a fruitful collaboration.     Your sacrifice and devotion has earned the good favor of the Demons, and we will not leave it unpaid. The ice cave ambush is prepared, as Mistress
+高阶女主人妮丝瑞尔的官方命令
+我亲爱的妹妹，我今日将启程前往地狱。如今是时候让每个人履行各自的职责了，你的任务与我的同样重要。我会击破兽人围攻，并将绿皮俘虏交予你审讯。
 
-Nithriel has ordered. We shall keep any intrusive greenskins away from the abandoned dwarven city. - Lord Igrutius 
-Keep the gate barred at all times! Supplies will be arriving via demon gating from now on, by order of the Psi Demons. 
-(The scroll bears the very seal of the supreme Cult leader)
-I no longer need you at the factory. Take your disciples and move to the dwarven town. Once you get there, you will be further instructed with your tasks. Needless to say, this matter will require the utmost discretion.   -  N. 
+你的任务是查明幸存者的数量及其位置，以便我们制定计划，彻底终结这些可怜生物在地下世界的存在。不必畏惧，恶魔将在这场战争中助你一臂之力。
 
-TO DO:
-1. Salvage usable crystals from tank turret
-2. Refill fragfire cans and pass them to Hectus
-3. Get 6 lumps of Dark Iron Ore & replace lost Spike Guns 
-4. Break down & document the newly uncovered Paingun 
-Bear Warrior:    Demons are attacking! Quick, sisters, to the gates!
-Bear Warrior:    Arrrgh! 
-Bear Warrior:    They are coming from everywhere!!! What the hell is happening?! 
-Fixer:    They just keep coming!!! What do we do?!
-Reaver:    We fight until we run out of ammo! For the Iron Divison! 
-Abhaoth:    ...the hourglass has turned... time is slipping away... the end is closer than it appears... 
-Reaver Tiati:    You see the shadow too, don't you...
-When I faced Nithriel back at the Crystal Heart, she did something to me... tried to... slip into my head?
-I have been feeling echoes of her emotions ever since... or at least I think so. I sense this eerie excitement.
-She must be close to where we are... but enough of that. Get up, Breaza wants to see you about a new task.
-Crystal Curator:    We meet again, Halfblood. You didn't think I would fall so easily, did you?
-Granted our sisters had to retrieve my half conscious body from a pile of slimy worm flesh...
-Grand Earth Mother Breaza:    We are honoured with your presence here, Curator. Your insight is invaluable. 
-Grand Earth Mother Breaza:    Well then, let us begin. As you already know, we have claimed the south Cult fort.
-Advisor:    Thanks to that, we could send a messenger for Valc on a safer route. We may expect reinforcements soon.
-Grand Earth Mother Breaza:    What's more, our warriors have searched the fortress and found important information.
-Nithriel is planning to meet with the Blue Baron, right at the port city north-east of us. A capital opportunity.
-Crystal Curator:    Yes, I cannot stress enough how crucial it is that we stop the Elf! 
-Advisor:    A chance to both sever the snake's head, and retrieve our Sacred Disk. A way out of this disaster.
-Grand Earth Mother Breaza:    However, we can't assault the town gates directly. The guard towers will incinerate us!
-Reports suggest that the demons are using a nearby abandoned minotaur town to store their supply of hell powder...
-If we could claim it, we could use it to quickly tunnel around the town's walls and launch a surprise attack.
-Advisor:    This is where you come in, sergeant. We need you to secure the depot. The problem is... Lord Murguth? 
-Minotaur Lord Murguth:    The access to the town has been long sealed off. Demons can teleport inside. We can't.
-My ancestors used perfectly cut rubies to open the main gates. And I happen to have inherited one of these gems.
-Bonebreaker, take the ruby and place it on the pedestal where it belongs. That will power up the gate's mechanism.
-Advisor:    The enemy isn't expecting you, so this should be a safer task, sergeant. Still, keep your guard up.
-Grand Earth Mother Breaza:    We're counting on you, Zan. Take care... dismissed. 
-Abhaoth:    ...find me...put the pieces together...before they overwhelm you... 
-Abhaoth:    ...yes...keep searching...release me... 
-Abhaoth:    ...some secrets are best left untouched... but that won't stop you, will it?... 
-Reaver Tiati:    Zan, wake up! Chieftain Zura has arrived from Valc with a few others.
-Remember the dark corruption that Lith was growing back in the Clinic's labs?
-Zura has found some information on that. Come on, get up, she wants to brief you with a new task.
-Witch Chieftain Zura:    Ah, look who has just arrived. Our most treasured champion!
-Grand Earth Mother Breaza:    I'm sure you're delighted to meet Chieftain Zura too, Zan. Pleasantries aside-
-Witch Chieftain Zura:    I've studied one of Lith's diaries back in Valc and uncovered... certain details.
-It appears that Nithriel had managed to pierce her mind and feed her visions, gradually driving her insane.
-During this unstable process, however, parts of Lith's mind were overridden by the warlock's own memories...
-Her diary described images of underwater ruins and how they are tied to the manifestation of the corruption.
-I believe you've seen the Cult using Valc's Grove portal to experiment with the spread of this dark slime.
-If we could verify the memories, we could pinpoint the origin of this parasite and learn how to combat it.
-Grand E. M. Breaza:    Jaromir knows of an underwater town built by his ancestors for archeological studies.
-Witch Chieftain Zura:    ...studies of old ruins. Elven ruins... that might well be connected to Nithriel's goals.
-Crystal Curator:    Of course! The Sacred Disk! She must know of something else it could be used for. 
-Advisor:    Our knowledge of crystals stems from elven ruins too, after all. This slime might be a similar case.
-Witch Chieftain Zura:    Regardless, you are to investigate the place, warrior. The information could be crucial. 
-Grand E. M. Breaza:    Jaromir left our camp an hour ago. Head south-east of here and meet up with him.
-He will aid you in finding these mysterious ruins. Please be careful... and watch your back. Dismissed.
-Oh, and before I forget... try not to hamper our Brewer next time. It cost our Earth Mothers a lot of mana... 
-.oO   JOURNAL OF ZAN THE BONEBREAKER   Oo. 
-> Not much going on, I should find my room and get rest 
-> A Fixer told me her squad vanished - should investigate 
-> Found the captives, need to free them and report to Breaza 
-> Get into the Minotaur Town, find and secure the Hell Powder 
-> Found more than just Hell Powder - should report to Breaza 
-> Enter the old Dwarf Town & check if Lith's visions were true 
-> Found a weird corruption sample, should report back to Zura 
-> Sabotage the flame towers protecting the Demon Town gate 
----Side Notes---
-> E. Mother Bendi needs a Spirit Gem to charge my Psi Crown 
-> Earth Mother Bendi needs a Spirit Gem to charge my Psi Crown 
-> Workshop Boss needs 6 lumps of Dark Iron for gun parts 
-> Smith Hectus needs 8 lumps of Iron for a Great Axe 
-> Smith Hectus is trading ammo for Iron Ore 
-> Shady Fixer sells Dark Vision Goggles for 10 gold 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold 
+然而有一项更紧迫的任务需要处理。我预计会有一个特别强大的兽人来到你门前。
+混血人。设置陷阱并抓住她，然后将她扔进城堡下方的腐化坑洞。我会延缓她的进攻，并为你争取准备时间。务必警惕，确保她不会丧命。
 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold a Bag of Holding for 300 gold 
+等我把神器带到它该去的地方后，我将适时归来。履行你的任务，不要让我失望。
+审讯报告 - 第57天，第三季度，安年1106年
+我们已开始审讯第一位囚犯。正如预期，她拒绝开口。我们施加了越来越多的痛苦，但似乎这些绿皮人训练有素且忠于他们的事业。最终她在热铁棒的折磨下死去。我们需要一位精神系法师或魅惑女妖才能在此获得任何结果。
 
 
-> A Shady Fixer sells Dark Vision Goggles for 10 gold two Sentries for 100 gold a Bag of Holding for 300 gold
+入门仪式
+[...] 谁能驾驭魔力的力量，谁才是更受祝福者？谁能比入门者更准备好战胜自己的血肉？邪教将用他的虔诚服务来雕琢和塑造这份恩赐。
+
+因为正是他自愿在祭坛上献出自己的血肉之眼，也将因此获得神圣的视野。
+（卷轴提及了恶魔的战略位置与利益。结尾写有密码——2367）
+顾问：你发现的计划很有趣……我们之前完全不知道邪教徒竟在庄园内斗。
+（卷轴上印有高阶深渊领主的复杂印章）
+我忠诚的信徒们，我可以向你们保证，我们将展开富有成效的合作。你们的牺牲与奉献已赢得恶魔们的青睐，我们绝不会让这份恩情白费。
+
+冰洞伏击已准备就绪，正如妮丝瑞尔女士所下令。我们将阻止任何入侵者接近废弃的矮人族城市。——领主伊格鲁提乌斯
+随时封锁大门！从现在起所有补给将通过恶魔传送抵达，由心灵恶魔下达命令。
+（卷轴上印有最高邪教领袖的印章）
+我再也不需要你在工厂了。带着你的弟子们前往矮人族城镇。一旦抵达那里，你们将获得进一步的任务指示。毋庸置疑，此事需绝对保密。——N.
+
+待办事项：
+1. 从坦克炮塔中回收可用的水晶
+2. 补充碎火罐并传递给赫克图斯
+3. 获取6块暗铁矿石并更换丢失的尖刺枪
+4. 拆解并记录新发现的痛击枪
+熊战士：恶魔正在进攻！快，姐妹们，去城门！
+熊战士：啊——！
+熊战士：他们从四面八方涌来！！！这是什么情况？！
+修复者：他们源源不断地来了！！！我们该怎么办？！
+掠夺者：战斗到弹药耗尽为止！为了铁军！
+阿波豪斯：……沙漏已翻转……时间正在流逝……结局比表面看起来更近了……
+掠夺者提娅媞：你也看到了那道阴影，对吧……
+当我面对妮丝瑞尔时在水晶之心，她对我做了什么……试图……潜入我的意识？
+从那时起我便感受到她的情绪回响……或者至少我认为如此。我能察觉到这种诡异的兴奋感。
+她一定离我们很近了……但够了。起来吧，布里扎需要你处理一项新任务。
+水晶管理员：再次见到你，混血人。你没想过我会这么轻易就倒下，对吧？
+尽管我们的姐妹们不得不从一堆黏腻的蠕虫肉中把我半昏迷的身体捡回来……
+伟大的大地之母布里扎：能在此处见到您，管理员我们深感荣幸。您的洞察力无比珍贵。
+伟大的大地之母布里扎：那么，我们开始吧。正如你们所知，我们已占领了南方邪教的要塞。
+顾问：多亏了这一点，我们可以沿更安全的路线派信使前往瓦尔克。我们可能很快就能得到增援。
+伟大的大地之母布里扎：此外，我们的战士搜查了这座堡垒，并发现了重要情报。
+妮丝瑞尔计划在我们东北方的港口城市与幽蓝男爵会面。这正是绝佳的机会。
+水晶管理员：是的，我无法强调得更清楚了——阻止精灵至关重要！
+顾问：这是斩断蛇头、夺回圣盘的良机。这是我们摆脱这场灾难的方法。
+伟大的大地之母布里扎：然而，我们不能直接强攻城门。守卫塔会将我们烧成灰烬！
+报告指出恶魔们正在利用附近废弃的牛头人镇储存他们的地狱火药...
+如果我们能夺取它，就能快速挖掘绕过城镇城墙并发动突袭。
+顾问：这就是你的任务了，中士。我们需要你占领仓库。问题是……牛头人领主穆尔古斯？
+牛头人领主穆尔古斯：通往镇子的入口早已被封死。恶魔可以瞬移进入，我们无法阻止。
+我的祖先曾用完美切割的红宝石开启主门。而我恰好继承了一颗这样的宝石。
+碎骨者，拿走这颗红宝石并将其放在属于它的地方。这样就能激活大门的机关。
+顾问：敌人没有预料到你们，所以这应该是一项更安全的任务，中士。不过，仍要保持警惕。
+伟大的大地之母布里扎：我们寄予厚望于你，瓒。小心……解散了。
+阿波豪斯：……找到我……把碎片拼凑起来……在他们吞噬你之前……
+阿波豪斯：……是的……继续寻找……释放我……
+阿波豪斯：……有些秘密最好不触碰……但那不会阻止你，对吧？……
+掠夺者提娅媞：瓒，醒来！女巫首领祖拉从瓦尔克带着几个人抵达了。
+还记得利思在诊所实验室里逐渐滋生的黑暗腐化吗？
+祖拉找到了关于此事的一些信息。快点起来，她想给你布置新任务。
+女巫首领祖拉：啊，看看谁刚刚到来了。我们最珍视的冠军！
+伟大的大地之母布里扎：我确信你也高兴见到女巫首领祖拉，瓒。闲话暂且放下——
+女巫首领祖拉：我曾在瓦尔克研究过利思的一本日记，并发现了……某些细节。
+看来妮丝瑞尔成功穿透了她的意识，将幻象灌输给她，逐渐使她陷入疯狂。
+然而在这一不稳定的过程中，利思的意识部分被巫师自身的记忆所覆盖……
+她的日记中描述了水下遗迹的画面，以及这些遗迹与黑暗腐化显现之间的关联。
+我相信你已见过邪教利用瓦尔克丛林传送门进行实验，研究这种黑暗黏液的扩散方式。
+如果我们能验证这些记忆，就能确定这种寄生虫的起源，并学习如何对抗它。
+伟大的E.M.布里扎：贾罗米尔知道一座由他祖先建造的水下城镇，用于考古研究。
+女巫首领祖拉：……对古代遗迹的研究。精灵遗迹……这很可能与妮丝瑞尔的目标有关联。
+水晶管理员：当然！圣盘！她一定知道它还能用于其他用途。
+顾问：毕竟我们对水晶的认知也源自精灵遗迹。这种黏液或许也是类似的情况。
+女巫首领祖拉：无论如何，战士，你需前往调查那个地方。这些信息可能至关重要。
+伟大的E.M.布里扎：贾罗米尔一小时前就离开了我们的营地。向东南方向前进，与他会合。
+他将协助你寻找这些神秘的遗迹。请务必小心……并注意自身安全。解散了。
+哦，对了，在我忘记之前……下次尽量不要妨碍我们的酿酒师。这耗费了大地之母大量的魔力……
+.oO   “碎骨者”瓒的日志   Oo.
+> 没什么特别的事，我应该去找房间休息一下
+> 一个修复者告诉我她的队伍消失了——应该调查一下
+> 找到了俘虏，需要解救他们并报告给布里扎
+> 进入牛头人镇，找到并获取地狱火药
+> 不仅仅是地狱火药——应该报告给布里扎
+> 进入旧矮人镇，检查利思的幻象是否属实
+> 发现了一个奇怪的腐化样本，应该回报祖拉
+> 破坏保护恶魔镇大门的火焰塔
+---任务提示---
+> E.之母本迪需要一颗灵石来充能我的心灵王冠
+> 大地之母本迪需要一颗灵石来充能我的心灵王冠
+> 工坊老板需要6块暗铁用于枪械零件
+> 铁匠赫克图斯需要8块铁矿石打造巨斧
+> 铁匠赫克图斯正在用弹药换取铁矿石
+> 阴暗修复者以10金币出售暗视护目镜
+> 阴暗修复者以10金币出售暗视护目镜，2个守卫以100金币出售
+
+> 阴暗修复者以10金币出售暗视护目镜，2个守卫以100金币出售，储物袋以300金币出售
 
 
-Vials of Healing for 10 gold 
-> A smith could assemble the diving suit if I bring the parts:
-underwater mask, tank full of air & couple of airtight suits 
-> A smith could assemble the diving suit if I bring the parts:
-underwater mask, tank full of air & couple of airtight suits 
-Grand E. M. Breaza:    The minotaur town should connect to the mines, search it carefully. And watch your back! 
-Grand E. M. Breaza:    So your search has been far more dangerous than I had expected. Let Zura know about it. 
-Grand E. M. Breaza:    Jaromir has headed south-east, towards the icy region. He will help you in your search. 
-Grand E. M. Breaza:    I did not imagine I'd be sending you to such a dangerous place, Zan. Go get some rest now... 
-Grand E. M. Breaza:    You've found the powder? Excellent!... Wait, that isn't the only thing you discovered, is it?
-By Air's good grace! The demons have an entire factory inside the abandoned town?! And they're producing guns now?
-Advisor:    Using no less than our own technology. They've picked up on crystals quite quickly it seems.
-Crystal Curator:    The cultists have most likely gotten their hands on a lot of our knowledge in Valc. 
-Grand E. M. Breaza:    We should have never left our home so vulnerable... oh, how foolish we have been...
-Jaromir:    They stole a lot from us too, Breaza, don't fret. They've barely done anything with our technology.
-Murguth:    I wouldn't call the hell powder artillery that mowed our warriors down barely anything, dwarf.
-Jaromir:    Both our ancestors have relinquished them something, brother. But still, in this time we must look forth.
-Advisor:    Jaromir is right, we've no time for remorse now. I'll send a team to inspect this infernal factory...
-Grand E. M. Breaza:    ...indeed. We might as well learn something ourselves. That's it, gentlemen. Dismissed. 
-Grand E. M. Breaza:    There's one entrance to the minotaur town just west of us. Try searching around it. 
-Grand Earth Mother Breaza:    You look so tired. Get some sleep and we'll talk when you are awake. 
-Grand Earth Mother Breaza:    What's this? You've found our sisters imprisoned in the cultist fortress?
-Grand Earth Mother Breaza:    Excellent, you've managed to pull this off with minimal casualties. Well done! 
-Grand Earth Mother Breaza:    We've taken a few expected losses, but you've managed the situation well. 
-Grand Earth Mother Breaza:    I was expecting this many losses... perhaps you shouldn't have intervened. 
-Grand Earth Mother Breaza:    They all died? Oh no... it's my fault for not preventing you to intervene... 
-Well, let us make the most of this situation. We can finally take over the cultist fortress and guard our rear now.
-Advisor:    Indeed. With that path cleared we can make another attempt at sending a messenger to Valc.
-I will order the girls to secure the fortress and search it for any strategic information as well.
-Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready. 
-Grand E.M. Breaza:    Yet another misfortune... find out what you can, but please be careful, Zan. I can't lose you. 
-Grand E.M. Breaza:    You've been through a lot... try getting more rest, perhaps it will help your memories return. 
-Grand E.M. Breaza:    This Nithriel lady has exploited our weakness... slithering inside Valc while we were away. 
-Grand E.M. Breaza:    The Sacred Disk's theft must have caused the lightning storm that plagues the Crystal Dome now. 
-Grand E.M. Breaza:    Without the Disk in place the crystals are fading... life in the underground will be forever scarred. 
-Grand E.M. Breaza:    Nithriel is insane! She has no idea what the artifact is capable of. We can't let her get away with it. 
-Grand E.M. Breaza:    Without crystals, the flora will dry up and rot... my sisters are doing their best to keep them energized. 
-Grand E.M. Breaza:    The future of the underground depends on us recovering the Disk. If demons don't kill us, starvation will. 
-Grand E.M. Breaza:    Nithriel must be one of the last elves alive today. I have a vague idea on what she plans to do with the Disk. 
-Grand E.M. Breaza:    Before going extinct, elves have left behind many wonders. We believe they are the fathers of crystal technology. 
-Grand E.M. Breaza:    The Sacred Disk controls the flow of all crystals we depend so much on. Our entire civilization was founded upon it. 
-Advisor:    What's this? You've retrieved enemy intel? ...my, you are quite resourceful, aren't you? Let's see...
-...priority defenses, quick reaction forces... oh? A secret weapon? Interesting... hmm... there's also a code... 2367. 
-Well done, Halfblood. Here, take these shards for the effort. Make sure you keep that Crylance charged and ready. 
-Well done, Halfblood. Here, take these shards for the effort. With crystals dying, they're not easy to come by. 
-Advisor:    I can't stress how important it is for you to disable those gate towers, Zan. Find a way into the mine! 
-Advisor:    You've uncovered an ancient laboratory in there? Lith's visions must have been true, you must inform Zura! 
-Advisor:    Don't take too long. As soon as the last Valc forces arrive here, we'll prepare for our final attack. 
-Advisor:    The curse of war technology... I knew they'd eventually learn how our weapons work, but not this quickly... 
-Advisor:    You have completed your task? Go ahead and tell Breaza, I'll be all ears. 
-Advisor:    We need that powder by the time reinforcements arrive. Time is short, sergeant, get moving. 
-Advisor:    You've made progress with the investigation? Report to Breaza right away! 
-Advisor:    With the forest group missing, our flank is exposed. Act quickly, Halfblood. Act with tact. 
-Advisor:    The campaign was a disaster... failed siege, subverted Forge Elementals, cutoff logistics... no retreat, no way forward. 
-Advisor:    Demons laughed at our forces from behind their walls. So many of our sisters have fallen to their artillery... 
-Advisor:    We've managed to regroup here. I'd almost say we have retreated if we weren't still in the middle of enemy territory. 
-Advisor:    Slaughtering the cultist mansion has bought us some breathing space. I am quite impressed by your might, Halfblood. 
-Advisor:    Demons are a plague. They corrupt everything, growing stronger. Yes... their numbers always grow. Ours don't... 
-Advisor:    The supplies dwindle by the day. If we don't break through soon, we'll simply be overwhelmed. Yes, we must strike... 
-Advisor:    Daring plans and ideas... if only they were worth as much in the midst of battle as they were at the strategy table. 
-Advisor:    Our ancestral blood is strong. But is strength and honour enough to deal with such a treacherous adversary?... Hmh... 
-Advisor:    Even the weakest warg is dangerous when cornered... yes... a small force could reach farther than an army... 
-Advisor:    Every race has a home. We sought peace and shelter below the earth, but fate has brought the battlefield back to us. 
-Reaver Tiati:    Good luck regrouping with the sapper team. Wish I could join you, but Breaza wants me to stay back here. 
-Reaver Tiati:    You've found something down there, haven't you? Zura's been boiling to hear back from you. 
-Reaver Tiati:    If Lith's visions are accurate, the ruins might shed some light on Nithriel's big plan. 
-Reaver Tiati:    You can't seem to escape the fighting, can you? Get your rest, I'll wake you up if something happens. 
-Reaver Tiati:    The demons have created a new weapon using our tech? This is bad news, you must inform Breaza! 
-Reaver Tiati:    Blue Baron meeting with Nithriel... two praaks with one spike. We can't miss this opportunity. 
-Reaver Tiati:    You found the captives? I'm sure Breaza will want to know what happened. 
-Reaver Tiati:    Damn it, more sisters in peril. I'd help you investigate, but I can barely stand with all these wounds. 
-Reaver Tiati:    I followed you through Nithriel's portal, hoping I could put a quick spike between her eyes, but she got away... 
-Reaver Tiati:    I could barely sneak my way up here. Cultists moved back into the towns that got run through the blade weeks ago. 
-Reaver Tiati:    No wonder no messenger could reach back to Valc. Even the paths cleared by our army are now held by demons. 
-Reaver Tiati:    I told Breaza all about Valc's siege. Can't say she was expecting any good news, but morale has taken a big hit. 
-Reaver Tiati:    If only we could link up with Valc... we'd have one final chance to land an unexpected blow against the demons. 
-Reaver Tiati:    I've seen what the cultists are capable of. If we fail, these fanatics will have free reign over the underground. 
-Reaver Tiati:    I'm sorry for slowing you down back in Valc, but seeing you return home so suddenly made me suspicious. 
-Reaver Tiati:    Good thing I was there for you back at the lab, huh? That bitch Lith almost turned you into sludge. 
-Crystal Curator:    The Seed seems important, but we still have to retrieve the Disk. Let us prepare for battle. 
-Crystal Curator:    You've discovered an ancient elven vault!? Fascinating! Zura is burning to hear about it! 
-Crystal Curator:    Look out for strange devices. Who knows what technological wonder lies dormant in these ruins... 
-Crystal Curator:    I am relieved to see that our forces still hold against the demon menace. The Division lives on. 
-Crystal Curator:    Nithriel is a fool! Her reckless actions have put the entire underground world in danger. 
-Crystal Curator:    Perhaps the Elf does want to destroy us all. She is in league with the demons, after all... 
-Crystal Curator:    Without the Disk, the crystals are starting to destabilize. Have you seen the lightning storm? 
-Crystal Curator:    If we merge with Valc's remnants in time, we may have a chance to restore the balance. 
-Crystal Curator:    I was nearing the end of my curation mandate before chaos broke loose. So many Lancers have perished... 
-Crystal Curator:    A Curator must tend to the Crystal Heart. We form a strong bond with the crystals... I can feel their pain. 
-Crystal Curator:    The Iron Division was founded upon the discovery of the Disk. It taught us the secrets of crystal technology. 
-Eraanthe:    Don't pester me now, I'm preparing for the assault. Don't you have an errand to run or something? 
-Eraanthe:    What are you staring at, you uncouth blue oaf? What do you want? Make it quick, I'm not famous for my patience. 
-Eraanthe:    Your mother has contracted me to take your place in the campaign... not that I don't have my own reasons to join. 
-Eraanthe:    The core of Hell is surrounded by a foul and corruptive energy that only allows demon-bloods to pass through unscathed. 
-Eraanthe:    Trusting a full blooded demon is insanity. That's why only us halfblooded bastards can be counted on to do this right. 
-Eraanthe:    Demons are chaos incarnate. They would kill and pillage each other if it wasn't for their Icon to keep them in line. 
-Eraanthe:    The Icon is the highest and strongest demon of all. It is said that one raises from the nether every thousand years. 
-Eraanthe:    The current Icon is known as as the Blue Baron. He's caused me so much grief... but I survived. Now I want revenge. 
-Eraanthe:    Cut the head off and let the body stumble and fall. A swift strike at the Blue Baron for a thousand years of peace. 
-Eraanthe:    Your mother wants to go all in. Pierce the veils of Hell and slay the Icon. A bold intention, albeit a foolish one. 
-Eraanthe:    The Baron is a master Psionic Demon. He deceives like no other. It will take more than orcish might to bring him down. 
-Eraanthe:    Don't even think about getting in my way, you narrow sighted brute. Only I have the power to challenge the Blue Baron. 
-Eraanthe:    Look at you, you can't even use magic and you're supposed to be Breaza's champion? Pathetic! I am our only hope. 
-High Priest Jaromir:    So, the final battle is about to begin. There is no better moment to pray than right now. 
-High Priest Jaromir:    I hope you have discovered something worthwhile down there. Tell Chieftain Zura of your findings. 
-High Priest Jaromir:    I see you've gathered a few bruises from the minotaur town. I'm sure a nap will help. 
-High Priest Jaromir:    Back from the dead? Not many of us could cheat fate during that terrible siege, lass. Be grateful. 
-H.Priest Jaromir:    Our Lord has fallen in battle, leaving the future of Icepeak on my shoulders - a humble servant of Stone. 
-H.Priest Jaromir:    The news about our homes has dealt another mighty blow against us. I grieve with you, lass, keep strong. 
-H.Priest Jaromir:    The dwarves slain in Icepeak were either elders or sick. Aye, the Cult truly has no shame, nor honour... 
-H.Priest Jaromir:    Fight with valor, lass. The Stone will remember our deeds and shelter our bones in its layers of history. 
-H.Priest Jaromir:    A long abandoned dwarven city lies close, to the south of us. Aye... a reminder of our long lost glory. 
-H.Priest Jaromir:    A city shows its true greatness long after the inhabitants have perished. Build your walls well, lass. 
-H.Priest Jaromir:    The perfidious demons want to keep us down in the dumps. In this dark moment we must steel our faith. 
-Minotaur Lord Murguth:    I'd like to be left alone now, Bonebreaker. I must meditate on the upcoming battle. 
-Minotaur Lord Murguth:    Your search has beared fruit? That is good news, let Breaza know of your findings. 
-Min. Lord Murguth:    They have mutilated my ancestral home with their factory... this is unforgivable. 
-Min. Lord Murguth:    The demons must have claimed many dwarven secrets after the old wars, judging by their machines. 
-Min. Lord Murguth:    With the knowledge of crystals stolen from your kind, who knows what new weapons they will forge? 
-Min. Lord Murguth:    You faced the demons bravely and cleansed them from our town. You have my herd's gratitude. 
-Minotaur Lord Murguth:    Look for gates adorned with iron bull heads... the ruby pedestals should be close to them. 
-Minotaur Lord Murguth:    You're welcome among us, Halfblood. I can tell your worth from the fire burning in your eyes. 
-Min. Lord Murguth:    The Minotaur Lords have perished in battle. I was but the High Pyromancer... now I lead the herd. 
-Min. Lord Murguth:    Hearing about Valc's invasion makes my blood boil. We all have suffered many losses. 
-Min. Lord Murguth:    We put a lot of faith in the Forge Elementals to lead us through the fiery pits of Hell... foolish. 
-Min. Lord Murguth:    We may be masters of Fire, but we have underestimated the native affinity that demons have to it. 
-Min. Lord Murguth:    The chaos scum have somehow syphoned into the Forge Elementals' fiery cores and corrupted them. 
-Min. Lord Murguth:    Fire is a weak weapon against demons. Make no mistake, even the blue and purple ones resist it. 
-Min. Lord Murguth:    You orcs know how to wield an axe. You fight with great might, and that's why I respect you. 
-Warlord Grund:    I heard we have guests from Valc, mh? Send Zura my regards, I'm still too busy down here. 
-Warlord Grund:    No hard feelings, sergeant. When we couldn't find your body we assumed you had deserted us. 
-Warlord Grund:    I don't need to take Tiati's word. I can see myself that you've been through some shit... 
-Warlord Grund:    Good call reclaiming the Magic Ward and cutting the cultists off. That's what saved Valc. 
-Warlord Grund:    I'm the only Warlord who survived the siege. I was behind the line, handling logistics. 
-Warlord Grund:    They said I was too old to be on the front, and here I am, having outlived the others... 
-Warlord Grund:    We all have our duties and burdens pressing down our shoulders. Carry out your orders. 
-Warlord Grund:    Breaza is the boss now. She's ordered me to stay here and interrogate the prisoners. 
-Warlord Grund:    Tiati said you did well leading your squad, back in Valc. A skill we're in need of. 
-Warlord Grund:    We're preparing for the assault, sergeant. You have your orders, let us be. 
-Warlord Grund:    Has your mission been successful, warrior? Go ahead and debrief with Zura. 
-(You pet the warg)
-(You scratch the warg)
-(You pet the warg)
-Warg:    *Growls softly*
-(You scratch the warg)
-Warg:    *Sniffs lazily*
-(You pet the warg)
-Warlord Grund:    She's a war machine, not a house pet, sergeant. Keep your hands where they belong. 
-Witch Chieftain Zura:    I believe your task is clear. Leave us be now, we have an assault plan to finalize. 
-Witch Chieftain Zura:    My, my, my... turns out Lith's fevered visions were true. Let me take a look at this baby...
-The Seed of Corruption, hmm? This will be invaluable if we want to understand this alien organism-
-Grand Earth Mother Breaza:    Combat it, Zura. If we want to combat it.
-Witch Chieftain Zura:    Of course, my dear. You don't think I'd want to weaponize it against our enemy, hmm?
-Advisor:    Regardless of what we'll do with it, we have other matters pressing us right now, ladies.
-Crystal Curator:    Yes, we must focus on recovering the Disk. Nithriel could depart to Hell any moment now. 
-Grand Earth Mother Breaza:    Of course. And I'm afraid there will be no rest for you this time, Zan.
-Advisor:    As you have noticed, the Valc forces have finally arrived, and we're preparing for the main assault.
-A few hours ago, we've sent a sapper team to prepare the sabotage of the flame towers warding the enemy gates.
-They headed out to the mines to the north, in search of an ideal place to tunnel around the demon town.
-Unfortunately, the demons have somehow figured out our plan and ambushed them, blowing up the main access tunnel.
-Grand E. M. Breaza:    We need you to find an alternative path into the mine and see what happened to the sappers.
-Lord Murguth claims that the minotaur town has a path connected to the mines. 'tis a good place to start looking.
-Once you find a way in, use the hell powder barrels our sappers were carrying to blow through the town's side wall. 
-Advisor:    The distant explosion will be our signal to move, so make haste and disable the flame towers immediately.
-Grand E. M. Breaza:    It is a dangerous task, but you're the only one I can entrust with fulfilling it.
-Don't let us perish in the fire before we can even draw steel, Zan. We're counting on you. Earth guide your path!
-Earth Mother:    Worry not, Breaza. We shall see this mission through. Earth protect you! 
-Fixer:    I, uhh... I'll make sure to cover her back, Breaza! Take care! 
-Witch Chieftain Zura:    Our journey here was surprisingly smooth. I believe it's you who cleared the path, yes? 
-Witch Chieftain Zura:    Captain Dura is marching with Valc's remnants as we speak. We're expecting them tomorrow. 
-Witch Chieftain Zura:    The slime corruption is not just a disease... a disease doesn't think. This does. 
-Witch Chieftain Zura:    I'm concerned with how easily Nithriel managed to turn my adjunct into her puppet. 
-Witch Chieftain Zura:    It's clear that the Elf needed someone with knowledge of crystal technology. One of us. 
-Witch Chieftain Zura:    The slime Golems are mere warnings of what this dark parasite is capable of creating. 
-Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can suppress it with the right potions. 
-Witch Chieftain Zura:    I'm not sure what Nithriel plans to do with the Disk. But I'm sure that we must stop her. 
-Warlord Grund:    Leave the pussycat alone, she's still recovering after the last interrogation, heh heh... 
-Hellblaze:    *Growls* 
-Hellblaze:    *Growls angrily* 
-Hellblaze:    ...curse...Orc! 
-Hellblaze:    ...master...free...me... 
-Hellblaze:    ...arrrgh! 
-Maid:    I'm almost done here, Zan, just a few more minutes. Umm, I think Breaza is looking for you. 
-Maid:    Your room isn't ready Zan, I still have plenty of cleaning to do. 
-Maid:    If you don't mind, I'm working as hard as I can, I don't have time to chat! 
-Maid:    Look, honey, this will take a while, can't you like go for a walk or something? 
-Maid:    Can you stop bugging me? I swear it won't make the cleaning go any faster. 
-Maid:    *Rolls her eyes over* 
-Maid:    Oh, you found my goggles? Hmm, know what? Why don't you keep them? The cellar can wait a while longer. 
-Maid:    Dust everywhere. And I told the Earth Mothers to be more careful when quaking up the caves. 
-Maid:    What a mess... if only they were as good at cleaning after themselves as they are at drinking. 
-Maid:    I have to clean the cellar too... I just can't find my goggles. Where could they have vanished? 
-Maid:    Hope the goggles are coming in handy. Your task is more important than me cleaning cellars, after all. 
-Maid:    You and Tiati better keep that room clean. Don't you dare munch on any food in bed! 
-Maid:    Sweetie, I'm really busy, I'm sure there's plenty of others here looking for a chatting partner. 
-Earth Mother Bendi:    Oh, you've found a Spirit Gem? How delightful, I shall recharge your crown at once!
-There it is! If you happen upon any other Spirit Gem, bring it to me and I'll recharge the crown with it! 
-Earth Mother Bendi:    Oh, another Spirit Gem? How delightful, I shall recharge your crown in a moment!
-There! May it shield you from all the Psi Demons and their wretched Mentalists! 
-Earth Mother Bendi:    Found another Spirit Gem? But your crown is already at full charge, I can't do anymore than that! 
-Earth Mother Bendi:    I took a look at this enchanted crown you were carrying. Very interesting artifact, I must say!
-Sadly, it seems to have been depleted of energy. I could charge it back for you, if you could bring me a Spirit Gem. 
-E.M. Bendi:    Not many artifacts can protect against mind magic. No Armor Amulet or Elemental Ring will stop a mind blast. 
-E.M. Bendi:    The Cult has a large sect dedicated to mind magic, and worship Psionic Demons. The Blue Baron is one of them. 
-E.M. Bendi:    If we march against the Demons, this Psi Crown would be invaluable. The Baron can fry your brain in a moment. 
-E.M. Bendi:    This one Bear tried to use her buckler against a Mentalist. Good thing his magic fizzled against her poor mind. 
-E.M. Bendi:    The smarter you are, the harder you snap. I suppose us mages should fear psionics more than you fighter types. 
-E.M. Bendi:    The Self Worship practiced by the Cult has revealed other kinds of magic than those of our Elemental Gods. 
-Witch Brewer:    Sorry, no new healing pots. The Earth Mothers are suddenly in need of even more mana... 
-Witch Brewer:    Aww, you need me to check your recipe? Maybe you should've thought about it before breaking my stuff! 
-Witch Brewer:    Huh? You found a recipe? Let me have a look. Hm. Hmmm... let's give it a try then...
-There it is... quite a powerful brew. No clue what it does, just hope it doesn't turn your kidney into stone. 
-Witch Brewer:    I'll have to work overtime thanks to you! Get lost. 
-Witch Brewer:    What's this, you need healing? I hope you die a slow death! 
-Witch Brewer:    Help yourself to these potions if you need. They'll get you back in fighting shape in no time! 
-Witch Brewer:    With the Earth Mothers busy keeping the crystals functional, I have to handle the healing by myself. 
-Witch Brewer:    I have to make mana potions right now... don't suppose you warriors have any use for them, do you? 
-Witch Brewer:    Ugh, my arms hurt. I've been stirring this pot all day long. Wish I had an apprentice or something. 
-Witch Brewer:    The fumes are making me so dizzy. I've sniffed so much mana I might start shooting fireballs soon. 
-Witch Brewer:    Hmm, was it three salamander tails or two?... Just pulling your leg, you think I'm THAT green? 
-Witch Brewer:    Hey! Watch what you're breaking, that's hours of my work gone! 
-Witch Brewer:    What the fuck?! Stop breaking my stuff!!! 
-Witch Brewer:    Okay dipshit, you wanna screw us over?! Fine, no more healing for you! 
-Witch Brewer:    You fucking dipshit... I'm not going to forget this anytime soon! 
-Earth Mother Bendi:    Can you practice your might on something else please? 
-Minotaur Pyromancer:    Is this the time to horse around, half-orc? 
-Workshop Boss:    This new gun you've uncovered is quite a piece of work. Wish I had more time to study it. 
-Workshop Boss:    You got the ore?  Damn, big girl!   Here, we recovered some ammo boxes. I know it ain't much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance. 
+> 阴暗修复者以10金币出售暗视护目镜，2个守卫以100金币出售，储物袋以300金币出售
 
-Workshop Boss:    You got the ore? Damn, big girl! Here, we recovered this bracer. I know it ain't much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance. 
 
-I'll take the ore to Hectus when he's done working, doncha worry about it. Thanks for the help. 
-Workshop Boss:    Hmm?... Look, I don't have time for your diving suit project, go ask Hectus about it! 
-Look, I appreciate the help, but let me be now, I can't work with all these distractions! 
-Workshop Boss:    What do you want, big girl? Can't you see I'm busy? Urgh, I'm trying to think here! 
-Workshop Boss:    ...first the power crystals start losing energy for no reason and now this. Ugh! Can't I catch a break?! 
-Workshop Boss:    This Reaver squad got caught in a bad spot and had to ditch their Spike Guns... now I have to replace them. 
-Workshop Boss:    The current Spike Gun model has a spike heater... but that doesn't work with regular steel parts, no... 
-Workshop Boss:    *Mumbles to herself* ...yeah, only Dark Iron can resist heat conduction... no way around this design... 
-Workshop Boss:    Look, can ya buzz off? Unless you have like six lumps of Dark Iron in your pockets, you're useless here. 
-Hectus:    You need me to put together a dwarven diving suit? An odd request. Let me see what I can do about it... 
-Hectus:    You filled the tank? Good. Let me see what I can do about the suit... 
-It's an old relic but I cleaned and fixed the important bits. I also stitched the suits together to fit your size.
-I hope you have the means to refill the air tank. Something this old will leak a lot more air than it should. 
-Hectus:    You need me to put together a diving suit? Hmm, fill that air tank first, we need to make sure it won't leak. 
-Hectus:    *Squints* ...you look like you could use a proper axe, warrior. I even have this enchanted scroll waiting for the right blade. If you can bring me eight lumps of Iron Ore, I'll forge a weapon worthy of your arms, Half-Orc. 
+以10金币出售治疗药剂
+> 如果我带来以下零件：
+水下呼吸器、充满空气的气瓶以及几套密封潜水服，铁匠可以组装潜水装备
+> 如果我带来以下零件：
+水下呼吸器、充满空气的气瓶以及几套密封潜水服，铁匠可以组装潜水装备
+伟大的E.M.布里扎：牛头人镇应该连接到矿井，仔细搜索。小心身后！
+伟大的E.M.布里扎：你的搜索比预想中更加危险。告诉祖拉这件事。
+伟大的E.M.布里扎：贾罗米尔已向东南方向进发，前往冰封地区。他会协助你完成搜索。
+伟大的E.M.布里扎：我未曾料到会将你派往如此危险之地，瓒。现在去休息吧……
+伟大的E.M.布里扎：你找到了地狱火药？太好了！……等等，你发现的可不止是这一个东西，对吗？
+天空之神的庇佑！恶魔竟然在废弃镇内建起了整座工厂？！而且他们现在开始制造枪械了？
+顾问：他们甚至利用了我们自身的科技。看来他们很快便掌握了水晶技术。
+水晶管理员：邪教徒很可能已获取了大量来自瓦尔克的知识。
+伟大的E.M.布里扎：我们不该如此轻易地离开家园，让其变得如此脆弱……哦，我们多么愚蠢啊……
+贾罗米尔：我们也被偷走了不少东西，布里扎，别担心。他们几乎没用上我们的技术。
+穆尔古斯：我不认为那些地狱火药武器摧毁了我们的战士只是微不足道的事，矮人。
+贾罗米尔：我们祖先都曾让出了一些东西，兄弟。但如今我们必须向前看。
+顾问：贾罗米尔说得对，现在没有时间悔恨。我会派一支队伍去调查这座地狱般的工厂……
+伟大的E.M.布里扎：……确实如此。我们不妨自己学点东西。好了，各位，散会了。
+伟大的E.M.布里扎：牛头人镇只有一处入口位于我们西边。试着在那附近搜索吧。
+伟大的大地之母布里扎：你看起来这么累。休息一下，等你醒来我们再谈。
+伟大的大地之母布里扎：这是什么？你找到我们的姐妹被囚禁在邪教徒堡垒中了？
+伟大的大地之母布里扎：太好了，你以最小的伤亡完成了这件事。做得很好！
+伟大的大地之母布里扎：我们遭受了一些预期的损失，但你处理得相当不错。
+伟大的大地之母布里扎：我本以为会有这么多损失……也许你不该干预。
+伟大的大地之母布里扎：他们都死了？哦不……是我没阻止你干预的错……
+好吧，让我们充分利用这个局面。我们终于可以夺取邪教徒堡垒并守护后方了。
+顾问：确实如此。既然这条路已经清理完毕，我们可以再次尝试向瓦尔克派遣信使。
+我会让女孩们守住堡垒，并搜索其中的任何战略情报。
+伟大的大地之母布里扎：好吧……现在去休息吧，瓒，之后你可以在营地帮忙。你的房间应该已经准备好了。
+伟大的E.M.布里扎：又一场不幸……你能查到什么就查什么，但请小心，瓒。我不能失去你。
+伟大的E.M.布里扎：你经历了很多……试着多休息一下，也许这有助于恢复你的记忆。
+伟大的E.M.布里扎：这位妮丝瑞尔女士利用了我们的弱点……我们在外时，她却偷偷潜入瓦尔克。
+伟大的E.M.布里扎：圣盘的被盗必定引发了现在困扰水晶穹顶的雷暴。
+伟大的E.M.布里扎：没有圆盘支撑，水晶正在消逝……地下的生命将永远被毁。
+伟大的E.M.布里扎：妮丝瑞尔疯了！她根本不知道这件神器能做什么。我们不能让她得逞。
+伟大的E.M.布里扎：没有水晶，植物会枯萎腐烂……我的姐妹们正在努力维持它们的能量。
+伟大的E.M.布里扎：地下的未来取决于我们找回圆盘。如果恶魔没杀死我们，饥饿也会要了我们的命。
+伟大的E.M.布里扎：妮丝瑞尔一定是现存最后的精灵之一。我隐约知道她打算用圆盘做什么。
+伟大的E.M.布里扎：在灭绝之前，精灵们留下了无数奇迹。我们认为他们是水晶科技之父。
+伟大的E.M.布里扎：圣盘掌控着我们赖以生存的所有水晶流动。我们的整个文明都是建立在它之上的。
+顾问：什么？你获取了敌方情报？……哇，你真是相当有资源能力，不是吗？让我看看……
+……优先防御工事、快速反应部队……哦？秘密武器？有趣……嗯……这里还有一个密码……2367。
+干得不错，混血人。这些碎片给你作为奖励。确保你随时为水晶长矛充能并保持待命。
+干得不错，混血人。这些碎片给你作为奖励。随着水晶枯竭，它们可不好找。
+顾问：我无法强调你必须摧毁那些闸门塔的重要性，瓒！找到进入矿坑的方法！
+顾问：你在里面发现了古代实验室？利思的预言一定是真的，你必须立刻告诉祖拉！
+顾问：别耽搁太久。等最后一批瓦尔克部队抵达这里，我们就会准备最终进攻。
+顾问：战争科技的诅咒……我知道他们终会弄清楚我们的武器原理，但没想到这么快……
+顾问：你的任务完成了吗？去告诉布里扎吧，我会洗耳恭听。
+顾问：增援部队抵达前必须拿到那种粉末。时间紧迫，中士，快点行动！
+顾问：你调查取得了进展吗？立刻向布里扎报告！
+顾问：森林小队失踪后，我们的侧翼暴露了。迅速行动，混血人。行事要谨慎。
+顾问：这场战役是一场灾难……攻城失败、锻造元素被颠覆、补给线切断……无路可退，也无路可进。
+顾问：恶魔们在城墙后嘲笑我们的部队。我们许多姐妹都倒在了他们的炮火之下……
+顾问：我们成功在这里重新集结。若非仍身处敌境，我几乎要说我们已经撤退了。
+顾问：屠灭邪教徒庄园为我们争取了些喘息空间。我对你的力量印象深刻，混血人。
+顾问：恶魔是瘟疫。它们腐蚀一切，愈发强大。是的……它们的数量永远在增长。而我们的却不会……
+顾问：补给日益枯竭。若我们不尽快突破，终将被压垮。是的，我们必须出击……
+顾问：大胆的计划和想法……如果它们在战场上能像战略会议上那样有价值就好了。
+顾问：我们的祖先血脉很强大。但仅凭力量与荣誉就能应对如此狡诈的敌人吗？……哼……
+顾问：即使最弱的狼灵被逼到绝境也危险……是的……一支小部队能比整支军队走得更远……
+顾问：每个种族都有自己的家园。我们曾寻求地下的和平与庇护，但命运却将战场再次带回到我们身边。
+掠夺者提娅媞：祝你们与爆破小队重新集结顺利。真希望能和你们一起行动，但布里扎让我留在这里。
+掠夺者提娅媞：你下面发现了什么，对吧？祖拉一直在焦急地等待你的消息。
+掠夺者提娅媞：如果利思的预言准确，这些废墟或许能揭示妮丝瑞尔的大计划。
+掠夺者提娅媞：你似乎无法摆脱战斗，对吧？好好休息，如果发生什么事我会叫醒你的。
+掠夺者提娅媞：恶魔们用我们的科技制造了新武器？这是坏消息，你必须立刻告诉布里扎！
+掠夺者提娅媞：幽蓝男爵与妮丝瑞尔的会面……两个普拉克人用一根尖刺。我们不能错过这个机会。
+掠夺者提娅媞：你找到了俘虏吗？我确定布里扎想知道发生了什么。
+掠夺者提娅媞：该死，又有更多姐妹陷入危险。我想帮你调查，但这些伤让我几乎站不起来。
+掠夺者提娅媞：我跟随你穿过妮丝瑞尔的传送门，希望能用尖刺迅速结束她的性命，但她逃走了……
+掠夺者提娅媞：我几乎靠潜行才爬到这儿。邪教徒已经重新占领了那些被刀刃摧毁的城镇，已过去数周了。
+掠夺者提娅媞：难怪没人能从瓦尔克传回消息。就连我们军队清理过的道路如今也落入恶魔之手。
+掠夺者提娅媞：我把瓦尔克围攻的事全告诉布里扎了。她大概也没指望什么好消息，但士气已经严重受挫。
+掠夺者提娅媞：如果能与瓦尔克汇合……我们便还有最后的机会对恶魔发起出其不意的打击。
+掠夺者提娅媞：我见识过邪教徒能做到什么地步。若我们失败，这些狂热分子将彻底掌控地下世界。
+掠夺者提娅媞：抱歉在瓦尔克拖慢了你的脚步，但看到你突然回家，我有些怀疑……
+掠夺者提娅媞：还好我在实验室里帮你，对吧？那个贱人利思差点把你变成泥浆。
+水晶管理员：种子似乎很重要，但我们仍需取回圆盘。让我们准备战斗吧。
+水晶管理员：你发现了一座古代精灵地窖？！太有趣了！祖拉急着听这个消息！
+水晶管理员：留意奇怪的装置。谁知道这些废墟中沉睡着什么科技奇迹……
+水晶管理员：看到我们的军团仍能抵御恶魔威胁，我感到欣慰。军团依然存续。
+水晶管理员：妮丝瑞尔是个蠢货！她鲁莽的行为让整个地下世界陷入危险。
+水晶管理员：也许精灵确实想毁灭我们所有人……毕竟她与恶魔勾结了……
+水晶管理员：没有圆盘，水晶们开始不稳定了。你看到那场闪电风暴了吗？
+水晶管理员：如果我们及时与瓦尔克残部合并，或许还有机会恢复平衡。
+水晶管理员：混乱爆发前我本已接近任期结束……那么多长枪团成员已经陨落……
+水晶管理员：作为管理员必须照料水晶之心。我们与水晶形成强大羁绊……我能感受到它们的痛苦。
+水晶管理员：铁军正是因发现圆盘而创立。它教会了我们水晶科技的秘密。
+埃拉安瑟：别现在烦我，我在准备突袭。你难道没有事要办吗？
+埃拉安瑟：你这粗鲁的蓝皮肤蠢货在看什么？有什么事快说！我可不以耐心闻名。
+埃拉安瑟：你母亲已委托我代替你在战役中效力……当然，我也有自己的理由加入这场行动。
+埃拉安瑟：地狱核心被一种污秽而腐蚀性的能量包围，只有恶魔之血才能安然通过。
+埃拉安瑟：信任纯血恶魔是发疯的行为。正因如此，唯有我们这些半血统的混蛋才值得信赖去完成任务。
+埃拉安瑟：恶魔就是混沌的化身。若非靠着图腾约束，他们早就会互相残杀殆尽了。
+埃拉安瑟：图腾是所有恶魔中最强大、最尊贵的存在。据说每千年便会有一只从深渊中崛起。
+埃拉安瑟：现任图腾被称为幽蓝男爵。他给我造成了无数麻烦……但我活下来了。现在我要向他复仇。
+埃拉安瑟：斩断他的头颅，让身躯踉跄倒下。对幽蓝男爵一击必杀，换取千年和平。
+埃拉安瑟：你母亲想孤注一掷。撕裂地狱的帷幕，击杀图腾。大胆的意图，尽管有些愚蠢。
+埃拉安瑟：男爵是精通心灵操控的恶魔大师。他欺骗他人的方式无人能及。仅靠兽人蛮力无法将他击败。
+埃拉安瑟：别妄想挡我路，你这目光短浅的蠢货。只有我能挑战幽蓝男爵的实力。
+埃拉安瑟：看看你，连魔法都用不了还自称布里扎的冠军？可悲！我们唯一的希望就是我。
+高阶祭司贾罗米尔：所以，最终之战即将开始。此刻祈祷再合适不过了。
+高阶祭司贾罗米尔：希望你在下面发现了些有价值的东西。把你的发现告诉首领祖拉。
+高阶祭司贾罗米尔：我看到你从牛头人镇身上带回来几道伤痕。想必小憩片刻会有所帮助。
+高阶祭司贾罗米尔：从死里复活？在那可怕的围攻中，能骗过命运的我们并不多，姑娘。要知足。
+高阶祭司贾罗米尔：我们的主在战斗中陨落，冰峰的未来如今全压在我这石头仆人肩上——
+高阶祭司贾罗米尔：关于家园的消息又给了我们致命一击。我与你同悲，姑娘，保持坚强。
+高阶祭司贾罗米尔：冰峰中被屠杀的矮人要么是长老，要么是病弱者……啊，邪教确实毫无羞耻与荣誉可言……
+高阶祭司贾罗米尔：姑娘，以勇气战斗吧。石头会铭记我们的事迹，并在历史的层层积淀中庇护我们的遗骸。
+高阶祭司贾罗米尔：一座被遗弃已久的矮人族城市就在我们南方不远处。啊……那是我们失落辉煌的见证。
+高阶祭司贾罗米尔：当居民逝去后，城市才会展现真正的伟大。姑娘，筑好城墙吧。
+高阶祭司贾罗米尔：狡诈的恶魔想让我们陷入低谷。在这黑暗时刻，我们必须坚定信仰。
+牛头人领主穆尔古斯：碎骨者，我现在希望独处。我必须静思即将到来的战斗。
+牛头人领主穆尔古斯：你的搜索有成果？这是好消息，把你的发现告诉布里扎。
+牛头人领主穆尔古斯：他们用锻造厂毁坏了我的祖宅……这不可原谅。
+牛头人领主穆尔古斯：从旧战争后，恶魔们肯定窃取了许多矮人族的秘密，从他们的机器就能看出来。
+牛头人领主穆尔古斯：凭借从你们种族偷来的水晶知识，谁知道他们还会锻造出什么新武器？
+牛头人领主穆尔古斯：你勇敢地面对恶魔并清除了它们对我们的威胁，我族的感激之情由衷。
+牛头人领主穆尔古斯：寻找装饰着铁牛头像的大门……红宝石基座应该就在附近。
+牛头人领主穆尔古斯：欢迎你加入我们，混血儿。我能从你眼中燃烧的火焰看出你的价值。
+牛头人领主穆尔古斯：牛头人领主们已在战斗中陨落。我曾只是高阶火法师……如今我带领族群。
+牛头人领主穆尔古斯：听说瓦尔克的入侵，我的血液都在沸腾。我们所有人都承受了巨大损失。
+牛头人领主穆尔古斯：我们曾寄予厚望于锻造元素，指望它们引领我们穿越地狱深渊的烈焰……真是愚蠢。
+牛头人领主穆尔古斯：我们虽掌控火焰之力，却低估了恶魔对火的天然亲和力。
+牛头人领主穆尔古斯：混乱之徒竟将某种力量吸收到锻造元素的炽热核心中，并将其腐化。
+牛头人领主穆尔古斯：火焰对恶魔而言是弱小的武器。切记，就连蓝紫色的恶魔也抗拒它。
+牛头人领主穆尔古斯：你们兽人懂得如何挥舞斧头。你们战斗时充满力量，这就是我尊重你们的原因。
+男巫格伦德：我听说我们有来自瓦尔克的客人， mh？让祖拉代我向你问好，我现在还忙于这里的事情。
+男巫格伦德：别介意，中士。当我们找不到你的尸体时，以为你已经抛弃了我们。
+男巫格伦德：我不需要听提娅媞的话。我自己就能看出你经历了多少磨难……
+男巫格伦德：重新夺回魔法屏障并切断邪教徒的行动是个好主意。正是这拯救了瓦尔克。
+男巫格伦德：我是唯一在围攻中幸存下来的领主。我当时在后方负责后勤工作。
+男巫格伦德：他们说我不该出现在前线，而我却活过了其他人……
+男巫格伦德：我们每个人都肩负着各自的职责与重担。执行你的命令吧。
+男巫格伦德：布里扎现在是头目了。她让我留下这里审问俘虏。
+男巫格伦德：提娅媞说你在瓦尔克带领小队表现不错，这是我们需要的技能。
+男巫格伦德：我们正在准备突袭，中士。你有你的任务，让我们行动吧。
+男巫格伦德：战士，你的任务完成得如何？去向祖拉汇报吧。
+（你抚摸狼灵）
+（你挠了挠狼灵）
+（你继续抚摸狼灵）
+狼灵：*轻声低吼*
+（你继续挠着狼灵）
+狼灵：*懒洋洋地嗅了嗅*
+（你继续抚摸狼灵）
+男巫格伦德：它可不是家里的宠物，中士。把手放在该放的地方。
+女巫首领祖拉：我相信你的任务已经清楚了。现在让我们安静一下，我们还有最后的突袭计划要制定。
+女巫首领祖拉：唉，唉，唉……原来利思的狂热幻象是真的。让我看看这个小家伙……
+腐败之种？如果我们要理解这种外星生物——
+伟大的大地之母布里扎：对抗它，祖拉。如果我们想对抗它。
+女巫首领祖拉：当然，亲爱的。你难道以为我不想将它武器化来对付我们的敌人吗？哼？
+顾问：无论我们打算如何利用它，现在有更重要的事情需要处理，女士们。
+水晶管理员：是的，我们必须专注于恢复圆盘。妮丝瑞尔随时可能前往地狱。
+伟大的大地之母布里扎：当然。而且我恐怕这次你将无法休息了，赞恩。
+顾问：正如你所注意到的，瓦尔克部队终于抵达了，我们正在准备主攻行动。
+几小时前，我们已派出一支工兵小队，为破坏守卫敌方城门的火焰塔做准备。
+他们前往北方的矿井，寻找一个理想的地点绕过恶魔镇进行地道作业。
+不幸的是，恶魔们 somehow 猜出了我们的计划并伏击了他们，炸毁了主入口隧道。
+伟大的E.M.布里扎：你需要找到进入矿井的替代路径，并查明工兵们的状况。
+领主穆尔古斯声称牛头人镇与矿井相连，这是个不错的起点。
+一旦你找到进入的方法，就使用我们工兵携带的地狱火药桶炸开城镇侧墙。
+顾问：远处的爆炸将是我们的行动信号，所以快点去摧毁火焰塔！
+伟大的E.M.布里扎：这是一项危险的任务，但你是我唯一能托付完成它的人。
+赓，别让我们在还没拔出武器前就葬身火海！我们正依赖着你，大地指引你的道路吧！
+大地之母：不必担心，布里扎。我们会圆满完成这次任务。大地守护你！
+修复者：呃……我一定会保护她的后背，布里扎！保重！
+女巫首领祖拉：我们来到这里的旅程出乎意料地顺利。我相信是你清除了道路，对吧？
+女巫首领祖拉：队长杜拉正率领瓦尔克残部前进，我们预计明天就能见到他们。
+女巫首领祖拉：黏液腐化并非仅仅是疾病……疾病不会思考，但这个却会。
+女巫首领祖拉：我担心妮丝瑞尔竟能如此轻易地将我的助手变为她的傀儡。
+女巫首领祖拉：显然，精灵需要一个掌握晶体科技的人。是我们中的一位。
+女巫首领祖拉：这些黏液怪不过是这个黑暗寄生虫能创造之物的警告。
+女巫首领祖拉：多亏了利思，我身上留有腐化的痕迹，不过只要使用正确的药剂就能抑制。
+女巫首领祖拉：我不确定妮丝瑞尔打算用圆盘做什么。但可以肯定的是，我们必须阻止她。
+男巫格伦德：别打扰那只小猫，她还在上次审讯后恢复中呢，嘿嘿……
+地狱烈焰：*低吼*
+地狱烈焰：*愤怒地低吼*
+地狱烈焰：……该死……兽人！
+地狱烈焰：……主人……自由……我……
+地狱烈焰：……啊啊啊！
+侍女：瓒，我快完成了，就再几分钟。呃，我想布里扎在找你。
+侍女：你的房间还没准备好，瓒，我还有很多打扫要做。
+侍女：如果你不介意的话，我在尽最大努力工作，没时间聊天！
+侍女：看吧，亲爱的，这需要很长时间，难道不能去散步什么的吗？
+侍女：你能别烦我了吗？我发誓这样不会让打扫更快。
+侍女：*翻白眼*
+侍女：哦，你找到我的护目镜了？嗯……你知道吗？不如你就留着吧，地窖可以再等一会儿。
+侍女：到处都是灰尘。我还告诉大地之母们在震动洞穴时要更小心些。
+侍女：这真是个乱摊子……要是他们能像喝醉那样收拾自己就好了。
+侍女：我还要打扫地窖……就是找不到我的护目镜了。它们到底跑哪儿去了？
+侍女：希望你的护目镜派上用场了。毕竟你的重要任务比让我打扫地窖更重要嘛。
+侍女：你们俩最好把那间屋子保持干净。别胆敢在床上啃食食物！
+侍女：亲爱的，我真的很忙，我相信这里还有很多人想找聊天伙伴呢。
+大地之母本迪：哦，你找到灵石了？太棒了，我马上为你充能王冠！
+看吧！如果你遇到其他灵石，就带给我，我会用它来充能你的王冠！
+大地之母本迪：哦，又发现一颗灵石？太棒了，我马上为你充能王冠！
+看吧！愿它能保护你免受所有心灵恶魔及其可恶的心灵术士的侵害！
+大地之母本迪：又找到一颗灵石？但你的王冠已经充满能量了，我无法再做更多了！
+大地之母本迪：我查看了一下你携带的这枚魔法王冠。真是有趣的古物，我必须说！
+很遗憾，它似乎失去了能量。如果你能带给我一颗灵石，我就能为你充能。
+E.M.本迪：很少有古物能抵御心灵魔法。没有护符或元素戒指能挡住心灵冲击波。
+E.M.本迪：邪教中有一个庞大的派系专门研究心灵魔法，并崇拜心灵恶魔。幽蓝男爵就是其中之一。
+E.M.本迪：如果我们对抗恶魔，这颗心灵王冠将无比珍贵。男爵能瞬间烧毁你的大脑。
+E.M.本迪：这只熊试图用她的盾牌抵挡心灵术士。幸好他的魔法在她薄弱的自我上失效了。
+E.M.本迪：你越聪明，就越容易被击碎。我想我们法师应该比你们战士更畏惧念力魔法。
+E.M.本迪：邪教实践的自我崇拜揭示了不同于元素之神的其他魔法类型。
+女巫酿造师：抱歉，没有新的治疗药水了……大地之母们突然需要更多魔力……
+女巫酿造师：哎呀，你需要我检查你的配方？也许你该先考虑好再打破我的东西！
+女巫酿造师：咦？你找到配方了？让我看看……嗯……嗯嗯……那我们试试看吧……
+看到了……这是一瓶强力药剂。不知道它有什么作用，只希望不会把你的肾脏变成石头。
+女巫酿造师：多亏了你我得加班！滚开！
+女巫酿造师：这是什么？你需要治疗？我希望你能慢慢死去！
+女巫酿造师：需要的话随便拿这些药剂吧。它们能让你迅速恢复战斗力！
+女巫酿造师：由于大地之母们正忙着维持水晶的运转，我只能自己处理治疗工作了。
+女巫酿造师：现在我得赶紧制作魔力药剂……你们战士们有用吗？
+女巫酿造师：呃，我的手臂好痛……我整天都在搅拌这锅药剂。要是有个学徒就好了。
+女巫酿造师：这些雾气让我头晕得厉害……我已经吸入了这么多魔力，说不定下一秒就会喷出火球了。
+女巫酿造师：嗯……是三条火蜥蜴尾巴还是两条？……我只是在逗你玩，你以为我这么菜吗？
+女巫酿造师：嘿！小心点别碰坏了，那是我好几个小时的工作成果！
+女巫酿造师：见鬼！停下你的破坏行为！！！
+女巫酿造师：好啊，你这混蛋想坑我们？行啊，那你永远别指望再得到治疗了！
+女巫酿造师：你这个该死的混蛋……我很快就会忘记这件事的！
+大地之母本迪：请用你的力量去对付其他东西吧？
+牛头人火系法师：半兽人，现在可不是开玩笑的时候！
+工坊老板：你发现的新枪可真是个杰作。要是有更多时间研究它就好了。
+工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了一些弹药箱。我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
 
-Hectus:    You return with the ore? Good, I will start working on your axe right away...
-It is done. A Great Axe worthy of you, Halfblood. Wield it proudly.
-If you bring more iron I'll trade you gold for it. 
-Hectus:    There you go.
-(You trade a lump of Iron Ore for ten gold coins) 
-Hectus:    Good, you found some ore. Pick one of the ammo types you want and I'll pack it for you here. 
-Hectus:    Don't distract me, Halfblood. One wrong strike with this Fire Hammer and we'll both explode into bits. 
-Hectus:    I've worked for the Iron Division for decades. You orcs fight with honour. I know my axes live in worthy hands. 
-Hectus:    Every blade I craft bears a fraction of my soul. The steel rages with my fury when slicing through demons. 
-Hectus:    The campaign has been gruesome, and it will worsen, but the enemy has yet to see the last drop of our blood. 
-Hectus:    Maybe I will get to see Valc again... I have faith in our warriors. Even now, we can still break the demons. 
-Hectus:    I haven't slept in a while but the war surrounding us doesn't wait. I will work for as long as it demands. 
-Hectus:    Well met, orc. Our supplies are running low, but if you bring in any iron, you can exchange it for ammo. 
-Hectus:    Here, pick 'em up.
-(You trade a lump of ore for two Spike Mags) 
-Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
-Hectus:    Here you go.
-(You trade a lump of ore for three Fragfire Cans) 
-Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
-Hectus:    Here, come grab 'em.
-(You trade a lump of ore for two Boltmags) 
-Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
-Hectus:    Here, take them.
-(You trade a lump of ore for two Boxes of Acid Potions) 
-Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
-Hectus:    Here, come pick it up.
-(You trade a lump of ore for a Box of Toxic Potions) 
-Hectus:    You only have dark iron? I believe the Workshop Boss needs it more than me right now. 
-Hectus:    This ammo isn't free, Orc. You can only trade for it with ore. 
-Shady Fixer:    Hey, what are you doing? Leave that alone! 
-Shady Fixer:    Nosy oaf! I hope you haven't touched any of my stuff! 
-Shady Fixer:    Psst. Hey you. 
-Shady Fixer:    You found a lockbox? And it's full of loot? Let me take a look!
-Got it! Let's see what's inside...
-Some gold... my payment, I presume.
-...a lump of iron ore? Okay.
-...my, this must be worth something. But I suppose you want your share, mmh?... Fine, it's yours.
-That's all. I don't suppose you wanna keep the box too, do you? 
-Shady Fixer:    You look like a capable fighter. And a capable fighter knows the need to be well equipped...
-I happen to have this spare pair of Dark Vision Goggles, and it can be yours for a measly ten gold coins. 
-Shady Fixer:    Come on, babe, ten gold and you won't struggle seeing in the dark ever again! 
-Shady Fixer:    There, we're starting to get along. Now, see these two sentries here? A hundred gold. 
-Shady Fixer:    These sentries are best buddies. I'll even unpack them for you, for only a hundred. 
-Shady Fixer:    I love the sight of a fat purse. Give me a sec, I'll unpack the turrets for you.
-They'll serve you well. But not as well as what I have here... a Bag of Holding, babe. Three hundred gold. A bit steep, sure, but think about all that extra ammo it will let you carry. 
+工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了这个护腕。我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
 
-Shady Fixer:    You really want that Bag of Holding, don't you? Three hundred gold, sweets. 
-Shady Fixer:    *Gasps* You're a rich orc, Zan. My type of orc. You've bought out all my special merch, but I can keep selling you Vials of Healing for ten gold each.   They'll keep you alive like nothing else. 
+我会把矿石带给赫克图斯，等他完工后你就别担心了。谢谢你的帮助。
+工坊老板：嗯？……看吧，我没时间研究你的潜水服项目，去问赫克图斯吧！
+看吧，我感激你的帮忙，但现在让我安静一下，我没法在这么多干扰中工作！
+工坊老板：大姑娘，你想干啥？我看你没看见我在忙吧？啧！我连想都得好好想想！
+工坊老板：……先是能量水晶莫名其妙地失去能量，现在又是这个。啧！我能不能喘口气啊？！
+工坊老板：这支掠夺者小队被困在了糟糕的位置，不得不丢弃他们的尖刺枪……现在我得替他们换新的。
+工坊老板：当前的尖刺枪型号配有尖刺加热器……但普通钢制零件根本无法承受这种高温，对吧？
+工坊老板：*自言自语* ……是啊，只有暗铁才能抵抗热传导……这设计别无他法……
+工坊老板：喂，你能不能滚远点？除非你兜里揣着六块暗铁，否则在这儿就是个废物！
+赫克图斯：你需要我组装一套矮人潜水服？真是个奇怪的要求。让我看看能做些什么……
+赫克图斯：你把空气罐填满了？很好。让我看看能对这套潜水服做些什么……
+这套潜水服是件老古董，但我清理并修复了关键部位。我还缝制了适合你体型的套装。
+希望你能有办法重新充气这个空气罐。这种年代久远的东西会比正常情况多泄漏很多空气。
+赫克图斯：你需要我组装一套潜水服？嗯，先给那个空气罐充气吧，我们需要确保它不会漏气。
+赫克图斯：*眯眼* ……你看起来像是需要一把趁手的斧头，战士。我甚至还有这卷等待合适刀刃的魔法卷轴。如果你能带来八块铁矿石，我会在锻造厂为你打造一把配得上你手臂的武器，半兽人。
 
-Shady Fixer:    Come now, can't spare a mere ten gold for a vial that can save your life? 
-Shady Fixer:    Here you go, babe, stay healthy! 
-Lady Ingrim, Queen of the Icepeak Dwarves, at your service. Here... this should get you back on your feet. 
-Lady Ingrim:    Sorry, no drinks for the praak. 
-Lady Ingrim:    Found a recipe? Hmm, it doesn't involve any alcohol... maybe the witch brewer can have a look? 
-Lady Ingrim:    Fine, I'll take that recipe off of you. Here, drink something that won't potentially kill you. 
-Lady Ingrim:    Done exploring our ancient town? Here, have a drink in the memory of my ancestors... 
-Lady Ingrim:    Our fate rests on your shoulders, warrior. Earn us victory and I'll let you drink like a king. 
-Lady Ingrim:    So, you're leading the attack against the demons now? I'm afraid I have no drink for that.
-I'd give you a poison capsule, but you don't look like someone who would get captured. 
-Lady Ingrim:    Off to the icy region? Something to keep you warm, coming right up. 
-Lady Ingrim:    Going to the minotaur's town? Here... you need to stay well hydrated. And sober. 
-Lady Ingrim:    Since Jaromir is commanding our dwarves, I had to find a way to make myself useful around here. 
-Lady Ingrim:    I hail from the Brewer Guild. Before I became Queen, I used to be a renowned tavernkeep. 
-Lady Ingrim:    My family has successfully run multiple taverns, even long after our empire had collapsed. 
-Lady Ingrim:    Icepeak is a mere miniature of our past glory. We had great hopes of repopulating our lost towns... 
-Lady Ingrim:    My husband fell during the final siege. I swore to live long enough to see him avenged. 
-Lady Ingrim:    I'm afraid I don't know much about fighting. Only about getting others to fight for me. 
-Dwarf Militia:    Mmm? You have a locked box? Aye, I can help ya with that, let me have a look...
-Opened. Aight, let's take a peek...
-A big ol' pile o' gold!...
-...a lump of iron ore? Hmm.
-...by Stone's Hammer! A giant ruby! Masterfully cut too...
-That's all there is. I'll keep the lockbox as payment if ya don't mind. What a fine piece of work it is... 
-Dwarf Militia:    We've lost nearly all our siege weapons to these bleeding traitorous Forge Elementals! 
-Dwarf Militia:    The Carpenter Guild toiled hard to build all those ballistae and mangonels... and for what? 
-Dwarf Militia:    Aye, I'm a proud member of the Carpenter Guild. Nobody shapes the wood like we do, lassie. 
-Dwarf Militia:    I trained as a locksmith, putting locks on chests and cabinets before this war. *Sighs* 
-Dwarf Militia:    Ya have to adapt, lass. Today you're tinkering with locks, tomorrow you're making a catapult. 
-Dwarf Militia:    The campaign has brought us much suffering, aye, but we all want to avenge our fallen brothers. 
-Dwarf Militia:    Bonebreaker! C'mere! 
-Dwarf Militia:    Hey, someone's been askin' about ya. Check downstairs. 
-Minotaur Axeman:    Stay sharp. We crushed most of the nearby Cult settlements but these caves are ever dangerous. 
-Minotaur Axeman:    Demons can gate across short distances here, but the Earth Mothers protect our camp from it. 
-Minotaur Axeman:    I'm supposed to watch over Breaza at all times. Nobody lays a finger on her on my watch. 
-Minotaur Axeman:    I serve the Division with pride. Without you, us cave minotaurs wouldn't have survived this far. 
-Minotaur Pyromancer:    Hmm? You've found a scroll case inside our long abandoned town? Let me have it...
-A fine magic seal... it makes me yearn for our ancestors' secrets. Well, let us see what's inside...
-...a true wealth of knowledge. Here, these scrolls will be of use to you... the rest, not so much.
-Be wary, as the bursts of exploding flames can easily hurt you too. Use the knowledge of the pyromancers wisely. 
-Minotaur Pyromancer:    My entire life was dedicated to studying fire magic. I've even trained some of your mages. 
-Minotaur Pyromancer:    Murguth is the greatest Pyromancer alive. He leads us now that the Lords have fallen. 
-Minotaur Pyromancer:    There's an ancient minotaur town nearby, dating from the ages of the Dwarven Wars. 
-Minotaur Pyromancer:    I dream of uncovering our forgotten libraries. Imagine all the knowledge locked inside. 
-Earth Mother:    *Chanting* 
-Dwarf Shieldguard:    Watch yer back out there, lass, we're sitting deep within enemy territory! 
-Dwarf Shieldguard:    If ya run into any trouble outside, rush back 'ere, I'll hold the gate open for ya. 
-Dwarf Shieldguard:    I wager there's still some goods hidden inside the pillaged houses nearby. 
-Dwarf Shieldguard:    Don't set off on a road longer than your quiver can last, my pa used to say. 
-Dwarf Shieldguard:    Good hunting!
-Dwarf Shieldguard:    Watch yer back, lass!
-Dwarf Shieldguard:    Stone pave yer path!
-Dwarf Shieldguard:    Travel safe, lassie! 
-Dwarf Shieldguard:    Welcome back, lassie!
-Dwarf Shieldguard:    Found what ye were lookin' fer?
-Dwarf Shieldguard:    Good to see ya in one piece!
-Dwarf Shieldguard:    Come in, gate's open fer ya! 
-Bear Warrior:    Keeping me company, sarge? It does get a bit lonely up here alright. 
-Bear Warrior:    So Valc was swarmed by cultists after we left? Slithering bastards, how did they plan so well? 
-Bear Warrior:    Tiati said you slayed a huge Pit Lord! If I ever return home I better see his skull at the tavern. 
-Bear Warrior:    So many sisters have fallen in battle... the Lancers and Warlords... how can we recover from this? 
-Bear Warrior:    Weren't we supposed to get a report from the forest squad today?
-Reaver:    I bet the dome rain has bogged them down... 
-Bear Warrior:    Scouts say the lightning storm is getting worse... what if the caves get flooded?
-Reaver:    If demons keep attacking we'll be dead long before that happens. 
-Bear Warrior:    Glad to have you here with us, Bonebreaker. Stay a while, warm yourself by the fire. 
-Bear Warrior:    We had to fall back into these caves after our defeat. Breaza hopes to strike from a new angle now. 
-Bear Warrior:    Whew, the way you razed that Cult mansion from inside was crazy! You beat a weeks long siege to it! 
-Bear Warrior:    Since we don't need to block the mansion anymore, we can strengthen the south flank and buy time. 
-Reaver:    A lightning storm is brewing in the Crystal Dome. Breaza says it's why the crystals started to fade. 
-Reaver:    The storm is unusual. The forest part leading up to the southern Cult fortress is laden with rain. 
-Reaver:    At least that patch of vegetation won't die so soon. Still, it won't stop our impending starvation. 
-Reaver:    The odds are stacked against us... the siege, the storm, the demons... pick the flavor of your death. 
-Fixer:    Excuse me? We could use that ammo too, you know?! 
-Fixer:    There's a mine just north of us. Murguth says it belonged to the minotaurs before the Cult claimed it. 
-Fixer:    Scouts say they found human skeletons at the entrance to the mine... but it's not us who killed them. 
-Fixer:    Word is, a few cultists defected in the wake of our forces. Turns out they're not all blind fanatics. 
-Fixer:    With ammo supplies dwindling, we'll have to adapt and improvise... glad I used to work as a scavenger. 
-Reaver:    I don't mean any disrespect, but I'm not in the mood for chit-chat, sergeant. 
-Reaver:    It's stressful enough having to keep my eyes peeled for a demon strike, I don't need any distractions. 
-Reaver:    If I make it out of this in one piece, I'll crash into the first bed I find and sleep for a whole week. 
-Reaver:    *Sighs and rubs her eyes* 
-Bear Warrior:    Stay clear of the road leading to the right! The Cult has set up a barricade around the corner. 
-Bear Warrior:    Demons have been raiding us regularly. They are testing our defenses for a bigger attack... 
-Bear Warrior:    The gates to the demon port town are defended by powerful flame hurling towers. Stay away! 
-Bear Warrior:    I don't know how much longer we can hold. What if they just send a large army to crush us? 
-Bear Warrior:    Sorry for throwing you in jail, Zan. Grund got us all worked up over your bullshit desertion. 
-Bear Warrior:    Now that the mansion is no longer a threat I got transferred to the defense line here. 
-Bear Warrior:    I'd love to hear the story of how you've returned, but I need to stay focused. 
-Bear Warrior:    Remind me to buy you one large pint if we make it out of this mess. Or a dozen. My treat. 
-Bear Warrior:    We've searched the fortress and found some pretty good intel. This Nithriel chick is up to something. 
-Bear Warrior:    The bastards have tortured a Reaver to death! She was strong, though, didn't crack a word. 
-Bear Warrior:    Someone called the Spirit Mistress was in charge here. She got what was coming for her. 
-Bear Warrior:    You really got them riled up here, I'll give you that. We have quite some cleanup to do. 
-Bear Warrior:    The fortress is clear, and we've also secured the stolen supplies. Feel free to grab what's left. 
-Bear Warrior:    Heh. We've besieged them for weeks and you broke through in only a few hours. Not bad, big girl. 
-Bear Warrior:    The cultists were unusually well organized here. I bet it's the demons who whipped them into shape. 
-Bear Warrior:    With this position captured, we've secured a pretty damn safe route for a messenger to reach Valc. 
-Fixer:    It's so nice to see you again, Zan! That was quite an adventure, wasn't it? 
-Fixer:    I was ordered to stay here and guard the portal. This place is giving me chills, literally. 
-Fixer:    This dwarven stone garden is really pretty, but it just gets so boring watching it all day. 
-Fixer:    Nothing happens here... although I can hear weird echoes coming from those gates every now and then. 
-Fixer:    This place must be centuries old. I bet priest Jaromir's ancestors used to live here once. 
-Fixer:    Don't you think I'm wasting my time here? I bet they just sent me back here to stay out of trouble. 
-Fixer:    Hey... I don't even think they'd notice if I left... and a hardass like you could keep me safe! 
-Fixer:    Hey... I don't even think they'd notice if I left... mmm, no, I should probably stay here... 
-Fixer:    Yes, you could vouch for me if they complain, right? Cool, I'm ready to tag alongside you then! 
-Fixer:    Z-Zan!? O-oh, my, I almost shot you! 
-Reaver:    Thanks for freeing us, Zan... I was next on the chopping block, you saved my skin. 
-Reaver:    They took one of our sisters for interrogation. I still can't get her screams out of my head. 
-Reaver:    Us Reavers are trained to resist pain, but these self mutilating freaks are on another level. 
-Reaver:    They couldn't get anything from us. I heard them talking about bringing in a succubus. Heh. 
-Reaver:    ... 
-Reaver:    *Stares into the distance* 
-Reaver:    ...look, thanks for saving us... but I want to be left alone. 
-Reaver:    Please... I've lost a good friend. Leave me be. 
-Bear Warrior:    Hail, Bonebreaker! The earth drinks well where you set foot, you are a worthy orc! 
-Bear Warrior:    I can't wait to listen to the bards sing about you breaking us free, hah! 
-Bear Warrior:    This war is far from over. And now that I'm free I can carve my name into demonic skulls again! 
-Bear Warrior:    You're a stout warrior, sarge. I'll make sure to drink with you once this is over. 
-Witch:    We've secured the area. That was a thrilling prison break, thanks for assisting us. 
-Witch:    We recovered our gear and took over what the cultists had here. Spoils of war, mm? 
-Witch:    Pillaging cultist forts never gets tiresome. Especially when they have a large kitchen. 
-Witch:    You should check the fortress for any hidden paths, there might be some goods stashed away. 
-Bear Warrior:    Everything's in order, ma'am, we're holding strong! 
-Bear Warrior:    We're ready for any counter-attack, let them come! 
-Bear Warrior:    Demons can teleport over short distances here. You never know when they'll jump you. 
-Bear Warrior:    Keep an eye out for glowing pentagrams. They're always a bad sign... 
-Bear Warrior:    What a prison break! And we got away almost unscratched. You're a beast, sarge! 
-Bear Warrior:    Breaza ordered us to hold here. I hate seeing this place, but orders are orders. 
-Bear Warrior:    The cultists had well organized defenses. Well, not well enough to stop you! 
-Bear Warrior:    I miss Valc... I don't even know if we'll get to see it again. Fuck this place. 
-Fixer:    We've recovered the hell powder barrels from the minotaur town, thanks for securing them. 
-Fixer:    We'll use the powder to tunnel around the flame towers protecting the Demon Town's gate. 
-Fixer:    The mine just north of here will allow us to get closer to a side wall, then breach in. 
-Fixer:    I hope Breaza adds you to our sapper team once the operation begins. I'd feel a lot safer. 
-Witch:    After the invasion's end we had to clean up all the dark slime the Cult had spread in Valc. 
-Witch:    This isn't a simple blight, it's a living organism. Zura even believes it's sentient. 
-Witch:    Zura is afflicted with the parasite. She's desperate to find a way to combat the corruption. 
-Witch:    Our party left Valc to find prime slime samples. Soon after, we stumbled upon your messenger. 
-Reaver:    Nice to see you, Zan, stay with us as long as you want, help yourself to some food. 
-Reaver:    Valc is still a mess... it took us days upon days only to lay all the corpses to rest. 
-Reaver:    So many of us perished... at this point I wonder if it's even worth rebuilding our town. 
-Reaver:    Demons, death, war... it's so nice when you can just sit down and grill, forget about it all. 
-Bear Warrior:    Good to see you alive and well, Bonebreaker! Your name is earning honour quickly! 
-Bear Warrior:    We knew you defeated the warlock bitch when we saw her cultists scurrying away! 
-Bear Warrior:    I still wonder - what made you return to Valc? You showed up right on time! 
-Bear Warrior:    The demons and their human lackeys will feel every inch of our vengeance. Grrrh! 
-Bear Warrior:    *Growls and pants* 
-Bear Warrior:    ... 
-Bear Warrior:    Well met, sergeant! Wanna train with me? 
-Bear Warrior:    Feel the wrath of the Iron Division! Hrrargh!!! 
-Captain Dura:    Earth's strength, Bonebreaker! At last, we're all here together, and we're thirsty for vengeance! 
-Captain Dura:    We marched here like the wind when we heard about the survivors. We're longing for battle! 
-Captain Dura:    Lancer Dendra remained back in Valc with those who haven't fully recovered from their wounds. 
-Captain Dura:    This is our final chance to put an end to the demon menace. May the Gods guide our wrath! 
-Captain Dura:    A sapper team was supposed to disable the flame towers at the gate, but they got ambushed. 
-Captain Dura:    If we can't bring the towers down we'll have to go through an inferno to get past their walls. 
-Captain Dura:    You have your orders, sergeant. Now excuse me, I have to prepare my squads for the assault. 
-Captain Dura:    We shall not falter! For the Iron Division!
-Orc Warriors:    *Cheers* 
-Captain Dura:    For Valc! For our fallen sisters!
-Orc Warriors:    *Cheers* 
-Captain Dura:    Our axes shall be drenched in demon blood!
-Orc Warriors:    *Cheers* 
-Captain Dura:    Fight with pride! Fight with honour!
-Orc Warriors:    *Cheers* 
-Captain Dura:    We embrace death! The Earth will shelter our bones!
-Orc Warriors:    *Cheers* 
-Captain Dura:    We shall crush them under our boots! Demons will fear our name for centuries to come!
-Orc Warriors:    *Cheers* 
-Earth Mother:    Zan... Breaza is worried for your safety. She asked me to aid you, let us travel together. 
-Earth Mother:    Let me know if you ever require healing. 
-Earth Mother:    This cave leads on the right path, Priest Jaromir must have passed through already. 
-Earth Mother:    Poor dwarves... they are beyond my powers now... 
-Earth Mother:    This looks like the gate to the dwarf town. Priest Jaromir must be waiting for us inside. 
-Witch:    Zan?! Over here!... demon scum have taken us by surprise, we barely made it out alive! 
-Fixer:    We were 'bout to blow that wall to bits, but now that you're here, the honour is all yours. 
-Witch:    I hope you're fully prepared. Once you press that handle, there will be no turning back. 
-Fixer:    Fire in the hole! 
-Fixer:    Breach! Go! Go! Go! 
-Lord Igrutius:    The orcs are attacking! Take defensive positions you filthy thralls! 
-Warlord Grund:    Earth's might, Bonebreaker, you got us past the gates! Hold your axes high, vengeance draws near! 
+赫克图斯：你带着铁矿石回来了？很好，我会立刻开始为你打造斧头……
+完成啦。一把配得上你的巨斧，混血人。骄傲地挥舞它吧。
+如果你能带来更多的铁矿石，我可以用黄金来交换。
+赫克图斯：这就给你了。
+（你用一块铁矿石换取十枚金币）
+赫克图斯：很好，你找到了一些铁矿石。选一种你喜欢的弹药类型，我会在这里帮你打包。
+赫克图斯：别分心，混血人。如果这把火锤误伤一次，我们俩都会被炸成碎片。
+赫克图斯：我为铁军效力了数十年。你们兽人作战讲求荣誉。我知道我的斧头都落在值得信赖的手中。
+赫克图斯：每把我打造的刀刃都承载着我灵魂的一部分。当它们劈开恶魔时，钢铁会因我的怒火而咆哮。
+赫克图斯：这场战役已经够血腥了，情况还会恶化，但敌人尚未见识到我们鲜血的最后一点。
+赫克图斯：也许我还能见到瓦尔克……我对我们的战士充满信心。即使现在，我们仍能击溃恶魔。
+赫克图斯：我已经很久没睡了，但围绕我们的战争不会等待。我会一直工作直到它结束。
+赫克图斯：兽人，欢迎来到这里。我们的补给正在减少，但如果你带来任何铁矿石，都可以用它换取弹药。
+赫克图斯：拿去吧。
+（你用一块矿石换取两组尖刺弹夹）
+赫克图斯：你只有暗铁？我相信工坊老板现在更需要它。
+赫克图斯：这些弹药不是免费的，兽人。你只能用矿石来交换。
+赫克图斯：给你。
+（你用一块矿石换取三罐爆燃弹）
+赫克图斯：你只有暗铁？我相信工坊老板现在更需要它。
+赫克图斯：这些弹药不是免费的，兽人。你只能用矿石来交换。
+赫克图斯：拿去吧。
+（你用一块矿石换取两组弹夹）
+赫克图斯：你只有暗铁？我相信工坊老板现在更需要它。
+赫克图斯：这些弹药不是免费的，兽人。你只能用矿石来交换。
+赫克图斯：拿去吧。
+（你用一块矿石换取两盒酸药瓶）
+赫克图斯：你只有暗铁？我相信工坊老板现在更需要它。
+赫克图斯：这些弹药不是免费的，兽人。你只能用矿石来交换。
+赫克图斯：拿去吧。
+（你用一块矿石换取一盒毒药瓶）
+赫克图斯：你只有暗铁？我相信工坊老板现在更需要它。
+赫克图斯：这些弹药不是免费的，兽人。你只能用矿石来交换。
+阴暗修复者：嘿，你在干什么？别碰那个！
+阴暗修复者：啰嗦的大块头！希望你没动我的东西！
+阴暗修复者：嘘——。嘿，你。
+阴暗修复者：你找到一个锁箱了？里面还装满了战利品？让我看看！
+（拿到手！看看里面有什么……）
+一些金币……应该是我的报酬吧。
+……一块铁矿石？嗯。
+……这玩意儿应该值点钱。不过我想你肯定想要你的那份，嗯？……好吧，给你。
+那就这些了。我猜你不想把箱子也带走吧？
+阴暗修复者：你看起来是个能干的战士。而一个能干的战士知道要装备齐全……
+我正好有一副备用的暗视护目镜，只要十枚金币就能归你了。
+阴暗修复者：嘿，宝贝，十枚金币，从此再也不用担心在黑暗中看不清东西啦！
+阴暗修复者：好了，我们开始聊得来啦。现在看看这两个守卫？一百枚金币。
+阴暗修复者：这两个守卫是铁哥们儿。我甚至会帮你拆开它们，只要一百枚金币。
+阴暗修复者：我喜欢看到鼓鼓的钱袋。给我一分钟，我帮你拆开这些炮塔。
+它们会让你受益良多。不过不如我这儿的东西好……一个储物袋，宝贝。三百枚金币。价格确实有点高，但想想它能让你携带多少额外弹药吧。
+
+阴暗修复者：你真的想要那个储物袋吗？三百枚金币，亲爱的。
+阴暗修复者：*惊呼* 你是个富有的兽人，瓒。正是我这种类型的兽人。你已经买光了我所有的特制商品，但我仍可以继续以十枚金币的价格卖给你治疗药剂。它们能像其他任何东西一样让你保持生命。
+
+阴暗修复者：快点吧，难道连十枚金币都舍不得为一瓶能救你性命的药剂吗？
+阴暗修复者：给你，宝贝，保重身体！
+冰峰矮人女王因格利姆女士为您效劳。这里……这应该能让你恢复元气。
+因格利姆女士：抱歉，普拉克不提供饮料。
+因格利姆女士：找到配方了？嗯……它不涉及任何酒精……或许女巫酿造师可以看看？
+因格利姆女士：好吧，我会从你那里拿走这份配方。来，喝点不会潜在致命的东西。
+因格利姆女士：已经探索完我们的古老城镇了？来，喝一杯纪念我的祖先……
+因格利姆女士：战士，我们的命运就寄托在你的肩上。赢得胜利，我便让你像国王一样畅饮。
+因格利姆女士：所以，你现在要率军对抗恶魔了吗？恐怕我无法为这种事提供饮品了。
+我会给你一颗毒胶囊，但你看起来不像会被俘虏的人。
+因格利姆女士：前往冰封地区？马上为你准备一份保暖的饮品。
+因格利姆女士：要去牛头人城镇吗？这里……你需要保持充分水分和清醒状态。
+因格利姆女士：既然贾罗米尔正在指挥我们的矮人，我必须找到一种方式让自己在这里发挥作用。
+因格利姆女士：我来自酿酒公会。在成为女王之前，我曾是一位著名的酒馆老板。
+因格利姆女士：我的家族曾成功经营多家酒馆，即使在我们的帝国覆灭后仍持续运作。
+因格利姆女士：冰峰不过是往日辉煌的微缩版。我们曾满怀希望地试图重建失落的城镇……
+因格利姆女士：我的丈夫在最终围攻中战死。我发誓要活够久，亲眼见证他的复仇。
+因格利姆女士：恐怕我对战斗了解不多，只擅长让他人替我作战。
+矮人民兵：嗯？你有个上锁的箱子？是啊，我可以帮你打开，让我看看……
+打开后。好家伙，咱们看看吧……
+一堆金币！……
+一块铁矿石？唔……
+哇哦！石之锤！一颗巨大的红宝石！切割得也太精湛了……
+这就是全部了。如果你不介意的话，我会把锁箱作为报酬留下。真是件精美的作品啊……
+矮人民兵：我们几乎失去了所有攻城武器，全被这些该死的锻造元素偷走了！
+矮人民兵：木匠公会辛苦建造了那么多弩炮和投石机……结果呢？
+矮人民兵：是啊，我是个骄傲的木匠公会成员。没人能像我们这样塑造木材，小姑娘。
+矮人民兵：我以前是锁匠，战争前专门给箱子和柜子装锁。*叹气*
+矮人民兵：你得学会适应，姑娘。今天你在研究锁具，明天你就得造投石机。
+矮人民兵：这场战役让我们吃了不少苦头，但我们都想为阵亡的兄弟报仇。
+矮人民兵：碎骨者！过来！
+矮人民兵：嘿，有人在打听你。去楼下看看。
+牛头人斧兵：保持警惕。我们摧毁了附近大部分邪教据点，但这些洞穴依然危险。
+牛头人斧兵：恶魔可以短距离传送过来，但大地之母保护着我们的营地免受侵扰。
+牛头人斧兵：我必须时刻看护布里扎。在我负责期间，没人能碰她一根手指。
+牛头人斧兵：我以自豪之心效忠军团。若没有你们，我们这些洞穴里的牛头人恐怕早就撑不到现在了。
+牛头人火法师：嗯？你在一个被遗弃已久的城镇里找到了一个卷轴箱？给我看看……
+一道精妙的魔法封印……它让我渴望了解祖先的秘密。好吧，让我们看看里面有什么……
+……这是一份珍贵的知识财富。这里这些卷轴对你或许有用……其余的就不太重要了。
+当心，因为爆炸的火焰很容易伤到你。明智地运用火法师们的知识。
+牛头人火系法师：我一生都在研究火焰魔法。甚至曾教导过你们的一些法师。
+牛头人火系法师：穆尔古斯是活着的最强火法师。自从领主们陨落，他便带领我们前行。
+牛头人火系法师：附近有一座古老的牛头人镇，建于矮人战争时期。
+牛头人火系法师：我渴望揭开我们被遗忘的图书馆之谜。想象一下里面封存的所有知识。
+大地之母：*吟唱*
+矮人盾卫：姑娘，小心外面的危险！我们正深陷敌境之中！
+矮人盾卫：如果你在外面遇到麻烦，赶紧回来，我会为你敞开大门。
+矮人盾卫：我打赌附近被洗劫的房子中还藏着一些好东西。
+矮人盾卫：别走超过箭袋能装下的路途，我爹以前常说。
+矮人盾卫：祝你狩猎顺利！
+矮人盾卫：小心你的后背，姑娘！
+矮人盾卫：用石块铺平你的道路！
+矮人盾卫：旅途平安，姑娘！
+矮人盾卫：欢迎回来，姑娘！
+矮人盾卫：找到你要找的东西了吗？
+矮人盾卫：看到你安然无恙真高兴！
+矮人盾卫：进来吧，大门为你敞开！
+熊战士：和我一起待着，上尉？这里确实有点寂寞。
+熊战士：所以瓦尔克离开后就被邪教徒围攻了？滑溜的杂种，他们怎么计划得这么周密？
+熊战士：提娅媞说你击杀了一只巨大的深渊领主！如果我有朝一日回到家乡，最好能在酒馆看到他的头骨。
+熊战士：太多姐妹在战斗中陨落……长枪团和军阀们……我们该如何从这场灾难中恢复？
+熊战士：我们不是本该今天收到森林小队的报告吗？
+掠夺者：我打赌穹顶雨已经让他们陷入困境……
+熊战士：侦察兵说闪电风暴正在加剧……如果洞穴被淹了怎么办？
+掠夺者：如果恶魔持续进攻，我们恐怕早在那之前就会死光。
+熊战士：很高兴你能和我们一起，碎骨者。多留一会儿，在火堆旁暖暖身子吧。
+熊战士：我们在战败后不得不撤退到这些洞穴里。布里扎希望从新的角度发起进攻。
+熊战士：呼……你从内部摧毁那座邪教庄园的方式太疯狂了！你竟然用一周围攻的时间就解决了它！
+熊战士：既然我们不再需要封锁庄园，就可以加强南翼防线并争取时间。
+掠夺者：水晶穹顶正在酝酿雷暴。布里扎说这正是水晶开始褪色的原因。
+掠夺者：这场风暴很不寻常。通往南部邪教要塞的森林区域已经被雨水淹没。
+掠夺者：至少那片植被不会很快枯死。不过，这仍无法阻止我们即将到来的饥荒。
+掠夺者：我们的劣势太大……围城、雷暴、恶魔……选择你死亡的方式吧。
+修复者：打扰一下？我们也可以用那些弹药，你知道吗？！
+修复者：我们北边有一座矿井。穆尔古斯说它原本属于牛头人，后来被邪教夺走了。
+修复者：侦察兵报告说他们在矿井入口发现了人类骸骨……但杀死他们的人肯定不是我们。
+修复者：听说有几名邪教徒在我们的部队溃散后叛逃了。看来他们并非全都盲目狂热。
+修复者：弹药储备日益枯竭，我们必须适应并想办法……好在我以前做过拾荒者，这点经验派上用场了。
+掠夺者：我不是有意冒犯，但我不太想闲聊，中士。
+掠夺者：光是时刻警惕恶魔袭击就够让人头疼的了，我可不需要任何分心的事。
+掠夺者：如果我能活着出去，我会一头栽进第一个床铺睡上整整一周。
+掠夺者：*叹气并揉了揉眼睛*
+熊战士：远离右边的道路！邪教在拐角处设下了路障。
+熊战士：恶魔们一直在定期袭击我们……他们正在测试我们的防线，为更大规模的进攻做准备……
+熊战士：通往恶魔港口镇的大门由强大的火焰投射塔楼守护着。远离那里！
+熊战士：我不知道我们还能撑多久。如果他们直接派大军来碾压我们怎么办？
+熊战士：抱歉把你关进监狱，瓒。格伦德因为你的叛逃行为让我们全都大动肝火。
+熊战士：现在庄园不再构成威胁，我被调到了这里防守前线。
+熊战士：我很想听听你如何归来的故事，但我得保持专注。
+熊战士：如果咱们能从这摊烂泥里脱身，记得提醒我买你一大杯啤酒——或者一打。我请客。
+熊战士：我们搜查了堡垒，发现了一些不错的情报。这妮丝瑞尔家伙在搞什么鬼。
+熊战士：这些杂碎竟然折磨致死了一名掠夺者！不过她挺硬气的，没吐露半句实话。
+熊战士：有人称她为灵女，她在这里负责……她终于得到了应有的下场。
+熊战士：你确实把他们惹毛了，这点我承认。我们得好好清理一番战场。
+熊战士：堡垒已清空，偷来的物资也安全收缴了。随便拿走剩下的东西吧。
+熊战士：哼。我们围攻他们数周，你却只用几个小时就突破防线。不错啊，大姑娘。
+熊战士：这里的邪教徒组织得异常严密……我打赌是恶魔们把他们训练成这样。
+熊战士：既然占领了这个据点，我们为信使通往瓦尔克的路线争取到了相当安全的通道。
+修复者：真高兴再次见到你，瓒！那趟冒险真是惊险万分，不是吗？
+修复者：我奉命留守此处看守传送门……这地方让我直打寒颤，字面意思。
+修复者：这个矮人族石园确实很美，但整天盯着它看实在无聊透顶。
+修复者：这里什么都没发生……不过偶尔能听到那些大门传来奇怪的回声。
+修复者：这个地方肯定有数百年历史了。我打赌祭司贾罗米尔的祖先曾经住在这里。
+修复者：你是不是觉得我在这里浪费时间？我打赌他们只是把我派回来想让我别惹麻烦。
+修复者：嘿……就算我离开了，他们大概也不会察觉吧……而且像你这种硬汉还能保护我！
+修复者：嘿……就算我离开了，他们大概也不会察觉吧……嗯，不，我还是应该留在这里……
+修复者：对了，如果他们抱怨的话，你还能替我证明吧？好啦，那我就跟上你了！
+修复者：瓒？！哦，天啊……我差点就开枪了！
+掠夺者：谢谢你能救我们，瓒……我本来就要被砍头了，你救了我的命。
+掠夺者：他们抓走了一个姐妹做审问……我到现在还听到她的尖叫在耳边回响。
+掠夺者：我们掠夺者受过忍耐痛苦的训练，但这些自残狂魔已经到了另一个层次。
+掠夺者：他们从我们身上得不到任何信息……我听到他们在谈论要请魅惑女妖来对付我们。哼。
+掠夺者：……
+掠夺者：*凝视远方*
+掠夺者：……算了，谢谢你的救命之恩……但我希望你能让我独处一会儿。
+掠夺者：求你……我失去了一个好伙伴。请别打扰我了。
+熊战士：向碎骨者致敬！你踏足之处大地都会饮下鲜血，你是值得尊敬的兽人！
+熊战士：我迫不及待想听吟游诗人唱颂你如何为我们挣脱枷锁，哈哈！
+熊战士：这场战争远未结束。现在我重获自由，又能再次在恶魔头骨上刻下我的名字了！
+熊战士：你是位坚强的上尉，我会确保战后与你共饮一杯。
+女巫：我们已控制住这片区域。这次越狱真是惊险刺激，感谢你的协助。
+女巫：我们收复了装备，并接管了邪教徒在这里的据点。战利品啊，嗯？
+女巫：洗劫邪教徒要塞从不觉得无聊。尤其是他们还有个大厨房的时候。
+女巫：你应该检查堡垒是否有隐藏通道，可能有些货物被藏起来了。
+熊战士：一切正常，女士，我们坚守阵地！
+熊战士：我们已准备好应对任何反攻，让他们来吧！
+熊战士：恶魔可以在这里短距离瞬移。你永远不知道他们何时会偷袭你。
+熊战士：留意发光的五芒星。它们总是不祥之兆……
+熊战士：多么精彩的越狱啊！而且我们几乎毫发无损地逃了出来。上尉，你是头号猛兽！
+熊战士：布里扎命令我们在此坚守。我讨厌看到这个地方，但命令就是命令。
+熊战士：邪教徒的防御组织得很严密……不过也没严密到能阻止你们！
+熊战士：我怀念瓦尔克……甚至不确定我们还能不能再次见到它。操这地方。
+修复者：我们从牛头人镇回收了地狱火药桶，感谢你保护它们。
+修复者：我们会用这些火药绕过火焰塔楼，突破恶魔镇的城门。
+修复者：这里北方的矿井能让我们靠近侧墙，然后发起突袭。
+修复者：希望布里扎在行动开始时把你加入爆破小队。我会感觉安全得多。
+女巫：入侵结束后，我们不得不清理掉邪教在瓦尔克散布的所有黑暗黏液。
+女巫：这不只是简单的瘟疫，而是一种活体生物。祖拉甚至认为它可能是有意识的。
+女巫：祖拉感染了寄生虫。她迫切地想要找到对抗腐化的办法。
+女巫：我们的队伍离开瓦尔克去寻找优质的黏液样本。不久后，我们遇到了你的信使。
+掠夺者：见到你很高兴，瓒，想待多久就待多久，随便吃点东西吧。
+掠夺者：瓦尔克依然是一团糟……花了我们数日时间才安葬所有尸体。
+掠夺者：我们中有太多人死去了……此刻我甚至不确定重建城镇是否值得。
+掠夺者：恶魔、死亡、战争……能坐下来烧烤，忘记这一切真是太好了。
+熊战士：见到你安然无恙真好，碎骨者！你的名字正迅速赢得荣誉！
+熊战士：我们看到邪教徒仓皇逃窜时就知道你击败了那个女巫！
+熊战士：我仍想不通——是什么让你重返瓦尔克？你居然准时到达了！
+熊战士：恶魔和它们的人类帮凶会感受到我们复仇的每一寸力量！咕噜！
+熊战士：*低吼着喘息*
+熊战士：……
+熊战士：欢迎，中士！想和我一起训练吗？
+熊战士：感受铁军的怒火！哈啊——！！！
+队长杜拉：大地的力量，碎骨者！终于，我们所有人齐聚一堂，渴望复仇！
+队长杜拉：当我们得知幸存者的消息时，我们如风般疾行至此。我们渴望战斗！
+队长杜拉：长枪兵丹德拉留在瓦尔克与那些尚未完全康复的同伴们在一起。
+队长杜拉：这是终结恶魔威胁的最后机会。愿诸神指引我们的怒火！
+队长杜拉：原本应由爆破小队摧毁城门的火焰塔楼，但他们遭遇伏击了。
+队长杜拉：如果我们无法摧毁这些塔楼，就必须穿越烈焰地狱才能突破他们的城墙。
+队长杜拉：你的命令已下达，中士。现在请原谅我，我得准备突击队迎战。
+队长杜拉：我们绝不会退缩！为了铁军！
+兽人战士们：*欢呼*
+队长杜拉：为了瓦尔克！为了我们的逝去姐妹！
+兽人战士们：*欢呼*
+队长杜拉：我们的战斧将浸透恶魔之血！
+兽人战士们：*欢呼*
+队长杜拉：以骄傲战斗！以荣誉战斗！
+兽人战士们：*欢呼*
+队长杜拉：我们拥抱死亡！大地将庇护我们的骸骨！
+兽人战士们：*欢呼*
+队长杜拉：我们必将踏碎他们！恶魔将对我们这个名字心生畏惧数百年之久！
+兽人战士们：*欢呼*
+大地之母：瓒……布里扎担心你的安全。她让我来帮助你，让我们一起同行吧。
+大地之母：若你日后需要治疗，请随时告诉我。
+大地之母：这个洞穴通往正确的路径，贾罗米尔神父肯定已经通过了。
+大地之母：可怜的矮人……他们现在已超出我的能力范围……
+大地之母：这看起来像是矮人镇的大门。贾罗米尔神父一定在内部等着我们。
+女巫：瓒？！这边！……恶魔杂种突然袭击了我们，我们 barely 活着逃了出来！
+修复者：我们原本打算炸毁那堵墙，但现在你来了，荣誉全归你了。
+女巫：希望你已做好准备。一旦按下这个把手，就再也无法回头了。
+修复者：火药桶！
+修复者：突破！冲！冲！冲！
+领主伊格鲁提乌斯：兽人正在进攻！你们这些肮脏的仆从，立刻占据防御位置！
+男巫格伦德：大地之力，碎骨者，你已帮我们突破城门！高举战斧，复仇即将降临！
