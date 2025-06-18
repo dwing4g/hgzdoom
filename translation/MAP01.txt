@@ -17,7 +17,7 @@ or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
 有意见和报告错误。感谢参与，祝你玩得愉快！- 瓚
 
 Map01 - Cold Rock ->Play Normally
-地图01 - 冷岩 -> 正常游玩
+地图01 - 冷岩 ->正常游玩
 
 Map02 - Plaza (Minor Spoilers)
 地图02 - 广场（轻微剧透）
@@ -62,7 +62,7 @@ The massive doors are jammed shut.
 巨大的门被卡住了。
 
 The gun socket is missing a power source.
-枪的接口缺少电源。
+枪的接口缺少能源。
 
 The gun is too overheated to be fired again.
 这把枪已经过热，无法再次发射。
@@ -143,7 +143,7 @@ This door requires a Stone key to open.
 这扇门需要用石钥匙才能打开。
 
 The switch is out of power.
-开关已失去电力。
+开关已失去能量。
 
 This wall looks like it could be broken with a proper pickaxe.
 这堵墙看起来可以用合适的镐子凿开。
@@ -347,7 +347,7 @@ We had a huge tremor today. I went out to check on the others and was surprised 
 今天我们经历了一场巨大的震动。我出去查看其他人的情况时，惊讶地发
 
 not working.   After exchanging a few shouts with the goblins up inside the mine barracks, we figured out it
-现电梯无法运作。与矿坑兵营里的哥布林交换了几声喊叫后，我们判断是
+现升降梯无法运作。与矿坑兵营里的哥布林交换了几声喊叫后，我们判断是
 
 was the switch that needed a new power core - good thing we had a bunch stocked up in the storage room.
 开关需要更换能量核心——幸好我们在仓库里储备了不少备用核心。
@@ -380,7 +380,7 @@ hiding behind the shelf...  that poor bird didn't stand a chance.  I'd go in and
 雏鸟……那只可怜的小鸟根本没有机会。我想冲进去把这怪物剖开，但杜拉想先
 
 wants to get a Witch from Valc to study it first.   What an ordeal...  I tried going up to get a drink, but
-从瓦尔克请个女巫来研究它。真是场折磨……我试着上去取水，结果电梯又坏了
+从瓦尔克请个女巫来研究它。真是场折磨……我试着上去取水，结果升降梯又坏了
 
 the elevator is out yet again. At this rate we'll run out of power cores, and the goblins are too scared
 。照这个速度我们很快就会用完能量核心，而哥布林们也太害怕塌方不敢再去破
@@ -404,25 +404,25 @@ All messages can be reviewed in the console (default: Tilde)
 所有消息都可以在控制台中查看（默认：波浪号）
 
 Tip: You won't get far without a map (default: TAB)
-提示：没有地图寸步难行（默认：TAB 键）
+提示：没有地图寸步难行（默认：Tab键）
 
 It has an overlay and normal mode that can be configured from: Options - Automap Options
 它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置。
 
 While in normal mode, you can zoom in/out (default: MWheel) and mark your current position with (default: M)
-在普通模式下，您可以使用鼠标滚轮（默认：MWheel）缩放，并用（默认：M 键）标记当前位置。
+在普通模式下，您可以使用鼠标滚轮（默认：鼠标滚轮）缩放，并用（默认：M键）标记当前位置。
 
 Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
 They are used automatically with (default: E)
-它们会自动使用（默认：E 键）
+它们会自动使用（默认：E键）
 
 Tip: Use consumables with (default: F)
-提示：使用消耗品时按（默认：F 键）
+提示：使用消耗品时按（默认：F键）
 
 Consumables and Quest Items are stored in your inventory. Scroll through it with (default: Z/X)
-消耗品和任务物品存放在你的背包中，可通过（默认：Z/X 键）滚动查看。
+消耗品和任务物品存放在你的背包中，可通过（默认：Z/X键）滚动查看。
 
 You can inspect the currently selected item for a brief description with (default: ENTER)
 你可以按（默认：回车键）查看当前选中物品的简要描述。
@@ -440,7 +440,7 @@ Tip: Every weapon has an alternative attack mode (default: RMB)
 提示：每种武器都有替代攻击模式（默认：右键鼠标）。
 
 You can perform quick kick attacks with (default: Q)
-你可以按（默认：Q 键）进行快速踢击。
+你可以按（默认：Q键）进行快速踢击。
 
 You can also perform jump kick and crouch-slide kick combos.
 你也可以执行跳跃踢和蹲滑踢连段技。
@@ -452,16 +452,16 @@ Tip: Keys show at the bottom right of the HUD.
 提示：钥匙会显示在屏幕右下角的HUD中。
 
 Locked doors have a corresponding icon that can be seen on the map (default: TAB)
-锁定的门会在地图上以对应的图腾标识（默认：TAB 键）显示。
+锁定的门会在地图上以对应的图腾标识（默认：Tab键）显示。
 
 Tip: Read scrolls, signs, tablets and books with (default: E)
-提示：使用卷轴、路标、石板和书籍时按（默认：E 键）。
+提示：使用卷轴、路标、石板和书籍时按（默认：E键）。
 
 Tip: You can avoid alerting groups of enemies by attacking with your fists (default: 1)
 提示：用拳头攻击（默认：1键）可避免惊动敌人群体。
 
 Tip: Scroll through your inventory with (default: Z/X)
-提示：按（默认：Z/X 键）滚动查看背包内容。
+提示：按（默认：Z/X键）滚动查看背包内容。
 
 Inspect your currently selected item with (default: ENTER)
 按（默认：回车键）查看当前选中物品的信息。
@@ -476,7 +476,7 @@ Tip: Use the door with the Fist Symbol to end the level.
 提示：使用带有拳击符号的门结束关卡。
 
 Tip: Consumables can be used anytime with (default: F)
-提示：消耗品可随时使用（默认：F 键）。
+提示：消耗品可随时使用（默认：F键）。
 
 They can also be bound to hotkeys in the options.
 它们也可在选项中绑定快捷键。
@@ -485,19 +485,19 @@ Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
 They are used automatically with (default: E)
-它们会自动使用（默认：E 键）。
+它们会自动使用（默认：E键）。
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
-若无法看到背景中的植物，增加伽马值使其 barely visible（几乎可见）
+若无法看到背景中的植物，增加伽马值使其刚刚可见
 
 Press Strafe Left (default: A) to decrease gamma
-按左移（默认：A 键）降低伽马值
+按左移（默认：A键）降低伽马值
 
 Press Strafe Right (default: D) to increase gamma
-按右移（默认：D 键）提高伽马值
+按右移（默认：D键）提高伽马值
 
 Press Use (default: E) to continue
-按使用（默认：E 键）继续
+按使用（默认：E键）继续
 
 You can always adjust this setting from Options - Display Options
 你可以随时从选项 - 显示设置中调整此设置。

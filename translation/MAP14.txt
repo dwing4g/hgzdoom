@@ -92,7 +92,7 @@ A hellish curse prevents you from unlocking the gate.
 地狱诅咒阻止你打开这扇门。
 
 The elevator does not seem to have enough power to be operated.
-电梯似乎没有足够的能量运作。
+升降梯似乎没有足够的能量运作。
 
 The door is locked from the inside.
 门从内部锁住了。
@@ -146,7 +146,7 @@ I told you it would be foolish to overload the machines! Now that we've lost tha
 我早就告诉过你们，过度负荷机器是愚蠢的！现在我们失去了那根能量柱，
 
 use both the elevators and production machines at once!     Get someone to release the safety of the 4th
-无法同时使用电梯和生产设备！快派人释放第四根支柱的安全机制，否则我
+无法同时使用升降梯和生产设备！快派人释放第四根支柱的安全机制，否则我
 
 pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here!
 就让你们全都剥皮！如果在这里失败，幽蓝男爵本人会吞噬我们的灵魂！
@@ -155,7 +155,7 @@ I told you it would be foolish to overload the machines! Now that we've lost tha
 我早就告诉过你们，过度负荷机器是愚蠢的！现在我们失去了那根能量柱，
 
 use both the elevators and production machines at once!     Get someone to release the safety of the 4th
-无法同时使用电梯和生产设备！快派人释放第四根支柱的安全机制，否则我
+无法同时使用升降梯和生产设备！快派人释放第四根支柱的安全机制，否则我
 
 pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here!
 就让你们全都剥皮！如果在这里失败，幽蓝男爵本人会吞噬我们的灵魂！
@@ -269,13 +269,13 @@ As the gate reveals the halls.
 随着大门揭示长廊。
 
 ELEVATOR TO
-电梯通往
+升降梯通往
 
 WEAPONS & HELL POWDER STORAGE
 武器与地狱火药库
 
 ELEVATOR TO
-电梯通往
+升降梯通往
 
 WEAPONS & HELL POWDER STORAGE
 武器与地狱火药库

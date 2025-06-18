@@ -194,13 +194,13 @@ The mechanism clicks and rumbles but the door stays closed.
 机制发出咔嗒声并震动，但门依然紧闭。
 
 The power line this door is connected to seems to be down.
-这扇门连接的电源线路似乎已断开。
+这扇门连接的能源线路似乎已断开。
 
 The water is pressuring the door shut.
 水流正将门压得更紧。
 
 The power line this door is connected to seems to be down.
-这扇门连接的电源线路似乎已断开。
+这扇门连接的能源线路似乎已断开。
 
 This door requires a Stone key to open.
 这扇门需要石钥匙才能开启。
@@ -218,7 +218,7 @@ AIR TANK REFUELING STATION
 天空之神燃料补给站
 
 & UNDERWATER GATE CONTROL
-& 水下闸门控制系统
+及 水下闸门控制系统
 
 (As you browse through the scientific notes, you notice excerpts from Lith's studies in Valc)
 （当你浏览科学笔记时，注意到利思在瓦尔克的研究摘录）
@@ -227,7 +227,7 @@ Earth Mother:    The Cult must have furthered Lith's research during all this ti
 大地之母：邪教可能在这段时间进一步推进了利思的研究……
 
 .oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
-.oO   ‘碎骨者’瓒的日志   Oo.
+.oO   “碎骨者”瓒的日志   Oo.
 
 > Not much going on, I should find my room and get rest
 > 没什么大事，我应该找房间休息一下
@@ -257,10 +257,10 @@ Earth Mother:    The Cult must have furthered Lith's research during all this ti
 ---侧注---
 
 > E. Mother Bendi needs a Spirit Gem to charge my Psi Crown
-> E.之母本迪需要用灵石为我的Psi冠充电
+> E.之母本迪需要用灵石为我的Psi冠充能
 
 > Earth Mother Bendi needs a Spirit Gem to charge my Psi Crown
-> 大地之母本迪需要用灵石为我的心灵王冠充电
+> 大地之母本迪需要用灵石为我的心灵王冠充能
 
 > Workshop Boss needs 6 lumps of Dark Iron for gun parts
 > 工坊老板需要6块暗铁来制作枪支零件
@@ -281,22 +281,22 @@ two Sentries for 100 gold
 0金币）、两个守卫（100金币）
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（
+> 阴暗修复者出售暗视护目镜（10金币）、
 
 two Sentries for 100 gold
-10金币）、两个守卫（100金币
+两个守卫（100金币）、
 
 a Bag of Holding for 300 gold
-）、一个储物袋（300金币）
+一个储物袋（300金币）
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（
+> 阴暗修复者出售暗视护目镜（10金币）、
 
 two Sentries for 100 gold
-10金币）、两个守卫（100金币
+两个守卫（100金币）、
 
 a Bag of Holding for 300 gold
-）、一个储物袋（300金币）
+一个储物袋（300金币）
 
 Vials of Healing for 10 gold
 治疗药剂换10金币

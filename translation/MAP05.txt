@@ -56,7 +56,7 @@ The portal's activation seems to be funneling away the door's power.
 传送门的激活似乎正在抽走门的能量。
 
 Looks like the auxiliary power is out.
-看起来备用电源已经失效了。
+看起来备用能量已经耗尽了。
 
 This door requires a Vine key to open.
 这扇门需要用藤蔓钥匙才能开启。
@@ -164,13 +164,13 @@ battlefield. Nobody could find her corpse...But I worry too much, it's not like 
 （你注意到提娅媞留下的旧笔记。看起来附近邪教徒已经发现了它）
 
 I've been doing my best to hamper this sudden invasion from the shadows. The ventilation shafts helped
-我一直尽力阻碍这场突如其来的暗中
+我一直尽力阻碍这场突如其来的暗中入侵。
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-入侵。通风井帮助我悄然行动。
+通风井帮助我悄然行动。我听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
-我听到邪教徒收到命令要炸毁并坍塌出口。他们正在封锁整个据点。混蛋！……不过，我已成功进入——
+他们正在封锁整个据点。混蛋！……不过，我已成功进入——
 
 Crystal Shop and move all the merchandise upstairs. I must delay them from getting their hands on our
 水晶商店，把所有商品搬到楼上。我必须拖延他们获取我们科技的脚步。我甚
@@ -395,7 +395,7 @@ your belongings in the library safe. Just look for a purple book, and pull it. -
 书馆保险箱里了，只需找一本紫色的书，然后拉出来即可。——安达
 
 Reaver Headquarters Auxilliary Generator
-掠夺者总部辅助发电机
+掠夺者总部辅助发能机
 
 Return Vine Keys after use
 使用后归还藤蔓钥匙
@@ -422,7 +422,7 @@ had better luck than us... Come on, you bastards, come get me so I can send you 
 气更好……来吧，你们这些混蛋，快来抓我，让我送你们回地狱深渊！
 
 Make sure to turn the auxiliary power on before you shut down the generator for any
-在进行任何维护工作前务必先开启辅助电源。我
+在进行任何维护工作关闭发能机前务必先开启辅助能源。我
 
 maintenance work. I don't wanna hear anymore complaints from the archive curators
 不想再听到档案管理员们被困在办公室里的抱

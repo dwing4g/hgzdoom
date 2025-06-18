@@ -245,7 +245,7 @@ Abhaoth:   What the-
 *渐弱*  瓒？…… 瓒？！………
 
 The switch is out of power.
-开关已失去电力。
+开关已耗尽能量。
 
 This switch requires a Vine key to open the door.
 这个开关需要藤蔓钥匙才能打开门。
@@ -257,7 +257,7 @@ This door requires a Stone key to open.
 这扇门需要用石钥匙开启。
 
 Reaver Headquarters Auxilliary Generator
-掠夺者总部辅助发电机
+掠夺者总部辅助发能机
 
 Return Vine Keys after use
 使用后请归还藤蔓钥匙

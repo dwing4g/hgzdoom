@@ -1,5 +1,5 @@
 Bear Warrior:    Sarge, you're alive! Thought you were done for in that crashed elevator.
-熊战士：上尉，你活下来了！我以为你在那台坠毁的电梯里挂了。
+熊战士：上尉，你活下来了！我以为你在那台坠毁的升降梯里挂了。
 
 Reaver:    Good to have you back. We hadn't made it too far before we got pinned down by Forge Elementals.
 掠夺者：欢迎回来。我们还没走多远就遭到了锻造元素的围堵。
@@ -8,7 +8,7 @@ Good to have you back. Haven't made it too far myself... got pinned down by some
 欢迎回来。我自己也没走太远……也被锻造元素困住了。
 
 Reaver:    Zan! I thought you were dead in that crashed elevator. Can't believe you made it.
-掠夺者：瓒！我原以为你在那台坠毁的电梯里死了。真不敢相信你还能活着。
+掠夺者：瓒！我原以为你在那台坠毁的升降梯里死了。真不敢相信你还能活着。
 
 I tried to push on without you, but got pinned down here by some Forge Elementals...
 我试着继续前进，但被一些锻造元素困在这里了……
@@ -440,13 +440,13 @@ We've got to link back up with the defenders!
 我们必须与守卫者重新联系上！
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用Use键（默认：E）命令某些友方单位跟随你/驻守当前位置。
+提示：你可以使用Use键（默认：E键）命令某些友方单位跟随你/驻守当前位置。
 
 Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!
 铁军幸存者：    嘿，瓒，你还活着！让我们收拾这些邪教徒！
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用Use键（默认：E）命令某些友方单位跟随你/驻守当前位置。
+提示：你可以使用Use键（默认：E键）命令某些友方单位跟随你/驻守当前位置。
 
 Bear Warrior:    Hey, stop that! We need these bowls.
 熊战士：    喂，别动！我们需要这些碗。
@@ -635,7 +635,7 @@ Reaver:    Setting off to stop the Warlock? I'm ready to join you.
 掠夺者：    前往阻止巫师？我随时可以加入你。
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用“使用”键（默认：E）命令某些友军跟随你或保持原地。
+提示：你可以使用“使用”键（默认：E键）命令某些友军跟随你或保持原地。
 
 Bear Warrior:    So, you actually turned the anti-magic ward at the Parapet back on? That really saved our skin.
 熊战士：    所以你真的把城垛上的反魔法屏障重新启动了？这真是救了我们的命。
@@ -653,7 +653,7 @@ Bear Warrior:    So, you're moving out to the west wing? I'm at your command.
 熊战士：    所以你要向西翼移动？我随时听候你的命令。
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用“使用”键（默认：E）命令某些友军跟随你或保持原地。
+提示：你可以使用“使用”键（默认：E键）命令某些友军跟随你或保持原地。
 
 Bear Warrior:    Easy on the food, there isn't much left here.
 熊战士：    别太贪吃，这里剩下的食物不多了。

@@ -164,7 +164,7 @@ Flame Beacon Ghost:    ...you can still stop the Baron's conquest... find my bro
 火焰灯塔幽灵：……你仍有机会阻止男爵的征服……找到我的兄弟们……他们会帮助你……
 
 Yzbeth's Gardner:    Did mistress Yzbeth's send me one of her hellions? What are you doi-
-伊兹贝思的园丁： mistress Yzbeth派来了一名地狱之徒吗？你在做什么——
+伊兹贝思的加德纳： 女主人伊兹贝思派来了一名地狱之徒吗？你在做什么——
 
 Impaled Brain:    *Sings and hums*
 受刑大脑：*吟唱和哼唱*
@@ -188,7 +188,7 @@ Impaled Brain:    She loves me more than the other servants. She always gives me
 受刑大脑：她比我其他仆人更爱我。她总是给予我她的关注。
 
 Yzbeth's Gardner:    ...I must bring mistress Yzbeth her flowers.
-伊兹贝思的园丁：……我必须把伊兹贝思大人的花送过去。
+伊兹贝思的加德纳：……我必须把女主人伊兹贝思的花送过去。
 
 The gate winch is missing a component.
 大门绞盘缺少一个部件。
@@ -1247,10 +1247,10 @@ Witch:    Zura went crazy when she realised what Tiati had done. After Lith's pr
 女巫：祖拉在意识到提娅媞做了什么后彻底疯了。根据利思的例子，我能够理解她。
 
 Witch:    Killing the Baron will resolve the demonic threat, but the corruption won't be going anywhere...
-女巫：杀死男爵能解决恶魔威胁，但腐败不会就此消失……
+女巫：杀死男爵能解决恶魔威胁，但腐化不会就此消失……
 
 Witch:    The Seed could help us understand how the corruption came to be... I hope it wasn't lost in fire.
-女巫：种子或许能帮助我们了解腐败是如何产生的……我希望它没有被火焚毁。
+女巫：种子或许能帮助我们了解腐化是如何产生的……我希望它没有被火焚毁。
 
 Witch:    Our ship only had room for a few dozen troops. Grund picked us because we're the Division's finest.
 女巫：我们的船只能容纳几十名士兵。格伦德选择我们是因为我们是军团中最优秀的。

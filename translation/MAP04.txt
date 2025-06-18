@@ -23,7 +23,7 @@ Bear Warrior:    Now I'm glad I brought my fire boots along...
 熊战士：现在我庆幸带上了火靴……
 
 The switch is out of power.
-开关已经断电了。
+开关已经没有能量了。
 
 This cracked wall looks like it could be broken with the right tool.
 这道裂墙似乎可以用合适的工具打破。
@@ -65,7 +65,7 @@ Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFA
 提示：按药水发射器键可切换弹药类型（默认：6）
 
 Looks like the main power has been shut down.
-看起来主电源已被切断。
+看起来主能量已被切断。
 
 The switch is stuck. Seems like you'll need the proper tools to unjam it without damaging it.
 开关卡住了。似乎你需要合适的工具才能在不损坏它的情况下解除卡顿。
@@ -206,7 +206,7 @@ to fight each other, knowing how the Demons used the seed of subterfuge to divid
 心互相争斗，深知恶魔如何利用诡计的种子分化瓦解他们。
 
 The incompetent and corrupt leaders were already dead. It was time for the strong to take lead once
-无能而腐败的领袖早已死去。现在是强者再次掌权的时候了。那
+无能而腐化的领袖早已死去。现在是强者再次掌权的时候了。那
 
 more. And those new leaders had a great thirst for vengeance. Great enough to forge an alliance with
 些新领导者对复仇有着强烈的渴望。足以与曾经鄙视的敌人结
@@ -236,7 +236,7 @@ very relieved to see you.  A finger-traced message lies on the reinforced glass)
 地见到你。一张用手指写的留言躺在强化玻璃上）
 
 Locked me in. Threw key. Portal running out. Hurry.
-把我锁起来了。扔了钥匙。传送门快没电了。快点。
+把我锁起来了。扔了钥匙。传送门快消失了。快点。
 
 (You notice a rolled parchment right by the portal. Tiati's writing style is already familiar to you)
 （你注意到一卷卷轴正靠近传送门。Tiati的书写风格你已经很熟悉了）
@@ -623,5 +623,5 @@ This door seems to be locked from the other side.
 这扇门似乎是从另一侧被锁住了。
 
 ELEVATOR TO ICEPEAK
-通往冰峰的电梯
+通往冰峰的升降梯
 

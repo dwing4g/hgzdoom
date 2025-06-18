@@ -32,10 +32,10 @@ The Red Crystal radiates waves of heat.
 红水晶散发着阵阵热浪。
 
 The cauldron's power source is missing.
-坩埚的能量源缺失。
+坩埚的能源缺失。
 
 The cauldron is not powered.
-坩埚未通电。
+坩埚没有能量。
 
 You don't have the ingredients to brew anything.
 你没有制作任何物品所需的材料。
@@ -299,10 +299,10 @@ tech.   I even trashed a few power cores,  but they heard the noise so I had to 
 一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
 
 Lucky me, I found a warding scroll in the shopkeeper's room.   Should my sisters need to break the ward,
-幸运的是，我在店主房间里找到了一张屏障卷轴。
+幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要解除屏障，
 
 I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
-如果我的姐妹们需要解除屏障，我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
+我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
 
 Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
 附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该在
@@ -452,7 +452,7 @@ Handle with care
 小心处理
 
 Scroll of Magma Ball - 1x bowl of Scribe Embers, basic warm inks, plain parchment
-熔岩球卷轴 - 1碗抄写者余烬，基础暖墨水，普通羊皮纸
+熔岩球卷轴 - 1碗抄写者余烬，基础温墨水，普通羊皮纸
 
 (A drawing stencil depicts a clump of fire and earth shaped into a ball)
 （一幅绘图模板描绘一团火与土凝聚成球状）

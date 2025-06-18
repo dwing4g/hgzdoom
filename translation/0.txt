@@ -359,7 +359,7 @@ Picked up a Water Figurine.   (Quest Item)
 拾取了一个水之雕像。  (任务物品)
 
 Picked up an Air Figurine.   (Quest Item)
-拾取了一个气之雕像。  (任务物品)
+拾取了一个空之雕像。  (任务物品)
 
 Picked up a Fire Figurine.   (Quest Item)
 拾取了一个火之雕像。  (任务物品)
@@ -374,7 +374,7 @@ Picked up the Earth Fragment.   (Quest Item)
 拾取了土之碎片。  (任务物品)
 
 Picked up the Air Fragment.   (Quest Item)
-拾取了气之碎片。  (任务物品)
+拾取了空之碎片。  (任务物品)
 
 Picked up an Empty Potion Bottle.   (Quest Item)
 拾取了一个空药水瓶。  (任务物品)
@@ -458,7 +458,7 @@ Picked up a Dwarven Suit.   (Quest Item)
 拾取了一件矮人服装。  (任务物品)
 
 Picked up a Seed of Corruption.   (Quest Item)
-拾取了一个腐败之种。  (任务物品)
+拾取了一个腐化之种。  (任务物品)
 
 Picked up a Special Containment Jar.   (Quest Item)
 拾取了一个特殊容器罐。  (任务物品)
@@ -665,379 +665,379 @@ Added an Ancient City Map to the journal.
 日志中增加了一幅古城地图。
 
 Iron pickaxe - A simple iron pickaxe used for mining.   (Quest Item)
-铁镐 - 用于采矿的简易铁镐。  (任务物品)
+铁镐 - 用于采矿的简单铁制镐。  (任务物品)
 
 Power Core - A crystal commonly used by the Iron Division Orcs to power their devices.   (Quest Item)
-能量核心 - 一种铁军兽人常用的水晶，为他们的设备提供动力。  (任务物品)
+能量核心 - 铁军兽人常用的一种水晶，用于驱动他们的设备。  (任务物品)
 
 Moondrop Flower - The pale petals of this eerie smelling flower glisten in the moon light.   (Quest Item)
-月露花 - 这种气味阴森的花朵的苍白花瓣在月光下闪闪发光。  (任务物品)
+月露花 - 这种散发着诡异香气的苍白花瓣在月光下泛着微光。  (任务物品)
 
 Scroll of Dispel Magic - This spell attempts to remove magic effects from a certain object.   (Quest Item)
-驱魔卷轴 - 这个法术试图从某个物体上消除魔法效果。  (任务物品)
+驱魔卷轴 - 这个法术试图从特定物体上移除魔法效果。  (任务物品)
 
 Purple Root - This root is often used by alchemists and scribes to create pigment.   (Quest Item)
-紫色根茎 - 这种根茎通常被炼金术士和文士用来制造颜料。  (任务物品)
+紫色根茎 - 这种根茎常被炼金术士与抄写者用来制作颜料。  (任务物品)
 
 Bowl of Pigment - The mushy pigment reeks of an odd dirt-like smell.   (Quest Item)
-一碗颜料 - 粘稠的颜料散发着一种奇怪的泥土味。  (任务物品)
+一碗颜料 - 这团黏稠的颜料散发着奇特的泥土气息。  (任务物品)
 
 Bowl of Fae Dust - The sparkly crystal powder feels warm to the touch.   (Quest Item)
 一碗妖精之尘 - 闪亮的水晶粉末触感温暖。  (任务物品)
 
 Red Crystal - This small crystal seems to produce an everlasting source of heat.   (Quest Item)
-红水晶 - 这个小水晶似乎能产生永恒的热源。  (任务物品)
+红水晶 - 这颗小水晶似乎能持续产生热量。  (任务物品)
 
 Can of Enchanted Purple Ink - This ink is used by scribes to create spirit magic spell scrolls.   (Quest Item)
-一罐附魔紫墨水 - 这种墨水是文士用来制作精神魔法卷轴的。  (任务物品)
+一罐附魔紫墨水 - 这种墨水被抄写者用来制作精神魔法卷轴。  (任务物品)
 
 Toolkit - This box contains various tools used by the Fixers for maintenance work.   (Quest Item)
-工具箱 - 这个箱子里有修复者用于维护工作的各种工具。  (任务物品)
+工具箱 - 这个箱子内装有修复者用于维护工作的各种工具。  (任务物品)
 
 Iron Ingot - The heavy, cold bar is ready to be forged into a new shape.   (Quest Item)
-铁锭 - 沉重而冰冷的铁条已经准备好被锻造成新的形状。  (任务物品)
+铁锭 - 这根沉重冰冷的棒子已准备好被锻造成新的形状。  (任务物品)
 
 Mithril Ingot - The oddly light bar gleams into the light.   (Quest Item)
-秘银锭 - 奇怪的轻棒在灯光下闪闪发光。  (任务物品)
+秘银锭 - 这根异常轻盈的棒子在光线下泛着微光。  (任务物品)
 
 Iron Ore - The rough ore needs to be smelt before it can be used.   (Quest Item)
-铁矿石 - 粗糙的矿石需要在使用前进行熔炼。  (任务物品)
+铁矿石 - 这块粗糙的矿石需要熔炼后才能使用。  (任务物品)
 
 Mithril Ore - This ore is highly sought after by blacksmiths for being able to create strong, lightweight items.   (Quest Item)
-秘银矿石 - 这种矿石因能够制造出坚固而轻巧的物品而受到铁匠们的追捧。  (任务物品)
+秘银矿石 - 这种矿石因能打造坚固轻便的物品而备受铁匠们追捧。  (任务物品)
 
 Empty Gear Mould - The mould contains the negative shape of a gear, and is ready to be filled with the proper metal.   (Quest Item)
-空的齿轮模具 - 该模具包含齿轮的负面形状，并准备用适当的金属来填充。  (任务物品)
+空的齿轮模具 - 模具内保留着齿轮的负形，已准备好填充合适的金属。  (任务物品)
 
 Filled Gear Mould - The mould has been filled and the gear inside is hot and ready to be hammered on the anvil.   (Quest Item)
-填充的齿轮模具 - 模具已被填充，里面的齿轮是热的，可以在铁砧上敲打。  (任务物品)
+填充的齿轮模具 - 模具已被填满，内部齿轮正炽热待锤击。  (任务物品)
 
 Mithril Gear - The gleaming gear looks as if it could support a large mechanism without the risk of breaking.   (Quest Item)
-秘银齿轮 - 闪闪发光的齿轮看起来好像可以支撑一个大型机械而没有断裂的风险。  (任务物品)
+秘银齿轮 - 这枚泛着微光的齿轮仿佛能支撑庞大机械而无惧断裂。  (任务物品)
 
 Book of Earth - This hefty manual contains numerous translations and incantations gathered along the ages by those who studied Earth Magic.   (Quest Item)
-大地之书 - 这本厚重的手册包含了许多翻译和咒语，是那些研究大地魔法的人历来收集的。  (任务物品)
+大地之书 - 这本厚重的手册收录了历代研究大地魔法者收集的大量翻译与咒语。  (任务物品)
 
 Shovel - A simple shovel with a sturdy blade and a sharp iron edge.   (Quest Item)
-铲子 - 一把简单的铲子，有坚固的刀刃和锋利的铁边。  (任务物品)
+铲子 - 一把配备坚固刀刃和锋利铁边的简单铲子。  (任务物品)
 
 Wooden Plank - A well wrought wooden plank.   (Quest Item)
-木板 - 一块精心制作的木板。  (任务物品)
+木板 - 一块工艺精湛的木质板材。  (任务物品)
 
 Vine - A resilient string of vine. The rock tied at the end should make it easy to throw and coil.   (Quest Item)
-藤蔓 - 一串有弹性的藤蔓。绑在末端的石头应使其易于抛出和缠绕。  (任务物品)
+藤蔓 - 一根坚韧的藤条，末端系着石头便于投掷和缠绕。  (任务物品)
 
 Cyan Crystal - The glowing crystal emits warmth and strange magnetic waves.   (Quest Item)
-青水晶 - 发光的水晶散发出温暖和奇怪的磁波。  (任务物品)
+青水晶 - 这颗发光的水晶散发温暖与奇异的磁波。  (任务物品)
 
 Keg of Dragonbrew - The volatile scent piercing through the wood feels like it could either bring someone back from the dead or kill them.   (Quest Item)
-龙酿酒桶 - 穿透木头的挥发性气味让人感觉它可以让人起死回生，或者杀死他们。  (任务物品)
+龙酿酒桶 - 酒香穿透木桶的气息仿佛能让人起死回生或瞬间致死。  (任务物品)
 
 Hot Iron - A gleaming bar of iron, ready to be shaped on the anvil.   (Quest Item)
-热铁块 - 一根闪闪发光的铁条，准备在铁砧上成型。  (任务物品)
+热铁块 - 一根泛着光泽的铁条，已准备好在铁砧上塑形。  (任务物品)
 
 Iron Lever - A crudely crafted lever that can hook onto gate activating mechanisms.   (Quest Item)
-铁制杠杆 - 一个粗制滥造的杆子，可以钩住大门的启动装置。  (任务物品)
+铁制杠杆 - 一块粗糙打造的杠杆，可钩住大门启动装置。  (任务物品)
 
 Jar of Corrosive Acid - A large jar labelled with a menacing skull. Even the dark iron case seems to be slightly corroded by the acid inside.   (Quest Item)
-一罐腐蚀酸液 - 一个标有威胁性头骨的大罐子。即使是暗铁盒也似乎被里面的酸液轻微腐蚀了。  (任务物品)
+一罐腐蚀酸液 - 贴着狰狞骷髅标签的大罐子。就连暗铁制成的容器似乎也被内部酸液轻微侵蚀。  (任务物品)
 
 Hunk of Flesh - A bloody hunk of flesh. You are not entirely sure of its' origin, but you would rather not know anyway.   (Quest Item)
-大块肉 - 一块血淋淋的肉。你并不完全确定它的来源，但你宁愿不知道。  (任务物品)
+大块肉 - 一块鲜血淋漓的肉块。你不确定它的来源，但宁愿不知道。  (任务物品)
 
 Earth Figurine - A coarse ritual statuette depicting Earth.   (Quest Item)
-土之雕像 - 描绘大地的粗糙的仪式雕像。  (任务物品)
+土之雕像 - 一尊粗犷的仪式雕像，描绘着大地之神。  (任务物品)
 
 Water Figurine - A cold ritual statuette depicting Water.   (Quest Item)
-水之雕像 - 描绘水的冰冷仪式雕像。  (任务物品)
+水之雕像 - 一尊冰冷的仪式雕像，描绘着水流之神。  (任务物品)
 
 Air Figurine - A finely crafted ritual statuette depicting Air.   (Quest Item)
-气之雕像 - 精心制作的祭祀雕像，描绘了空气。  (任务物品)
+空之雕像 - 一尊精雕的仪式雕像，描绘着天空之神。  (任务物品)
 
 Fire Figurine - A dark ritual statuette depicting Fire.   (Quest Item)
-火之雕像 - 描绘火的黑暗仪式雕像。  (任务物品)
+火之雕像 - 一尊暗色的仪式雕像，描绘着火焰之神。  (任务物品)
 
 Fire Fragment - A magical fragment instilled with the power of Fire.   (Quest Item)
-火之碎片 - 灌注了火的力量的魔法碎片。  (任务物品)
+火之碎片 - 蕴含火焰之力的魔法碎片。  (任务物品)
 
 Water Fragment - A magical fragment instilled with the power of Water.   (Quest Item)
-水之碎片 - 灌注了水的力量的魔法碎片。  (任务物品)
+水之碎片 - 蕴含水流之力的魔法碎片。  (任务物品)
 
 Earth Fragment - A magical fragment instilled with the power of Earth.   (Quest Item)
-土之碎片 - 灌注了土之力量的魔法碎片。  (任务物品)
+土之碎片 - 蕴含大地之力的魔法碎片。  (任务物品)
 
 Air Fragment - A magical fragment instilled with the power of Air.   (Quest Item)
-气之碎片 - 被灌输了空气的力量的魔法碎片。  (任务物品)
+空之碎片 - 蕴含天空之力的魔法碎片。  (任务物品)
 
 Empty Potion Bottle - An iron-capped recipient that can safely store any liquid inside.   (Quest Item)
-空药水瓶 - 一个铁盖的容器，可以安全地储存任何液体。  (任务物品)
+空药水瓶 - 一个铁盖容器，可安全储存任何液体。  (任务物品)
 
 Mana Potion - This potent magic water is broadly used by mages to restore their energy.   (Quest Item)
-魔力药水 - 这种强大的魔法水被法师广泛用于恢复他们的能量。  (任务物品)
+魔力药水 - 这种强力魔水被法师广泛用于恢复能量。  (任务物品)
 
 Shovel - A plain shovel with a blade made from pig iron.   (Quest Item)
-铲子 - 一把普通的铲子，刀片由生铁制成。  (任务物品)
+铲子 - 一把刀刃由猪铁制成的普通铲子。  (任务物品)
 
 Sledgehammer - A massive hammer usually used to break rocks and walls.   (Quest Item)
-巨锤 - 一个巨大的锤子，通常用来打破岩石和墙壁。  (任务物品)
+巨锤 - 通常用来砸碎岩石和墙壁的巨大锤子。  (任务物品)
 
 Fire Oil - This hot bottle is filled with a bright volatile oil.   (Quest Item)
-火油 - 这个热瓶里装的是明亮的挥发性油。  (任务物品)
+火油 - 这个热瓶装满了明亮易燃的油。  (任务物品)
 
 Ancient Dictionary - This tome translates words from an ancient human dialect into common demonic.   (Quest Item)
-古籍词典 - 这本小册子将远古人类方言中的词汇翻译成普通的恶魔语。  (任务物品)
+古籍词典 - 这本词典将古代人类方言翻译成通用恶魔语。  (任务物品)
 
 Spirit Gem - The round shaped gem feels chilling to the touch.   (Quest Item)
-灵石 - 这个圆形的宝石摸起来很冷。  (任务物品)
+灵石 - 这个圆形宝石触感冰冷。  (任务物品)
 
 Body Gem - The square shaped gem weighs a lot more than it appears.   (Quest Item)
-肉身宝石 - 这个方形的宝石比它看起来要重得多。  (任务物品)
+肉身宝石 - 这个方形宝石比看起来重得多。  (任务物品)
 
 Mind Gem - The triangular shaped gem emits a numbing heat.   (Quest Item)
-心灵宝石 - 三角形的宝石发出令人麻木的热量。  (任务物品)
+心灵宝石 - 这个三角形宝石散发着令人麻木的热量。  (任务物品)
 
 Soul Stone - The smooth surface of the oval stone pulsates with the power of a trapped soul.   (Quest Item)
-灵魂石 - 椭圆形宝石的光滑表面上跳动着被困灵魂的力量。  (任务物品)
+灵魂石 - 这个表面光滑的椭圆形石头散发着被囚禁灵魂的力量。  (任务物品)
 
 Password Scroll - The oily paper is scribbled with random words.   (Quest Item)
-密码卷轴 - 油腻的纸张上涂满了随机的文字。  (任务物品)
+密码卷轴 - 油腻的纸张上随意写满了随机词语。  (任务物品)
 
 Psi Crown - This weird device can presumably allow the wearer to pass through psionic fields unharmed.   (Quest Item)
-心灵王冠 - 这个奇怪的装置可以让佩戴者不受伤害地通过精神领域。  (任务物品)
+心灵王冠 - 这个奇特装置据说能让佩戴者无损地穿越精神力场。  (任务物品)
 
 Psishroom - The ethereal fungus emits strange vibrations.   (Quest Item)
-灵菇 - 虚无的真菌会发出奇怪的振动。  (任务物品)
+灵菇 - 这种缥缈的菌类会发出奇怪的震动。  (任务物品)
 
 Gold Coins - Although gold isn't of much value within the Iron Division, it is always welcome when trading with outsiders.   (Quest Item)
-金币 - 虽然黄金在铁器部内没有什么价值，但在与外人交易时，它总是受到欢迎。  (任务物品)
+金币 - 虽然黄金在铁军中价值不高，但与外界交易时始终受欢迎。  (任务物品)
 
 Giant Ruby - The flawlessly cut gem bears the heritage of the ancient minotaurs.   (Quest Item)
-巨型红宝石 - 无暇切割的宝石承载着古代牛头人的遗产。  (任务物品)
+巨型红宝石 - 完美切割的宝石承载着古代牛头人的血脉传承。  (任务物品)
 
 Dark Iron Ore - This ore is renown for yielding a metal imprevious to heat.   (Quest Item)
-暗铁矿石 - 这种矿石因产生不受热影响的金属而闻名。  (任务物品)
+暗铁矿石 - 这种矿石以能提炼出耐高温金属而闻名。  (任务物品)
 
 Intel Scroll - A paper containing confidential information about enemy positions and logistics. A tactician would most likely be interested in it.   (Quest Item)
-情报卷轴 - 一张包含关于敌人位置和后勤的机密信息的纸。战术师很可能会对它感兴趣。  (任务物品)
+情报卷轴 - 一张包含敌方位置与后勤机密信息的纸。战术家很可能对此感兴趣。  (任务物品)
 
 Mysterious Recipe - The moldy parchment holds unknown alchemical secrets. A potion maker could probably understand them better.   (Quest Item)
-神秘配方 - 发霉的羊皮纸上有未知的炼金术秘密。制药师可能会更了解它们。  (任务物品)
+神秘配方 - 褐色泛黄的羊皮纸上记载着未知的炼金术秘密。药剂师或许能更清楚地解读它们。  (任务物品)
 
 Dwarven Lockbox - This finely crafted box feels emburdened with goods. A skilled locksmith might be able to unlock it.   (Quest Item)
-矮人锁箱 - 这个做工精细的箱子感觉被货物压住了。一个熟练的锁匠也许能够解开它。  (任务物品)
+矮人锁箱 - 这个精工打造的箱子似乎装载了大量物资。技艺高超的锁匠或许能打开它。  (任务物品)
 
 Scroll Case - This ornate scroll case is sealed with fire magic runes. A knowledgeable mage could find it valuable.   (Quest Item)
-卷轴箱 - 这个华丽的卷轴箱被火系魔法符文所封印。一个知识渊博的法师可能会发现它的价值。  (任务物品)
+卷轴箱 - 这个华丽的卷轴箱以火系魔法符文封印。有知识的法师可能会发现它的价值。  (任务物品)
 
 Dwarven Mask - The fancy looking mask has a reinforced glass visor and a pair of odd tubes curving beneath.   (Quest Item)
-矮人面具 - 这个看起来很花哨的面具有一个强化的玻璃面罩，下面有一对弯曲的奇怪的管子。  (任务物品)
+矮人面具 - 这个精致的面具配有强化玻璃面罩，下方延伸出一对奇特的弯曲管子。  (任务物品)
 
 Empty Dwarven Tank - The tank seems to be in a fairly good shape, but whatever was inside it is long gone now.   (Quest Item)
-空的矮人储罐 - 储罐的形状似乎相当好，但里面的东西现在早已不在了。  (任务物品)
+空的矮人储罐 - 这个储罐似乎保存得相当完好，但内部原本的物质早已消失不见。  (任务物品)
 
 Dwarven Tank - The tank appears to be filled with something, although it weights less than expected.   (Quest Item)
-矮人储罐 - 储罐似乎装满了东西，不过它的重量比预期的要轻。  (任务物品)
+矮人储罐 - 这个储罐似乎装有某种物质，但重量却比预期的轻。  (任务物品)
 
 Dwarven Suit - A dwarf-sized costume covered in waterproof grease. The oil has likely preserved the material through the ages.   (Quest Item)
-矮人服装 - 一件矮人大小的服装，上面涂有防水油。油脂很可能使这种材料历久弥新。  (任务物品)
+矮人服装 - 一件适合矮人的防水油布制成的服装。这种油脂很可能使这种材料历久弥新。  (任务物品)
 
 Seed of Corruption - You have no clue what the strangely technologized jar is containing, but you're fairly sure it's staring at you.   (Quest Item)
-腐败之种 - 你不知道这个奇怪的技术化罐子里装的是什么，但你相当肯定它在盯着你。  (任务物品)
+腐化之种 - 你完全不清楚这个奇怪技术化的罐子里面装着什么，但你相当确定它正在盯着你。  (任务物品)
 
 Special Containment Jar - The jar was specifically designed to contain a Seed of Corruption.   (Quest Item)
-特殊容器罐 - 这个罐子是专门用来装腐败种子的。  (任务物品)
+特殊容器罐 - 这个罐子专门设计用于封存腐化之种。  (任务物品)
 
 Large Shell Warhead - The experimental warhead fuze looks ready to be inserted into a large caliber shell.   (Quest Item)
-大型弹头 - 实验性的弹头引信看起来已经准备好插入一个大口径的炮弹中。  (任务物品)
+大型弹头 - 这个实验性的弹头引信看起来准备插入大口径的炮弹中。  (任务物品)
 
 Large Shell Casing - An experimentally large caliber shell that can be filled with a sizable amount of explosive powder.   (Quest Item)
-大型弹壳 - 一个实验性的大口径弹壳，可以装入相当数量的爆炸性粉末。  (任务物品)
+大型弹壳 - 一个可以装入大量炸药粉末的实验性大口径的炮弹外壳。  (任务物品)
 
 Large Shell - The experimentally large shell is ready to be loaded into a cannon.   (Quest Item)
-大型炮弹 - 实验性的大炮弹已经准备好装入大炮。  (任务物品)
+大型炮弹 - 这个实验性大口径炮弹已准备好装入火炮中。  (任务物品)
 
 Squirming Sand Nut - The hard shell fruit won't stop trying to squirm out of your hands. Maybe smashing it with a rock would make it stop.   (Quest Item)
-蠕动的沙地坚果 - 这个硬壳果实不会停止试图从你手中蠕动。也许用石头砸它会让它停下来。  (任务物品)
+蠕动的沙地坚果 - 这种硬壳果实不断试图从你手中逃脱。也许用石头砸它就能让它停止。  (任务物品)
 
 Crimson Salt Rock - The tinted salt chunk is far too tough and dense to be edible.   (Quest Item)
-赤红盐岩 - 着色的盐块太过坚硬和密集，无法食用。  (任务物品)
+赤红盐岩 - 这块染色的盐块太过坚硬致密，根本无法食用。  (任务物品)
 
 Chaotic Device - The artifact may have once contained unholy powers, but now it looks like nothing more but a cold piece of metal.   (Quest Item)
-混沌装置 - 这个神器可能曾经包含了不神圣的力量，但现在它看起来只是一块冰冷的金属。  (任务物品)
+混沌装置 - 这件神器可能曾蕴含不洁之力，但如今看起来不过是一块冰冷的金属。  (任务物品)
 
 Charged Chaotic Device - The artifact is charged with chaotic energy and feels highly unstable.   (Quest Item)
-充能的混沌装置 - 该神器被混沌能量所充斥，感觉非常不稳定。  (任务物品)
+充能的混沌装置 - 这件神器被混沌能量充盈，感觉极不稳定。  (任务物品)
 
 Pendant of True Sight - The silver medallion holds a magical eye capable of dispelling certain visual illusions.   (Quest Item)
-真视吊坠 - 银质奖章上有一只能够驱除某些视觉幻觉的魔眼。  (任务物品)
+真视吊坠 - 这枚银色吊坠内嵌了一枚魔法之眼，可驱散某些视觉幻象。  (任务物品)
 
 Pendant of True Sight (Rebel) - The silver medallion holds a magical eye capable of dispelling visual illusions created by rebel cultists.   (Quest Item)
-真视吊坠(反叛者) - 银质奖章上有一只神奇的眼睛，能够驱除反叛者制造的视觉幻觉。  (任务物品)
+真视吊坠(反叛者) - 这枚银色吊坠内嵌了一枚魔法之眼，可驱散由反抗者邪教徒制造的视觉幻象。  (任务物品)
 
 Pendant of True Sight (Servant) - The illusion-dispelling eye is charged with the memories of the succubus matron's gardner.   (Quest Item)
-真视吊坠(侍从) - 驱散幻觉的眼睛被注入了魅魔女仆的记忆。  (任务物品)
+真视吊坠(侍从) - 这枚驱散幻象的眼眸充盈着魅惑女魔头加德纳的记忆。  (任务物品)
 
 Winch Wheel - The crude wheel can be used to operate certain devices.   (Quest Item)
-绞盘轮 - 粗糙的轮子可以用来操作某些设备。  (任务物品)
+绞盘轮 - 这个粗糙的轮子可用于操作某些装置。  (任务物品)
 
 Bag of Yeast - The bag is filled with a vital ingredient for baking and brewing.   (Quest Item)
-一袋酵母 - 袋子里装的是烘焙和酿酒的重要原料。  (任务物品)
+一袋酵母 - 袋中装满了烘焙与酿造的关键原料。  (任务物品)
 
 Orc Doll - The lovingly crafted rag doll resembles an Iron Division Lancer.   (Quest Item)
-兽人玩偶 - 这个精心制作的布娃娃类似于铁军长。  (任务物品)
+兽人玩偶 - 这个精心制作的布娃娃酷似铁军长枪兵。  (任务物品)
 
 Primarch Avatar - The golden plate resonates with the voice of a demon primarch.   (Quest Item)
-原教化身 - 金色的盘子上有恶魔首领的声音。  (任务物品)
+原教化身 - 这块黄金板发出与恶魔原教之声共鸣的震动。  (任务物品)
 
 Soul Key Fragment - Tormented souls writhe inside this timeless prison.   (Quest Item)
-灵魂钥匙碎片 - 饱受折磨的灵魂在这个永恒的监狱中挣扎。  (任务物品)
+灵魂钥匙碎片 - 苦痛的灵魂在永恒监狱中不断挣扎。  (任务物品)
 
 Ritual Dagger - This golden dagger looks more fit for rituals rather than combat.   (Quest Item)
-仪式匕首 - 这把金色匕首看起来更适合仪式而不是战斗。  (任务物品)
+仪式匕首 - 这把黄金匕首看起来更适合用于仪式而非战斗。  (任务物品)
 
 Piece of Perfumed Cloth - The fabric is imbued with the succubus matron's scent.   (Quest Item)
-一块香味布 - 这块布被注入了魅魔女仆的气味。  (任务物品)
+一块香味布 - 这块布料浸染着魅惑女魔头的气息。  (任务物品)
 
 Lock of Hair - A strand of hair belonging to the Queen of Wrath.   (Quest Item)
-一绺头发 - 属于愤怒女王的一绺头发。  (任务物品)
+一绺头发 - 一绺属于愤怒女王的发丝。  (任务物品)
 
 Cursed Chalice - The demonic chalice feels a lot heavier than it looks.   (Quest Item)
-受诅咒的圣杯 - 恶魔圣杯感觉比它看起来要重得多。  (任务物品)
+受诅咒的圣杯 - 这个恶魔圣杯感觉比它看起来要重得多。  (任务物品)
 
 Cursed Chalice - The cursed chalice seems to slowly replenish the liquid it contains. The blood inside bubbles restlessly.   (Quest Item)
-受诅咒的圣杯 - 受诅咒的圣杯似乎在缓慢地补充着它所包含的液体。里面的血液不停地冒着气泡。  (任务物品)
+受诅咒的圣杯 - 诅咒酒杯似乎会缓慢补充其中的液体。杯中的血液不停地冒着气泡。  (任务物品)
 
 Cursed Chalice - The cursed chalice seems to slowly replenish the liquid it contains. The oil inside is burning hot.   (Quest Item)
-受诅咒的圣杯 - 受诅咒的圣杯似乎在缓慢地补充它里面的液体。里面的油正在燃烧。  (任务物品)
+受诅咒的圣杯 - 诅咒酒杯似乎会缓慢补充其中的液体。杯中的油液有燃烧般的炽热。  (任务物品)
 
 Scroll of Enchant Trinket - This spell can transfer the innate magical properties of an object to a valuable trinket.   (Quest Item)
-附魔饰品卷轴 - 这个咒语可以将一个物体的固有魔法属性转移到一个有价值的饰品上。  (任务物品)
+附魔饰品卷轴 - 这个法术可以将物体固有的魔法属性转移到有价值的饰品上。  (任务物品)
 
 Sacrificial Sword - The gaudy ruby blade seems more fit for taking life through ritual rather than combat.   (Quest Item)
-献祭之剑 - 华丽的红宝石剑似乎更适合通过仪式而不是战斗来夺取生命。  (任务物品)
+献祭之剑 - 华丽的红宝石剑刃似乎更适合通过仪式取人性命，而非战斗。  (任务物品)
 
 Mithril Chisel - The perfectly balanced chisel could render even the hardest rock into a piece of art.   (Quest Item)
-秘银凿子 - 完美平衡的凿子甚至可以将最坚硬的岩石变成一件艺术品。  (任务物品)
+秘银凿子 - 这把平衡完美的凿子甚至能将最坚硬的岩石雕琢成艺术品。  (任务物品)
 
 Cursed Chalice - The cursed chalice seems to slowly replenish the liquid it contains. The mana inside glows brightly.   (Quest Item)
-受诅咒的圣杯 - 受诅咒的圣杯似乎在缓慢地补充它所含的液体。里面的法力会发出亮光。  (任务物品)
+受诅咒的圣杯 - 诅咒酒杯似乎会缓慢补充其中的液体。其中蕴含的魔力发出明亮的光。  (任务物品)
 
 Arcane Salts - Rare catalysts sought after by many alchemists, the arcane salts come in three colors: pink, green and cyan.   (Quest Item)
-秘盐 - 许多炼金术士追求的稀有催化剂，奥术盐有三种颜色：粉色、绿色和青色。  (任务物品)
+秘盐 - 这些稀有催化剂深受炼金术士追捧，秘盐呈现三种颜色：粉色、绿色和青色。  (任务物品)
 
 Hog Liver - The large hog liver could make for a hearty meal.   (Quest Item)
-猪肝 - 大猪肝可以作为一顿丰盛的晚餐。  (任务物品)
+猪肝 - 这块巨大的猪肝或许能做成一顿丰盛的餐食。  (任务物品)
 
 Deadly Poison - This poison is potent enough to kill someone within seconds, should they be tricked into ingesting it.   (Quest Item)
-致命毒药 - 这种毒药的效力足以让人在几秒钟内死亡，如果他们被骗吃下的话。  (任务物品)
+致命毒药 - 若有人被骗服下此毒，它足以在数秒内置人于死地。  (任务物品)
 
 Sleeping Potion - The swirly fluid could put even the most watchful guardian to sleep.   (Quest Item)
-安眠药水 - 漩涡状的液体甚至可以让最警觉的守护者入睡。  (任务物品)
+安眠药水 - 这种漩涡状液体甚至能让最警觉的守卫陷入沉睡。  (任务物品)
 
 Elixir of Life - The mere existence of this extremely potent substance is a myth. Rumors mention of a clan of orcs who discovered the Fountain of Life, centuries ago...   (Quest Item)
-生命药剂 - 这种极其有力的物质的存在只是一个神话。有传言说，几个世纪前，一个兽人部落发现了生命之泉...   (任务物品)
+生命药剂 - 这种极其强大的物质的存在本身就是一个传说。传闻中曾有兽人部落在数个世纪前发现了生命之泉...   (任务物品)
 
 Elixir of Death - The pitch dark substance is rumored to not only kill the body, but the soul itself.   (Quest Item)
-死神药剂 - 据传这种漆黑的物质不仅能杀死身体，还能杀死灵魂。  (任务物品)
+死神药剂 - 这种漆黑如墨的物质据说不仅能夺去躯体，更能吞噬灵魂。  (任务物品)
 
 Anointed Phylactery - This sort of container is rumored to store the soul of someone who traded death for eternal lichdom.   (Quest Item)
-圣约封印 - 据传这种容器可以储存一个用死亡换取永恒国度的人的灵魂。  (任务物品)
+圣约封印 - 据传这种容器能储存那些以死亡换取永生巫妖的灵魂。  (任务物品)
 
 Angel Feather - This feather is far too large to have belonged to a bird. It is uncertain whether it has magical properties or not.   (Quest Item)
-天使羽毛 - 这根羽毛太大了，不可能属于一只鸟。目前还不能确定它是否具有神奇的特性。  (任务物品)
+天使羽毛 - 这根羽毛远比普通鸟类的羽毛大得多。尚不确定它是否具有魔法属性。  (任务物品)
 
 Crimson Salt Statue - A masterfully crafted statue, portraying the champion of Valc as she strikes a fierce pose. Its staggering weight reminds of how dense and solid crimson salt is.   (Quest Item)
-赤红盐雕像 - 一个精心制作的雕像，描绘了瓦尔克的冠军，她摆出了一个凶猛的姿势。它惊人的重量让人联想到深红色的盐是多么的密集和坚实。  (任务物品)
+赤红盐雕像 - 一座精雕细琢的雕像，描绘了瓦尔克冠军挥舞武器时的英姿。其惊人的重量让人直观感受到赤红盐的致密与坚实。  (任务物品)
 
 Pit Lord Head - The severed head of an arrogant pit lord who put his trust in the wrong person.   (Quest Item)
-深渊领主头颅 - 一个傲慢的坑道领主的断头，他把自己的信任放在了错误的人身上。  (任务物品)
+深渊领主头颅 - 这是位傲慢的深渊领主被错误信任之人背叛后斩下的头颅。  (任务物品)
 
 Depleted Armor Amulet - The amulet is completely lifeless, its wearer having been brutally assaulted and overwhelmed.   (Quest Item)
-耗尽魔力的盔甲护符 - 护符完全没有生命力，它的佩戴者被残酷的攻击和压倒。  (任务物品)
+耗尽魔力的盔甲护符 - 这枚符文已完全失去生机，佩戴者曾遭受残酷攻击并被彻底击败。  (任务物品)
 
 Mortar of Earth Pigment - This crystal-infused pigment is used by scribes to create earth magic spell scrolls.   (Quest Item)
-大地颜料研钵 - 这种被水晶注入的颜料被文士们用来制作大地魔法卷轴。  (任务物品)
+大地颜料研钵 - 这种注入水晶的大地颜料由抄写者用于制作大地魔法卷轴。  (任务物品)
 
 Bowl of Scribe Embers - The mix of enchanted embers is used by scribes to create fire magic spell scrolls.   (Quest Item)
-一碗抄写者余烬 - 抄写者用混合的附魔之烬来制作火系魔法卷轴。  (任务物品)
+一碗抄写者余烬 - 魔法余烬的混合物由抄写者用于制作火系魔法卷轴。  (任务物品)
 
 Iron-Bound Tome - This chained tome contains schematics for many outlawed weapons and artifacts. A blacksmith would find it invaluable.   (Quest Item)
-铁封典籍 - 这本被锁住的书包含了许多非法武器和神器的图样。铁匠会发现它是非常宝贵的。  (任务物品)
+铁封典籍 - 这本锁链束缚的典籍内记载着众多被禁武器与圣物的图纸。铁匠会视其为无价之宝。  (任务物品)
 
 Vial of Healing - This vial restores 10 hit points upon drinking.
-治疗药剂 - 这个小瓶在喝下后可以恢复10点生命值。
+治疗药剂 - 饮用后可恢复10点生命值。
 
 Fixer's Goggles - While activated, these goggles will help you see through darkness with ease. Lasts until out of charge.
-修复者的护目镜 - 当激活时,这些护目镜将帮助你轻松地看清黑暗。持续到能量耗尽。
+修复者的护目镜 - 当激活时，这些护目镜将帮助你轻松地看清黑暗。持续到能量耗尽。
 
 Potion of Stoneskin - Drinking this potion will turn your skin into stone scales, greatly increasing your physical, blast and nature damage resistance. Lasts 45 seconds.
-石肤药水 - 喝下此药水后，你的皮肤会变成石质鳞片，大大增加你的物理、爆炸和自然伤害抵抗力。可持续45秒。
+石肤药水 - 饮用此药水会使皮肤化为石鳞，大幅提升物理、爆炸和自然伤害抗性。持续45秒。
 
 Time Shard - Upon shattering this crystal, the user breaks the flow of time surrounding them, freezing most of the projectiles and creatures in their vicinity. Lasts about 10 seconds.
-时间碎片 - 打碎这个水晶后，使用者会打破他们周围的时间流，冻结他们附近的大部分投射物和生物。持续时间约10秒。
+时间碎片 - 碎裂此水晶时，使用者会打破周围的时间流动，冻结附近大部分投射物与生物。持续约10秒。
 
 Scroll of Wizard's Eye - This spell will magically chart the surroundings, revealing them on the caster's map, also tracking the position of monsters and items.
-巫师之眼卷轴 - 这个咒语将以魔法的方式绘制周围的环境，在施法者的地图上显示出来，同时也追踪怪物和物品的位置。
+巫师之眼卷轴 - 此法术将用魔法绘制周围环境，于施法者地图上呈现，并追踪怪物和物品的位置。
 
 Elemental Ring - This enchanted ring will greatly protect the wearer against elemental and magic damage, and give them underwater breath. Lasts 90 seconds.
-元素戒指 - 这个附魔戒指将极大地保护佩戴者免受元素和魔法伤害，并使他们拥有水下呼吸。可持续90秒。
+元素戒指 - 这枚附魔戒指可大幅防护佩戴者免受元素与魔法伤害，并赋予其水下呼吸能力。持续90秒。
 
 Potion of Might - Drinking this will grant you ungodly strength but sap your dexterity. You gain HP regeneration and increased melee and throwing damage but your other ranged attacks will be weaker. Lasts 60 seconds.
-力量药水 - 喝下它将赋予你逆天的力量，但会削弱你的灵活性。你会获得HP再生和增加近战和投掷伤害，但你的其他远程攻击会变弱。持续时间为60秒。
+力量药水 - 饮用此药水将赋予你超凡的力量但削弱敏捷。你获得生命值再生并提升近战与投掷伤害，但其它远程攻击会变弱。持续60秒。
 
 Potion of Haste - Drinking this potion will instil you with a burst of magic that increases attack speed. Lasts 30 seconds.
-迅捷药水 - 喝下此药水将给你灌输一阵魔法，增加攻击速度。持续30秒。
+迅捷药水 - 饮用此药水将激发魔法爆发，提升攻击速度。持续30秒。
 
 Sentry Gun - One of the most advanced weaponry of the Iron Division, the Sentry Gun can be deployed to provide cover and security within a certain area.
-守卫枪 - 哨兵枪是铁军最先进的武器之一，可以在一定范围内提供掩护和安全。
+守卫枪 - 铁军最先进的武器之一，可部署于特定区域提供掩护与安全。
 
 Amulet of Shadows - Wearing this dark crystal will turn you into a blurry shadow, making you faster and harder to aim at. Lasts 75 seconds.
-暗影护符 - 佩戴这个黑暗水晶会使你变成一个模糊的阴影，使你的速度更快，更难瞄准。持续时间为75秒。
+暗影护符 - 佩戴此黑暗水晶会使你化为模糊的阴影，使你移动更快且更难被瞄准。持续75秒。
 
 Choker of the Beast - Wearing this collar will shroud you in a fearsome vampiric aura, forcing most enemies to flee and giving your attacks the ability to drain life. Lasts 30 seconds.
-野兽颈圈 - 戴上这个项圈将使你笼罩在可怕的吸血鬼光环中，迫使大多数敌人逃离，并使你的攻击具有消耗生命的能力。持续时间为30秒。
+野兽颈圈 - 佩戴此项圈将笼罩你于可怕的吸血鬼光环中，迫使大多数敌人逃离，并赋予你的攻击抽取生命的能力。持续30秒。
 
 Bracer of the Revenant - Equipping this artifact will enchant your Axe to strike with the frigid power of Ice. Lasts 120 seconds.
-亡灵护腕 - 装备这个神器将使你的斧子具有冰冷的力量。持续时间120秒。
+亡灵护腕 - 装备此神器将使你的斧头附带冰霜之力。持续120秒。
 
 Mystery Potion - A strange looking layered potion. You have no clue what effect it would have upon drinking.
-神秘药水 - 一种看起来很奇怪的分层药水。你不知道喝下它后会有什么效果。
+神秘药水 - 一种外观奇特的分层药剂。你完全不清楚饮用后会产生什么效果。
 
 Scroll of Inferno - This highly unstable spell will cause enemies within the reach of the caster to burst into explosive carnage.
-地狱火卷轴 - 这个高度不稳定的法术将使施法者范围内的敌人爆裂成爆炸性的大灾难。
+地狱火卷轴 - 这个高度不稳定的法术会使施法者范围内的敌人爆裂成爆炸性屠杀。
 
 Diving Suit - This air-tight suit allows the wearer to stay underwater for extended periods of time, while also protecting them against certain hazards. Lasts until out of charge.
-潜水服 - 这套气密服可以让穿戴者在水下停留很长时间，同时也可以保护他们免受某些危险的影响。可以持续到充能完毕。
+潜水服 - 此种气密装备允许佩戴者长时间水下活动，同时抵御部分危险。持续到能量耗尽。
 
 Charged Psi Crown - The artifact is charged and ready to protect the wearer against a good portion of mind damage. Lasts until out of charge.
-充能的心灵王冠 - 该神器已充能并准备好保护佩戴者免受相当一部分精神伤害。持续时间到用完为止。
+充能的心灵王冠 - 该神器处于充能状态，可有效防御大部分精神伤害。持续到能量耗尽。
 
 Boots of Journey - When equipped, this pair of old, inconspicuous boots will lighten the wearer's legs and increase movement speed. Lasts until unequipped
-旅行之靴 - 当装备上这双旧的、不显眼的靴子时，将减轻穿戴者的腿部负担并提高移动速度。持续到没有装备为止。
+旅行之靴 - 装备后，这双老旧不起眼的靴子将减轻佩戴者的腿部负担并提升移动速度。持续到卸下。
 
 Ring of the Red Monk - When equipped, this ring will greatly increase unarmed damage, as well as bestow the user's fists with the legendary power of the Red Monks. Lasts until unequipped.
-红僧之戒 - 装备后，这枚戒指将大大增加徒手伤害，并赋予使用者的拳头以红僧的传奇力量。持续到未装备为止。
+红僧之戒 - 装备后，此戒指将大幅提升徒手伤害，并赋予使用者拳头以红僧传说的力量。持续到卸下。
 
 Scroll of Magma Ball - This spell will hurl a ball of magma that explodes on impact.
-熔岩球卷轴 - 这个法术会投掷出一个熔岩球，在撞击时爆炸。
+熔岩球卷轴 - 此法术会投掷一颗熔岩球，在撞击时引发爆炸。
 
 Nourish - This spell will fill the caster's body with nurturing energies, slowly regenerating their wounds. Lasts 60 seconds.
-滋养 - 这个咒语将使施法者的身体充满滋养的能量，慢慢地使他们的伤口再生。持续60秒。
+滋养术 - 此法术将向施法者体内注入滋养能量，缓慢修复其伤口。持续60秒。
 
 Journal - This handful of greasy, coarse papers bound by shaky iron hoops is more than enough to track your tasks on the battlefield.
-日志 - 这本由摇晃的铁箍捆绑的油腻粗糙的纸张，足以追踪你在战场上的任务。
+日志 - 这本由摇晃铁环固定、油渍斑驳粗糙纸张组成的笔记簿，足以记录战场上的任务。
 
 Enchanted Purple Ink Recipe - Reading this scroll could offer some insight on how to brew enchanted purple ink.
-附魔紫墨水配方 - 阅读这个卷轴可以获得一些关于如何酿造附魔紫墨水的见解。
+附魔紫墨水配方 - 阅读此卷轴或许能提供如何酿造附魔紫墨水的线索。
 
 Great Forge Instructions - Reading this scroll could offer some insight on how to operate the Great Forge's equipment.
-大锻炉说明 - 阅读此卷可以了解如何操作大锻炉的设备。
+大锻炉说明 - 阅读此卷轴或许能提供如何操作大锻炉设备的线索。
 
 Damp Note - Reading this note could offer some insight on what it is supposed to represent.
-湿纸条 - 阅读这张纸条可以提供一些关于它应该代表什么的见解。
+湿纸条 - 阅读此纸条可能揭示它所代表的内容。
 
 Mansion Sketch - Reading this sketch could offer some important information about the mansion grounds.
-庄园草图 - 阅读这幅草图可以提供一些关于庄园场地的重要信息。
+庄园草图 - 阅读此草图可获取关于庄园场地的重要信息。
 
 Ancient City Map - The ancient map inside the breached case seems to have been dmaged by the elements and passage of time.
-古城地图 - 破裂箱子里的古代地图似乎已经被元素和时间的流逝所破坏。
+古城地图 - 被破坏的箱子里的古代地图似乎因自然元素和时间流逝而受损。

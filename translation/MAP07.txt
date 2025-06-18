@@ -14,10 +14,10 @@ This dirt looks like it could be tunneled through with the proper tool.
 这泥土看起来像是能用合适工具挖穿的。
 
 This switch requires an Earth Key to activate the power source.
-这个开关需要大地钥匙才能激活电源。
+这个开关需要大地钥匙才能激活能源。
 
 This switch requires a Crystal Key to activate the power source.
-这个开关需要水晶钥匙才能激活电源。
+这个开关需要水晶钥匙才能激活能源。
 
 Bear Warrior:    Hey look! The Ward is destroying the cultist pentagrams!
 熊战士：嘿快看！屏障正在摧毁邪教徒的五芒星！
@@ -56,7 +56,7 @@ A magical seal prevents the switch from being activated.
 一个魔法封印阻止了开关的激活。
 
 The switch seems to not be powered right now.
-这个开关目前似乎没有通电。
+这个开关目前似乎没有能量。
 
 This door requires an Earth key to open.
 这扇门需要用大地钥匙才能打开。
@@ -125,7 +125,7 @@ Rot. 509, Day 237
 第509轮，第237天
 
 First they finished that elevator linking the Dwarven Fortress with Valc, and now the campaign
-他们先是完成了连接矮人要塞与瓦尔克的电梯，现在战役正式开始
+他们先是完成了连接矮人要塞与瓦尔克的升降梯，现在战役正式开始
 
 began. I'm starting to think we won't have any of the bearded fellas coming through here for a
 了。我开始觉得有一段时间不会见到那些留着胡子的家伙了。我想
@@ -167,7 +167,7 @@ of these crystals is measured by the intensity of the glow  -  a bright core is 
 量通过其发光强度来衡量——明亮的核心通常适合为大型设施
 
 for powering large installations, but is also more unstable.   For this reason, our energy guns
-供电，但也更加不稳定。因此，我们如守卫炮塔或水晶长矛这
+供能，但也更加不稳定。因此，我们如守卫炮塔或水晶长矛这
 
 such as Sentry Turrets or Crylances employ depleted shards that have a much duller glow.
 类能量武器会使用耗尽的碎片，它们的发光更为暗淡。

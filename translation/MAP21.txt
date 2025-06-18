@@ -131,13 +131,13 @@ Abhaoth:    I will do everything I can to protect you from their mind tricks. Ke
 阿波豪斯：我会尽全力保护你免受他们的精神操控。将我留在你的意识中。
 
 Abhaoth:    Go, Zan... take the elevator to the top of the spire. That's where the summoning takes place.
-阿波豪斯：去吧，瓒……乘坐电梯到尖塔顶端。那里的召唤仪式正在进行。
+阿波豪斯：去吧，瓒……乘坐升降梯到尖塔顶端。那里的召唤仪式正在进行。
 
 Abhaoth:    Well... who did you expect?
 阿波豪斯：嗯……你期望谁出现？
 
 Abhaoth:    I... they drained me of all power. Go without me! Take the elevator to the top of the spire...
-阿波豪斯：我……他们抽干了我所有的力量。独自前行吧！去电梯到尖塔顶端……
+阿波豪斯：我……他们抽干了我所有的力量。独自前行吧！去升降梯到尖塔顶端……
 
 The soul screen blocks your passage.
 灵魂屏幕阻挡了你的去路。
@@ -170,7 +170,7 @@ Blue Baron:    Travelling without full power poses a great risk. Stay the course
 幽蓝男爵：没有全功率旅行风险极大。坚持原路……我不会让她干扰你。
 
 The elevator isn't powered up.
-电梯尚未启动电源。
+升降梯尚未开启能源。
 
 Blue Baron
 幽蓝男爵
@@ -947,7 +947,7 @@ This switch requires a Bloody Axe key to operate.
 这个开关需要使用血斧钥匙才能操作。
 
 (A journal appears to have been brutally tossed around by an outburst of corrupt tendrils)
-（一本日记似乎被腐败触手的爆发撕扯得支离破碎）
+（一本日记似乎被腐化触手的爆发撕扯得支离破碎）
 
 This is the end of an era. An era of hiding in the dark and seeking a way to summon my dormant
 这是一个时代的终结。一个在黑暗中隐藏、寻找一条让我的沉睡祖先

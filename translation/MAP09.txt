@@ -47,7 +47,7 @@ The switch does nothing, but you don't have much need for a portal anymore.
 开关毫无作用，但你已不再需要传送门了。
 
 ELEVATOR TO ICEPEAK
-通往冰峰的电梯
+通往冰峰的升降梯
 
 (An elegantly ornated ledger lies open on the desk.)
 （一本精致装饰的账本摊开在办公桌上）

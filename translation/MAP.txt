@@ -241,7 +241,7 @@ fortress.
 
 
 With a piercing metallic shrill, the lift plummeted
-伴随着刺耳的金属尖啸，电梯坠入深渊。
+伴随着刺耳的金属尖啸，升降梯坠入深渊。
 into the abyss. It took no longer than seconds for
 铁块坠落的轰鸣声在瓦尔克空旷的洞穴中回荡不过数秒，
 a deafening thud to echo into Valc's deserted caves
