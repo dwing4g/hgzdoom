@@ -29,10 +29,10 @@ Reaver:    Get ready, I feel like we're in for a big fight.
 掠夺者：准备好了，我感觉我们要经历一场大战。
 
 ???:    *Sigh* You just HAD to try this, didn't you?
-???: *Sigh* 你非要试试看，对吧？
+？？？：*叹气* 你非要试试看，对吧？
 
 Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6)
-提示：按药水发射器键可切换弹药类型（默认：6）
+提示：按药水发射器键可切换弹药类型（默认：6键）
 
 The glass is heavily cracked, and looks like it could break any moment.
 玻璃严重裂开，看起来随时可能碎裂。
@@ -185,7 +185,7 @@ Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters n
 （一系列魔法符文刻在石板上。下方部分尚未完成）
 
 The Forbidden Caves - Chapter 2: The Crystal Heart
-禁地洞穴——第二章：水晶之心
+禁地洞穴 - 第二章：水晶之心
 
 [...]  There is a proper reason why only the strongest of the Iron Division are allowed access into the
 [...] 只有铁军中最强大的成员才能进入这里，是有充分理由的。
@@ -221,7 +221,7 @@ uncover new limits and shape the future.  But good today may well be evil tomorr
 然而今日的善行，或许正是明日的恶果。真理才是最终审判者。
 
 History of the Iron Division - Chapter 4: The Castes
-铁军史——第四章：阶层划分
+铁军史 - 第四章：阶层划分
 
 [...]   and upon settling within the caves of Hedon, the greenskins were divided into six castes, each
 [...] 他们在赫顿的洞穴中安顿下来后，绿皮兽人被划分为六个种姓，

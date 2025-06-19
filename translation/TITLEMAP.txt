@@ -26,28 +26,28 @@ Tip #6: Potions of Might greatly reduce your ranged damage (except for melee wea
 提示#6：激活力量药水时会大幅降低你的远程伤害（投掷近战武器除外）。
 
 Tip #7: Weaker enemies will attempt to flee when badly injured.
-提示#7：较弱敌人在受重伤时会尝试逃跑。
+提示#7：较弱的敌人在受重伤时会尝试逃跑。
 
 Tip #8: All demons (regardless of type or color) are resistant to fire and vulnerable to ice.
-提示#8：所有恶魔（无论类型或颜色）均对火有抗性，但对冰很脆弱。
+提示#8：所有恶魔（无论类型或颜色）均对火具有抗性，但对冰很脆弱。
 
 Tip #9: Some enemies may be immune to the Time Shard's freezing effect but their projectiles aren't.
 提示#9：部分敌人可能免疫时间碎片的冻结效果，但其投射物不会免疫。
 
 Tip #10: Enemies have different fields of view. A Cerberus can see well beyond 180 degrees, while a Crawler is more narrow sighted.
-提示#10：敌人的视野范围不同。地狱三头犬能看清超过180度的区域，而爬行者视野较狭窄。
+提示#10：敌人的视野范围各不相同。地狱三头犬能看清超过180度的区域，而爬行者的视野较为狭窄。
 
 Tip #11: The game's Wiki page contains information you won't find in-game.
 提示#11：游戏的维基页面包含你在游戏中无法获取的信息。
 
 Tip #12: You can always review messages in the console (DEFAULT: Tilde).
-提示#12：你能随时在控制台中查看历史消息（默认：波浪号）。
+提示#12：你能随时在控制台中查看历史消息（默认：波浪号键）。
 
 Tip #13: Press F1 for a quick reference screen of the default inventory item key bindings.
 提示#13：按F1可查看物品默认键位绑定的快速参考界面。
 
 Tip #14: While in the map screen, you can mark your current position (DEFAULT : M).
-提示#14：在地图界面中，你能标记当前位置（默认：M）。
+提示#14：在地图界面中，你能标记当前位置（默认：M键）。
 
 Tip #15: The Potion Launcher's pink toxic gas is highly flammable.
 提示#15：药水发射器的粉色毒气极易燃烧。
@@ -65,7 +65,7 @@ Tip #19: Potions of Stoneskin significantly reduce the explosion radius damage y
 提示#19：石肤药水可大幅降低爆炸半径造成的伤害。
 
 Tip #20: Red crystal clusters and fel fungi explode violently when hit.
-提示#20：红水晶簇与腐菌被击中时会剧烈爆炸。
+提示#20：红水晶簇与腐菌被击中时会爆炸。
 
 Tip #21: Bags of Holding only increase your ammo capacity once.
 提示#21：储物袋仅能提升弹药容量一次。
@@ -74,16 +74,16 @@ Tip #22: Sentry Turrets take damage underwater. Swimming while holding one in yo
 提示#22：守卫炮塔在水中也会受到伤害。手持炮塔游泳可能十分危险。
 
 Tip #23: Saving the game is the strongest spell in the book.
-提示#23：存档是书中最强的法术。
+提示#23：保存游戏是书中最强的法术。
 
 Tip #24: Memorizing a few consumable hotkeys can be handy in a pinch.
 提示#24：记住几个消耗品的快捷键在紧急时刻会派上用场。
 
 Tip #25: Use chasecam to better manage your platform jumps. (Default: numpad1)
-提示#25：使用追逐镜头可更方便地管理平台跳跃。（默认：数字小键盘1）
+提示#25：使用追逐镜头可以更方便地管理平台跳跃。（默认：数字小键盘1键）
 
 Tip #26: Use F6/F9 to quick save/load. If you die, you can also press Use (DEFAULT : E) to load the last save.
-提示#26：按F6/F9可快速保存/加载。你若死亡，也可按下使用键（默认：E）加载最后一次存档。
+提示#26：按F6/F9可快速保存/加载。你若死亡，也可按下使用键（默认：E键）加载最后一次存档。
 
 Tip #27: You can toggle random sound pitching from Sound Options - Randomize Pitches.
 提示#27：可在声音选项 - 随机音调中切换随机的音调效果。
@@ -92,7 +92,7 @@ Tip #28: You can change the notification/item query message time with the consol
 提示#28：可通过控制台命令 - con_notifytime 7.0 （例子表示持续7秒）修改通知/物品查询信息的显示时间。
 
 Tip #29: Warlocks and Psi Demons are resistant to elemental and magic damage.
-提示#29：男巫与心灵恶魔对元素及魔法伤害有抗性。
+提示#29：男巫与心灵恶魔对元素及魔法伤害具有抗性。
 
 Tip #30: Shooting a Crylance underwater without proper protection will have shocking results.
 提示#30：未做好防护直接在水中射击水晶长矛会产生令人震惊的结果。
@@ -110,7 +110,7 @@ Tip #34: Using the Shield to block and reflect incoming projectiles is less effe
 提示#34：移动时使用盾牌格挡并反弹来袭投射物的效果会减弱。
 
 Tip #35: The Hellclaw's melee attack (DEFAULT : R) will restore ammo when damaging living enemies.
-提示#35：地狱爪的近战攻击（默认：R）在对活体敌人造成伤害时可恢复弹药。
+提示#35：地狱爪的近战攻击（默认：R键）在对活体敌人造成伤害时会恢复弹药。
 
 Tip #36: Potions of Haste improve the firing rate of each weapon differently.
 提示#36：迅捷药水会以不同方式提升每种武器的射击频率。
@@ -125,10 +125,10 @@ Tip #39: Hitting enemies with the Storm Staff charges it with mana. The bigger t
 提示#39：用风暴法杖击中敌人会为其充能魔力，敌人越大产生的魔力越多。
 
 Tip #40: You can keep the Paingun's barrels spinning and ready to fire by holding down reload (DEFAULT : R).
-提示#40：按住装填键（默认：R）可使痛击枪的枪管持续旋转并保持待发状态。
+提示#40：按住装填键（默认：R键）可使痛击枪的枪管持续旋转并保持待发状态。
 
 Tip #41: To kill a boss, shoot at it until it dies.
-提示#41：要杀死Boss，只需持续攻击直至其死亡即可。
+提示#41：要杀死boss，只需持续攻击直至其死亡即可。
 
 Tip #42: She is watching you.
 提示#42：她正在注视着你。
@@ -137,7 +137,7 @@ Tip #43: The tower shields carried by Iron Maidens offer them great protection, 
 提示#43：铁娘子携带的塔盾能提供强大保护，但可通过多种方式绕过。
 
 Tip #44: The lightning bolts cast by Genii do massive splash damage in deep water.
-提示#44：吉尼释放的闪电链在深水中会造成巨大的溅射伤害。
+提示#44：吉尼释放的闪电球在深水中会造成巨大的溅射伤害。
 
 Tip #45: Potions of Stoneskin protect against physical and nature damage, Elemental Rings protect against all non physical damage.
 提示#45：石肤药水可抵御物理和自然伤害，元素戒指则能防御所有非物理伤害。

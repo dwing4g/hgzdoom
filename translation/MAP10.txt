@@ -410,13 +410,13 @@ Lancer:    Crystal Heart. Essence of our World, we come to defend you.
 长枪兵：    水晶之心。世界之源，我们来守护你。
 
 Bear Warrior:    Zan, over here!
-熊战士：    瓚，这边！
+熊战士：    瓒，这边！
 
 Reaver:    Hey Zan, over here!
 掠夺者：    嘿，瓒，这边！
 
 Bear Warrior:    Zan, over here!
-熊战士：    瓚，这边！
+熊战士：    瓒，这边！
 
 Reaver:    Hey Zan, over here!
 掠夺者：    嘿，瓒，这边！
@@ -494,7 +494,7 @@ Captain Dura:    Good to have you on board, sergeant. Must have been a hell to m
 队长杜拉：    很高兴你加入我们，中士。想必一路过来很艰难吧。
 
 Lancer Dendra:    Over here, Zan.
-长枪兵丹德拉：    瓚，这边来。
+长枪兵丹德拉：    瓒，这边来。
 
 Lancer Dendra:   At last, you have arrived. I am Lancer Dendra and I've assumed command of the remnants here...
 长枪兵丹德拉：   终于到了，瓒。我是长枪兵丹德拉，已接管此处残余部队……

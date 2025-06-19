@@ -1,5 +1,5 @@
 Loading...
-加载中...
+加载中……
 
 The demonic well burns with hellfire oil.
 恶魔井正燃烧着地狱火油。
@@ -590,7 +590,7 @@ What sort of cursed place is this? How could a noble man like me end up here?...
 （其余文字逐渐模糊成一片混乱的污渍）
 
 Call of Chaos - First Chant
-混沌召唤——第一声吟唱
+混沌召唤 - 第一唱
 
 T'wards the gates of initiation
 朝向启蒙之门前进
@@ -629,7 +629,7 @@ Join us in our chant
 加入我们的吟唱
 
 Path to Chaos - Chapter III
-混沌之路——第三章
+混沌之路 - 第三章
 
 Knowing the right teachings gives us the key to open the path.     Devotion gives us the strength to start walking it.
 掌握正确的教义，我们将获得开启道路的钥匙。虔诚赋予我们踏上这条路的力量。
@@ -644,7 +644,7 @@ would we prepare to descend into the blissful womb of afterlife, if we aren't ye
 否则，若非渴望其永无止境的温暖，我们又如何准备沉入来世的 blissful 娩？
 
 For the Worthless - 2nd Verse
-只为徒劳——第二段
+只为徒劳 - 第二段
 
 For the ones who worshipped Demons before learning the Call of Chaos
 那些在学习混沌召唤前崇拜恶魔的人
@@ -659,7 +659,7 @@ You have no worth, and still we remember you.
 你们毫无价值，而我们仍记得你们。
 
 Embrace of the Afterlife - Final Word
-来世之拥——结语
+来世之拥 - 结语
 
 [...]  but ultimately, we are not immortal. Unlike the Demon, who lives within the embrace of chaos, we have to
 [...] 但最终，我们并非不朽。与生活在混沌怀抱中的恶魔不同，我们必须为它死
@@ -857,7 +857,7 @@ know what to do with the scroll.   Unless, of course, she's carrying a Pendant o
 这份卷轴。除非……当然，如果她携带真视吊坠的话。但即使如此……无论是
 
 you anger the Cult and the Baron, or the local Matron, the price of disobeying will be high.   Weigh your choices.   Mwah!
-惹怒邪教与男爵，还是当地的女主人，违抗的代价都会很高。权衡你的选择吧。Mwah!
+惹怒邪教与男爵，还是当地的女主人，违抗的代价都会很高。权衡你的选择吧。哇!
 
 At long last, I can write down my frustration! I went through such an arduous journey, enduring whip and
 终于，我可以写下我的挫败感了！我经历了一场极其艰难的旅程，在伪装成邪

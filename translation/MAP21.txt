@@ -299,16 +299,16 @@ Lancer Dendra:    Zan! Over here!
 长枪兵丹德拉：瓒！这边！
 
 Lancer Dendra:    Good to see you've regained your consciousness. It's been a while-
-长枪兵丹德拉：很高兴看到你恢复意识。好久不见——
+长枪兵丹德拉：很高兴看到你恢复意识。好久——
 
 ???:    *Knocks at the main entrance*
-???: *敲击大门*
+？？？：*敲击大门*
 
 Lancer Dendra:    Oh, no. They're back already. Quick, gather our sisters here!
 长枪兵丹德拉：哦不。他们已经回来了。快，召集我们的姐妹们到这里！
 
 Hellion:    Hey there, dearies! You know what we're here for, so don't try to delay the fun!
-地狱之徒：嘿，亲爱的们！你们知道我们来做什么的，所以别想拖延乐趣！
+地狱之徒：嘿，亲爱的！你们知道我们为何而来，所以别拖延乐趣！
 
 Hellion:    Come now, babes. The more you keep us waiting, the slower the sacrifice will be!
 地狱之徒：来吧，宝贝们。你们越等，牺牲就越慢！
@@ -545,10 +545,10 @@ Abhaoth:    Hurry up! Ngh... I don't know for how long I can keep doing this!
 阿波豪斯：快点！唔……我不知道还能坚持多久！
 
 Blue Baron:    Arrrrrgh!...
-幽蓝男爵：啊——……
+幽蓝男爵：啊啊啊！……
 
 Abhaoth:    *Pants in exhaustion* Zan... get behind me... I...
-阿波豪斯：*喘息着* 瓚……躲在我后面……我……
+阿波豪斯：*喘息着* 瓒……躲在我后面……我……
 
 Nithriel:    Finally! Well done, my dear Baron! Nothing can stop us now! Prepare this world for my return...
 妮丝瑞尔：终于！亲爱的男爵，干得好！现在无人能阻挡我们！准备让这个世界迎接我的归来吧……
@@ -596,10 +596,10 @@ The hellish trials she had endured had left her heart scarred. She glanced back 
 她所经历的地狱般试炼已让心脏留下伤痕。她短暂地回望一眼。终于结束了。
 
 ART, ANIMATION, PROGRAMMING, WRITING, LEVEL DESIGN, SOUND DESIGN, PUBLISHING
-美术、动画、程序、写作、关卡设计、
+美术、动画、程序、文案、关卡设计、音效设计、发行
 
 by Zan_HedonDev
-音效设计、出版由瓒_赫顿开发组完成
+由瓒_赫顿开发组完成
 
 After losing their Icon, the hordes of chaos were quick to turn on each other, driven by their lust for power.
 失去图腾后，混沌军团迅速转向彼此攻击，被对权力的渴望驱使。
@@ -608,7 +608,7 @@ As the plan for a united invasion was ruined, their foul influence over the worl
 随着联合入侵计划的失败，他们对世界的恶劣影响将很快减弱。
 
 SOUNDTRACK
-配乐
+音轨
 
 Akhzul
 Akhzul
@@ -641,10 +641,10 @@ Lord Murguth journeyed to his ancestral home, hoping to recover the heritage los
 领主穆尔古斯前往祖宅，希望能找回在废墟中遗失的传承。
 
 Cover art by Dario Martinez, Pau Barz
-封面插画由Dario Martinez, Pau Barz创作
+封面插画由Dario Martinez、Pau Barz绘制
 
 Extra posters & paintings by Eraanthe, Jessy Ruiz, JustSomeNoob, Pyss
-额外海报与绘画作品由Eraanthe、Jessy Ruiz、JustSomeNoob、Pyss完成
+额外海报与绘画由Eraanthe、Jessy Ruiz、JustSomeNoob、Pyss创作
 
 The dwarves returned to Icepeak, hoping to be able to repopulate their ancient towns one day.
 矮人返回冰峰，希望有朝一日能重新繁衍他们的古老城镇。
@@ -704,19 +704,19 @@ This allowed for many dissidents of the Cult to survive and lay the foundation f
 这使得许多邪教的异见者得以生存，并为自由生活奠定基础。
 
 SPECIAL THANKS TO
-特别感谢 iamfailtacular - 提供
+特别感谢
 
 iamfailtacular - bits of character and lore inspiration
-部分角色与世界观灵感
+iamfailtacular - 提供部分角色与世界观灵感
 
 Mr. Red - proof reading
-Mr. Red - 校对工作
+Mr. Red - 校对
 
 Vostyok, JaywalkingKnight, DoomKrakken, Nuke - help with technical issues
 Vostyok, JaywalkingKnight, DoomKrakken, Nuke - 协助解决技术问题
 
 Sgt_Mark_IV - brutal friendly AI
-Sgt_Mark_IV - 极端友好的AI
+Sgt_Mark_IV - 极其友好的AI
 
 Nash Muhandes - improved player movement
 Nash Muhandes - 改进了玩家的移动方式
@@ -734,13 +734,13 @@ GZDOOM ENGINE
 GZDOOM引擎
 
 Graf Zahl - lead development
-Graf Zahl - 主导开发
+Graf Zahl - 首席开发
 
 The Doom Community - feedback and contributions
 Doom社区 - 反馈与贡献
 
 John Carmack - original id Tech 1 Engine
-John Carmack - 原始id Tech 1引擎
+John Carmack - 原始的id Tech 1引擎
 
 Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
 Rachael, Graf Zahl - hGZDoom（赫顿专用的GZDoom分支）
@@ -767,13 +767,13 @@ Gez - game configurations
 Gez - 游戏配置
 
 ULTIMATE DOOM BUILDER
-ULTIMATE DOOM BUILDER bo
+ULTIMATE DOOM BUILDER
 
 boris, ZZYZX - programming
-ris, ZZYZX - 编程；d
+boris、ZZYZX - 编程
 
 dpJudas - OpenGL renderer
-pJudas - OpenGL渲染器
+dpJudas - OpenGL渲染器
 
 StrikerMan780 - 64 bit version
 StrikerMan780 - 64位版本
@@ -782,7 +782,7 @@ Talon1024 - Linux compatibility
 Talon1024 - Linux兼容性
 
 anotak - performance optimizations
-；anotak - 性能优化
+anotak - 性能优化
 
 Thanks to EVERYONE who financially supported Hedon on Patreon!
 感谢所有在Patreon上资助赫顿的朋友们！
@@ -815,10 +815,10 @@ Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Sie
 Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Siegfried Pinzer
 
 AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
-AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey ha ha     
+AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
 
 ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
-Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
+ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
 
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
@@ -851,16 +851,16 @@ Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath   
 Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath     Abreu
 
 Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
-Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH   
+Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
 
 dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
-  Dark Castle dm3_inks     Doom64Hunter     elm     Kat G     Komen    
+dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
 
 neonblitzer     Nothing Here     Robin Law     Agar6     William M
- leebigh neonblitzer     Nothing Here     Robin Law     Agar6     Willi
+neonblitzer     Nothing Here     Robin Law     Agar6     William M
 
 awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
-am M awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
+awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
 
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
@@ -881,10 +881,10 @@ Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     K
 Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     Krimm Fortuna     Sexy Sadie
 
 Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
-Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis patreonpatreonpatre
+Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
 
 patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
-on     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
+patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
 
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
@@ -899,10 +899,10 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilhalfer
 
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
-JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackso
+JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
 
 cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
-n cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
+cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
@@ -920,10 +920,10 @@ And as the warriors recounted their feats against impossible odds, one name woul
 而当战士们讲述着在绝境中战胜不可能的壮举时，总会有一个名字被反复提及……
 
 Everyone:    HAIL THE BONEBREAKER!!!
-所有人：    欢呼吧，碎骨者！！！
+所有人：碎骨者万岁！！！
 
 The end...
-……
+结局……
 
 Loading...
 加载中……
@@ -965,16 +965,16 @@ me!  And now that the Corrupt Seed is in my hands, I shall finally ascend.  The 
 腐化种子在我手中，我终将踏上升华之路。虚空在等待着我。
 
 South - The Great Stump
-南方 - 巨树桩
+南 - 巨树桩
 
 East - Reaver Headquarters
-东方 - 掠夺者总部
+东 - 掠夺者总部
 
 West - Grove Portal Cave
-西方 - 绿洲传送洞穴
+西 - 绿洲传送洞穴
 
 Thanks to EVERYONE who financially supported Hedon on Patreon!
-感谢所有在Patreon上支持赫顿的人！
+感谢所有在Patreon上支持赫顿的朋友们！
 
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
@@ -1004,10 +1004,10 @@ Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Sie
 Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Siegfried Pinzer
 
 AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
-AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey ha ha     
+AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
 
 ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
-Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
+ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
 
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
@@ -1040,16 +1040,16 @@ Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath   
 Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath     Abreu
 
 Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
-Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH   
+Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
 
 dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
-  Dark Castle dm3_inks     Doom64Hunter     elm     Kat G     Komen    
+dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
 
 neonblitzer     Nothing Here     Robin Law     Agar6     William M
- leebigh neonblitzer     Nothing Here     Robin Law     Agar6     Willi
+neonblitzer     Nothing Here     Robin Law     Agar6     William M
 
 awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
-am M awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
+awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
 
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
@@ -1070,10 +1070,10 @@ Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     K
 Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     Krimm Fortuna     Sexy Sadie
 
 Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
-Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis patreonpatreonpatre
+Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
 
 patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
-on     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
+patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
 
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
@@ -1088,10 +1088,10 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilhalfer
 
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
-JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackso
+JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
 
 cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
-n cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
+cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr

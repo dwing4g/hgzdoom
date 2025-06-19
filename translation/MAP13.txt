@@ -1,5 +1,5 @@
 Loading...
-加载中...
+加载中……
 
 Warlord Grund:    It's your lucky day, Halfblood, your name was cleared of cowardice. Get up, Breaza wants to see you.
 男巫格伦德：混血人，今天是你的幸运日，你的名字已清除了懦弱的指控。快起来吧，布里扎想见你。
@@ -203,7 +203,7 @@ Witch:    Don't cheer yet, we still have to get out of here.
 女巫：别急着庆祝，我们还得从这里逃出去。
 
 Fixer:    Oh, no... w-what have they done...
-修复者：哦不……w-他们到底做了什么……
+修复者：哦不……他…他们到底做了什么……
 
 Reaver:    Bastards...
 掠夺者：该死的……
@@ -599,28 +599,28 @@ Oh, and before I forget... try not to hamper our Brewer next time. It cost our E
 > 阴暗修复者以10金币出售暗视护目镜
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗视护
+> 阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-目镜，2个守卫以100金币出售
+2个守卫以100金币出售
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗
+> 阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-视护目镜，2个守卫以100金币
+2个守卫以100金币出售
 
 a Bag of Holding for 300 gold
-出售，储物袋以300金币出售
+储物袋以300金币出售
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗
+> 阴暗修复者以10金币出售暗视护目镜，
 
 two Sentries for 100 gold
-视护目镜，2个守卫以100金币
+2个守卫以100金币出售
 
 a Bag of Holding for 300 gold
-出售，储物袋以300金币出售
+储物袋以300金币出售
 
 Vials of Healing for 10 gold
 以10金币出售治疗药剂

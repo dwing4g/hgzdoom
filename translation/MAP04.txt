@@ -62,7 +62,7 @@ The Forgotten One:   ...I cannot have rest... I need my anvil... help me...
 被遗忘者：……我无法安息……我需要我的锻铁台……帮我……
 
 Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6)
-提示：按药水发射器键可切换弹药类型（默认：6）
+提示：按药水发射器键可切换弹药类型（默认：6键）
 
 Looks like the main power has been shut down.
 看起来主能量已被切断。
@@ -185,7 +185,7 @@ Maybe stop by the tavern to have a drink too?  I will wait for you by the forge.
 也许顺便去酒馆喝一杯？我会在锻造厂等你。——索瓦尔德
 
 Birth of the Earthborn - Chapter 7: The Pact
-大地之子的诞生 — 第七章：契约
+大地之子的诞生 - 第七章：契约
 
 [...]    and now when they were forced to watch the ruins of their civilisation, both the Dwarves and
 [...] 现在当他们被迫目睹自己文明的废墟时，矮人与牛头人都
@@ -503,7 +503,7 @@ This machine does not appear to be functional.
 这台机器似乎无法正常运作。
 
 Gate Mechanisms - Gear A2
-大门机制 - 齿轮A2
+大门机关 - 齿轮A2
 
 A2 type gears are the main component of many mechanical gate engines. Unlike the other
 A2型齿轮是许多机械门装置的核心组件。与其他齿轮不
@@ -533,7 +533,7 @@ Once the final notch is hammered, allow the finished gear to cool down before us
 （你已经取走了附在说明旁的图纸）
 
 Gate Mechanisms - Gear A2
-大门机制 - 齿轮A2
+大门机关 - 齿轮A2
 
 A2 type gears are the main component of many mechanical gate engines. Unlike the other
 A2型齿轮是许多机械门装置的核心组件。与其他齿轮不
@@ -617,7 +617,7 @@ yourselves up now, how many times do I have to tell you to get a longer fuse and
 飞了，我得多少次告诉你们要换更长的引信并远离危险！！！
 
 Tip: You can pick up Sentry Turrets with (DEFAULT: E) and drop them with (DEFAULT: LMB)
-提示：你可以用（默认：E）拾取守卫炮塔，并用（默认：左键点击）丢弃它们。
+提示：你可以用（默认：E键）拾取守卫炮塔，并用（默认：鼠标左键）丢弃它们。
 
 This door seems to be locked from the other side.
 这扇门似乎是从另一侧被锁住了。

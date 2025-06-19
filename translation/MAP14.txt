@@ -1,5 +1,5 @@
 Loading...
-加载中...
+加载中……
 
 Earth Mother:    So the ancestral home of the minotaurs has been butchered by demonic contraptions... disgraceful!
 大地之母：牛头人的祖宅竟被恶魔机械摧毁了……真是丢脸！
@@ -353,19 +353,19 @@ two Sentries for 100 gold
 > 一位阴暗修复者以10金币出
 
 two Sentries for 100 gold
-售暗视护目镜，2名守卫换10
+售暗视护目镜，2名守卫换100金币，
 
 a Bag of Holding for 300 gold
-0金币，一个储物袋换300金币
+一个储物袋换300金币
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
 > 一位阴暗修复者以10金币出
 
 two Sentries for 100 gold
-售暗视护目镜，2名守卫换10
+售暗视护目镜，2名守卫换100金币，
 
 a Bag of Holding for 300 gold
-0金币，一个储物袋换300金币
+一个储物袋换300金币
 
 Vials of Healing for 10 gold
 10金币可购买治疗药剂

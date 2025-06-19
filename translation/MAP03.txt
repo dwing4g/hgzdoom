@@ -26,7 +26,7 @@ The gate must be fully powered first.
 大门必须先完全充能。
 
 Bear Warrior:    Oh shit!!!
-熊战士：哦shit!!!
+熊战士：卧槽！！！
 
 Bear Warrior:    Look out!
 熊战士：小心！
@@ -80,7 +80,7 @@ We ran out of ammo... it's not even fair... Beza is dead... I've nowhere to fall
 我们弹药耗尽了……这不公平……贝扎死了……我现在无处可退了。记住我们。
 
 BATH HOUSE GATE POWER - SOUTH HALF
-浴室大门能源 - 南侧半区
+浴室大门能源 - 南半区
 
 (The parchments depict various sketches and schematics)
 （羊皮纸上描绘着各种草图和结构图）
@@ -104,7 +104,7 @@ in the bedroom.    P.S. You need to find a better place to hide your apartment k
 卧室里了。P.S. 你需要找个更好的地方藏你的公寓钥匙。-A。
 
 BATH HOUSE GATE POWER - NORTH HALF
-浴室大门能源 - 北侧半区
+浴室大门能源 - 北半区
 
 HOW DID YOU GET HERE?
 你是怎么到这里的？

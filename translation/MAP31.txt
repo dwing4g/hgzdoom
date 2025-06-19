@@ -5,16 +5,16 @@ Select a level by jumping in one of the pits and using the front wall.
 请跳入其中一个坑洞并利用前墙选择关卡。
 
 You will get the standard gear for the level once you jump, but you can
-跳跃后你会获得该关卡的标准装备，但也可以从这里房
+跳跃后你会获得该关卡的标准装备，但你也可以从这里的
 
 grab more items from the room here, though it's not advised for 1st runs.
-间中获取更多物品，不过首次体验不建议这么做。
+房间中获取更多物品，不过首次体验不建议这么做。
 
 Please give me all your feedback and report bugs through ModDB comments
 请通过ModDB评论或发送邮件至hedongame@yahoo.com向我反馈
 
 or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
-所有意见和报告错误。谢谢，祝你玩得愉快！- 瓚
+所有意见和报告错误。谢谢，祝你玩得愉快！- 瓒
 
 Map01 - Cold Rock (Start Normally)
 地图01 - 冷岩（正常开始）
@@ -29,55 +29,55 @@ Map04 - Technical Space (Minor Spoilers)
 地图04 - 技术空间（轻微剧透）
 
 Map05 - Grove (Moderate Spoilers)
-地图05 - 林地（中等剧透）
+地图05 - 林地（中度剧透）
 
 Map06 - Errant Signal (Major Spoilers)
-地图06 - 偏离信号（重大剧透）
+地图06 - 偏离信号（重度剧透）
 
 Map07 - Parapet (Moderate Spoilers)
-地图07 - 城垛（中等剧透）
+地图07 - 城垛（中度剧透）
 
 Map08 - Pale Wind (Major Spoilers)
-地图08 - 苍白之风（重大剧透）
+地图08 - 苍白之风（重度剧透）
 
 Map09 - Research and Decay (Major Spoilers)
-地图09 - 研究与腐朽（重大剧透）
+地图09 - 研究与腐朽（重度剧透）
 
 Map10 - Crystal Heart (Major Spoilers)
-地图10 - 水晶之心（重大剧透）
+地图10 - 水晶之心（重度剧透）
 
 Map11 - Deep Chill (Major Spoilers)
-地图11 - 深寒（重大剧透）
+地图11 - 深寒（重度剧透）
 
 Map12 - Mansion (Moderate Spoilers)
-地图12 - 庄园（中等剧透）
+地图12 - 庄园（中度剧透）
 
 Map13/14/15 - Besieged (Major Spoilers)
-地图13/14/15 - 被围攻的（重大剧透）
+地图13/14/15 - 被围攻的（重度剧透）
 
 Map14 - Brazen Bull (Major Spoilers)
-地图14 - 青铜公牛（重大剧透）
+地图14 - 青铜公牛（重度剧透）
 
 Map15 - Deep Calls (Major Spoilers)
-地图15 - 深唤（重大剧透）
+地图15 - 深唤（重度剧透）
 
 Map16 - Port to Hell (Major Spoilers)
-地图16 - 通向地狱的港口（重大剧透）
+地图16 - 通向地狱的港口（重度剧透）
 
 Map17 - Hellscape (Major Spoilers)
-地图17 - 地狱景观（重大剧透）
+地图17 - 地狱景观（重度剧透）
 
 Map18/19/20 - Paradise Lost (Major Spoilers)
-地图18/19/20 - 失落天堂（重大剧透）
+地图18/19/20 - 失落天堂（重度剧透）
 
 Map19 - Place Afoul (Major Spoilers)
-地图19 - 污秽之地（重大剧透）
+地图19 - 污秽之地（重度剧透）
 
 Map20 - Salt and Blood (Major Spoilers)
-地图20 - 盐与血（重大剧透）
+地图20 - 盐与血（重度剧透）
 
 Map21/22 - Bloodrite (Major Spoilers)
-地图21/22 - 血祀（重大剧透）
+地图21/22 - 血祀（重度剧透）
 
 FIGHT!
 战斗！
@@ -89,31 +89,31 @@ Random tips activated.
 随机提示已激活。
 
 Tip #35: Rocket jumping allows for shortcuts and different approaches of a level.
-提示#35：火箭跳可实现捷径和不同的关卡玩法。
+提示#35：火箭跳可实现关卡捷径与不同的通关方式。
 
 Tip #2: Blood/Gore effects can be turned off from Options - Display Options.
-提示#2：可通过选项-显示设置关闭血迹/血腥效果。
+提示#2：可在选项 - 显示设置中关闭血迹/流血效果。
 
 Tip #3: You can set your automap style and colors from Options - Automap Options.
-提示#3：可在选项-自动地图设置中自定义自动地图样式与颜色。
+提示#3：你能在选项 - 自动地图选项中设置自动地图的风格和颜色。
 
 Tip #4: Using an Amulet of Shadows prevents seeker projectiles from locking on to you.
-提示#4：使用暗影护符可防止追踪弹药锁定你。
+提示#4：使用暗影护符可使追踪类投射物无法锁定你。
 
 Tip #5: Using an Elemental Ring gives you endless underwater breath.
-提示#5：使用元素戒指可获得无限水下呼吸能力。
+提示#5：使用元素戒指可获得无限水下呼吸的能力。
 
 Tip #6: Potions of Might greatly reduce your ranged damage (except for melee throws) while active.
-提示#6：力量药水在生效期间会大幅降低你的远程伤害（除近战投掷外）。
+提示#6：激活力量药水时会大幅降低你的远程伤害（投掷近战武器除外）。
 
 Tip #7: Weaker enemies attempt to flee when badly injured.
-提示#7：较弱的敌人在受到严重伤害时会尝试逃跑。
+提示#7：较弱的敌人在受重伤时会尝试逃跑。
 
 Tip #8: Demons (like Cerberi and Pit Lords) are resistant to fire.
-提示#8：恶魔（如地狱犬和深渊领主）对火焰具有抗性。
+提示#8：恶魔（如地狱犬和深渊领主）均对火具有抗性。
 
 Tip #9: Some enemies may be immune to the Time Shard's freezing effect but their projectiles aren't.
-提示#9：某些敌人可能免疫时间碎片的冰冻效果，但它们的投射物不受影响。
+提示#9：部分敌人可能免疫时间碎片的冻结效果，但其投射物不会免疫。
 
 Tip #10: Enemies have different fields of view. A Cerberus can see well beyond 180 degrees, while a Crawler is more narrow sighted.
 提示#10：敌人的视野范围各不相同。地狱三头犬能看清超过180度的区域，而爬行者的视野较为狭窄。
@@ -122,34 +122,34 @@ Tip #11: The game's Wiki page contains information you won't find in-game.
 提示#11：游戏的维基页面包含你在游戏中无法获取的信息。
 
 Tip #12: You can always review messages in the console (DEFAULT: Tilde).
-提示#12：你总能在控制台中查看历史消息（默认：波浪号）。
+提示#12：你能随时在控制台中查看历史消息（默认：波浪号键）。
 
 Tip #13: Press F1 for a quick reference screen of the default inventory item key bindings.
-提示#13：按下F1可快速查看默认物品快捷键绑定界面。
+提示#13：按F1可查看物品默认键位绑定的快速参考界面。
 
 Tip #14: While in the map screen, you can mark your current position (DEFAULT : M).
-提示#14：在地图界面时，你可以标记当前位置（默认：M）。
+提示#14：在地图界面中，你能标记当前位置（默认：M键）。
 
 Tip #15: The Potion Launcher's pink toxic gas is highly flammable.
-提示#15：药水发射器喷出的粉色毒气极易燃烧。
+提示#15：药水发射器的粉色毒气极易燃烧。
 
 Tip #16: Forge Elementals don't spawn any Iron Urchins when killed by acid.
 提示#16：锻造元素被酸液击杀时不会生成铁刺。
 
 Tip #17: Killing enemies with your Fists will not raise an alert.
-提示#17：用双拳击杀敌人不会触发警报。
+提示#17：用拳头击杀敌人不会触发警报。
 
 Tip #18: The Crushbow's Impact Bolts have higher damage and penetration at the expense of explosion radius.
-提示#18：重击弩的冲击箭在伤害和穿透力上更强，但爆炸范围更小。
+提示#18：重击弩的冲击箭具有更高的伤害和穿透力，但爆炸半径较小。
 
 Tip #19: Potions of Stoneskin significantly reduce the explosion radius damage you take.
-提示#19：石肤药水能显著减少你受到的爆炸范围伤害。
+提示#19：石肤药水可大幅降低爆炸半径造成的伤害。
 
 Tip #20: Red Crystal clusters explode when hit.
-提示#20：红水晶簇被攻击时会爆炸。
+提示#20：红水晶簇被击中时会爆炸。
 
 Tip #21: Bags of Holding only increase your ammo capacity once.
-提示#21：储物袋仅能提升你的弹药容量一次。
+提示#21：储物袋仅能提升弹药容量一次。
 
 Tip #22: Sentry Turrets get damaged by water. Swimming while holding one in your hands can be hazardous.
 提示#22：守卫炮塔会被水损坏。手持炮塔游泳可能十分危险。
@@ -158,106 +158,106 @@ Tip #23: Saving the game is the strongest spell in the book.
 提示#23：保存游戏是书中最强的法术。
 
 Tip #24: Memorizing a few consumable hotkeys can be handy in a pinch.
-提示#24：记住几个消耗品快捷键在紧急情况下会派上用场。
+提示#24：记住几个消耗品的快捷键在紧急时刻会派上用场。
 
 Tip #25: Use chasecam to better manage your platform jumps. (Default: numpad1)
-提示#25：使用追逐镜头可以更方便地管理平台跳跃。（默认：数字小键盘1）
+提示#25：使用追逐镜头可以更方便地管理平台跳跃。（默认：数字小键盘1键）
 
 Tip #26: Use F6/F9 to quick save/load. If you die, you can also press Use (DEFAULT : E) to load the last save.
-提示#26：按F6/F9可快速存档/读取。若死亡，也可按下使用键（默认：E）加载最后一次存档。
+提示#26：按F6/F9可快速保存/加载。你若死亡，也可按下使用键（默认：E键）加载最后一次存档。
 
 Tip #27: You can toggle random sound pitching from Sound Options - Randomize Pitches.
-提示#27：可在选项 - 随机化音调中切换随机声音音调调整功能。
+提示#27：可在声音选项 - 随机音调中切换随机的音调效果。
 
 Tip #28: You can change the notification/item query message time with the console command - con_notifytime 7.0 (eg. for 7 seconds).
-提示#28：通过控制台命令 - con_notifytime 7.0 可更改通知/物品查询信息的显示时间（例如设置为7秒）。
+提示#28：可通过控制台命令 - con_notifytime 7.0 （例子表示持续7秒）修改通知/物品查询信息的显示时间。
 
 Tip #29: Warlocks are resistant to elemental damage and certain magic.
-提示#29：男巫对元素伤害和部分魔法具有抗性。
+提示#29：男巫对元素伤害和指定魔法具有抗性。
 
 Tip #30: Shooting a Crylance underwater without proper protection will have shocking results.
-提示#30：未做好防护直接在水下射击水晶长矛会产生令人震惊的结果。
+提示#30：未做好防护直接在水中射击水晶长矛会产生令人震惊的结果。
 
 Tip #31: Forge Elementals can't open doors so they rely on their Iron Urchins to do it for them.
-提示#31：锻造元素无法开启门，因此依赖铁刺代劳。
+提示#31：锻造元素无法开门，因此他们依赖铁刺来帮他们。
 
 Tip #32: The Fire Hammer protects against all fire damage and allows walking on lava unhindered.
-提示#32：火锤可完全抵御所有火焰伤害，并允许你在熔岩上无阻碍地行走。
+提示#32：火锤可完全抵御所有火焰伤害，并可以畅行无阻地行走于熔岩之上。
 
 Tip #33: The Great Axe's Thorns buff reduces nature damage (dealt by Initiates) and reflects the pain back to the attacker.
-提示#33：巨斧的荆棘增益（Thorns buff）会减少自然伤害（由入门者造成），并将疼痛反弹给攻击者。
+提示#33：巨斧的荆棘增益效果会减少自然伤害（入门者造成的），并将痛苦反弹给攻击者。
 
 Tip #34: Using the Shield to block and reflect incoming projectiles is less effective when moving.
-提示#34：在移动时使用盾牌阻挡并反射来袭投射物的效果较差。
+提示#34：移动时使用盾牌格挡并反弹来袭投射物的效果会减弱。
 
 Tip #35: The Hellclaw's melee attack (DEFAULT : R) will restore ammo when damaging living enemies.
 提示#35：地狱爪的近战攻击（默认：R键）在对活体敌人造成伤害时会恢复弹药。
 
 Tip #36: Potions of Haste improve the firing rate of each weapon differently.
-提示#36：迅捷药水对每种武器的射击速度提升方式各不相同。
+提示#36：迅捷药水会以不同方式提升每种武器的射击频率。
 
 Tip #37: Unlike levers and chains, button switches can be activated by projectiles from afar.
-提示#37：与杠杆和链条不同，按钮开关可通过远程投射物激活。
+提示#37：与杠杆和链条不同，按钮开关可以从远处通过投射物激活。
 
 Tip #38: Strafing right while moving forward will make you slightly faster.
 提示#38：向前移动时向右横移会使你略微加快速度。
 
 Tip #39: Hitting enemies with the Storm Staff charges it with mana. The bigger the enemy, the more mana it yields.
-提示#39：用风暴法杖击中敌人会为其充能魔力。敌人越大，获得的魔力越多。
+提示#39：用风暴法杖击中敌人会为其充能魔力，敌人越大产生的魔力越多。
 
 Tip #40: You can keep the Paingun's barrels spinning and ready to fire by holding down reload (DEFAULT : R).
-提示#40：按住装填键（默认：R）可使痛击枪的弹筒持续旋转并保持待发状态。
+提示#40：按住装填键（默认：R键）可使痛击枪的枪管持续旋转并保持待发状态。
 
 Tip #41: To kill a boss, shoot at it until it dies.
-提示#41：要击败Boss，只需持续攻击直到它死亡即可。
+提示#41：要杀死boss，只需持续攻击直至其死亡即可。
 
 Tip #42: She is watching you.
 提示#42：她正在注视着你。
 
 Tip #43: The tower shields carried by Iron Maidens offer them great protection, but can be bypassed in many ways.
-提示#43：铁娘子携带的塔盾能提供强大保护，但可通过多种方式绕过防御。
+提示#43：铁娘子携带的塔盾能提供强大保护，但可通过多种方式绕过。
 
 Tip #44: The lightning bolts cast by Genii do massive splash damage in deep water.
-提示#44：吉尼释放的闪电球在深水中会造成巨大范围伤害。
+提示#44：吉尼释放的闪电球在深水中会造成巨大的溅射伤害。
 
 Tip #45: Potions of Stoneskin protect against physical and nature damage, Elemental Rings protect against all non physical damage.
-提示#45：石肤药水可抵御物理与自然伤害，元素戒指则能完全抵挡非物理伤害。
+提示#45：石肤药水可抵御物理和自然伤害，元素戒指则能防御所有非物理伤害。
 
 Tip #46: Some enemies are more prone to infighting than others. This is also affected by the difficulty level.
-提示#46：部分敌人比其他敌人更容易内讧，这一特性也受难度等级影响。
+提示#46：某些敌人比其他敌人更容易发生内讧，这也会受到难度等级的影响。
 
 Tip #47: Heavier armor amulets absorb higher amounts of damage, but deplete at a faster rate as a result.
-提示#47：重型装甲护符能吸收更多伤害，但因此消耗速度更快。
+提示#47：重装甲护符能吸收更多伤害，但因此消耗速度也更快。
 
 Tip #48: Power Shards boost your armor by a small amount and provide ammo for the Crylance.
-提示#48：力量碎片可小幅提升防御力，并为水晶长矛提供弹药。
+提示#48：力量碎片可小幅提升护甲，并为水晶长矛提供弹药。
 
 Tip #49: You can combine kicks with jumping and crouching for higher damage.
-提示#49：你可以将踢击与跳跃和蹲下动作结合使用以造成更高伤害。
+提示#49：可通过结合踢击、跳跃和蹲伏动作来造成更高的伤害。
 
 Tip #50: You don't need to have your companions closeby when changing levels. They will join you even when ordered to guard.
-提示#50：在切换关卡时不需要让同伴靠近身边。即使下令让他们守卫，他们也会加入你。
+提示#50：切换关卡时无需让同伴靠近，即使被命令守卫时也会自动跟随你。
 
 Endless Mode Activated.
 无尽模式已激活。
 
 Monsters Spawning in
-怪物正在生成中
+怪物生成倒计时
 
 Endless Mode Versus Activated.
 无尽对抗模式已激活。
 
 Monsters Spawning in
-怪物正在生成中
+怪物生成倒计时
 
 Clearing monsters...
-清除怪物中...
+清除怪物中……
 
 Cleaning up...
-清理完毕...
+清理完毕……
 
 DIE!
-DIE!
+去死!
 
 Current monsters deal more friendly fire.
 当前怪物造成更多友军伤害。
@@ -329,7 +329,7 @@ Current monsters deal less friendly fire.
 21. 黄色
 
 Thanks to EVERYONE who financially supported Hedon I - Crystal Heart on Patreon!
-感谢所有在Patreon上为《赫顿 I - 水晶之心》提供财务支持的朋友们！
+感谢所有在Patreon上为《赫顿I - 水晶之心》提供资金支持的朋友们！
 
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
@@ -350,7 +350,7 @@ D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, All
 D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
 
 WELCOME TO HEDON'S EPISODE I PATREON GALLERY!
-欢迎来到赫顿的EPISODE I Patreon画廊！
+欢迎来到赫顿第一篇的Patreon画廊！
 
 Do you want to feature in here as a supporter of Hedon?
 你是否想在这里作为赫顿的支持者被展示？
@@ -485,7 +485,7 @@ AlexZerker
 AlexZerker
 
 Thanks to EVERYONE who financially supported Hedon II - Bloodrite on Patreon!
-感谢所有在Patreon上为《赫顿 II - 血祀》提供财务支持的朋友们！
+感谢所有在Patreon上为《赫顿II - 血祀》提供资金支持的朋友们！
 
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
@@ -515,10 +515,10 @@ Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Sie
 Aegis     KOL_Freak     Samuel Stacey     William Vicic     CaptainRumia     Siegfried Pinzer
 
 AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
-AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey ha ha     
+AMIG     Arn     Bluefire     LuzTheBuz~     CoreySchimpf     Grey
 
 ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
-Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
+ha ha     Scott Schwerdfeger     screenThief     Spookems     Zixon01     Echo Byrnes
 
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
 GirlieAllie     Hatty     Kevin Fung     Mark Grubich     Spooks     Third-Energy
@@ -551,16 +551,16 @@ Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath   
 Mathias Andren     Monster Gang     Nano pois0n     null value     Shaeoggath     Abreu
 
 Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
-Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH   
+Sage Emerald     Casadactyl     Allegory     BeardedDoomGuy     CsOsH     Dark Castle
 
 dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
-  Dark Castle dm3_inks     Doom64Hunter     elm     Kat G     Komen    
+dm3_inks     Doom64Hunter     elm     Kat G     Komen     leebigh
 
 neonblitzer     Nothing Here     Robin Law     Agar6     William M
- leebigh neonblitzer     Nothing Here     Robin Law     Agar6     Willi
+neonblitzer     Nothing Here     Robin Law     Agar6     William M
 
 awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
-am M awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
+awesomepossum     Shiznot     5 Pyr     Cadaver747     Iceman2343
 
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
 Kurreh     Slinks     drauch     Natalie Westland     m8f     David Coleman
@@ -581,10 +581,10 @@ Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     K
 Joel Acklen     Yizz the Eunuch     Jonathan LiszkaHackzell     dirtygrass     Krimm Fortuna     Sexy Sadie
 
 Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
-Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis patreonpatreonpatre
+Asura     Bonitz Andras     Seras Ming     Dave Allen     blah     Jim Lewis
 
 patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
-on     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
+patreonpatreonpatreon     Snaked     epsaavedra     evergreen     Hans Christian Ruders Damgaard     James Mooney
 
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
 Jeff Cotten     Kammeri     Locorotor     Simon B     Someone Someone     Trent maudier
@@ -599,10 +599,10 @@ Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilha
 Lieutenant Walrus     Timecrash     Arthos     D3str0y3r176     Erika     Evilhalfer
 
 JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
-JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackso
+JumbaWumba     Kenny     Leth Davidson     Lucas Schulte     Scott Neal Smith     Jackson
 
 cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
-n cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
+cache     Grant Ruhoff     Spardajackal     Sunshine     Mozambwa     Clair Redfield
 
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
@@ -713,10 +713,10 @@ SuggestiveBox (3)
 SuggestiveBox (3)
 
 You can always change music with the console command - changemus TrackName
-您始终可以通过控制台命令 - changemus TrackName 来更
+你任何时候都可以通过控制台命令来更改音乐 - changemus 音轨名
 
 eg. changemus HTrack00 or changemus HTrak18A
-改音乐，例如：changemus HTrack00 或 changemus HTrak18A
+例如：changemus HTrack00 或 changemus HTrak18A
 
 Playing HTrack00
 播放 HTrack00
@@ -752,13 +752,13 @@ Playing HTrack05
 播放 HTrack05
 
 Akhzul - Hold Your Knife
-Akhzul - 持住你的刀
+Akhzul - 拿住你的刀
 
 Playing HTrack17
 播放 HTrack17
 
 Akhzul - Consumed
-Akhzul - 被吞噬者
+Akhzul - 被吞噬
 
 Playing HTrack06
 播放 HTrack06
@@ -770,7 +770,7 @@ Playing HTrack07
 播放 HTrack07
 
 Breathelast - Ascuns in Pereti (Instrumental)
-Breathelast - 墙壁中的隐藏（器乐版）
+Breathelast - 隐入墙中（器乐版）
 
 Playing HTrack08
 播放 HTrack08
@@ -812,7 +812,7 @@ Playing HTrack14
 播放 HTrack14
 
 Akhzul - Come to Church
-Akhzul - 来教堂
+Akhzul - 来到教堂
 
 Playing HTrack15
 播放 HTrack15
@@ -842,13 +842,13 @@ Playing HTrack20
 播放 HTrack20
 
 Breathelast - Unsung Foes (Instrumental)
-Breathelast - 未被歌颂的敌人（器乐版）
+Breathelast - 未被歌颂的对手（器乐版）
 
 Playing HTrack21
 播放 HTrack21
 
 Zan_HedonDev - Chill
-瓒_赫顿开发组 - 深寒
+瓒_赫顿开发组 - 寒意
 
 Playing HTrak22B
 播放 HTrak22B
@@ -908,7 +908,7 @@ Playing HTrack31
 播放 HTrack31
 
 Akhzul - It's not Paradise, it's Hell
-Akhzul - 这不是天堂，这是地狱
+Akhzul - 不是天堂，而是地狱
 
 Playing HTrack32
 播放 HTrack32

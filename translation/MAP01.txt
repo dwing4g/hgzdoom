@@ -5,16 +5,16 @@ Select a level by jumping in one of the pits and using the front wall.
 请跳入其中一个坑洞并利用前墙选择关卡。
 
 You will get the standard gear for the level once you jump, but you can
-跳跃后你会获得该关卡的标准装备，但你也可以从这里
+跳跃后你会获得该关卡的标准装备，但你也可以从这里的
 
 grab more items from the room here, though it's not advised for 1st runs.
 房间中获取更多物品，不过首次体验不建议这么做。
 
 Please give me all your feedback and report bugs through ModDB comments
-请通过ModDB评论或发送邮件至hedongame@yahoo.com向我反馈所
+请通过ModDB评论或发送邮件至hedongame@yahoo.com向我反馈
 
 or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
-有意见和报告错误。感谢参与，祝你玩得愉快！- 瓚
+所有意见和报告错误。谢谢，祝你玩得愉快！- 瓒
 
 Map01 - Cold Rock ->Play Normally
 地图01 - 冷岩 ->正常游玩
@@ -47,10 +47,10 @@ Map10 - Crystal Heart (Major Spoilers)
 地图10 - 水晶之心（重度剧透）
 
 ???:   ...wake up...
-???: ...醒来...
+？？？：……醒来……
 
 ???:   ...wake. Up.
-???: ...醒。来。
+？？？：……醒。来。
 
 This door requires a key to open.
 这扇门需要钥匙才能打开。
@@ -374,19 +374,19 @@ Rotation 509 - Day 238  ?
 第509轮 - 第238天 ?
 
 I woke up to a screech today? Hard to tell the time down here anymore.  The worm has found the chick
-今天醒来时听到尖叫声？这里已经很难判断时间了。那虫子找到了躲在架子后的
+今天醒来时听到尖叫声？这里已经很难判断时间了。那虫子找到了躲在架子后的雏鸟……
 
 hiding behind the shelf...  that poor bird didn't stand a chance.  I'd go in and gut that beast, but Dura
-雏鸟……那只可怜的小鸟根本没有机会。我想冲进去把这怪物剖开，但杜拉想先
+那只可怜的小鸟根本没有机会。我想冲进去把这怪物剖开，但杜拉想先从瓦尔克请个女巫来研究它。
 
 wants to get a Witch from Valc to study it first.   What an ordeal...  I tried going up to get a drink, but
-从瓦尔克请个女巫来研究它。真是场折磨……我试着上去取水，结果升降梯又坏了
+真是场折磨……我试着上去取水，结果升降梯又坏了。
 
 the elevator is out yet again. At this rate we'll run out of power cores, and the goblins are too scared
-。照这个速度我们很快就会用完能量核心，而哥布林们也太害怕塌方不敢再去破
+照这个速度我们很快就会用完能量核心，而哥布林们也太害怕塌方不敢再去破坏墙壁了。
 
 of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our offerings pleased You?
-坏墙壁了。哦，大地，你为何如此愤怒？我们的供品难道没有让你们满意吗？
+哦，大地，你为何如此愤怒？我们的供品难道没有让你们满意吗？
 
 An empty pedestal.
 一个空荡的祭坛。
@@ -401,7 +401,7 @@ Tip: Press F1 to view the quick reference screen.
 提示：按下 F1 查看快速参考界面。
 
 All messages can be reviewed in the console (default: Tilde)
-所有消息都可以在控制台中查看（默认：波浪号）
+所有消息都可以在控制台中查看（默认：波浪号键）
 
 Tip: You won't get far without a map (default: TAB)
 提示：没有地图寸步难行（默认：Tab键）
@@ -428,7 +428,7 @@ You can inspect the currently selected item for a brief description with (defaul
 你可以按（默认：回车键）查看当前选中物品的简要描述。
 
 You can also set hotkeys for these items, or see the default ones in the help screen (default: F1)
-你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键（默认：F1）。
+你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键（默认：F1键）。
 
 Tip: Crystal Amulets provide you with a set amount of armor.
 提示：水晶护符会为你提供固定数量的护甲值。
@@ -437,7 +437,7 @@ Small Power Shards can provide a further bonus to your armor reserve.
 小型能量碎片可以进一步提升你的护甲储备。
 
 Tip: Every weapon has an alternative attack mode (default: RMB)
-提示：每种武器都有替代攻击模式（默认：右键鼠标）。
+提示：每种武器都有替代攻击模式（默认：鼠标右键）。
 
 You can perform quick kick attacks with (default: Q)
 你可以按（默认：Q键）进行快速踢击。
@@ -485,23 +485,23 @@ Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
 They are used automatically with (default: E)
-它们会自动使用（默认：E键）。
+它们会被自动使用（默认：E键）。
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
-若无法看到背景中的植物，增加伽马值使其刚刚可见
+如果你无法看清背景的植物，增加伽马值使其勉强可见
 
 Press Strafe Left (default: A) to decrease gamma
-按左移（默认：A键）降低伽马值
+按左移（默认：A键）减少伽马值
 
 Press Strafe Right (default: D) to increase gamma
-按右移（默认：D键）提高伽马值
+按右移（默认：D键）增加伽马值
 
 Press Use (default: E) to continue
 按使用（默认：E键）继续
 
 You can always adjust this setting from Options - Display Options
-你可以随时从选项 - 显示设置中调整此设置。
+你可以随时从选项 - 显示设置中调整此设置
 
 Somewhere in Hell...
-地狱中的某个地方…
+地狱中的某处……
 

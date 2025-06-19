@@ -1,5 +1,5 @@
 Loading...
-加载中...
+加载中……
 
 Earth Mother:    The Dwarf Town... its true name has faded throughout the ages, but the grandeur has endured.
 大地之母：矮人镇……它的真名在岁月长河中逐渐模糊，但辉煌却始终留存。
@@ -275,10 +275,10 @@ Earth Mother:    The Cult must have furthered Lith's research during all this ti
 > 阴暗修复者出售暗视护目镜，售价10金币
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（1
+> 阴暗修复者出售暗视护目镜（10金币）、
 
 two Sentries for 100 gold
-0金币）、两个守卫（100金币）
+两个守卫（100金币）
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
 > 阴暗修复者出售暗视护目镜（10金币）、

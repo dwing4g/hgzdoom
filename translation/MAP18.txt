@@ -17,7 +17,7 @@ Earth Mother:    Return to us victorious, Zan!
 大地之母：以胜利归来，瓒！
 
 Loading...
-加载中...
+加载中……
 
 A big rock.
 一块大石头。
@@ -44,7 +44,7 @@ But before you ascend into paradise...
 ……你必须深入地狱。
 
 ACT II
-ACT II
+第二幕
 
 THE CORE OF HELL ERUPTS
 地狱核心爆发了
@@ -428,7 +428,7 @@ forget about the arcane salts, I need pink ones.   If this works out, we can sta
 忘了秘盐，我需要粉色的。如果这次成功了，我们就能以高价出售强力药剂！
 
 Blood Rites - Chapter II
-血之仪式 第二章
+血之仪式 - 第二章
 
 [...]    and for the halfblooded bastards who wish to pursue the call of their stronger side, the answers lie within the
 [...] 对于那些渴望追随自身更强一面的混血贱种，答案就藏在原
@@ -533,7 +533,7 @@ Bag of Holding - 350g
 储物袋 - 350克
 
 .oO   JOURNAL OF ZAN THE BONEBREAKER   Oo.
-.oO   ‘碎骨者’瓒的日志   Oo.
+.oO   “碎骨者”瓒的日志   Oo.
 
 > Stranded. Need to find some food and get my bearings
 > 被困。需要寻找食物并确定方位

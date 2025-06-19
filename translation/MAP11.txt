@@ -1,5 +1,5 @@
 ACT I
-ACT I
+第一幕
 
 THE UNDERWORLD IS DYING
 地下世界正在消亡
@@ -47,7 +47,7 @@ Crystal Curator:    Let us hurry! We can't let her get away like this!
 水晶管理员：让我们快点！不能让她就这样逃掉！
 
 Tip: Remember that you can ask friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：记住你可以用使用键（默认：E）让友方单位跟随你或保持位置。
+提示：记住你可以用使用键（默认：E键）让友方单位跟随你或保持位置。
 
 Crystal Curator:    *Groans*
 水晶管理员：*呻吟着*
@@ -281,20 +281,20 @@ Tip: Remember that you can inspect your currently selected item with (default: E
 提示：记得可以按（默认：回车键）检查当前选中的物品。
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
-如果你无法看清背景的植物，请调高伽马值使其 barely visible（勉强可见）。
+如果你无法看清背景的植物，增加伽马值使其勉强可见
 
 Press Strafe Left (default: A) to decrease gamma
-按左移（默认：A）以降低伽马值
+按左移（默认：A键）减少伽马值
 
 Press Strafe Right (default: D) to increase gamma
-按右移（默认：D）以增加伽马值
+按右移（默认：D键）增加伽马值
 
 Press Use (default: E) to continue
-按使用（默认：E）继续
+按使用（默认：E键）继续
 
 You can always adjust this setting from Options - Display Options
-你随时可以通过选项 - 显示设置调整此设置
+你可以随时从选项 - 显示设置中调整此设置
 
 Somewhere in the Underworld...
-在冥界某处……
+地下世界中的某处……
 
