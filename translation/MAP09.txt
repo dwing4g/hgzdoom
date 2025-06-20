@@ -1,5 +1,5 @@
 This gate requires a Crystal key to open.
-这扇门需要用水晶钥匙开启。
+这道大门需要用水晶钥匙打开。
 
 Lith:   *Hums*
 利思：*哼着*
@@ -35,13 +35,13 @@ The switch appears to be functional but the security bars won't budge.
 开关看似正常运作，但安全栏杆纹丝不动。
 
 This door requires an Earth key to open.
-这扇门需要用大地钥匙开启。
+这扇门需要用大地钥匙才能打开。
 
 This door requires an Axe key to open.
-这扇门需要用斧钥匙开启。
+这扇门需要用斧钥匙才能打开。
 
 This door requires a Crystal key to open.
-这扇门需要用水晶钥匙开启。
+这扇门需要用水晶钥匙才能打开。
 
 The switch does nothing, but you don't have much need for a portal anymore.
 开关毫无作用，但你已不再需要传送门了。
@@ -116,7 +116,7 @@ CHIEFTAIN ADJUNCT'S OFFICE
 首领助理办公室
 
 VALC LABORATORIES - NO UNAUTHORISED PERSONNEL ALLOWED
-瓦尔克实验室——禁止未经授权的人员进入
+瓦尔克实验室 - 禁止未经授权的人员进入
 
 EMERGENCY ONLY
 仅限急用
@@ -173,10 +173,10 @@ Day 197. They are beautiful! And Zura still hasn't noticed the missing Goblins..
 第197天。它们太美了！祖拉仍然没注意到失踪的哥布林……不，她根本没看到我亲爱的
 
 Crawlers rise from their worthless flesh! Yes, yes, I can already see them swarm Hell itself! Just like in the dreams!
-爬行者从毫无价值的肉身上苏醒！是的，是的，我已经能看见它们 swarm（涌向）地狱本身！就像梦中一样！
+爬行者从毫无价值的肉身上苏醒！是的，是的，我已经能看见它们涌向地狱本身！就像梦中一样！
 
 Universal Alchemist - Mixer Guide
-全能炼金术士——混合指南
+全能炼金术士 - 混合指南
 
 (You skim through the book for useful recipes. It also looks like one of the pages has been torn away)
 （你翻阅书籍寻找有用的配方。看起来其中一页似乎被撕去了）
@@ -278,7 +278,7 @@ And look what she's gifted me! My own stock of human slaves. Just what I needed 
 （一张染血的便条躺在死巫师身旁）
 
 Lith has gone completely mad!   She was behind the missing staff members...  and this dark slime...   She's somehow
-利思彻底疯了！她策划了失踪的工作人员……还有这黑暗黏液……她 somehow 管
+利思彻底疯了！她策划了失踪的工作人员……还有这黑暗黏液……不知道她用什么方法打
 
 managed to make it grow and expand... for how long has she been doing this? Chieftain Zura is nowhere to be found
 理让它们生长蔓延……她究竟做了多久？首领祖拉无影无踪，（文字在此处突

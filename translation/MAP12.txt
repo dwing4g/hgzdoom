@@ -35,7 +35,7 @@ Crystal Curator:    Can't... hold out... much... longer... go! Go!!!
 水晶管理员：撑不住了……坚持不了多久……去吧！快走！！！
 
 The pedestal is empty.
-祭坛是空的。
+底座是空的。
 
 Conscript:    *Annoyed mumble*
 征兵者：*烦躁地嘟囔*
@@ -107,7 +107,7 @@ The lock appears to have a triangular hollow socket.
 锁似乎有一个三角形的凹槽。
 
 This door is locked from the inside.
-这扇门是从内部上锁的。
+这扇门被内部锁住了。
 
 These doors require a Golden key to open.
 这些门需要用黄金钥匙才能打开。
@@ -119,7 +119,7 @@ These doors require a Copper key to open.
 这些门需要用铜钥匙才能打开。
 
 This door requires a Withered Vine key to open.
-这扇门需要用枯藤钥匙才能打开。
+这扇门需要用枯萎的藤蔓钥匙才能打开。
 
 These doors require a Copper key to open.
 这些门需要用铜钥匙才能打开。
@@ -182,7 +182,7 @@ the basement while the other took over the chapel. Looks like we'll have to dish
 （这本油污的典籍似乎记载着体术大师的日记）
 
 16/3rd/1106.   Darn it, the rumors were true!   Those bleeding Iron Division orcs are up to no good again, having left
-1106年3月16日。该死的，传言是真的！那些流血的铁军兽人又在搞什么鬼，他们已经离
+1106年3季16日。该死的，传言是真的！那些流血的铁军兽人又在搞什么鬼，他们已经离
 
 their hideout and pillaging our towns!    'cept word is, this time they're out for war!  The Blue Baron better be ready
 开藏身之处并开始洗劫我们的城镇！据说这次他们是来打仗的！幽蓝男爵最好做好准
@@ -191,7 +191,7 @@ to deal with this.  I can already see the droves of wounded he'll send me to sew
 备应对这一切。我已经能想象到他要我缝合的伤员群了。赶紧开始准备工作……
 
 18/3rd/1106. At last!  The demons are here to protect, and they've brought these unholy books... told the servants
-1106年3月18日。终于！恶魔们来了，他们带来了这些不洁之书……让仆人
+1106年3季18日。终于！恶魔们来了，他们带来了这些不洁之书……让仆人
 
 to keep an eye out for them.  My cursed siblings will surely want to get them for themselves, so they can show who's
 们留意这些书。我的诅咒兄弟们肯定想据为己有，以此证明谁才是家主
@@ -200,7 +200,7 @@ the house leader.   Oh, but the servitors are loyal to me.  Who else treats thei
 。哦，但侍从们忠于我。还有谁会在布道后照顾他们的伤口呢？哼！
 
 19/3rd/1106. As foreseen, Orc filth have come knocking at our gates! The unholy seals have made our defenses truly
-1106年3月19日。正如预见的那样，腐烂的兽人竟敲响了我们的大门！不洁封印让我
+1106年3季19日。正如预见的那样，腐烂的兽人竟敲响了我们的大门！不洁封印让我
 
 impenetrable...  though this makes me even more worried of what my brothers are up to. What if one of them thinks to
 们的防御变得坚不可摧……但这反而让我更加担忧兄弟们的所作所为。万一其中
@@ -248,7 +248,7 @@ you shall be ready to ascend into the afterlife as a God, and look with pity upo
 （一本装订整齐的螺旋笔记本是心灵大师的日记）
 
 Day 14, 3rd Quarter, Anum 1106
-安努姆1106年第三季第14天
+安努姆1106年，第三季度，第14天
 
 I have noticed my brother having quite an anxious grin at the dinner table today. Must be something in regard to the
 我注意到今天晚餐时弟弟脸上挂着相当焦虑的笑容。想必与他近期对精灵
@@ -257,7 +257,7 @@ elven temple he's taken an archeological interest in.  Perhaps it's time for me 
 神殿表现出的考古兴趣有关。或许该趁此机会占卜他的发现结果……
 
 Day 19, 3rd Quarter, Anum 1106
-安努姆1106年第三季第19天
+安努姆1106年，第三季度，第19天
 
 Why, who comes knocking at our gates today? The orcs? A mere day after we welcomed our demonic allies with a feast!
 咦，今天谁来敲我们大门了？兽人？就在我们用盛宴欢迎恶魔盟友的第二天！
@@ -269,7 +269,7 @@ their veins.  Luckily for me, I have honed my telekinetic skills quite well. I s
 是，我已将念力技能修炼得相当熟练。很快就能看看我的兄弟姐妹们会如何反应……
 
 Day 54, 3rd Quarter, Anum 1106
-安努姆1106年第三季第54天
+安努姆1106年，第三季度，第54天
 
 Mistress Nithriel! What a pleasant visit it was. We had a conversation about the Crawlers and Golems we've received
 妮丝瑞尔女士！这次拜访真愉快。我们聊了几天前收到的爬行者和石像鬼。训
@@ -284,7 +284,7 @@ my sister.  At least my idiotic brother is still trapped away, unable to distrac
 （灵女的日记似乎用一种你意外能理解的奇异语言书写）
 
 21, 3rd Qrt. An. 1106
-安努姆1106年第三季第21天
+安努姆1106年，第三季度，第21天
 
 Demons have been around for three days and I've already grown tired of them.     Their stench has permeated the
 恶魔已经存在三天了，我已经厌倦它们了。他们的臭味渗透了整个庄园，他们
@@ -296,7 +296,7 @@ weren't for the orcish scum they're holding at bay. There is so much tension flo
 把它们关进笼子里了。这里充满了如此多的紧张感……我愈发焦躁不安。
 
 Day 50, 3rd Qrt. An. 1106
-安努姆1106年第三季第50天
+安努姆1106年，第三季度，第50天
 
 An Initiate has approached me today, asking for a Soul Stone. Apparently, the all-enlightened Body Master has
 一位入门者今天前来向我请求灵魂石。据称，全知全能的体术大师被他的弟
@@ -311,7 +311,7 @@ have enchanted it to always shift its position when faced.  It should be enough 
 魔法使灵魂石始终处于移动状态……这应该足以暂时确保它的安全……
 
 Day 54, 3rd Qrt. An. 1106
-安努姆1106年第三季第54天
+安努姆1106年，第三季度，第54天
 
 To my great surprise, Mistress Nithriel has visited us today. She looked rather exhausted, carrying this strange
 令我意外的是，妮丝瑞尔女士今天来访了。她看起来相当疲惫，手中携带着一个
@@ -326,7 +326,7 @@ She asked me to claim one of the demon books and accompany her.  At last! A chan
 （灵女的日记似乎用一种你意外能理解的奇异语言书写）
 
 21, 3rd Qrt. An. 1106
-安努姆1106年第三季第21天
+安努姆1106年，第三季度，第21天
 
 Demons have been around for three days and I've already grown tired of them.     Their stench has permeated the
 恶魔已经存在三天了，我已经厌倦它们了。他们的臭味渗透了整个庄园，他们
@@ -338,7 +338,7 @@ weren't for the orcish scum they're holding at bay. There is so much tension flo
 把它们关进笼子里了。这里充满了如此多的紧张感……我愈发焦躁不安。
 
 Day 50, 3rd Qrt. An. 1106
-安努姆1106年第三季第50天
+安努姆1106年，第三季度，第50天
 
 An Initiate has approached me today, asking for a Soul Stone. Apparently, the all-enlightened Body Master has
 一位入门者今天前来向我请求灵魂石。据称，全知全能的体术大师被他的弟
@@ -353,7 +353,7 @@ have enchanted it to always shift its position when faced.  It should be enough 
 魔法使灵魂石始终处于移动状态……这应该足以暂时确保它的安全……
 
 Day 54, 3rd Qrt. An. 1106
-安努姆1106年第三季第54天
+安努姆1106年，第三季度，第54天
 
 To my great surprise, Mistress Nithriel has visited us today. She looked rather exhausted, carrying this strange
 令我意外的是，妮丝瑞尔女士今天来访了。她看起来相当疲惫，手中携带着一个
@@ -371,25 +371,25 @@ Today Body Master give me his room gem to keep safe. Mind dogs lurk around libra
 今天体术大师将他房间的宝石交给我保管。心灵狗在图书馆附近徘徊，但它们不知道宝石在我这里。
 
 NO PASSWORD, NO ENTRY!!!
-NO PASSWORD, NO ENTRY!!!
+无密码，无权进！！！
 
 I knew it would happen!  That Mind Master slime has waited for us to find something of value and used his spells on
-我早料到了！那个心灵大师的卑鄙家伙早已等待我们发现有价值的物品，并用他的魔法控制
+我早料到了！那个心灵大师的卑鄙家伙早已等待我们发现有价值的物品，并用他的魔法控制了
 
 our brethren! Someone stole the crystal powering the inner temple gate and trapped my master inside! I went to look
-了我们的兄弟！有人偷走了驱动内殿大门的水晶，将我的主人困在里面！我去寻找那群渣滓
+我们的兄弟！有人偷走了驱动内殿大门的水晶，将我的主人困在里面！我去寻找那群渣滓，
 
 for the scum and found him in the chapel, guarding the temple key with a powerful psionic field.  He knows well that
-，在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的
+在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的手下，
 
 we outnumber his men, so he's planning to starve my master out! And no other cyan crystal we tried could unlock him!
-手下，因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其他蓝水晶都无法解开他！
+因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其它青水晶都无法解开他！
 
 We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides
-我们必须采取行动夺回被盗物品。经过一些研究后，我发现了一种制作提供心理保
+我们必须采取行动夺回被盗物品。经过一些研究后，我发现了一种制作提供心理防护
 
 psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish
-护冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还
+的冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还
 
 it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
 需要几样材料才能完成它……大脑很容易获取，而灵女肯定拥有灵魂石。不过我还
@@ -404,22 +404,22 @@ our brethren! Someone stole the crystal powering the inner temple gate and trapp
 我们的兄弟！有人偷走了驱动内殿大门的水晶，将我的主人困在里面！我去寻找那群渣滓，
 
 for the scum and found him in the chapel, guarding the temple key with a powerful psionic field.  He knows well that
-在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的手
+在教堂找到了他——他正用强大的精神力场守护着神殿钥匙。他知道我们的人数远超他的手下，
 
 we outnumber his men, so he's planning to starve my master out! And no other cyan crystals we tried could free him...
-下，因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其他青水晶都无法解开他……
+因此计划用饥饿逼迫我的主人投降！而且我们尝试过的其它青水晶都无法解开他……
 
 We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides
-我们必须行动起来夺回被盗物品。经过一些研究后，我发现了一种制作提供心理防护
+我们必须采取行动夺回被盗物品。经过一些研究后，我发现了一种制作提供心理防护
 
 psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish
-的冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还需
+的冠冕的方法。我们可以突破那个精神力场，将这些家伙一举拿下！但首先，我还
 
 it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
-要几样材料才能完成它……大脑很容易获取，而灵女肯定拥有灵魂石。不过我还需要
+需要几样材料才能完成它……大脑很容易获取，而灵女肯定拥有灵魂石。不过我还
 
 of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them.
-一种灵菇……它们只生长在高精神力场辐射影响的区域，所以得花些时间去找。
+需要一种灵菇……它们只生长在高精神力场影响的区域，所以得花些时间去找。
 
 Since our conscripts may either miss their tongues or ears, we concluded that the best way to handle
 由于我们的士兵可能要么失去舌头要么失去耳朵，我们

@@ -2,7 +2,7 @@ Bear Warrior:    The Grove portal should still be usable, let's head in there qu
 熊战士：绿洲传送门应该还能使用，我们快进去吧。
 
 The table is filled with scribing tools, basic inks and plain parchments.
-桌面上摆满了书写工具、基础墨水和普通羊皮纸。
+这张桌子上摆满了书写工具、基础墨水和普通羊皮纸。
 
 Reaver:    Don't shoot! Friendly.
 掠夺者：别开枪！是友军。
@@ -41,16 +41,16 @@ The glass is heavily cracked, and looks like it could break any moment.
 （这块石板似乎蕴含着大地魔法咒语。不过你不会读这种文字。）
 
 This switch requires a Vine key to open the door.
-这个开关需要用藤蔓钥匙才能打开门。
+此开关需要用藤蔓钥匙才能开门。
 
 This door requires an Earth key to open.
-这扇门需要大地钥匙才能开启。
+这扇门需要用大地钥匙才能打开。
 
 The portal's activation seems to be funneling away the door's power.
 传送门的激活似乎正在抽走门的能量。
 
 This switch requires a Vine key to open the door.
-这个开关需要用藤蔓钥匙才能打开门。
+此开关需要用藤蔓钥匙才能开门。
 
 The portal's activation seems to be funneling away the door's power.
 传送门的激活似乎正在抽走门的能量。
@@ -59,7 +59,7 @@ Looks like the auxiliary power is out.
 看起来备用能量已经耗尽了。
 
 This door requires a Vine key to open.
-这扇门需要用藤蔓钥匙才能开启。
+这扇门需要用藤蔓钥匙才能打开。
 
 Reaver:    Don't shoot! Friendly.
 掠夺者：别开枪！是友军。
@@ -71,7 +71,7 @@ Bear Warrior:    Tagging along would be more helpful than hiding in a closet ind
 熊战士：跟在后面确实比躲在储物柜里更有用。
 
 This door requires a Stone key to open.
-这扇门需要用石钥匙才能开启。
+这扇门需要用石钥匙才能打开。
 
 Bear Warrior:    Now THAT was a blast! Can't believe we're still in one piece.
 熊战士：那家伙可真够劲！简直不敢相信我们还能完好无损。
@@ -122,13 +122,13 @@ pantry and be able to carry it all into a mere clay tablet? Still, it does toll 
 都缩小到一块陶土板上并携带？不过，这仍会大量消耗我的魔力……
 
 South - The Great Stump
-南方——巨树桩
+南 - 巨树桩
 
 East - Reaver Headquarters
-东——掠夺者总部
+东 - 掠夺者总部
 
 West - Grove Portal Cave
-西——绿洲传送洞穴
+西 - 绿洲传送洞穴
 
 (You look over what seems to be a report written in bloody demonic runes)
 （你俯视似乎是一份用血腥恶魔符文书写的报告）
@@ -164,25 +164,25 @@ battlefield. Nobody could find her corpse...But I worry too much, it's not like 
 （你注意到提娅媞留下的旧笔记。看起来附近邪教徒已经发现了它）
 
 I've been doing my best to hamper this sudden invasion from the shadows. The ventilation shafts helped
-我一直尽力阻碍这场突如其来的暗中入侵。
+我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-通风井帮助我悄然行动。我听到邪教徒收到命令要炸毁并坍塌出口。
+而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
-他们正在封锁整个据点。混蛋！……不过，我已成功进入——
+他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
 
 Crystal Shop and move all the merchandise upstairs. I must delay them from getting their hands on our
-水晶商店，把所有商品搬到楼上。我必须拖延他们获取我们科技的脚步。我甚
+并将所有商品搬到了楼上。我必须拖延他们获取我们科技的脚步。
 
 tech.    I even trashed a few power cores,  but they heard the noise so I had to break the ladder and go.
-至毁掉了一些能量核心，但他们听到了动静，所以我只好折断梯子逃走了。
+我甚至毁掉了一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
 
 Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters need to break the ward[...]
-运气不错，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障[...]
+幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障[...]
 
 (A series of magic runes are carved into the tablet. The lower part is not yet complete)
-（一系列魔法符文刻在石板上。下方部分尚未完成）
+（一系列魔法符文刻在石板上。下半部分尚未完成）
 
 The Forbidden Caves - Chapter 2: The Crystal Heart
 禁地洞穴 - 第二章：水晶之心
@@ -221,34 +221,34 @@ uncover new limits and shape the future.  But good today may well be evil tomorr
 然而今日的善行，或许正是明日的恶果。真理才是最终审判者。
 
 History of the Iron Division - Chapter 4: The Castes
-铁军史 - 第四章：阶层划分
+铁军史 - 第四章：种姓
 
 [...]   and upon settling within the caves of Hedon, the greenskins were divided into six castes, each
-[...] 他们在赫顿的洞穴中安顿下来后，绿皮兽人被划分为六个种姓，
+[...] 他们在赫顿的洞穴中安顿下来后，绿皮人被划分为六个种姓，
 
 responsible with a part of the stability of their no longer nomadic tribe.    They would all use their
-每个种姓负责维持其不再游牧部落的稳定。他们将各自天赋用于不同
+每个种姓负责维持其不再游牧部落的部分稳定。他们将用各自天赋以不同方式行事，
 
 gifts in various ways,  with the major purpose of erecting Valc from cold stone and turning it into a
-目的，主要目标是用冷石建造瓦尔克，并将其变为宏伟的城市。他们
+主要目的是从冷石中建造瓦尔克，并将其变为宏伟的城市。
 
 grand city. No longer would they seek their place, for the crystal caverns gave them everything.
-不再需要寻找自己的位置，因为水晶洞穴已为他们提供了一切。
+他们不再需要寻找自己的位置，因为水晶洞窟已赋予他们一切。
 
 The Lancers became the just keepers of the Crystal Heart.
-长枪团成为水晶之心的守护者。
+长枪团成为水晶之心的公正守护者。
 
 The Earth Mothers harnessed the old ways of magic, and kept the orc traditions alive.
-大地之母运用古老的魔法传统，延续兽人习俗。
+大地之母们掌握了古老魔法之道，并延续了兽人的传统。
 
 The Bear Warriors held the Division's might high.
-熊战士高举军团的力量。
+熊战士们高举军团的力量。
 
 The Witches used their knowledge to push new boundaries.
-女巫利用知识突破新的界限。
+女巫们用知识推动新的边界。
 
 The Reavers became feared shadow guardians.
-掠夺者化身为令人畏惧的影子守卫。
+掠夺者们成为令人畏惧的影子守护者。
 
 And the Fixers would make the weakest of metal strong.
 而修复者将最脆弱的金属变得强大。
@@ -446,20 +446,20 @@ will reflect all the pain and damage back to the aggressor. - Grand Earth Mother
 伤害和痛苦反射给攻击者。——伟大的大地之母布里扎
 
 Scroll of Magma Ball - 1x bowl of Scribe Embers, basic warm inks, plain parchment
-熔岩球卷轴 — 1份抄写者余烬碗、基础暖色墨水、普通羊皮纸
+熔岩球卷轴 - 1碗抄写者余烬、基础温墨水、普通羊皮纸
 
 (A drawing stencil depicts a clump of fire and earth shaped into a ball)
-（绘图模板描绘一团火与土融合成的球体）
+（一幅绘图模板描绘着一团火与土融合成球状）
 
 Scroll of Nourish - 1x mortar of Earth Pigment, basic warm inks, plain parchment
-滋养卷轴 — 1份大地颜料研钵、基础暖色墨水、普通羊皮纸
+滋养卷轴 - 1碗大地颜料、基础温墨水、普通羊皮纸
 
 (A drawing stencil depicts a sprouting earth plant)
-（绘图模板描绘一株萌芽的植物）
+（一幅绘图模板描绘着一株萌芽的大地植物）
 
 Scroll of Dispel Magic - 1x can of Enchanted Purple Ink, basic ink, plain parchment
-驱魔卷轴 — 1罐附魔紫墨水、基础墨水、普通羊皮纸
+驱魔卷轴 - 1罐附魔紫墨水、基础墨水、普通羊皮纸
 
 (A drawing stencil depicts a shattered spirit spiral)
-（绘图模板描绘一个破碎的精神螺旋）
+（一幅绘图模板描绘着破碎的精神螺旋）
 

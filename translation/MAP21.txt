@@ -11,22 +11,22 @@ Pit Lord Commander:    No!!! We can't let her get any closer! Do something!!!
 深渊领主指挥官：不！！！我们不能让她靠近！想办法！！！
 
 Pit Lord Commander:    NO!!! How is this possible?!... we have failed the Baron!!!
-深渊领主指挥官：不！！！这怎么可能？...我们辜负了男爵！！！
+深渊领主指挥官：不！！！这怎么可能？……我们辜负了男爵！！！
 
 A powerful magic ward keeps the gate sealed.
 一道强大的魔法屏障封住了大门。
 
 Blue Baron:    ...
-幽蓝男爵：...
+幽蓝男爵：……
 
 Blue Baron:    Tell me, Halfblood - how much does a fly know of the world around the rotten fruit it feasts upon?
 幽蓝男爵：告诉朕，混血人——你可知腐烂果实在上空盘旋的飞虫，对世界了解多少？
 
 You had the chance to burrow yourself away from the horrors of the Void... but you persisted.
-你曾有机会逃离虚空的恐怖...却依然坚持前行。
+你曾有机会逃离虚空的恐怖……却依然坚持前行。
 
 ...and every insect that lives to irritate is doomed to the same fate...
-...而每只活到恼怒的昆虫，终将面临同样的命运...
+……而每只活到恼怒的昆虫，终将面临同样的命运……
 
 ...it gets squashed.
 ……它会被碾碎。
@@ -146,10 +146,10 @@ Abhaoth:    The barrier won't yield until you put all three soul fragments in pl
 阿波豪斯：屏障不会消散，直到你将三块灵魂碎片全部归位。
 
 The soul key crystals are not aligned.
-灵魂钥匙水晶未对齐。
+灵魂钥匙水晶尚未对齐。
 
 Eraanthe:    Urgh! You slithering sack of slugs! This isn't over!!! One day, I will have my revenge...
-埃拉安瑟：啧！你这蠕动的 slug 垃圾袋！这一切还没结束！！！总有一天我会复仇……
+埃拉安瑟：啊！你这只滑溜溜的鼻涕虫袋子！这一切还没结束！！！总有一天，我会复仇……
 
 Nithriel:    Stomp her, you fool! Why did you let her escape?!
 妮丝瑞尔：踩死她，你这个蠢货！为什么放她逃走了？！
@@ -197,7 +197,7 @@ Abhaoth:    Zan!!!... No!...
 阿波豪斯：瓒！！！……不！……
 
 Abhaoth:    One down, two more to go!
-阿波豪斯：一个倒下，还有两个要对付！
+阿波豪斯：一个倒下了，还有两个要对付！
 
 Abhaoth:    Two down, get the last one before it's too late!
 阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
@@ -479,7 +479,7 @@ Bear Warrior:    Who's it going to be next, huh? I bet they'll leave you last. T
 熊战士：接下来会轮到谁呢？我打赌他们会最后才轮到你。他们想让你受苦。
 
 Bear Warrior:    I'll gladly take a painful death over living on in this shitty new world...
-熊战士：与其苟活在这个 shitty 新世界，我宁愿选择痛苦的死亡……
+熊战士：与其苟活在这个糟糕的新世界，我宁愿选择痛苦的死亡……
 
 Bear Warrior:    Hey... if you wanna try doing something stupid... we've got your back.
 熊战士：嘿……如果你想尝试做些愚蠢的事……我们会在你身后。
@@ -755,7 +755,7 @@ Visitors came eager to trade goods and war stories. The legend of the Iron Divis
 来访者们热切地想要交易物资和战争故事。铁军的传奇在各地流传开来。
 
 SLADE3 DOOM EDITOR by Simon Judd
-SLADE3 DOOM EDITOR by Simon Judd
+SLADE3 DOOM编辑器由Simon Judd开发
 
 GZDOOM BUILDER
 GZDOOM BUILDER
@@ -785,7 +785,7 @@ anotak - performance optimizations
 anotak - 性能优化
 
 Thanks to EVERYONE who financially supported Hedon on Patreon!
-感谢所有在Patreon上资助赫顿的朋友们！
+感谢在Patreon上资助赫顿的所有人！
 
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
@@ -923,7 +923,7 @@ Everyone:    HAIL THE BONEBREAKER!!!
 所有人：碎骨者万岁！！！
 
 The end...
-结局……
+完结……
 
 Loading...
 加载中……
@@ -935,16 +935,16 @@ These doors won't budge.
 这些门纹丝不动。
 
 These doors are locked from the other side.
-这扇门是从另一侧锁住的。
+这些门被另一侧锁住了。
 
 This door requires a Blood key to open.
-这扇门需要用血钥匙打开。
+这扇门需要用血钥匙才能打开。
 
 This door requires a Bloody Axe key to open.
-这扇门需要用血斧钥匙打开。
+这扇门需要用血斧钥匙才能打开。
 
 This switch requires a Bloody Axe key to operate.
-这个开关需要使用血斧钥匙才能操作。
+此开关需要用血斧钥匙才能操作。
 
 (A journal appears to have been brutally tossed around by an outburst of corrupt tendrils)
 （一本日记似乎被腐化触手的爆发撕扯得支离破碎）
@@ -974,7 +974,7 @@ West - Grove Portal Cave
 西 - 绿洲传送洞穴
 
 Thanks to EVERYONE who financially supported Hedon on Patreon!
-感谢所有在Patreon上支持赫顿的朋友们！
+感谢在Patreon上资助赫顿的所有人！
 
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
@@ -1100,16 +1100,16 @@ WELCOME TO HEDON'S BLOODRITE PATREON GALLERY!
 欢迎来到赫顿的血祀Patreon画廊！
 
 Do you want to feature in here as a supporter of Hedon?
-你想在这里作为赫顿的支持者展示吗？
+您是否希望以赫顿的支持者身份在这里展示吗？
 
 Do you want a chance at having drawn a custom avatar of your choosing?
-你想要一个机会绘制自己选择的定制化身吗？
+您想要一个机会绘制自己选择的定制化身吗？
 
 Do you want to help Hedon grow bigger and hook up to development updates?
-你想帮助赫顿成长并连接到开发更新吗？
+您想帮助赫顿成长并获取开发更新吗？
 
 Then join up on Hedon's Patreon!
-那么加入赫顿的Patreon吧！
+那么请加入赫顿的Patreon吧！
 
 KatG
 KatG

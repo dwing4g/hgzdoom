@@ -17,10 +17,10 @@ Bear Warrior:    These bastards are everywhere! Let's hurry up, we can't let the
 熊战士：这些混蛋无处不在！快点，不能让他们夺走水晶之心！
 
 This switch requires a Stone key to open the door.
-此开关需要石钥匙才能开启大门。
+此开关需要用石钥匙才能开门。
 
 This switch requires an Iron key to open the door.
-此开关需要铁钥匙才能开启大门。
+此开关需要用铁钥匙才能开门。
 
 The gate must be fully powered first.
 大门必须先完全充能。
@@ -41,13 +41,13 @@ TO VALC'S PLAZA
 （这张纸条看起来像是被钉在附近墙上，却被风吹到了地上）
 
 If any survivor gets here, we are holding up in the garrison so link up with us as soon as
-如果任何幸存者到达这里，请在兵营中坚守并尽快与我们汇合。进入庭院
+如果任何幸存者到达这里，请在兵营中坚守并尽快与我们汇合。
 
 you can.   Make sure to hail us before entering the courtyard, or we might open fire on
-前务必向我们呼救，否则我们可能会开火射击。哦，还有，如果你这些异
+进入庭院前务必向我们呼救，否则我们可能会开火射击。哦，还有，
 
 you. Oh, and if any of you cultist freaks can read this, come kiss our asses. -Cpt. Beza
-端狂徒中的任何一个能读到这个，就来亲吻我们的屁股吧。- 贝扎上尉
+如果你这些异端狂徒中的任何一个能读到这个，就来亲吻我们的屁股吧。-贝扎上尉
 
 Captain Dura's Log - Day 239
 队长杜拉的日志 - 第239天
@@ -137,7 +137,7 @@ the depot here, and we can't risk getting flanked while pushing. We've loaded up
 涌来，而我们在推进时无法冒险被侧翼包抄。我们已经补充足够的弹药和
 
 and potions but there's plenty supplies left around if you can get here. Good luck. - Dura
-药剂，但如果你能及时赶到这里，周围仍有大量物资。祝你好运。-杜拉
+药剂，但如果你能及时赶到这里，周围仍有大量物资。祝你好运。- 杜拉
 
 BATH HOUSE OF THE ANCIENTS
 古代浴室
@@ -218,5 +218,5 @@ This door bears a strange feeling. The lock has a small axe symbol etched into i
 这扇门有种奇怪的感觉。锁上刻着一个小斧头的符号。
 
 This door requires a Stone key to open.
-这扇门需要用石钥匙打开。
+这扇门需要用石钥匙才能打开。
 

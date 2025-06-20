@@ -233,7 +233,7 @@ Ugh, you're so boring anyway! Good luck getting Adur's taint without me showing 
 唔，你本来就无聊透顶！没有我的怜悯，你根本无法获得阿杜尔的污秽！！！
 
 These switch requires a Golden key to operate.
-这些机关需要黄金钥匙才能启动。
+这些开关需要用黄金钥匙才能操作。
 
 Lancer Painting:    Zan?!... oh, the Gods have answered my pleas! I am trapped in this painting!
 长枪绘：瓒？……哦，诸神终于回应了我的祈求！我被困在这幅画中了！
@@ -335,10 +335,10 @@ But before you go... while trapped in the painting, my crystals have gathered an
 但在我离开之前……被困在画中时，我的水晶积攒了过多的能量……
 
 ...I'll funnel it into this armor amulet. Take it, along with my gratitude. May it protect you well!
-...我会将它引导到这个护甲符咒中。拿去吧，连同我的感激之情。愿它能好好保护你！
+……我会将它引导到这个护甲符咒中。拿去吧，连同我的感激之情。愿它能好好保护你！
 
 The pedestal is empty.
-祭坛是空的。
+底座是空的。
 
 Primarch Avatar:    You! Down there! You're no servant of Yzbeth, is that right?
 原教化身：你！在下面！你可不是伊兹贝思的手下，对吧？
@@ -362,10 +362,10 @@ Elzriel:    Where are you taking me?! My shrine is here, in Yzbeth's domain! Don
 埃尔兹瑞尔：你在带我去哪？！我的神龛就在伊兹贝思的领地里！别浪费我宝贵的时间！
 
 Elzriel:   Like the fountain? In this place, water is just as precious as gold! Hurry now, my altar is nearby.
-埃尔兹瑞尔：   像喷泉一样？在这里，水比金子还要珍贵！快点，我的祭坛就在附近。
+埃尔兹瑞尔：像喷泉一样？在这里，水比金子还要珍贵！快点，我的祭坛就在附近。
 
 The primarch's avatar remains silent.
-原教的化身沉默不语。
+原教的化身保持沉默。
 
 Elzriel:    Ahh, finally back! Yzbeth's soul should burn for a whole century for defying me like this!
 埃尔兹瑞尔：啊啊，终于回来了！伊兹贝思的灵魂该为这种反抗燃烧整整一个世纪！
@@ -419,7 +419,7 @@ The offering altar has no use, as the primarch's avatar seems to be missing from
 原教献祭祭坛已经没用了，因为原教的化身似乎不在其原本的位置上。
 
 A primarch offering altar.
-一个原教献祭祭坛。
+原教献祭祭坛。
 
 Shady Fixer:    Hey, you actually charged it! We can escape now! One moment, let me just-
 阴暗修复者：嘿，你竟然充了能！我们现在已经能逃出去了！稍等一下，让我……
@@ -632,43 +632,43 @@ Yzbeth:    Oooh... looks like you're already garnering some negativity in here.
 伊兹贝思：噢……看起来你已经在里面积累了不少负面情绪了。
 
 You'll need a shovel to dig here.
-你需要一把铲子才能挖这里。
+你需要一把铲子才能在这里挖掘。
 
 The doors are locked from the other side.
-门从另一侧锁住了。
+门被另一侧锁住了。
 
 The door is locked from the other side.
-这扇门从另一侧锁住。
+门被另一侧锁住了。
 
 The door won't budge.
 门纹丝不动。
 
 The doors won't budge.
-这些门纹丝不动。
+门纹丝不动。
 
 These door requires a Golden key to open.
-这扇门需要黄金钥匙才能打开。
+这扇门需要用黄金钥匙才能打开。
 
 These door requires a Withered Vine key to open.
-这扇门需要枯藤钥匙才能打开。
+这扇门需要用枯萎的藤蔓钥匙才能打开。
 
 These door requires a Golden key to open.
-这扇门需要黄金钥匙才能打开。
+这扇门需要用黄金钥匙才能打开。
 
 These doors require a Golden key to open.
-这些门需要黄金钥匙才能打开。
+这些门需要用黄金钥匙才能打开。
 
 This door requires a Withered Vine key to open.
-这扇门需要枯藤钥匙才能打开。
+这扇门需要用枯萎的藤蔓钥匙才能打开。
 
 These doors require a Golden key to open.
-这些门需要黄金钥匙才能打开。
+这些门需要用黄金钥匙才能打开。
 
 This door requires a Dark key to open.
-这扇门需要暗影钥匙才能打开。
+这扇门需要用暗影钥匙才能打开。
 
 These doors require a Dark key to open.
-这些门需要暗影钥匙才能打开。
+这些门需要用暗影钥匙才能打开。
 
 (A tower of verses is drafted on the pages. The few ones not frantically hatched off make a poem)
 （页面上起草了一座诗篇塔。那些未被疯狂涂改的诗句组成了诗歌）
@@ -707,16 +707,16 @@ rats will claw away at their coffin, and I shall rescue them like a brooding mot
 他们的棺材，我会像忧郁的母亲般救出他们。我们的共同敌人将团结我们。
 
 In how many pieces must my heart be shattered? As I strolled through the bathing hall, I witnessed the gold primarch
-我的心脏必须碎成多少块？当我穿过沐浴厅时，目睹黄金原教与低贱的哥
+我的心必须碎成多少块？当我漫步穿过沐浴厅时，竟目睹黄金原教与一个低贱的哥布林
 
 mingling with a lowly goblin! And he shrouded her away from me! Why doesn't he love me? He only cares about the Baron!
-布林混在一起！他竟将她藏在我眼前！他为何不爱我？他只在乎男爵！
+混在一起！他竟然把我心爱的人藏了起来！他为何不爱我？他只关心男爵！
 
 I took the primarch's head today! Figuratively, of course... I could never slay someone in cold blood. Still, my admirers
-我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，我的
+我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，
 
 were in shock! This declaration of war will show everyone how strong and determined I am. The Baron has no power here!
-崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
+我的崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
 
 The primarch's empty threats are music to my ears.  I propped him in the balcony, where everyone can savor his shame.
 原教空洞的威胁对我来说是悦耳的音乐。我把他架在阳台上，让所有人都能品味他的羞耻。
@@ -752,19 +752,19 @@ rats will claw away at their coffin, and I shall rescue them like a brooding mot
 他们的棺材，我会像忧郁的母亲般救出他们。我们的共同敌人将团结我们。
 
 In how many pieces must my heart be shattered? As I strolled through the bathing hall, I witnessed the gold primarch
-我的心必须碎成多少块？当我漫步穿过沐浴厅时，竟目睹黄金原教与一个卑微的哥布
+我的心必须碎成多少块？当我漫步穿过沐浴厅时，竟目睹黄金原教与一个低贱的哥布林
 
 mingling with a lowly goblin! And he shrouded her away from me! Why doesn't he love me? He only cares about the Baron!
-林混在一起！他竟然把我心爱的人藏了起来！为什么他不爱我？他只关心男爵！
+混在一起！他竟然把我心爱的人藏了起来！他为何不爱我？他只关心男爵！
 
 I took the primarch's head today! Figuratively, of course... I could never slay someone in cold blood. Still, my admirers
-我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，我的
+我今天拿下了原教的头！当然，是比喻意义上的……我绝不会冷血地杀死某人。不过，
 
 were in shock! This declaration of war will show everyone how strong and determined I am. The Baron has no power here!
-崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
+我的崇拜者们震惊了！这场战争宣言将向所有人展示我的强大与决心。男爵在这里毫无权力！
 
 The primarch's empty threats are music to my ears.  I propped him in the balcony, where everyone can savor his shame.
-原教空洞的威胁对我来说是悦耳的音乐。我把他的尸体架在阳台上，让所有人都能品味他的羞耻。
+原教空洞的威胁对我来说是悦耳的音乐。我把他架在阳台上，让所有人都能品味他的羞耻。
 
 He even tried to convince my gardener to free him when visiting my chambers. Too bad my gardener loves me a lot more
 他甚至曾试图说服我的园丁在他访问我的房间时释放他。可惜我的园丁比我更爱他
@@ -791,7 +791,7 @@ then, an old one falls to the ground, heart frozen from the strain. Good. I don'
 （这本书卷似乎包含大量用于附魔与诅咒的魔法公式）
 
 (The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
-（散发着诱人香气的日记似乎属于伊兹贝思。其中没有任何条目标明日期）
+（这本散发着诱人香气的日记似乎属于伊兹贝思。但其中的条目似乎都没有日期）
 
 Another unbridled force of nature was dragged into the abyss by our everlasting hunger.   I was not there, yet
 又一股无法驯服的自然之力被我们的永恒饥饿拖入了深渊。我并未在场，
@@ -1016,10 +1016,10 @@ So he's also bought two chicks
 .oO   “碎骨者”瓒的日志   Oo.
 
 > Stranded. Need to find some food and get my bearings
-> 被困。需要寻找食物并确定方位
+> 被困了，需要寻找食物并确定方位
 
 > To enter the Icon's lair I need taints from 5 primarchs:
-> 要进入图腾巢穴，我需要从5位原教主那里获取污渍：
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
 
 > Gaun -
 > 加恩 -
@@ -1037,19 +1037,19 @@ So he's also bought two chicks
 > 埃鲁丁 -
 
 > To enter the Icon's lair I need taints from 5 primarchs:
-> 要进入图腾巢穴，我需要从5位原教主那里获取污渍：
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
 
 > Gaun - green - wants a crimson salt statue of myself
-> 加恩 - 绿色 - 想要一尊我的赤红盐雕像
+> 加恩 - 绿色 - 想要一座自身的赤红盐雕像
 
 > Adur - purple - wants me to seduce a demonblood
-> 阿杜尔 - 紫色 - 想让我诱惑一位恶魔之血者
+> 阿杜尔 - 紫色 - 想让我引诱一位恶魔之血
 
 Eraanthe will help me if I find her a sacrificial sword
-若我找到埃拉安瑟并为她寻得献祭之剑，她会帮助我
+如果我为埃拉安瑟找到她的献祭之剑，她会帮助我
 
 > Elzriel - gold - wants me to offer him 300 gold coins
-> 埃尔兹瑞尔 - 金色 - 想要我提供300枚金币
+> 埃尔兹瑞尔 - 金色 - 想让我给他提供300枚金币
 
 > Scorlag - blue - wants elixir of life and elixir of death
 > 斯科拉格 - 蓝色 - 想要生命药剂和死神药剂
@@ -1061,17 +1061,17 @@ A wounded Bear asked me to warn our camp of an attack
 一只受伤的熊让我警告我们的营地即将遭遇袭击
 
 Eberon wants me to open the gate by the side of his fort
-埃伯伦希望我打开他堡垒侧边的大门
+埃伯伦想让我打开他堡垒旁的大门
 
 > Port ghost asked me to find his brothers with his pendant
-> 港口幽灵让我用他的吊坠寻找他的兄弟们
+> 港口幽灵请求我用他的吊坠找到他的兄弟们
 
 > Abedun said I need 3 soul key fragments to sap the Baron
-> 阿贝顿说，我需要三块灵魂钥匙碎片来削弱男爵
+> 阿贝顿说我需要3块灵魂钥匙碎片才能削弱男爵
 
 > A lancer trapped inside a painting asked me to rescue her
-> 一名被困在画中的长枪兵请求我救她
+> 一名被困在画中的长枪兵请求我解救她
 
 > Time to end this war. The Baron's citadel awaits me.
-> 现在是结束这场战争的时候了。男爵城堡正等着我。
+> 结束这场战争的时候到了。男爵城堡正等着我。
 

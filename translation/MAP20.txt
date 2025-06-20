@@ -14,13 +14,13 @@ The bottom of the font has a few drops of burning oil.
 水槽底部残留几滴燃烧的地狱火油。
 
 This switch requires an Iron key to operate.
-此开关需用铁钥匙才能开启。
+此开关需要用铁钥匙才能操作。
 
 The bottom of the font has a few drops of blood.
 水槽底部残留几滴鲜血。
 
 This wall looks like it could be broken with a proper tool.
-这堵墙似乎可以用合适的工具打破。
+这堵墙看起来可以用合适的工具打破。
 
 Grimy Primacrh Avatar:    ...who are you?...you have mana?... I need... mana...
 污秽的原教化身：……你是谁？……你竟有魔力？……我需要……魔力……
@@ -383,7 +383,7 @@ Scrawn:    *Mumbles*
 斯克朗：*喃喃自语*
 
 Scrawn:    ...
-斯克朗：...
+斯克朗：……
 
 The tank barely has a few drops of hellfire oil sizzling at the bottom.
 坦克底部仅剩几滴地狱火油在微弱燃烧。
@@ -422,31 +422,31 @@ The pan's rim glows with bright cyan hues.
 锅沿泛着清新的青蓝色光芒。
 
 There are no more anointed bottles to pour this potion into.
-已无圣瓶可盛装此药剂。
+已无圣瓶可盛装此药水。
 
 There are no more anointed vials to pour this potion into.
-已无药剂瓶可盛装此药剂。
+已无圣管可盛装此药水。
 
 There are no more anointed cans to pour this concoction into.
-已无罐子可盛装此药剂。
+已无圣罐可盛装此药剂。
 
 There are no more anointed bottles to pour this concoction into.
 已无圣瓶可盛装此药剂。
 
 There are no more anointed bottles to pour this potion into.
-已无药剂瓶可盛装此药剂。
+已无圣瓶可盛装此药水。
 
 There is no Anointed Phylactery to pour this potion into.
-没有圣约封印容器可用以盛装此药剂。
+没有圣约封印容器可用以盛装此药水。
 
 You hear a low rumble but the machine does nothing.
 你听到低沉的轰鸣声，但机器毫无反应。
 
 This switch requires a Bloody Axe key to operate.
-这个开关需要血斧钥匙才能操作。
+此开关需要用血斧钥匙才能操作。
 
 The mechanism lacks an operation lever.
-机械装置缺少操作手柄。
+这个装置缺少操作杆。
 
 The cracked window could easily be shattered.
 这扇裂开的窗户很容易被击碎。
@@ -539,22 +539,22 @@ This gates won't budge.
 这些大门无法移动。
 
 This door requires a Blood key to open.
-这扇门需要血钥匙才能开启。
+这扇门需要用血钥匙才能打开。
 
 This door requires a Dark key to open.
-这扇门需要暗影钥匙才能开启。
+这扇门需要用暗影钥匙才能打开。
 
 The liquid is pressuring the door shut.
 液体正在将门压紧。
 
 This door requires a Blood key to open.
-这扇门需要血钥匙才能开启。
+这扇门需要用血钥匙才能打开。
 
 This door requires a Dark key to open.
-这扇门需要暗影钥匙才能开启。
+这扇门需要用暗影钥匙才能打开。
 
 This door requires a Blood key to open.
-这扇门需要用血钥匙才能开启。
+这扇门需要用血钥匙才能打开。
 
 SACRIFICIAL BLOOD
 献祭之血
@@ -641,7 +641,7 @@ that awaits us.     Only when life becomes pain, and pain becomes pleasure can w
 那等待我们的……唯有当生命化作痛苦，而痛苦化作愉悦，我们才能完成使命。
 
 would we prepare to descend into the blissful womb of afterlife, if we aren't yearning for its never-ending warmth?
-否则，若非渴望其永无止境的温暖，我们又如何准备沉入来世的 blissful 娩？
+否则，若非渴望其永无止境的温暖，我们又如何准备进入来世的幸福之境呢？
 
 For the Worthless - 2nd Verse
 只为徒劳 - 第二段
@@ -707,7 +707,7 @@ top pan, and they will be ready to catalyse the final concoction.  When everythi
 （底部似乎最近添加了笔记）
 
 It appears that some of us have taken excessive advantage of this great machine and produced potions for their own
-看起来我们中的一些人过度利用了这台伟大的机器，制作了私用药剂。
+看起来我们中的一些人过度利用了这台伟大的机器，制作了私用药水。
 
 private benefit. In order to combat contraband, our Demon masters have cursed the machine so that it may only lend
 为了对抗违禁品，我们的恶魔大师们诅咒了这台机器，使其产物只能
@@ -731,10 +731,10 @@ The instructions are clear now. If the cerberi run out of breath during the ritu
 [...] 要酿造一瓶优质的石肤药水，炼金术士必须使用他最珍贵的魔力储备。但
 
 strengthening potion, the boon this substance offers must be paid for with blood, which should be mixed in equal part
-就像任何强化药剂一样，这种物质带来的好处必须用血液来偿还——应与魔力
+就像任何强化药水一样，这种物质带来的好处必须用血液来偿还——应与魔力
 
 with the mana. The potency of this potion is guaranteed by adding arcane salts - namely the green and cyan ones [...]
-等量混合。通过添加秘盐（尤其是绿色和青色的）来保证药剂的效果 [...]
+等量混合。通过添加秘盐（尤其是绿色和青色的）来保证药水的效果 [...]
 
 (You browse through what looks like an alchemist's notebook. The last entry details how to brew a sleep potion)
 （你翻阅着看起来像炼金术士笔记的书页。最后一条记录详细说明了如何酿造睡眠药水）
@@ -884,7 +884,7 @@ me the way! I wish I had thought of writing their codes on parchment earlier. No
 .oO   “碎骨者”瓒的日志   Oo.
 
 > Stranded. Need to find some food and get my bearings
-> 被困住。需要寻找食物并确定方位
+> 被困了，需要寻找食物并确定方位
 
 > To enter the Icon's lair I need taints from 5 primarchs:
 > 要进入图腾巢穴，我需要从5位原教主那里获取污染：
@@ -908,38 +908,38 @@ me the way! I wish I had thought of writing their codes on parchment earlier. No
 > 要进入图腾巢穴，我需要从5位原教主那里获取污染：
 
 > Gaun - green - wants a crimson salt statue of myself
-> 加恩 - 绿色 - 想要一座我的血红色雕像
+> 加恩 - 绿色 - 想要一座自身的赤红盐雕像
 
 > Adur - purple - wants me to seduce a demonblood
-> 阿杜尔 - 紫色 - 希望我引诱一位恶魔之血者
+> 阿杜尔 - 紫色 - 想让我引诱一位恶魔之血
 
 Eraanthe will help me if I find her a sacrificial sword
-如果我找到埃尔兹瑞尔并给她一把献祭之剑，埃拉安瑟会帮助我
+如果我为埃拉安瑟找到她的献祭之剑，她会帮助我
 
 > Elzriel - gold - wants me to offer him 300 gold coins
-> 埃尔兹瑞尔 - 金色 - 想要我提供300枚金币
+> 埃尔兹瑞尔 - 金色 - 想让我给他提供300枚金币
 
 > Scorlag - blue - wants elixir of life and elixir of death
-> 斯科拉格 - 蓝色 - 需要一瓶生命药剂和一瓶死神药剂
+> 斯科拉格 - 蓝色 - 想要生命药剂和死神药剂
 
 > Erudin - red - wants me to perform a bloody betrayal
-> 埃鲁丁 - 红色 - 想让我执行一场血腥背叛
+> 埃鲁丁 - 红色 - 想让我实施一场血腥背叛
 
 A wounded Bear asked me to warn our camp of an attack
 一只受伤的熊让我警告我们的营地即将遭遇袭击
 
 Eberon wants me to open the gate by the side of his fort
-埃伯伦希望我打开他堡垒旁的大门
+埃伯伦想让我打开他堡垒旁的大门
 
 > Port ghost asked me to find his brothers with his pendant
-> 港口幽灵让我用他的吊坠寻找他的兄弟们
+> 港口幽灵请求我用他的吊坠找到他的兄弟们
 
 > Abedun said I need 3 soul key fragments to sap the Baron
-> 阿贝顿说我要收集3片灵魂钥匙碎片才能削弱男爵
+> 阿贝顿说我需要3块灵魂钥匙碎片才能削弱男爵
 
 > A lancer trapped inside a painting asked me to rescue her
-> 被困在画中的长枪兵请求我救她出去
+> 一名被困在画中的长枪兵请求我解救她
 
 > Time to end this war. The Baron's citadel awaits me.
-> 该结束这场战争了。男爵城堡在等我。
+> 结束这场战争的时候到了。男爵城堡正等着我。
 

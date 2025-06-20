@@ -164,7 +164,7 @@ Flame Beacon Ghost:    ...you can still stop the Baron's conquest... find my bro
 火焰灯塔幽灵：……你仍有机会阻止男爵的征服……找到我的兄弟们……他们会帮助你……
 
 Yzbeth's Gardner:    Did mistress Yzbeth's send me one of her hellions? What are you doi-
-伊兹贝思的加德纳： 女主人伊兹贝思派来了一名地狱之徒吗？你在做什么——
+伊兹贝思的加德纳：女主人伊兹贝思派来了一名地狱之徒吗？你在做什么——
 
 Impaled Brain:    *Sings and hums*
 受刑大脑：*吟唱和哼唱*
@@ -317,10 +317,10 @@ Lord Eberon:    Imagine the pure dread that awaits us. The promised feast of emo
 领主埃伯伦：想象那等待我们的纯粹恐惧。承诺的感官盛宴让我垂涎三尺。
 
 You'll need a shovel to dig here.
-你需要一把铲子来挖掘这里。
+你需要一把铲子才能在这里挖掘。
 
 The switch requires a Crystal key to activate.
-这个开关需要水晶钥匙才能激活。
+此开关需要用水晶钥匙才能激活。
 
 Challenging the Baron without a means to sap his power would be unwise.
 在没有削弱他力量的方法的情况下挑战男爵是不明智的。
@@ -329,7 +329,7 @@ You do not feel prepared to challenge the Baron.
 你并不觉得自己准备好挑战男爵了。
 
 The gate rejects your blood.
-这扇门拒绝你的血液。
+这道大门拒绝你的血液。
 
 (A parchment lies hidden behind the pillow. It appears to contain a rough map of the south-western coast)
 （一张纸隐藏在枕头后面。看起来像是西南海岸的粗略地图）
@@ -347,22 +347,22 @@ The socket has the shape of a chaotic symbol.
 这个插槽的形状是一个混乱的符号。
 
 The door won't budge.
-这扇门无法打开。
+门纹丝不动。
 
 The door is locked from the inside.
-这扇门是从内部锁住的。
+门被内部锁住了。
 
 The gate is locked from the other side.
-这道闸门是从另一侧锁住的。
+大门被另一侧锁住了。
 
 This door requires a Withered Vine key to open.
-这扇门需要枯藤钥匙才能开启。
+这扇门需要用枯萎的藤蔓钥匙才能打开。
 
 These gates require either a Copper or a Golden key to open.
-这些闸门需要用铜钥匙或黄金钥匙才能开启。
+这些大门需要用铜钥匙或黄金钥匙才能打开。
 
 This door requires a Copper key to open.
-这扇门需要用铜钥匙才能开启。
+这扇门需要用铜钥匙才能打开。
 
 (The ledger appears to keep track of thousands of cultists offered for sacrifice)
 （账本似乎记录了数千名被献祭的邪教徒）
@@ -536,10 +536,10 @@ Bag of Holding - 350g
 .oO   “碎骨者”瓒的日志   Oo.
 
 > Stranded. Need to find some food and get my bearings
-> 被困。需要寻找食物并确定方位
+> 被困了，需要寻找食物并确定方位
 
 > To enter the Icon's lair I need taints from 5 primarchs:
-> 进入图腾巢穴需要从五位原教主那里获得污渍：
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
 
 > Gaun -
 > 加恩 -
@@ -557,19 +557,19 @@ Bag of Holding - 350g
 > 埃鲁丁 -
 
 > To enter the Icon's lair I need taints from 5 primarchs:
-> 进入图腾巢穴需要从五位原教主那里获得污渍：
+> 要进入图腾巢穴，我需要从5位原教主那里获取污染：
 
 > Gaun - green - wants a crimson salt statue of myself
-> 加恩 - 绿色 - 想要一座我的猩红盐雕像
+> 加恩 - 绿色 - 想要一座自身的赤红盐雕像
 
 > Adur - purple - wants me to seduce a demonblood
-> 阿杜尔 - 紫色 - 想让我诱惑一位恶魔之血
+> 阿杜尔 - 紫色 - 想让我引诱一位恶魔之血
 
 Eraanthe will help me if I find her a sacrificial sword
-如果我找到一把献祭用的剑，埃拉安瑟会帮助我
+如果我为埃拉安瑟找到她的献祭之剑，她会帮助我
 
 > Elzriel - gold - wants me to offer him 300 gold coins
-> 埃尔兹瑞尔 - 金色 - 想让我向他提供300枚金币
+> 埃尔兹瑞尔 - 金色 - 想让我给他提供300枚金币
 
 > Scorlag - blue - wants elixir of life and elixir of death
 > 斯科拉格 - 蓝色 - 想要生命药剂和死神药剂
@@ -578,40 +578,40 @@ Eraanthe will help me if I find her a sacrificial sword
 > 埃鲁丁 - 红色 - 想让我实施一场血腥背叛
 
 A wounded Bear asked me to warn our camp of an attack
-一只受伤的熊让我警告我们的营地有袭击
+一只受伤的熊让我警告我们的营地即将遭遇袭击
 
 Eberon wants me to open the gate by the side of his fort
-埃伯伦让我打开他堡垒旁边的门
+埃伯伦想让我打开他堡垒旁的大门
 
 > Port ghost asked me to find his brothers with his pendant
 > 港口幽灵请求我用他的吊坠找到他的兄弟们
 
 > Abedun said I need 3 soul key fragments to sap the Baron
-> 阿贝顿说我要获得3块灵魂钥匙碎片才能削弱男爵
+> 阿贝顿说我需要3块灵魂钥匙碎片才能削弱男爵
 
 > A lancer trapped inside a painting asked me to rescue her
-> 一名被困在画中的长枪兵请求我救她
+> 一名被困在画中的长枪兵请求我解救她
 
 > Time to end this war. The Baron's citadel awaits me.
-> 结束这场战争的时候到了。男爵城堡正等待着我。
+> 结束这场战争的时候到了。男爵城堡正等着我。
 
 Minotaur Lord Murguth:    Halfblood! I knew you would come.
-牛头人领主穆尔古斯：    混血人！我知道你会来。
+牛头人领主穆尔古斯：混血人！我知道你会来。
 
 Minotaur Lord Murguth:    Oh... I suppose the burden of our situation was too heavy for you.
-牛头人领主穆尔古斯：    哦……我想我们的处境太沉重了，你承受不住。
+牛头人领主穆尔古斯：哦……我想我们的处境太沉重了，你承受不住。
 
 Minotaur Axeman:    You! Do my eyes deceive me?... come on in, Lord Murguth needs to see you.
-牛头人斧兵：    你！我的眼睛欺骗我了吗？……进来吧，领主穆尔古斯需要见你。
+牛头人斧兵：你！我的眼睛欺骗我了吗？……进来吧，领主穆尔古斯需要见你。
 
 Bear Warrior:    Bonebreaker! You just keep returning from the dead, eh? Come in, Murguth's looking for ya.
-熊战士：    碎骨者！你总是从死里复活，对吧？进来吧，穆尔古斯在找你。
+熊战士：碎骨者！你总是从死里复活，对吧？进来吧，穆尔古斯在找你。
 
 Bear Warrior:    ...nevermind.
-熊战士：    ……算了。
+熊战士：……算了。
 
 Minotaur Lord Murguth:    You have gained more scars since we last met, Halfblood. Welcome back among us.
-牛头人领主穆尔古斯：    自从上次见面以来，你的伤疤又多了不少，混血人。欢迎回来与我们同在。
+牛头人领主穆尔古斯：自从上次见面以来，你的伤疤又多了不少，混血人。欢迎回来与我们同在。
 
 It is difficult to measure time here, but we must have arrived at the Core of Hell a few days after you did.
 在这里测量时间很困难，但我们可以确定，我们抵达地狱核心的时间比你晚了几天。
@@ -650,25 +650,25 @@ Press Use to skip briefing
 按使用键跳过简报
 
 Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more...
-牛头人领主穆尔古斯：    你若没有五位原教主的污染，便无法抵达男爵身边。这本书会告诉你更多……
+牛头人领主穆尔古斯：你若没有五位原教主的污染，便无法抵达男爵身边。这本书会告诉你更多……
 
 Captain Dura:    I was wondering when you'd show up... wait, what? Our lookouts got into trouble?
-队长杜拉：    我正纳闷你何时才会出现……等等，什么？我们的哨兵陷入麻烦了？
+队长杜拉：我正纳闷你何时才会出现……等等，什么？我们的哨兵陷入麻烦了？
 
 Damn it! Alright, I'll send a squad up there to clean up the mess. As for you, come in, Grund wants to see you.
 该死！好吧，我会派一队人上去清理残局。至于你，进来吧，格伦德想见你。
 
 Captain Dura:    You're late, sergeant... and what the fuck happened to the lookout squad? Ugh, Earth's mercy...
-队长杜拉：    你来晚了，中士……那哨兵小队到底发生了什么？他妈的，地球的怜悯啊……
+队长杜拉：你来晚了，中士……那哨兵小队到底发生了什么？他妈的，地球的怜悯啊……
 
 Move your ass inside! Grund wants to have a word with you...
 快点进去！格伦德想和你谈谈……
 
 Captain Dura:    I was wondering when you'd show up... come inside, Grund wants to have a word with you...
-队长杜拉：    我正纳闷你何时才会出现……进来吧，格伦德想和你谈谈……
+队长杜拉：我正纳闷你何时才会出现……进来吧，格伦德想和你谈谈……
 
 Warlord Grund:    So, you're alive. Maybe next time you decide to leave us behind, you won't be as lucky.
-男巫格伦德：    所以，你还活着。也许下次你决定甩下我们时，就不会这么幸运了。
+男巫格伦德：所以，你还活着。也许下次你决定甩下我们时，就不会这么幸运了。
 
 So unless you want to end up like Tiati in that cage over there, you better listen to me very carefully...
 除非你想像提娅媞那样被困在那边的笼子里，否则最好仔细听我说……
@@ -680,10 +680,10 @@ We could've brought more supplies or troops, but we had one less boat thanks to 
 本可以多带些补给或部队，但因为你的缘故少了一艘船。至于提娅媞的失误……
 
 Grrh... so. Murguth has told you about the demon primarchs. I personally don't put any trust in demon tales...
-格...所以穆尔古斯已经告诉你关于恶魔原教的事了。我个人对恶魔的故事完全不信任……
+呃……所以穆尔古斯已经告诉你关于恶魔原教的事了。我个人对恶魔的故事完全不信任……
 
 ...but I'll give you a chance to gain their blessings or taints or whatever, if it helps you kill the Baron.
-...但我会给你一个机会获得他们的祝福、污染或任何东西，只要能帮你杀死男爵。
+……但我会给你一个机会获得他们的祝福、污染或任何东西，只要能帮你杀死男爵。
 
 One day. That's the time you've got to prepare. Once I call for the final assault, you better be right here.
 一天时间。这就是你准备的时间。一旦我发起最后进攻，你最好立刻出现在这里。
@@ -692,28 +692,28 @@ I'm not relying on the Queen of Wrath. You will be the one leading the charge. A
 我不依赖愤怒女王。你会是冲锋的主力。明白了吗？很好。退下吧。
 
 Captain Dura:    You're late to the bloodbath! What the fuck happened to our lookouts? What a fucking mess...
-队长杜拉：    你来晚了！血战已经开始！那哨兵小队到底怎么了？这他妈一团糟……
+队长杜拉：你来晚了！血战已经开始！那哨兵小队到底怎么了？这他妈一团糟……
 
 Press Use to skip briefing
 按使用键跳过简报
 
 Warlord Grund:    Whether you appease the primarchs or not, you have one day. Then, we're going for the kill.
-男巫格伦德：    无论你是否安抚原教主，你只有一天时间。然后，我们就要发起致命一击。
+男巫格伦德：无论你是否安抚原教主，你只有一天时间。然后，我们就要发起致命一击。
 
 Reaver:    Zan! I was sent after you. Something big is going on. Come with me, Grund will brief us.
-掠夺者：    瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
+掠夺者：瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
 
 And keep your head down. The forest is crawling with demons...
 并保持低调。森林里到处都是恶魔……
 
 Reaver:    Zan! I was sent after you. Something big is going on. Come with me, Grund will brief us.
-掠夺者：    瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
+掠夺者：瓒！我奉命追捕你。有大事发生。跟我来，格伦德会向我们说明情况。
 
 Reaver:    Damn it, Zan, don't die on me!!!
-掠夺者：    该死，瓒，别在我面前死了！！！
+掠夺者：该死，瓒，别在我面前死了！！！
 
 Warlord Grund:    Time's up early, sergeant. The demons are making a major move. We must act now.
-男巫格伦德：    中士，时间不等人了。恶魔们正在发动大规模进攻。我们必须立刻行动。
+男巫格伦德：中士，时间不等人了。恶魔们正在发动大规模进攻。我们必须立刻行动。
 
 You're moving in! I hope appeasing the primarchs was worth stealing my elixir and poisoning my warg...
 你们上来了！我希望安抚原教主值得偷走我的药剂并毒害我的狼灵……
@@ -722,10 +722,10 @@ You're moving in! I hope appeasing the primarchs was worth disregarding and stea
 你们上来了！我希望安抚原教主值得无视并从上级身上偷取……
 
 Advisor:    Scouts have reported a large number of demons marching out of the Baron's citadel...
-顾问：    探子报告说，大量恶魔正从男爵城堡中 march 出来……
+顾问：探子报告说，有大量恶魔正从男爵城堡中涌出……
 
 Warlord Grund:    And fire blazing from the spires. Tiati's freaking out... they're preparing something.
-男巫格伦德：    并且塔尖燃起烈焰。提娅媞惊慌失措……他们正在准备什么。
+男巫格伦德：并且塔尖燃起烈焰。提娅媞惊慌失措……他们正在准备什么。
 
 Enough wasting time! This is it, sergeant. The time to fulfil your destiny! The fight of your life!
 别浪费时间了！中士，这就是你实现命运的时刻！你一生中最重要的一战！
@@ -737,13 +737,13 @@ For our fallen sisters! For Valc! Fight with honor! Fight with pride! Fight for 
 为了我们阵亡的姐妹们！为了瓦尔克！以荣誉战斗！以骄傲战斗！为铁军而战！
 
 Reaver:    We won't fail you, sisters! Come on, Zan, I'll take you to our squad. Lead us to victory!
-掠夺者：    我们不会辜负你，姐妹们！来吧，瓒，我会带你去我们的小队。带领我们取得胜利！
+掠夺者：我们不会辜负你，姐妹们！来吧，瓒，我会带你去我们的小队。带领我们取得胜利！
 
 Warlord Grund:    Use the forest to your advantage, we'll keep the other routes secure. Earth protect you!
-男巫格伦德：    利用森林地形，我们会守住其他路线。大地庇佑你们！
+男巫格伦德：利用森林地形，我们会守住其他路线。大地庇佑你们！
 
 Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight beside my sisters once more!
-长枪兵：    我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
+长枪兵：我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
 
 I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
 我有东西给你……在画中被困期间，我的水晶聚集了过量的能量……
@@ -752,13 +752,13 @@ I funneled it into this armor amulet. Take it, along with my gratitude. Now let'
 我把能量注入这枚护符装甲中。拿去吧，还有我的感激之情。现在出发吧！战斗正在等我们！
 
 Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle!
-女巫：    恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
+女巫：恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
 
 Press Use to skip briefing
 按使用键跳过简报
 
 Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight along my sisters once more!
-长枪兵：    我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
+长枪兵：我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
 
 I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
 我有东西给你……在画中被困期间，我的水晶聚集了过量的能量……
@@ -767,13 +767,13 @@ I have something for you... while trapped in the painting, my crystals have gath
 我把能量注入这枚护符装甲中。拿去吧，还有我的感激之情。现在出发吧！战斗正在等我们！
 
 Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle!
-女巫：    恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
+女巫：恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
 
 Shady Fixer:    A birdie told me there's something Grund has that you need. I might be able to help.
-阴暗修复者：    有只鸟告诉我，格伦德那里有你需要的东西。我或许能帮上忙。
+阴暗修复者：有只鸟告诉我，格伦德那里有你需要的东西。我或许能帮上忙。
 
 Shady Fixer:    Hey, do you have any need for that crimson salt? I could buy some off of you...
-阴暗修复者：    嘿，你是否需要那种赤红盐？我可以从你这儿买一些……
+阴暗修复者：嘿，你是否需要那种赤红盐？我可以从你这儿买一些……
 
 Shady Fixer:    So, are you looking to spend that gold? The prices are on the tablet here.
 阴暗修复者：所以，你想花掉这些金币吗？价格都在这里的小板上。
@@ -914,7 +914,7 @@ You don't have any substance to spike the liver with.
 你没有能用来刺激肝脏的物质。
 
 (You pet the warg)
-（你抚摸了狼灵）
+（你摸了摸狼灵）
 
 E. M. Bendi:    That's very kind of you, Zan. It may not be much, but everything counts!
 E.M.本迪：瓒，这非常友善。虽然不多，但每一点都算数！
@@ -1088,10 +1088,10 @@ Witch Brewer:    If we win this war, I better get my own alchemy shop in Valc. A
 女巫酿造师：如果打赢这场战争，我一定要在瓦尔克开间自己的炼金铺子，还要个徒弟来折磨。
 
 Witch:    Yeah! Eat acid you freaks!
-女巫：Yeah！吃酸吧你们这些怪胎！
+女巫：耶！吃酸吧你们这些怪胎！
 
 Witch:    Cultists are so pathetic! They can't match our weapons so they resort to surprise attacks.
-女巫：邪教徒太 pathetic 了！他们武器打不过我们，就只能偷袭。
+女巫：邪教徒太让人讨厌了！他们武器打不过我们，就只能偷袭。
 
 Witch:    Still holding up, Halfblood? If you need healing, there should be a few spare potions around.
 女巫：混血人，还能撑住吗？如果你需要治疗，应该还有一些备用药剂。
@@ -1367,7 +1367,7 @@ Tiati:    She worked me like a puppet! I mustered all my willpower to blow the s
 提娅媞：她把我当提线木偶一样操控！我拼尽全力炸毁了那艘船……那是绝望的举动。
 
 Tiati:    I somehow survived and woke up on the island. I'm so glad you made it! But Nithriel is here too...
-提娅媞：我 somehow 生存了下来，在岛上醒来。真 glad 你平安无事！但妮丝瑞尔也在这里……
+提娅媞：我设法生存了下来，在岛上醒来。我很高兴你平安无事！但妮丝瑞尔也在这里……
 
 Tiati:    Since I can feel the warlock, I can track her too. This is why Grund spared my life and put me here.
 提娅媞：既然我能感知到巫师，我也能追踪她。这就是格伦德为何饶我一命并把我放在这里的原因。
@@ -1592,10 +1592,10 @@ Dwarf Militia:    Go on... hic! Drag me away in chains. Hic! I'll pick their loc
 矮人民兵：去吧…… hic！把我用锁链拖走。 hic！等我清醒了就撬开他们的锁，哈哈哈！ hic。
 
 Dwarf Militia:    Hic!... are you lost? If you can't find it in a cupboard, look it up in a book! Hic!
-矮人民兵： hic！……你迷路了吗？如果找不到，就查书啊！ hic！
+矮人民兵：hic！……你迷路了吗？如果找不到，就查书啊！ hic！
 
 Dwarf Militia:    ...aye! Fate may lead you astray, but you own the legs that walk her path... hic!
-矮人民兵： ……对！命运或许会误导你，但你拥有踏出这条路的双腿…… hic！
+矮人民兵：……对！命运或许会误导你，但你拥有踏出这条路的双腿…… hic！
 
 High Priest Jaromir:    How was the baptism in the sea of flames? Fire Himself has forged you into a steel titan!
 高阶祭司贾罗米尔：火焰之海中的洗礼如何？火神亲自将你锻造成钢铁巨人！
@@ -1682,7 +1682,7 @@ Workshop Boss:    I took a good look at the Paingun. Crazy how the demons have m
 工坊老板：我仔细看了下痛击枪。真是疯狂，恶魔居然能复制我们的水晶设计。
 
 Workshop Boss:    I wonder if Nithriel... I mean she's an elf... and the crystals... and the temple you found...
-工坊老板：我 wonder 如果妮丝瑞尔……我是说她是个精灵……还有这些水晶……以及你发现的那个神殿……
+工坊老板：我想知道如果妮丝瑞尔……我是说她是个精灵……还有这些水晶……以及你发现的那个神殿……
 
 Workshop Boss:    It's hard to stay focused in here. I gotta hurry up and fix this sentry before our scouts return.
 工坊老板：这里很难保持专注。我得赶紧修好这守卫，不然侦察队回来就麻烦了。
@@ -1826,7 +1826,7 @@ Minotaur Pyromancer:    A worthy warrior will live forever among the Gods. Embra
 牛头人火系法师：一位值得尊敬的战士将在诸神中永生。以荣誉拥抱你的死亡吧！
 
 Wounded Fixer:    ...
-受伤的修复者：...
+受伤的修复者：……
 
 Wounded Shieldguard:    Nay, I won't remove me armor! What if the demons gate in right next to me?!
 受伤的盾卫兵：不，我不会脱下盔甲！如果恶魔们就在我的旁边开门呢？！
@@ -1970,7 +1970,7 @@ Eraanthe:    In case you haven't noticed, I haven't given my sword away yet! Do 
 埃拉安瑟：如果你还没注意到的话，我的剑至今还在手！你真的想尝尝它的滋味吗？
 
 Eraanthe:    Don't you have a Baron to kill? Afraid it's you who's going to die? Don't worry, I'll do the job.
-埃拉安瑟：难道你没 Baron 要杀吗？害怕自己会死？别担心，我会替你完成任务。
+埃拉安瑟：难道你还没杀男爵吗？害怕自己会死？别担心，我会替你完成任务。
 
 Eraanthe:    *Gasps* You actually found it? Wait for me behind the antechamber, I'll be there in a moment.
 埃拉安瑟：*惊呼* 你真的找到了？等我一下，我在前厅后面等你，马上就好。
@@ -2012,7 +2012,7 @@ Eraanthe:    A salt statue?! Really? That's it? Oh, he's given you an easy task 
 埃拉安瑟：盐雕？真的？这就是你要找的东西？哦，他一定是故意给你安排个轻松任务来气我！
 
 Eraanthe:    What? Adur asked you to rut a demon and you came to me?... Hah! I'm not that desperate... yet.
-埃拉安瑟：什么？阿杜尔让你和恶魔交配，你却来找我？……哈！我还没 desperate 到那个地步……至少现在还不是。
+埃拉安瑟：什么？阿杜尔让你和恶魔交配，你却来找我？……哈！我还没绝望到那个地步……至少现在还不是。
 
 Eraanthe:    Dumb oaf! What were you thinking?! Blowing the Baron's ship only gave him a push to fly away!
 埃拉安瑟：笨蛋！你当时在想什么？！炸毁男爵的船只会让他的飞艇更轻松逃走！

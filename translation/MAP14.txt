@@ -71,7 +71,7 @@ The machine does not seem to have enough power to be operated.
 这台机器似乎没有足够的能量运作。
 
 You'll need a proper tool to mine this ore vein.
-你需要合适的工具才能开采这条矿脉。
+你需要一把合适的工具才能开采这条矿脉。
 
 Lord Efri:    YOU SLIME!!! I WILL BRING YOUR HEAD TO THE BLUE BARON MYSELF!
 领主埃弗里：你这个污泥！！我亲自将你的头颅带到幽蓝男爵面前！
@@ -80,10 +80,10 @@ You have nothing to offer to this shrine.
 你无法向这座神殿献上任何东西。
 
 The pedestal's locking mechanism prevents the ruby from being removed.
-支撑物的锁定机制阻止红宝石被移除。
+底座的锁定机制阻止了红宝石被移除。
 
 The pedestal is empty.
-支撑物是空的。
+底座是空的。
 
 The door does not seem to have enough power to be operated.
 这扇门似乎没有足够的能量运作。
@@ -95,7 +95,7 @@ The elevator does not seem to have enough power to be operated.
 升降梯似乎没有足够的能量运作。
 
 The door is locked from the inside.
-门从内部锁住了。
+门被内部锁住了。
 
 The door seems stuck.
 门似乎卡住了。
@@ -224,7 +224,7 @@ But your hoof melts in the pit
 但你的蹄子会在火坑中融化
 
 Pay respect to your six masters
-请向六位主人致以敬意
+请向六位大师致以敬意
 
 And the power you shall muster
 你积蓄的力量
@@ -314,7 +314,7 @@ redirect the power to the central pool - the fiery gauges will show us precisely
 > 发现的不只是地狱火药——应该报告给布里扎
 
 > Enter the old Dwarf Town & check if Lith's visions were true
-> 进入旧矮人镇，并确认利思的预言是否属实
+> 进入旧矮人镇，并检查利思的预言是否属实
 
 > Found a weird corruption sample, should report back to Zura
 > 找到一个奇怪的腐化样本，应该返回向祖拉汇报
@@ -332,53 +332,53 @@ redirect the power to the central pool - the fiery gauges will show us precisely
 > 大地之母本迪需要一颗灵石来充能我的心灵王冠
 
 > Workshop Boss needs 6 lumps of Dark Iron for gun parts
-> 工坊老板需要6块暗铁用于枪械零件
+> 工坊老板需要6块暗铁来制作枪支零件
 
 > Smith Hectus needs 8 lumps of Iron for a Great Axe
 > 铁匠赫克图斯需要8块铁矿石打造巨斧
 
 > Smith Hectus is trading ammo for Iron Ore
-> 铁匠赫克图斯用弹药换取铁矿石
+> 铁匠赫克图斯正在用弹药换取铁矿石
 
 > Shady Fixer sells Dark Vision Goggles for 10 gold
 > 阴暗修复者以10金币出售暗视护目镜
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 一位阴暗修复者以10金币出售暗
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-视护目镜，2名守卫换100金币
+以100金币出售2个守卫
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 一位阴暗修复者以10金币出
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-售暗视护目镜，2名守卫换100金币，
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-一个储物袋换300金币
+以300金币出售1个储物袋
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 一位阴暗修复者以10金币出
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-售暗视护目镜，2名守卫换100金币，
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-一个储物袋换300金币
+以300金币出售1个储物袋
 
 Vials of Healing for 10 gold
-10金币可购买治疗药剂
+以10金币出售治疗药剂
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来零件，铁匠可以组装潜水服：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、装满天空之神储备罐的气瓶及几套密封潜水服
+水下呼吸器、充满空气的气瓶以及几套密封服装
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来零件，铁匠可以组装潜水服：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、装满天空之神储备罐的气瓶及几套密封潜水服
+水下呼吸器、充满空气的气瓶以及几套密封服装
 

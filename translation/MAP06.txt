@@ -245,22 +245,22 @@ Abhaoth:   What the-
 *渐弱*  瓒？…… 瓒？！………
 
 The switch is out of power.
-开关已耗尽能量。
+开关已失去能量。
 
 This switch requires a Vine key to open the door.
-这个开关需要藤蔓钥匙才能打开门。
+此开关需要用藤蔓钥匙才能开门。
 
 This door requires an Earth key to open.
-这扇门需要用大地钥匙开启。
+这扇门需要用大地钥匙才能打开。
 
 This door requires a Stone key to open.
-这扇门需要用石钥匙开启。
+这扇门需要用石钥匙才能打开。
 
 Reaver Headquarters Auxilliary Generator
 掠夺者总部辅助发能机
 
 Return Vine Keys after use
-使用后请归还藤蔓钥匙
+使用后归还藤蔓钥匙
 
 KEEP CLOSED
 保持关闭
@@ -275,10 +275,10 @@ Received:  Three root oil jugs for Earth Mother Bendi.  Will keep them inside fo
 收到：三瓶根油用于大地之母本迪。她来时会用到，暂且存放于此。
 
 The dwarven prospector should arrive by the end of the moon.
-矮人勘探者应该会在月圆结束前抵达。
+矮人勘探者应该在月底前到达。
 
 If he is wearing an elemental ring signet,  you may let him in.
-如果他戴着元素戒指徽章，你可以让他进来。
+如果他佩戴着元素戒指印记，你可以让他进入。
 
 Day 233
 第233天

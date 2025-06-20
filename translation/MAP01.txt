@@ -1,5 +1,5 @@
 Welcome to Hedon's beta testing hub!
-欢迎来到赫顿的测试中心！
+欢迎来到赫顿的beta测试中心！
 
 Select a level by jumping in one of the pits and using the front wall.
 请跳入其中一个坑洞并利用前墙选择关卡。
@@ -17,7 +17,7 @@ or email at hedongame@yahoo.com . Thanks, and enjoy yourself! - Zan
 所有意见和报告错误。谢谢，祝你玩得愉快！- 瓒
 
 Map01 - Cold Rock ->Play Normally
-地图01 - 冷岩 ->正常游玩
+地图01 - 冷岩 ->正常游戏
 
 Map02 - Plaza (Minor Spoilers)
 地图02 - 广场（轻微剧透）
@@ -53,7 +53,7 @@ Map10 - Crystal Heart (Major Spoilers)
 ？？？：……醒。来。
 
 This door requires a key to open.
-这扇门需要钥匙才能打开。
+这扇门需要用钥匙才能打开。
 
 The shelf won't budge.
 架子纹丝不动。
@@ -134,7 +134,7 @@ Ghastly Reaver:    *Stares blankly*
 受惊的掠夺者：*呆滞地凝视着*
 
 This door is locked from the other side.
-这扇门是从另一侧锁住的。
+这扇门被另一侧锁住了。
 
 This door requires an Iron key to open.
 这扇门需要用铁钥匙才能打开。
@@ -152,43 +152,43 @@ This seems to be activated somewhere else.
 这似乎是在其他地方被激活的。
 
 I think that tremor from two days ago is related to these giant worms that have been pestering
-我认为两天前的那次震动与这些一直困扰我们的巨型蠕虫有
+我认为两天前的那次震动与这些一直困扰我们的巨型蠕虫有关。
 
 us.    Since I already need to head back to Valc and drop by the Clinic to have my finger checked
-关。既然我需要返回瓦尔克并去诊所检查手指，不如顺便向
+既然我需要返回瓦尔克并去诊所检查手指，
 
 on, I might as well inform the Lancer Council about our problems here. Be back in two days. -Dura
-长枪兵议会报告我们在这里的问题。两天后回来。-杜拉
+不如顺便向长枪兵议会报告我们在这里的问题。两天后回来。-杜拉
 
 Chieftain Zura, I have news. We managed to capture one of the worms that have been troubling us
-首领祖拉，我有消息了。我们成功捕捉到一只近期困扰我们的蠕虫。你可以
+首领祖拉，我有消息了。我们成功捕捉到一只近期困扰我们的蠕虫。
 
 lately.   You could send in one of your Witches now, we will do our best to aid her research. I hope
-现在派一位女巫进来，我们会尽最大努力协助她的研究。希望我们能在它们
+你可以现在派一位女巫进来，我们会尽最大努力协助她的研究。
 
 we find a way to deter them before they cave in all our tunnels, and fi - (the text ends abruptly)
-彻底摧毁所有隧道之前找到阻止它们的方法，和——（文本突然中断）
+希望我们能在它们彻底摧毁所有隧道之前找到阻止它们的方法，并——（文本突然中断）
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
 
 Don't use it unless you can signal someone to let you back in.        The waterfall gate
-除非你能通知某人让你回来，否则不要使用它。水闸门必须保
+除非你能通知某人让你回来，否则不要使用它。
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
+水闸门必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
 
 Don't use it unless you can signal someone to let you back in.        The waterfall gate
-除非你能通知某人让你回来，否则不要使用它。水闸门必须保
+除非你能通知某人让你回来，否则不要使用它。
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
+水闸门必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
 
 The dwarven prospector should arrive by the end of the moon.
-矮人勘探者应该在月圆时分到达。
+矮人勘探者应该在月底前到达。
 
 If he is wearing an elemental ring signet,  you may let him in.
 如果他佩戴着元素戒指印记，你可以让他进入。
@@ -209,82 +209,82 @@ POWER CRYSTAL STORAGE ROOM
 能量水晶仓库
 
 As you may know,  we have been called to join our sisters in the Iron Division's campaign.      We will likely be away
-正如你所知，我们被召唤加入铁军的战役行动。这次我们将离开数月之久，需
+正如你所知，我们被召唤加入铁军的战役行动。这次我们将离开数月之久，
 
 for months, and someone needs to tend to the camp this time.   I know you're eager to further your apprenticeship,
-要有人照看营地。我知道你渴望进一步提升学徒技能，但我们无法带所有人
+需要有人照看营地。我知道你渴望进一步提升学徒技能，但我们无法带所有人同行。
 
 but we cannot take everyone with us.   Tend well to our home, and make sure to gather some firewood, as the cold
-同行。好好照料我们的家园，并确保收集一些柴火，因为寒冷的月亮即将来
+好好照料我们的家园，并确保收集一些柴火，因为寒冷的月亮即将来临。
 
 moon is almost upon us. Earth Mother Druga has also left you a task, she needed some help with finishing an amulet.
-临。大地之母德鲁加也给你安排了一项任务，她需要帮助完成一枚护身符。
+大地之母德鲁加也给你安排了一项任务，她需要帮助完成一枚护身符。
 
 I'll leave you my Spike Gun,  you know where to find the extra mags.     And try not to drink all the wine this time.
 我会留下我的尖刺枪，你知道额外弹夹藏在哪里。这次试着别把酒喝光了。
 
 As your mastress has probably informed you, I need you to finish making an amulet for me. I've
-正如你的女主人可能已告知你，你需要完成制作一枚护身符的任
+正如你的女主人可能已告知你，你需要完成制作一枚护身符的任务。
 
 brought a crystal to the shrine of the Moon Goddess, and I expect the final magical processes
-务。我已经将水晶带到月亮女神的祭坛，预计一个月零一周后魔
+我已经将水晶带到月亮女神的祭坛，预计一个月零一周后
 
 to be complete in a month and a week from now. All that is left for you to do is offer a Moondrop
-法过程会彻底完成。你只需在祭坛上献上一朵月露花即可。
+魔法过程会彻底完成。你只需在底座上献上一朵月露花即可。
 
 Flower on the pedestal. It's a pale flower akin to a lotus, I've recently witnessed one blooming
-这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。一旦
+这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。
 
 near the stone circle.  Once you get the amulet, look behind the fern upstairs for a switch that
-获得护身符，请上楼在蕨类植物后面寻找一个开关，它能开启通往瓦尔
+一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
-克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
+它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
 
 As your mastress has probably informed you, I need you to finish making an amulet for me. I've
-正如你的女主人可能已告知你，你需要完成制作一枚护身符的任
+正如你的女主人可能已告知你，你需要完成制作一枚护身符的任务。
 
 brought a crystal to the shrine of the Moon Goddess, and I expect the final magical processes
-务。我已经将水晶带到月亮女神的祭坛，预计一个月零一周后魔
+我已经将水晶带到月亮女神的祭坛，预计一个月零一周后
 
 to be complete in a month and a week from now. All that is left for you to do is offer a Moondrop
-法过程会彻底完成。你只需在祭坛上献上一朵月露花即可。
+魔法过程会彻底完成。你只需在底座上献上一朵月露花即可。
 
 Flower on the pedestal. It's a pale flower akin to a lotus, I've recently witnessed one blooming
-这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。一旦
+这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。
 
 near the stone circle.  Once you get the amulet, look behind the fern upstairs for a switch that
-获得护身符，请上楼在蕨类植物后面寻找一个开关，它能开启通往瓦尔
+一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
-克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
+它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
 
 (The parchment is scribbled with various alchemical diagrams)
 （手稿上潦草地画着各种炼金术图示）
 
 I've finally received one of those crystals from the Lancers. They call them Time Shards. Quaint object,
-我终于从长枪团收到了一块这样的水晶。他们称之为时间碎片。这是一件奇
+我终于从长枪团收到了一块这样的水晶。他们称之为时间碎片。
 
 it seems to have no bond with darkness, nor gravity.   Wherever I place it, it will float peacefully in time
-特的物件，似乎与黑暗和重力毫无关联。无论将它放在何处，它都会在时空
+这是一件奇特的物件，似乎与黑暗和重力毫无关联。无论将它放在何处，
 
 and space. I was instructed not to fiddle around with it while not wearing my protective crystal amulet,
-中共振漂浮。我被告知不能在不佩戴我的水晶护符时随意摆弄它——否则若
+它都会在时空中共振漂浮。我被告知不能在不佩戴我的水晶护符时随意摆弄它——
 
 for I'd burst into ash in mere moments if I were to break it by accident. I need to find some time to study
-不小心打破它，我将在瞬间化为灰烬。我需要抽出时间进一步研究它。唉，
+否则若不小心打破它，我将在瞬间化为灰烬。我需要抽出时间进一步研究它。
 
 it further.    If only my sisters hadn't decided to begin their campaign and call us all to arms right now...
-只可惜我的姐妹们偏偏在此刻决定开启战役并号召我们全体出征……
+唉，只可惜我的姐妹们偏偏在此刻决定开启战役并号召我们全体出征……
 
 B. I've managed to get one of those odd protection amulets from the Orcs. However, I'll need the
-B. 我终于从兽人那里搞到了一个奇怪的保护符咒。不过我还需要合适的水晶来重新充能
+B. 我终于从兽人那里搞到了一个奇怪的保护符咒。不过我还需要合适的水晶来重新充能它。
 
 proper crystals to recharge it.   I know it's no job for a fence,  but see if you can nab some glowing
-它。我知道这可不是一个普通小偷能干的事，但看看能不能在他们准备补给车队时顺
+我知道这可不是一个普通小偷能干的事，但看看能不能在他们准备补给车队时
 
 shards when they prepare the supply caravan, and drop them at the spot we agreed on, along with
-手弄到一些发光碎片，并把它们带到我们约定的地方，连同我的其他装备一起留下。
+顺手弄到一些发光碎片，并把它们带到我们约定的地方，连同我的其他装备一起留下。
 
 the rest of my gear.   I will pitch in with this nice ruby I've... acquired.   Make it worthwhile.   -   G.
 我会用这块红宝石……嗯，我“获得”的东西凑个份子。让这一切物有所值吧。- G.
@@ -302,40 +302,40 @@ crystals seem to be acting weird too. The Power Cores have been running out unus
 而且水晶似乎也有些异常，能量核心消耗得比平常快多了……
 
 Gah,  this place makes me feel so claustrophobic.      I did tell the goblins to carve the ceilings
-唉，这个地方让我感觉非常压抑。我确实告诉哥布林们把天花板凿得更高些
+唉，这个地方让我感觉非常压抑。我确实告诉哥布林们把天花板凿得更高些，
 
 higher, but they kept going on about the heat going out faster that way. I miss working in Valc.
-，但他们一直担心这样会让热量流失更快。我怀念在瓦尔克工作的日子。
+但他们一直担心这样会让热量流失更快。我怀念在瓦尔克工作的日子。
 
 [...]   and now everyone's nervous while waiting for that dwarf to arrive.     We've suspended the mining
-[...] 现在所有人都紧张地等待那个矮人到来。我们暂停了采矿作业
+[...] 现在所有人都紧张地等待那个矮人到来。我们暂停了采矿作业，
 
 operations, lest more quakes bury us inside the tunnels along with those wretched worms.   They're big
-，以免更多地震将我们和那些可恶的虫子一起埋进隧道里。这些虫
+以免更多地震将我们和那些可恶的虫子一起埋进隧道里。
 
 enough to swallow a goblin whole! We were making such smooth progress... these caverns are chock full
-子大得能一口吞下整个哥布林！我们之前进展得如此顺利……这些
+这些虫子大得能一口吞下整个哥布林！我们之前进展得如此顺利……
 
 of crystals, almost as many as there are rumored to be inside the Crystal Heart.  No wonder that the
-洞穴里充满了水晶，数量几乎和传说中水晶之心里的差不多。
+这些洞穴里充满了水晶，数量几乎和传说中水晶之心里的差不多。
 
 Lancers have sensed the power in here and sent us in. Maybe we manage to dig up more than those cyan
-难怪长枪团能感知到这里的能量并派我们进来。也许我们能挖掘出比那些青
+难怪长枪团能感知到这里的能量并派我们进来。也许我们能挖掘出比那些
 
 magnetic formations or the yellow power shards.  Hope the dwarf will be able to sniff out some mithril.
-色磁性构造或黄色力量碎片更多东西。希望那个矮人能找到一些秘银。
+青色磁性构造或黄色力量碎片更多东西。希望那个矮人能找到一些秘银。
 
 (A wrinkly parchment rests on the floor. You translate the demonic language with ease)
 （一张皱巴巴的纸条躺在地上。你轻松地翻译着恶魔语言）
 
 My faithful servant, you were indeed right.     The Iron Division orcs and their allies have launched
-我的忠诚仆人，你说得确实没错。铁军兽人及其盟友已对我方地狱
+我的忠诚仆人，你说得确实没错。铁军兽人及其盟友已对我方地狱领地
 
 a full scale assault on our hellish domain. Once this bold affront is dealt with, I shall send my Demon
-领地发动全面进攻。一旦处理完这次大胆的挑衅，我将派遣恶魔军
+发动全面进攻。一旦处理完这次大胆的挑衅，我将派遣恶魔军团夺回
 
 troops to reclaim your shattered outposts and deliver the punishment for your failure to stop them...
-团夺回你们破碎的据点，并为你们未能阻止他们而施以惩罚……
+你们破碎的据点，并为你们未能阻止他们施以惩罚……
 
 Make sure nobody leaves your petty little town, or the consequences will be worse than death. - B.B.
 确保没有人离开你那渺小的小镇，否则后果将比死亡更可怕。- B.B.
@@ -344,31 +344,31 @@ Rotation 509 - Day 233
 第509轮 - 第233天
 
 We had a huge tremor today. I went out to check on the others and was surprised to see the elevator was
-今天我们经历了一场巨大的震动。我出去查看其他人的情况时，惊讶地发
+今天我们经历了一场巨大的震动。我出去查看其他人的情况时，惊讶地发现
 
 not working.   After exchanging a few shouts with the goblins up inside the mine barracks, we figured out it
-现升降梯无法运作。与矿坑兵营里的哥布林交换了几声喊叫后，我们判断是
+升降梯无法运作。与矿坑兵营里的哥布林交换了几声喊叫后，我们判断是
 
 was the switch that needed a new power core - good thing we had a bunch stocked up in the storage room.
 开关需要更换能量核心——幸好我们在仓库里储备了不少备用核心。
 
 It's times like these when I'm so glad I asked Earth Mother Druga to grow the steel-vine doors for me. I'd
-正是这种时候让我庆幸自己请求大地之母德鲁加为我生长钢藤门。与其依赖
+正是这种时候让我庆幸自己请求大地之母德鲁加为我生长钢藤门。
 
 rather rely on ancestral magic than some wacky goblin switch. Speaking of crystal magic, the veggies are
-那些古怪的哥布林开关，我还是更愿意依靠祖先魔法。说到水晶魔法，蔬菜
+与其依赖那些古怪的哥布林开关，我还是更愿意依靠祖先魔法。说到水晶魔法，
 
 growing very quickly, and the chick eggs are about to hatch!    We won't need food from Valc for a while...
-长得非常快，鸡蛋也即将孵化了！我们暂时不需要从瓦尔克获取食物……
+蔬菜长得非常快，鸡蛋也即将孵化了！我们暂时不需要从瓦尔克获取食物……
 
 Rotation 509 - Day 237  ?
 第509轮 - 第237天 ?
 
 That blasted worm's hissing is driving me crazy! It tried chewing through the vines, but they're too solid
-那个该死的虫子发出的嘶嘶声简直让我发疯！它试图啃咬藤蔓，但那些藤蔓太结实了根本
+那个该死的虫子发出的嘶嘶声简直让我发疯！它试图啃咬藤蔓，但那些藤蔓太结实了
 
 to yield. I can't get too close or it will spit this freezing cold slime at me... Gods, what is this creature?
-无法撼动。我靠近不了它，否则它会喷出冰冷的黏液……诸神啊，这到底是什么生物？
+根本无法撼动。我靠近不了它，否则它会喷出冰冷的黏液……诸神啊，这到底是什么生物？
 
 Rotation 509 - Day 238  ?
 第509轮 - 第238天 ?
@@ -389,7 +389,7 @@ of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our 
 哦，大地，你为何如此愤怒？我们的供品难道没有让你们满意吗？
 
 An empty pedestal.
-一个空荡的祭坛。
+一个空荡的底座。
 
 Tip: Remember that you can inspect the selected inventory item with (default: ENTER)
 提示：请记住，您可以按（默认：回车键）查看所选物品的详细信息。
@@ -398,7 +398,7 @@ Tip: Remember that you can inspect the selected inventory item with (default: EN
 （这块板子似乎被施加了大地魔法咒语。你已经念出了这个咒语）
 
 Tip: Press F1 to view the quick reference screen.
-提示：按下 F1 查看快速参考界面。
+提示：按下F1键查看快速参考界面。
 
 All messages can be reviewed in the console (default: Tilde)
 所有消息都可以在控制台中查看（默认：波浪号键）
@@ -416,7 +416,7 @@ Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
 They are used automatically with (default: E)
-它们会自动使用（默认：E键）
+它们会被自动使用（默认：E键）
 
 Tip: Use consumables with (default: F)
 提示：使用消耗品时按（默认：F键）
@@ -485,7 +485,7 @@ Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
 They are used automatically with (default: E)
-它们会被自动使用（默认：E键）。
+它们会被自动使用（默认：E键）
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
 如果你无法看清背景的植物，增加伽马值使其勉强可见

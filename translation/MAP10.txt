@@ -89,10 +89,10 @@ wormhole, following Nithriel into places unknown...
 即将闭合的虫洞，追随妮丝瑞尔进入未知之地……
 
 ART, ANIMATION, PROGRAMMING, WRITING, LEVEL DESIGN, SOUND DESIGN, PUBLISHING
-艺术、动画、编程、写作、关卡设计、
+美术、动画、程序、文案、关卡设计、音效设计、发行
 
 by Zan_HedonDev
-音效设计、出版由瓒_赫顿开发组完成
+由瓒_赫顿开发组完成
 
 Having repelled the last wave of invaders, the Iron Division defenders rushed to the Heart.
 击退最后一波入侵者后，铁军守卫们冲向心脏。
@@ -110,7 +110,7 @@ The invasion was over, but the damage left behind by Nithriel's attack etched a 
 入侵结束了，但妮丝瑞尔的攻击留下的破坏在瓦尔克刻下了深重伤痕。
 
 SOUNDTRACK
-SOUNDTRACK
+音轨
 
 Akhzul - Hedon's dedicated OST composer
 Akhzul - 赫顿专属原声带作曲家
@@ -131,7 +131,7 @@ The few secluded fighters who survived the initial attack regrouped and held out
 幸存下来的少数隐秘战士重新集结，抵抗剩余敌人。
 
 VOICE ACTING
-VOICE ACTING
+配音演员
 
 Zan - Olivia Steele
 瓒 - Olivia Steele
@@ -176,16 +176,16 @@ GZDOOM ENGINE
 GZDOOM引擎
 
 Graf Zahl - lead development
-Graf Zahl - 主导开发
+Graf Zahl - 首席开发
 
 The Doom Community - feedback and contributions
 Doom社区 - 反馈与贡献
 
 John Carmack - original id Tech 1 Engine
-John Carmack - 原始id Tech 1引擎
+John Carmack - 原始的id Tech 1引擎
 
 Rachael, Graf Zahl - hGZDoom (Hedon specific GZDoom fork)
-Rachael, Graf Zahl - hGZDoom（赫顿专属GZDoom分支）
+Rachael, Graf Zahl - hGZDoom（赫顿专用的GZDoom分支）
 
 Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux compilation & testing
 Daniel Jenssen, Mikolaj 'D1SoveR' Banasik - Linux编译与测试
@@ -194,7 +194,7 @@ Once a lively fort, Icepeak became nothing more but a frigid stone husk - a ster
 曾经热闹的冰峰如今只剩冰冷的石尸——利思行为的严酷警示。
 
 GZDOOM BUILDER
-GZDOOM构建者
+GZDOOM BUILDER
 
 MaxED - design and programming
 MaxED - 设计与编程
@@ -221,7 +221,7 @@ Thanks to those who helped me learn how to develop a game and answered my questi
 感谢那些帮助我学习游戏开发并回答我问题的人：
 
 Lud, DoomKrakken, Xaser, phantombeta, Michaelis, RockstarRaccoon, Popsoap10, Pyroscourge, Rachael,
-Lud, DoomKrakken, Xaser, phantombeta, Michaelis, RockstarRaccoon, Popsoap10, Pyroscourge, Rachael, 
+Lud, DoomKrakken, Xaser, phantombeta, Michaelis, RockstarRaccoon, Popsoap10, Pyroscourge, Rachael,
 
 worldendDominator, dyveira, Diode, Shadowman, Nash, Sgt_Mark_IV, wildweasel, Jimmy, Mr. Enchanter,
 worldendDominator, dyveira, Diode, Shadowman, Nash, Sgt_Mark_IV, wildweasel, Jimmy, Mr. Enchanter,
@@ -236,25 +236,25 @@ They readied to hunt down rogue Forge Elementals and re-establish a connection w
 他们准备猎杀逃窜的锻造元素，并重新与下方的牛头人洞穴建立联系。
 
 Thanks to all the beta testers for their feedback:
-感谢所有参与测试的玩家反馈：
+感谢所有参与beta测试的玩家反馈：
 
 Captain J, JaywalkingKnight, spart_n, The_Individualist, QuakedoomNukem, BeardedDoomGuy, Arcus Valarian
-队长J，JaywalkingKnight，spart_n，The_Individualist，QuakedoomNukem，BeardedDoomGuy，Arcus Valarian
+Captain J, JaywalkingKnight, spart_n, The_Individualist, QuakedoomNukem, BeardedDoomGuy, Arcus Valarian
 
 And many thanks to the dedicated testers who have greatly helped me improve Hedon in time:
 以及无数帮助我改进赫顿的忠实测试者：
 
 RTheM, Albatross, RawbGM, Copper Boltwire, Makerrcat, Sasha the Lynx
-RTheM，Albatross，RawbGM，Copper Boltwire，Makerrcat，Sasha the Lynx
+RTheM, Albatross, RawbGM, Copper Boltwire, Makerrcat, Sasha the Lynx
 
 And of course, tons of thanks to everyone who financially supported Hedon through Patreon:
-当然，还要感谢通过Patreon支持赫顿的所有人：
+当然，还要万分感谢通过Patreon资助赫顿的所有人：
 
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
-Copper Boltwire，Karitan Aegis，Danyx992，Kyurae Minasaki，ekwood，papyLaPlage，Robopatron，
+Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 
 Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
-Albatross，Iceman13，Vodyanoi，Daniel Jewell，Sarah，Kiyu69，Alexander Howard，Nistal，
+Albatross, Iceman13, Vodyanoi, Daniel Jewell, Sarah, Kiyu69, Alexander Howard, Nistal,
 
 D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
 D The Rage, RawbGM, Metazealot, D1soveR, Art0fShred, M.A.Kerr, Shaeoggath, William Vicic,
@@ -281,223 +281,223 @@ Why was the Disk artifact so important to Nithriel? How would it change the futu
 圆盘神器对妮丝瑞尔如此重要？它将如何改变未来？而瓒去了哪里？
 
 End of Hedon I - Crystal Heart
-赫顿 I - 水晶之心 结束
+《赫顿I - 水晶之心》结束
 
 Bear Warrior:    Over there! A Lancer!
-熊战士：    那边！一个长枪兵！
+熊战士：那边！一个长枪兵！
 
 Reaver:    Over there! A Lancer!
-掠夺者：    那边！一个长枪兵！
+掠夺者：那边！一个长枪兵！
 
 Bear Warrior:    Oh, fuck!
-熊战士：    哦，见鬼！
+熊战士：哦，见鬼！
 
 Reaver:    Have you seen the size of that thing?
-掠夺者：    你看到那个东西的体型了吗？
+掠夺者：你看到那个东西的体型了吗？
 
 An empty socket.
 一个空套件。
 
 A set of amber glyphs is etched into the sides of the empty pedestal.
-一组琥珀色符文刻在空 pedestal 的侧面。
+一组琥珀色符文刻在空底座的侧面。
 
 A set of green glyphs is etched into the sides of the empty pedestal.
-一组绿色符文刻在空 pedestal 的侧面。
+一组绿色符文刻在空底座的侧面。
 
 A set of silver glyphs is etched into the sides of the empty pedestal.
-一组银色符文刻在空 pedestal 的侧面。
+一组银色符文刻在空底座的侧面。
 
 A set of aqua glyphs is etched into the sides of the empty pedestal.
-一组青色符文刻在空 pedestal 的侧面。
+一组青色符文刻在空底座的侧面。
 
 Bear Warrior:    They're opening the Council Room! Get ready for another wave!
-熊战士：    他们正在打开议会厅！准备迎接下一波攻击！
+熊战士：他们正在打开议会厅！准备迎接下一波攻击！
 
 Reaver:    They're opening the Council Room! Brace the defenses!
-掠夺者：    他们正在打开议会厅！加固防御工事！
+掠夺者：他们正在打开议会厅！加固防御工事！
 
 Bear Warrior:    They're opening the Council Room! Get ready for another wave!
-熊战士：    他们正在打开议会厅！准备迎接下一波攻击！
+熊战士：他们正在打开议会厅！准备迎接下一波攻击！
 
 Reaver:    They're opening the Council Room! Brace the defenses!
-掠夺者：    他们正在打开议会厅！加固防御工事！
+掠夺者：他们正在打开议会厅！加固防御工事！
 
 Bear Warrior:    Look out! Right corridor!
-熊战士：    当心！右边走廊！
+熊战士：当心！右边走廊！
 
 Reaver:    Look out! Right corridor!
-掠夺者：    当心！右边走廊！
+掠夺者：当心！右边走廊！
 
 Reaver:    A demon!!!
-掠夺者：    一个恶魔！！！
+掠夺者：一个恶魔！！！
 
 Bear Warrior:    A demon!!!
-熊战士：    一个恶魔！！！
+熊战士：一个恶魔！！！
 
 Bear Warrior:    Look at this thing... What the fuck were they trying to conjure here?
-熊战士：    看这个东西……他们在这里到底想召唤什么？
+熊战士：看这个东西……他们在这里到底想召唤什么？
 
 Reaver:    Guess we'll soon find out.
-掠夺者：    猜我们很快就会知道了。
+掠夺者：猜我们很快就会知道了。
 
 Reaver:    This pentagram is huge... wonder what they were trying to conjure here.
-掠夺者：    这个五芒星好大……不知道他们在这里想召唤什么。
+掠夺者：这个五芒星好大……不知道他们在这里想召唤什么。
 
 Guess we'll soon find out.
 猜我们很快就会知道了。
 
 Reaver:    Looks like they've closed down the shutter gate from inside.
-掠夺者：    看起来他们从里面关闭了闸门。
+掠夺者：看起来他们从里面关闭了闸门。
 
 Gotta find a way to open it... I can also hold here and attack them when it goes up if you wish.
 得想办法打开它……如果你想的话，我可以在这里守着，等闸门升起时攻击他们。
 
 Bear Warrior:    Not a bad idea, I'll stay here too if you want, sarge.
-熊战士：    不坏的主意，如果你想的话，我也愿意留下，上尉。
+熊战士：不坏的主意，如果你想的话，我也愿意留下，上尉。
 
 Bear Warrior:    Damn it, they've locked us out with that shutter. There should be a way to open it...
-熊战士：    该死，他们用这个闸门把我们锁在外面了。应该有办法打开它……
+熊战士：该死，他们用这个闸门把我们锁在外面了。应该有办法打开它……
 
 Bear Warrior:    Phew, thanks for the rescue! The bastards trapped me inside this tank!
-熊战士：    哼，谢谢救援！这些杂碎把我困在坦克里了！
+熊战士：哼，谢谢救援！这些杂碎把我困在坦克里了！
 
 They've set up in the library ahead. We could breach in from here, take 'em unprepared.
 他们已经在前方的图书馆设下据点。我们可以从这里突袭，趁其不备。
 
 Bear Warrior:    *Muffled* Heeey, get me out of here!
-熊战士：    *模糊* 喂喂，把我救出去！
+熊战士：*模糊* 喂喂，把我救出去！
 
 Bear Warrior:    The pump is right there, turn it on and get me out of here!
-熊战士：    泵就在那儿，把它打开把我救出去！
+熊战士：泵就在那儿，把它打开把我救出去！
 
 Lancer:    A timely arrival, sergeant. I could use your help.
-长枪兵：    中士，及时赶到。我正需要你的帮助。
+长枪兵：中士，及时赶到。我正需要你的帮助。
 
 Lancer:    I heard Nithriel and a demon passing by a while ago. He sounded awfully... large.
-长枪兵：    我刚听到妮丝瑞尔和一个恶魔不久前提着箱子经过。那家伙听起来……格外庞大。
+长枪兵：我刚听到妮丝瑞尔和一个恶魔不久前提着箱子经过。那家伙听起来……格外庞大。
 
 Reaver:    Damn it, we're too late. Nithriel might have already breached the Heart!
-掠夺者：    该死，我们来晚了。妮丝瑞尔可能已经突破了心脏！
+掠夺者：该死，我们来晚了。妮丝瑞尔可能已经突破了心脏！
 
 Lancer:    Let us hurry, we've no time to waste!
-长枪兵：    快点，我们没时间浪费！
+长枪兵：快点，我们没时间浪费！
 
 Bear Warrior:    Damn it, we're too late. Nithriel's just shattered the defense!
-熊战士：    该死，我们来晚了。妮丝瑞尔刚刚摧毁了防御！
+熊战士：该死，我们来晚了。妮丝瑞尔刚刚摧毁了防御！
 
 Lancer:    Let us hurry, we must stop her at all costs!
-长枪兵：    快点，我们必须不惜一切代价阻止她！
+长枪兵：快点，我们必须不惜一切代价阻止她！
 
 Lancer:    Our sisters have fallen... we've no time to waste, Nithriel must be right by the Heart!
-长枪兵：    我们的姐妹已经倒下了……没时间浪费了，妮丝瑞尔肯定就在心脏附近！
+长枪兵：我们的姐妹已经倒下了……没时间浪费了，妮丝瑞尔肯定就在心脏附近！
 
 Lancer:   Look alive! Time to make our founders proud.
-长枪兵：   拉开架势！时候到了，让我们为我们的先祖争光。
+长枪兵：拉开架势！时候到了，让我们为我们的先祖争光。
 
 Reaver:    The Crystal Heart... I've only heard stories about this place.
-掠夺者：    水晶之心……我只听过关于这个地方的故事。
+掠夺者：水晶之心……我只听过关于这个地方的故事。
 
 Lancer:    'tis the essence of our existence. And we are its only hope now.
-长枪兵：    这是我们的存在之源。而如今，我们是它唯一的希望。
+长枪兵：这是我们的存在之源。而如今，我们是它唯一的希望。
 
 Bear Warrior:    So this is the Crystal Heart... this place is... weird.
-熊战士：    所以这就是水晶之心……这个地方……很奇怪。
+熊战士：所以这就是水晶之心……这个地方……很奇怪。
 
 Lancer:    The birthplace of our generation. We are its only hope now.
-长枪兵：    我们这一代的诞生地。现在，我们是它唯一的希望。
+长枪兵：我们这一代的诞生地。现在，我们是它唯一的希望。
 
 Lancer:    Crystal Heart. Essence of our World, we come to defend you.
-长枪兵：    水晶之心。世界之源，我们来守护你。
+长枪兵：水晶之心。世界之源，我们来守护你。
 
 Bear Warrior:    Zan, over here!
-熊战士：    瓒，这边！
+熊战士：瓒，这边！
 
 Reaver:    Hey Zan, over here!
-掠夺者：    嘿，瓒，这边！
+掠夺者：嘿，瓒，这边！
 
 Bear Warrior:    Zan, over here!
-熊战士：    瓒，这边！
+熊战士：瓒，这边！
 
 Reaver:    Hey Zan, over here!
-掠夺者：    嘿，瓒，这边！
+掠夺者：嘿，瓒，这边！
 
 Lancer:    Good to see you're still holding, sisters.
-长枪兵：    很高兴看到你们还在坚守，姐妹们。
+长枪兵：很高兴看到你们还在坚守，姐妹们。
 
 Reaver:    Well met, sisters.
-掠夺者：    久等了，姐妹们。
+掠夺者：久等了，姐妹们。
 
 Bear Warrior:    Hail, sisters!
-熊战士：    致敬，姐妹们！
+熊战士：致敬，姐妹们！
 
 Reaver:    Am I glad to see you, sergeant! We could really use your help!
-掠夺者：    我真高兴见到你，中士！我们真的需要你的帮助！
+掠夺者：我真高兴见到你，中士！我们真的需要你的帮助！
 
 Reaver:    Die y- ...Zan?! I can't believe it's you!
-掠夺者：    死吧……等等，瓒？！我简直不敢相信是你！
+掠夺者：死吧……等等，瓒？！我简直不敢相信是你！
 
 We've got to link back up with the defenders!
 我们必须与守卫者重新联系上！
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用Use键（默认：E键）命令某些友方单位跟随你/驻守当前位置。
+提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
 
 Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!
-铁军幸存者：    嘿，瓒，你还活着！让我们收拾这些邪教徒！
+铁军幸存者：嘿，瓒，你还活着！让我们收拾这些邪教徒！
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用Use键（默认：E键）命令某些友方单位跟随你/驻守当前位置。
+提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    Hey, stop that! We need these bowls.
-熊战士：    喂，别动！我们需要这些碗。
+熊战士：喂，别动！我们需要这些碗。
 
 Witch:    The fuck are you doing? Knock it off!
-女巫：    你在干什么？停下！
+女巫：你在干什么？停下！
 
 Earth Mother:    What are you doing, Zan?! I really need the mana...
-大地之母：    瓒，你在干什么？！我真的很需要魔力……
+大地之母：瓒，你在干什么？！我真的很需要魔力……
 
 Wounded Shieldguard:    Aye, aye, what good is a bottle if it's empty?
-受伤的盾卫兵：    是是是，空瓶子有什么用？
+受伤的盾卫兵：是是是，空瓶子有什么用？
 
 Captain Dura:    Well, well, well, look who made it...
-队长杜拉：    哎呀，哎呀，哎呀，看看谁活下来了……
+队长杜拉：哎呀，哎呀，哎呀，看看谁活下来了……
 
 Captain Dura:    Dendra wants to talk to you, she's in the patio behind us.
-队长杜拉：    丹德拉想和你说话，她在我们身后的露台。
+队长杜拉：丹德拉想和你说话，她在我们身后的露台。
 
 Captain Dura:    I'd rather have my Crushbow at hand if you don't mind. We have other supplies to spare if you need 'em.
-队长杜拉：    如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
+队长杜拉：如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
 
 Lancer Dendra:    The crystal key, Zan. Don't forget to take it before you leave.
-长枪兵丹德拉：    水晶钥匙，瓒。离开前别忘了带走它。
+长枪兵丹德拉：水晶钥匙，瓒。离开前别忘了带走它。
 
 Captain Dura:    Good hunting, warrior.
-队长杜拉：    祝你狩猎顺利，战士。
+队长杜拉：祝你狩猎顺利，战士。
 
 Captain Dura:    So, Tiati saved your ass, eh? She's not here if you wanna thank her, Dendra sent her on recon duty.
-队长杜拉：    所以，提娅媞救了你的命，对吧？如果你想感谢她，她现在不在这里——丹德拉派她去执行侦察任务了。
+队长杜拉：所以，提娅媞救了你的命，对吧？如果你想感谢她，她现在不在这里——丹德拉派她去执行侦察任务了。
 
 Captain Dura:    I was at the Witch Clinic just over a week ago. Everything looked so... normal back then.
-队长杜拉：    我就在一周前的女巫诊所。那时候一切都看起来那么……正常。
+队长杜拉：我就在一周前的女巫诊所。那时候一切都看起来那么……正常。
 
 Captain Dura:    That bitch Lith was behind all this mess! I still can't believe what she did. She's ruined us...
-队长杜拉：    那个婊子利思就是这一切混乱的幕后黑手！我至今都无法相信她做了什么。她毁了我们……
+队长杜拉：那个婊子利思就是这一切混乱的幕后黑手！我至今都无法相信她做了什么。她毁了我们……
 
 Captain Dura:    Bah, to all Hells with Lith! We gotta focus on the battle at hand. We haven't come this far to lose it now!
-队长杜拉：    哼，把利思扔进地狱吧！我们要专注于眼前的战斗。我们已经走到这一步，绝不能现在放弃！
+队长杜拉：哼，把利思扔进地狱吧！我们要专注于眼前的战斗。我们已经走到这一步，绝不能现在放弃！
 
 Captain Dura:    It looks like the cultists have taken a break from attacking this wing. They're up to something...
-队长杜拉：    看起来邪教徒暂时停止了对这个区域的攻击。他们一定在策划什么……
+队长杜拉：看起来邪教徒暂时停止了对这个区域的攻击。他们一定在策划什么……
 
 Captain Dura:    Good to have you on board, sergeant. Must have been a hell to make it here.
-队长杜拉：    很高兴你加入我们，中士。想必一路过来很艰难吧。
+队长杜拉：很高兴你加入我们，中士。想必一路过来很艰难吧。
 
 Lancer Dendra:    Over here, Zan.
-长枪兵丹德拉：    瓒，这边来。
+长枪兵丹德拉：瓒，这边来。
 
 Lancer Dendra:   At last, you have arrived. I am Lancer Dendra and I've assumed command of the remnants here...
-长枪兵丹德拉：   终于到了，瓒。我是长枪兵丹德拉，已接管此处残余部队……
+长枪兵丹德拉：终于到了，瓒。我是长枪兵丹德拉，已接管此处残余部队……
 
 Tiati has informed me about your... unexpected return to Valc. She's also found out about Lith's betrayal and
 提娅媞已告知我你……意外重返瓦尔克的事。她也得知了利思的背叛以及那个名叫
@@ -551,163 +551,163 @@ Press Use to skip briefing
 按使用键跳过简报
 
 Lancer Dendra:   Take a few warriors and find out what Nithriel is up to - she might try to break through the west wing!
-长枪兵丹德拉：  带上几位战士去查明妮丝瑞尔的动向——她可能会尝试突破西翼！
+长枪兵丹德拉：带上几位战士去查明妮丝瑞尔的动向——她可能会尝试突破西翼！
 
 Lancer Dendra:    By the way, is that... my Crylance that you're carrying? Nevermind, must be a coincidence...
-长枪兵丹德拉：  对了，那是……你背上的我的水晶长矛吗？算了，肯定是巧合……
+长枪兵丹德拉：对了，那是……你背上的我的水晶长矛吗？算了，肯定是巧合……
 
 Lancer Dendra:   I'd say Nithriel is trying to shift her remaining forces towards the western wing.
-长枪兵丹德拉：  我觉得妮丝瑞尔正在将剩余兵力转移至西翼。
+长枪兵丹德拉：我觉得妮丝瑞尔正在将剩余兵力转移至西翼。
 
 Lancer Dendra:   If the cultists are indeed pushing west, then the defenders across will need you to reinforce them.
-长枪兵丹德拉：  如果邪教徒确实正在向西推进，那么对面的守卫需要你去增援他们。
+长枪兵丹德拉：如果邪教徒确实正在向西推进，那么对面的守卫需要你去增援他们。
 
 Lancer Dendra:   You must hurry! If they manage to breach into the Heart we will be doomed!
-长枪兵丹德拉：  快点！如果他们成功突破心脏，我们就会完蛋！
+长枪兵丹德拉：快点！如果他们成功突破心脏，我们就会完蛋！
 
 Tiati:    Go get her! You can't let her take the Disk!
-提娅媞：    去抓她！你不能让她拿到圆盘！
+提娅媞：去抓她！你不能让她拿到圆盘！
 
 Tiati:    Her magic is simply too strong... she managed to conjure this giant demon...
-提娅媞：    她的魔法实在太强了……她竟然召唤出这么巨大的恶魔……
+提娅媞：她的魔法实在太强了……她竟然召唤出这么巨大的恶魔……
 
 Tiati:    I'll be fine. Stop wasting time!
-提娅媞：    我没事。别浪费时间！
+提娅媞：我没事。别浪费时间！
 
 Wounded Fixer:    ...
-受伤的修复者：    ……
+受伤的修复者：……
 
 Bear Warrior:    You're a sight for sore eyes, sarge. Are our sisters finally sending back reinforcements?
-熊战士：    上尉，你可算来了。我们的姐妹终于派来增援了吗？
+熊战士：上尉，你可算来了。我们的姐妹终于派来增援了吗？
 
 Bear Warrior:    We carved our way here from the Barracks with Captain Dura. These cultists are everywhere!
-熊战士：    我们是从兵营一路杀到这里，和队长杜拉一起。这些邪教徒到处都是！
+熊战士：我们是从兵营一路杀到这里，和队长杜拉一起。这些邪教徒到处都是！
 
 Bear Warrior:    Sounded like a hell of a fight outside. Too bad Dura ordered me to stay here and protect the wounded.
-熊战士：    听起来外面打得很惨。可惜杜拉让我留在这里保护伤员。
+熊战士：听起来外面打得很惨。可惜杜拉让我留在这里保护伤员。
 
 Bear Warrior:    Don't know for how long we can keep holding up. We barely have supplies for another day...
-熊战士：    不知道还能撑多久……我们 barely 有补给支撑另一整天……
+熊战士：不知道还能撑多久……我们几乎没有补给再支撑一整天……
 
 Wounded Shieldguard:    Oh, no, no, I'm not wounded, I'm just... argh- layin' fer a bit...
-受伤的盾卫兵：    哦不不，我没受伤，我只是……呃——躺一会儿……
+受伤的盾卫兵：哦不不，我没受伤，我只是……呃——躺一会儿……
 
 Wounded Shieldguard:    Oh, I still 'ave some skulls to crack!
-受伤的盾卫兵：    哦，我还有些头骨要砸碎！
+受伤的盾卫兵：哦，我还有些头骨要砸碎！
 
 Wounded Shieldguard:    What in all the Hells happened to Icepeak? Why aren't me brethren here yet, darn it!
-受伤的盾卫兵：    冰峰怎么了？为什么我的兄弟们还没到，该死！
+受伤的盾卫兵：冰峰怎么了？为什么我的兄弟们还没到，该死！
 
 Wounded Shieldguard:    At least I'm surrounded by women. Aye, t'would be a good day to die...
-受伤的盾卫兵：    至少我被女人包围着。啊，这真是个好死的日子……
+受伤的盾卫兵：至少我被女人包围着。啊，这真是个好死的日子……
 
 Wounded Witch:    Buzz off.
-受伤的女巫：    滚开。
+受伤的女巫：滚开。
 
 Wounded Witch:    Heard Tiati shot Lith like a fucking dog. I would have plucked her eyes out instead.
-受伤的女巫：    听说提娅媞像条狗一样射杀了利思。我本该剜出她的眼睛。
+受伤的女巫：听说提娅媞像条狗一样射杀了利思。我本该剜出她的眼睛。
 
 Wounded Witch:    Look, just go pester someone else...
-受伤的女巫：    看见没，去烦别人吧……
+受伤的女巫：看见没，去烦别人吧……
 
 Wounded Earth Mother:    If you don't mind, I'd rather be left alone.
-受伤的大地之母：    如果不介意的话，我想独自待着。
+受伤的大地之母：如果不介意的话，我想独自待着。
 
 Wounded Earth Mother:    It's hard enough to focus with this head wound, would you please move along?
-受伤的大地之母：    这个头伤已经够让我分心了，你能不能让开？
+受伤的大地之母：这个头伤已经够让我分心了，你能不能让开？
 
 Wounded Earth Mother:    ...
-受伤的大地之母：    ……
+受伤的大地之母：……
 
 Reaver:    This is so bad... they've overwhelmed us from inside our own impenetrable stronghold.
-掠夺者：    真是太糟糕了……他们从我们自己坚不可摧的据点内部击溃了我们。
+掠夺者：真是太糟糕了……他们从我们自己坚不可摧的据点内部击溃了我们。
 
 Reaver:    I heard they took over the Plaza in mere minutes. Wonder if the Grove and Reaver HQ met the same fate.
-掠夺者：    我听说他们几分钟就占领了广场。不知道林地和掠夺者总部是否也遭遇了同样的命运。
+掠夺者：我听说他们几分钟就占领了广场。不知道林地和掠夺者总部是否也遭遇了同样的命运。
 
 Reaver:    I was close to the Lancer's temple when the invasion began. Had enough time to get here and regroup.
-掠夺者：    入侵开始时我接近长枪兵的神殿。有足够时间赶到这里重新集结。
+掠夺者：入侵开始时我接近长枪兵的神殿。有足够时间赶到这里重新集结。
 
 Reaver:    Killed a few. Took a few hits as well. Nothing the right potion couldn't heal, though.
-掠夺者：    杀死了几个敌人，自己也被击中了几下。不过只要合适的药剂就能治愈。
+掠夺者：杀死了几个敌人，自己也被击中了几下。不过只要合适的药剂就能治愈。
 
 Reaver:    Setting off to stop the Warlock? I'm ready to join you.
-掠夺者：    前往阻止巫师？我随时可以加入你。
+掠夺者：前往阻止巫师？我随时可以加入你。
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用“使用”键（默认：E键）命令某些友军跟随你或保持原地。
+提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    So, you actually turned the anti-magic ward at the Parapet back on? That really saved our skin.
-熊战士：    所以你真的把城垛上的反魔法屏障重新启动了？这真是救了我们的命。
+熊战士：所以你真的把城垛上的反魔法屏障重新启动了？这真是救了我们的命。
 
 Bear Warrior:    They wouldn't stop pouring out of those magic pentagrams. Seeing them fizzle was a huge relief!
-熊战士：    他们不停地从那些魔法五芒星中涌出，看到它们失效真是松了一口气！
+熊战士：他们不停地从那些魔法五芒星中涌出，看到它们失效真是松了一口气！
 
 Bear Warrior:    All this treachery and corruption... I heard Lith was downright possessed. She screwed us all over.
-熊战士：    这一切背叛和腐化……我听说利思被彻底附身了。她害得我们所有人都遭殃了。
+熊战士：这一切背叛和腐化……我听说利思被彻底附身了。她害得我们所有人都遭殃了。
 
 Bear Warrior:    We're low on supplies and our morale is even lower, but we'll protect the Heart to our last breath.
-熊战士：    我们的补给已经所剩无几，士气更是低落，但我们会用最后一口气保护心脏。
+熊战士：我们的补给已经所剩无几，士气更是低落，但我们会用最后一口气保护心脏。
 
 Bear Warrior:    So, you're moving out to the west wing? I'm at your command.
-熊战士：    所以你要向西翼移动？我随时听候你的命令。
+熊战士：所以你要向西翼移动？我随时听候你的命令。
 
 Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以使用“使用”键（默认：E键）命令某些友军跟随你或保持原地。
+提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    Easy on the food, there isn't much left here.
-熊战士：    别太贪吃，这里剩下的食物不多了。
+熊战士：别太贪吃，这里剩下的食物不多了。
 
 Reaver:    Dendra is in charge now. She's inside, go talk to her.
-掠夺者：    现在由丹德拉负责指挥，她在里面，去和她说吧。
+掠夺者：现在由丹德拉负责指挥，她在里面，去和她说吧。
 
 Reaver:    Dendra is inside with the wounded, we must defend them!
-掠夺者：    丹德拉正在里面照顾伤员，我们必须保护他们！
+掠夺者：丹德拉正在里面照顾伤员，我们必须保护他们！
 
 Reaver:    Get whatever weapons and ammo you can and let's push them back!
-掠夺者：    拿走你能拿到的所有武器弹药，把他们逼回去！
+掠夺者：拿走你能拿到的所有武器弹药，把他们逼回去！
 
 Reaver:    Bastards!
-掠夺者：    杂碎！
+掠夺者：杂碎！
 
 Reaver:    What a mess...
-掠夺者：    真是乱七八糟……
+掠夺者：真是乱七八糟……
 
 Reaver:    Not now, Sarge.
-掠夺者：    不要现在，上尉。
+掠夺者：不要现在，上尉。
 
 Reaver:    We held them off... for now.
-掠夺者：    我们暂时挡住了他们……
+掠夺者：我们暂时挡住了他们……
 
 Reaver:    Watch out for those toxic clouds!
-掠夺者：    当心那些毒云！
+掠夺者：当心那些毒云！
 
 Reaver:    Don't know for how much longer we can hold out...
-掠夺者：    不知道还能坚持多久……
+掠夺者：不知道还能坚持多久……
 
 Reaver:    ...
-掠夺者：    ……
+掠夺者：……
 
 Bear Warrior:    Fuck! Can't believe we survived that onslaught!
-熊战士：    见鬼的！真不敢相信我们能活下来！
+熊战士：见鬼的！真不敢相信我们能活下来！
 
 Bear Warrior:    For the Iron Division!
-熊战士：    为了铁军！
+熊战士：为了铁军！
 
 Bear Warrior:    Keep your eyes peeled, this isn't over.
-熊战士：    留意四周，这还没结束。
+熊战士：留意四周，这还没结束。
 
 Bear Warrior:    Grrrh!...
-熊战士：    咕噜……
+熊战士：咕噜……
 
 This door requires a Crystal key to open.
-这扇门需要水晶钥匙才能打开。
+这扇门需要用水晶钥匙才能打开。
 
 Lancer:    I don't have any crystal key on me, we'll have to go back and search for someone who does.
-长枪兵：    我身上没有水晶钥匙，我们必须回去找有钥匙的人。
+长枪兵：我身上没有水晶钥匙，我们必须回去找有钥匙的人。
 
 This door requires an Earth key to open.
-这扇门需要大地钥匙才能打开。
+这扇门需要用大地钥匙才能打开。
 
 The fire won't yield.
 火焰不会熄灭。
@@ -716,7 +716,7 @@ The gates won't budge.
 大门纹丝不动。
 
 Thanks to EVERYONE who financially supported Hedon on Patreon!
-感谢所有在Patreon上支持赫顿的赞助者们！
+感谢在Patreon上资助赫顿的所有人！
 
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
@@ -740,16 +740,16 @@ WELCOME TO HEDON'S CRYSTAL HEART PATREON GALLERY!
 欢迎来到赫顿的水晶之心Patreon画廊！
 
 Do you want to feature in here as a supporter of Hedon?
-你是否想在这里作为赫顿的支持者被展示？
+您是否希望以赫顿的支持者身份在这里展示吗？
 
 Do you want a chance at having drawn a custom avatar of your choosing?
-你是否有机会绘制自己选择的定制角色形象？
+您想要一个机会绘制自己选择的定制化身吗？
 
 Do you want to help Hedon grow bigger and hook up to development updates?
-你是否想帮助赫顿发展壮大并获取开发更新？
+您想帮助赫顿成长并获取开发更新吗？
 
 Then join up on Hedon's Patreon!
-那么加入赫顿的Patreon吧！
+那么请加入赫顿的Patreon吧！
 
 Nistal
 Nistal
@@ -806,7 +806,7 @@ Karitan Aegis (2)
 Karitan Aegis (2)
 
 Sasha The Lynx (Avatar created by Sasha the Lynx)
-Sasha the Lynx（由Sasha the Lynx创作的Avatar）
+Sasha The Lynx（由Sasha the Lynx创作的形象）
 
 Iceman13
 Iceman13
@@ -836,7 +836,7 @@ DTheRage
 DTheRage
 
 Vivien Lynn (Reward slot gifted by Albatross)
-Vivien Lynn（由Albatross赠送的奖励插槽）
+Vivien Lynn（由Albatross赠送的奖励槽）
 
 M.A.Kerr
 M.A.Kerr

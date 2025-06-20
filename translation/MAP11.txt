@@ -137,7 +137,7 @@ Crystal Curator:    Oh no-
 水晶管理员：哦不——
 
 A powerful magic ward keeps the gate sealed.
-强大的魔法屏障封锁着大门。
+一道强大的魔法屏障封住了大门。
 
 An unholy pentagram keeps the gate sealed.
 邪恶的五芒星封锁着大门。
@@ -146,7 +146,7 @@ Crystal Curator:    This ward is too powerful for me to dispel. We must find the
 水晶管理员：这个屏障的力量对我来说太强了。我们必须先找到这种黑暗能量的源头。
 
 This door is locked from the inside.
-这扇门是从内部锁住的。
+这扇门被内部锁住了。
 
 This door appears to be stuck.
 这扇门似乎卡住了。
@@ -161,7 +161,7 @@ This door requires a Dark key to open.
 这扇门需要用暗影钥匙才能打开。
 
 This door requires a Withered Vine key to open.
-这扇门需要用枯藤钥匙才能打开。
+这扇门需要用枯萎的藤蔓钥匙才能打开。
 
 (You use the dictionary to translate the ancient human dialect contained within the moldy parchment)
 （你使用字典翻译了羊皮纸上的古代人类方言）
@@ -188,7 +188,7 @@ I've buried the key behind the farm plot shed. This will buy us some time. We ar
 （你使用字典翻译了张贴在墙上的古代人类方言）
 
 I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C
-我已将钥匙埋藏在农田棚屋后面。这将为我们争取一些时间。我们按计划离开。- C
+我已经把钥匙埋藏在农田棚屋后面。这将为我们争取一些时间。我们按计划离开。- C
 
 (An old parchment is posted on the wall. It's covered in ancient symbols that you can't quite understand)
 （一张旧羊皮纸贴在墙上。上面覆盖着你无法完全理解的古代符号）
@@ -233,16 +233,16 @@ path of an Initiate... I must offer them the gift of my sight. But I knew this w
 （一张皱巴巴的羊皮纸静卧在地板上，厚厚的灰尘覆盖其表面）
 
 My faithful servant, you were indeed right.     The Iron Division orcs and their allies have launched
-我忠诚的仆人，你说得没错。铁军兽人及其盟友已对我方地狱般的
+我的忠诚仆人，你说得确实没错。铁军兽人及其盟友已对我方地狱领地
 
 a full scale assault on our hellish domain.  Once this bold affront is dealt with, I shall send my Demon
-领地发动全面进攻。一旦处理完这次大胆的挑衅，我将派遣恶魔军
+发动全面进攻。一旦处理完这次大胆的挑衅，我将派遣恶魔军团夺回
 
 troops to reclaim your shattered outposts and deliver the punishment for your failure to stop them...
-团夺回你破碎的据点，并对你未能阻止他们一事施以惩罚……
+你们破碎的据点，并为你们未能阻止他们施以惩罚……
 
 Make sure nobody leaves your petty little town, or the consequences will be worse than death. - B.B.
-确保没有人离开你的小地方，否则后果将比死亡更可怕。- B.B.
+确保没有人离开你那渺小的小镇，否则后果将比死亡更可怕。- B.B.
 
 By the law of the Blue Baron,
 根据幽蓝男爵的法律，

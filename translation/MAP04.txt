@@ -23,10 +23,10 @@ Bear Warrior:    Now I'm glad I brought my fire boots along...
 熊战士：现在我庆幸带上了火靴……
 
 The switch is out of power.
-开关已经没有能量了。
+开关已失去能量。
 
 This cracked wall looks like it could be broken with the right tool.
-这道裂墙似乎可以用合适的工具打破。
+这面裂开的墙似乎可以用合适的工具打破。
 
 You'll need a proper tool to mine this ore vein.
 你需要一把合适的工具才能开采这条矿脉。
@@ -71,13 +71,13 @@ The switch is stuck. Seems like you'll need the proper tools to unjam it without
 开关卡住了。似乎你需要合适的工具才能在不损坏它的情况下解除卡顿。
 
 This switch requires an Iron key to open the door.
-这个开关需要用铁钥匙打开门。
+此开关需要用铁钥匙才能开门。
 
 This door requires an Earth key to open.
 这扇门需要用大地钥匙才能打开。
 
 This switch requires the Earth key to activate the lift.
-这个开关需要用大地钥匙激活升降装置。
+此开关需要用大地钥匙激活升降装置。
 
 This strange door has an axe-shaped keyhole to the side.
 这扇奇怪的门侧面有一个斧头形状的钥匙孔。
@@ -98,13 +98,13 @@ You already have an Iron Key.
 你已经拥有了一把铁钥匙。
 
 You don't have any Iron Ingots.
-你没有铁锭。
+你还没有铁锭。
 
 The Iron Key is ready to be picked.
 铁钥匙已准备好被拾取。
 
 You don't have any Iron Ingots.
-你没有铁锭。
+你还没有铁锭。
 
 You must claim the Fragfire Can before using the machine again.
 在再次使用机器前，你必须获取碎火罐。
@@ -116,7 +116,7 @@ You must claim the Boltmag before using the machine again.
 在再次使用机器前，你必须获取弹夹。
 
 You don't have any Iron Ingots.
-你没有铁锭。
+你还没有铁锭。
 
 You must claim all the Spikes before using the machine again.
 在再次使用机器前，你必须获取所有尖刺。
@@ -134,7 +134,7 @@ You must claim the Great Axe before using the machine again.
 在再次使用机器前，你必须获取巨斧。
 
 You don't have any Iron Ingots.
-你没有任何铁锭。
+你还没有铁锭。
 
 You must claim the Axe before using the machine again.
 在再次使用机器前，你必须获取斧头。
@@ -308,7 +308,7 @@ Maybe I can sneak by through the vents. Guess I'll have to leave my stuff here, 
 （你捡起一片烧焦的卷轴残片。大部分文字已被毁坏）
 
 .. don't harves.. red crystal clusters..nly the single one ..n't explode when pulled o..
-..不要采集..红水晶簇..只有单个..拉拽时不会爆炸..
+…不要采…红水晶簇…只有单个…拉时不会爆炸…
 
 GATE & DRAWBRIDGE CONTROL
 闸门与吊桥控制
@@ -602,7 +602,7 @@ some giant boxes. He's keeping it in his secret spot I bet. I also bet he'll nev
 。他肯定把枪藏在秘密地点了。我打赌他这辈子都不会用上它。
 
 TO VALC'S PLAZA
-TO VALC'S PLAZA
+前往瓦尔克广场
 
 (The strange parchment seems to be written in demonic tongue. You easily translate it)
 （这卷奇怪的纸张似乎是用恶魔语书写的。你轻松地翻译了它）
@@ -620,7 +620,7 @@ Tip: You can pick up Sentry Turrets with (DEFAULT: E) and drop them with (DEFAUL
 提示：你可以用（默认：E键）拾取守卫炮塔，并用（默认：鼠标左键）丢弃它们。
 
 This door seems to be locked from the other side.
-这扇门似乎是从另一侧被锁住了。
+这扇门似乎被另一侧锁住了。
 
 ELEVATOR TO ICEPEAK
 通往冰峰的升降梯

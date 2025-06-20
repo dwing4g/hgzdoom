@@ -11,7 +11,7 @@ Earth Mother:    The Dwarf Town... its true name has faded throughout the ages, 
 大地之母：矮人镇……它的真名在岁月长河中逐渐模糊，但辉煌却始终留存。
 
 Fixer:    This place is giving me goose bumps... and I don't think it's just the cold.
-修复者：这里真的有邪教徒？我就说不是我听错了！
+修复者：这里让我起了鸡皮疙瘩……而且我确定不只是因为寒冷。
 
 High Priest Jaromir:    Ah, there you are! A bit late for the fight, though, we've dealt with the welcoming party.
 高阶祭司贾罗米尔：啊，终于找到你了！不过战斗来得有点晚，我们已经处理完迎宾的家伙了。
@@ -170,7 +170,7 @@ High Priest Jaromir:    I see you've found a spare gear. Good, this shall ease y
 高阶祭司贾罗米尔：我看到你找到了备用齿轮。很好，这将帮助你进入水下设施。
 
 The pedestal is empty.
-石台上是空的。
+底座是空的。
 
 Blue Baron:    Here she is, at last. The call is irresistible... so many questions running through her mind.
 幽蓝男爵：终于来了，她。那呼唤无法抗拒……她的脑海中充满了无数疑问。
@@ -188,7 +188,7 @@ Blue Baron:    The Elf speaks true... she is starting to live up to her true pot
 ……她将夺取种子。但能否活得足够久以失去它？地狱核心在等待着她。而我也一样。
 
 You'll need a proper tool to mine this ore vein.
-你需要合适的工具来开采这条矿脉。
+你需要一把合适的工具才能开采这条矿脉。
 
 The mechanism clicks and rumbles but the door stays closed.
 机制发出咔嗒声并震动，但门依然紧闭。
@@ -203,13 +203,13 @@ The power line this door is connected to seems to be down.
 这扇门连接的能源线路似乎已断开。
 
 This door requires a Stone key to open.
-这扇门需要石钥匙才能开启。
+这扇门需要用石钥匙才能打开。
 
 This door is locked from the inside.
-这扇门从内部被锁住了。
+这扇门被内部锁住了。
 
 This door requires a Stone key to open.
-这扇门需要石钥匙才能开启。
+这扇门需要用石钥匙才能打开。
 
 (The grime-encrusted common cuneiform letters reveal a worn out message)
 （沾满污垢的普通楔形文字揭示出一段磨损的信息）
@@ -230,37 +230,37 @@ Earth Mother:    The Cult must have furthered Lith's research during all this ti
 .oO   “碎骨者”瓒的日志   Oo.
 
 > Not much going on, I should find my room and get rest
-> 没什么大事，我应该找房间休息一下
+> 没什么大事，我该去找房间休息了
 
 > A Fixer told me her squad vanished - should investigate
-> 一个修复者告诉我她的小队消失了——需要调查
+> 一个修复者告诉我她的小队消失了——应该调查一下
 
 > Found the captives, need to free them and report to Breaza
 > 找到了俘虏，需要解救他们并报告给布里扎
 
 > Get into the Minotaur Town, find and secure the Hell Powder
-> 进入牛头人镇，找到并夺取地狱火药
+> 进入牛头人镇，找到并安全获取地狱火药
 
 > Found more than just Hell Powder - should report to Breaza
-> 不仅仅是地狱火药——需要报告给布里扎
+> 发现的不只是地狱火药——应该报告给布里扎
 
 > Enter the old Dwarf Town & check if Lith's visions were true
-> 进入旧矮人镇，并检查利思的预知是否属实
+> 进入旧矮人镇，并检查利思的预言是否属实
 
 > Found a weird corruption sample, should report back to Zura
-> 发现了一个奇怪的腐化样本——需要向祖拉汇报
+> 找到一个奇怪的腐化样本，应该返回向祖拉汇报
 
 > Sabotage the flame towers protecting the Demon Town gate
-> 破坏保护恶魔镇大门的火焰塔
+> 破坏守护恶魔镇大门的火焰塔
 
 ---Side Notes---
 ---侧注---
 
 > E. Mother Bendi needs a Spirit Gem to charge my Psi Crown
-> E.之母本迪需要用灵石为我的Psi冠充能
+> E.之母本迪需要一颗灵石来充能我的心灵王冠
 
 > Earth Mother Bendi needs a Spirit Gem to charge my Psi Crown
-> 大地之母本迪需要用灵石为我的心灵王冠充能
+> 大地之母本迪需要一颗灵石来充能我的心灵王冠
 
 > Workshop Boss needs 6 lumps of Dark Iron for gun parts
 > 工坊老板需要6块暗铁来制作枪支零件
@@ -269,47 +269,47 @@ Earth Mother:    The Cult must have furthered Lith's research during all this ti
 > 铁匠赫克图斯需要8块铁矿石打造巨斧
 
 > Smith Hectus is trading ammo for Iron Ore
-> 铁匠赫克图斯用弹药换取铁矿石
+> 铁匠赫克图斯正在用弹药换取铁矿石
 
 > Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜，售价10金币
+> 阴暗修复者以10金币出售暗视护目镜
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（10金币）、
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-两个守卫（100金币）
+以100金币出售2个守卫
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（10金币）、
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-两个守卫（100金币）、
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-一个储物袋（300金币）
+以300金币出售1个储物袋
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者出售暗视护目镜（10金币）、
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-两个守卫（100金币）、
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-一个储物袋（300金币）
+以300金币出售1个储物袋
 
 Vials of Healing for 10 gold
-治疗药剂换10金币
+以10金币出售治疗药剂
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来零件，铁匠可以组装潜水服：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、装满天空之神空气的气瓶及几套密封潜水服
+水下呼吸器、充满空气的气瓶以及几套密封服装
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来零件，铁匠可以组装潜水服：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、装满天空之神空气的气瓶及几套密封潜水服
+水下呼吸器、充满空气的气瓶以及几套密封服装
 

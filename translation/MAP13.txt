@@ -8,7 +8,7 @@ Grand Earth Mother Breaza:    Welcome back among us, Zan. I apologise for the ha
 伟大的大地之母布里扎：欢迎回到我们之中，瓒。我为之前的冷遇道歉。
 
 Tiati here has told us about what happened. The news about Valc's siege strikes yet another heavy blow against us...
-提娅媞在这里告诉我们发生了什么。瓦尔克的围攻消息又给我们带来了沉重打击...
+提娅媞在这里告诉我们发生了什么。瓦尔克的围攻消息又给我们带来了沉重打击……
 
 We are all that's left of our campaign force, and receiving reinforcements from home was our last and only hope.
 我们只剩下原本远征军的残余力量，而从家乡获得增援是我们最后也是唯一的希望。
@@ -95,7 +95,7 @@ This wall looks like it could be broken with a proper tool.
 这堵墙看起来可以用合适的工具打破。
 
 You'll need a proper tool to mine this ore vein.
-你需要合适的工具来开采这条矿脉。
+你需要一把合适的工具才能开采这条矿脉。
 
 The pedestal's locking mechanism prevents the ruby from being removed.
 底座的锁定机制阻止了红宝石被移除。
@@ -167,7 +167,7 @@ Fixer:    I'll help with what I can. D-don't worry ma'am, we'll stay out of trou
 修复者：我会尽我所能帮忙。D-请放心，女士，我们会避开麻烦！
 
 This wall looks like it could be broken with a proper tool.
-这堵墙看起来用合适的工具就能打破。
+这堵墙看起来可以用合适的工具打破。
 
 Spirit Mistress:    I've been expecting you...
 灵女：我一直在等你……
@@ -233,16 +233,16 @@ Fixer:    F-finally, back to safety! Let's go t-tell Breaza everything that happ
 修复者：F-终于回到安全的地方了！快去跟布里扎说发生的一切！
 
 This switch requires a Copper key to work.
-这个开关需要用铜钥匙才能启动。
+此开关需要用铜钥匙才能启动。
 
 The gates are stuck.
 大门卡住了。
 
 The gates seem barred from the other side.
-大门似乎被从另一侧堵住了。
+大门似乎被另一侧堵住了。
 
 The door is locked from inside.
-门从内部锁住了。
+门被内部锁住了。
 
 The gates are locked tight.
 大门被牢牢锁住。
@@ -263,7 +263,7 @@ This door requires an Axe key to open.
 （这本日记似乎属于灵女。你轻松地解读了奇怪的符文）
 
 Day 54, 3rd Qrt. An. 1106
-第54天，第三季度，安年1106年
+安努姆1106年，第三季度，第54天
 
 Just great!  I left my decrepit mansion hoping for an adventure and Mistress Nithriel has brought me to this damp
 真棒！我离开破旧的庄园希望能开启冒险，结果妮丝瑞尔女士却带我来到这个阴
@@ -275,7 +275,7 @@ the premises to my liking.  What won't change so soon is the presence of these p
 我的喜好布置这里了。很快改变不了的是我们城墙外这些顽固兽人的存在。
 
 Day 55, 3rd Qrt. An. 1106
-第55天，第三季度，安年1106年
+安努姆1106年，第三季度，第55天
 
 Nithriel has finally talked about her exploits... to a certain degree. She had to expend large amounts of her power
 妮丝瑞尔终于谈及她的冒险经历……在某种程度上。她不得不耗费大量魔力来获
@@ -287,7 +287,7 @@ a mana funneling ritual.  It appears that she still requires energy for her upco
 力汇聚仪式。看起来她仍需能量为即将到来的旅程做准备。很好，我会遵从。
 
 Day 56, 3rd Qrt. An. 1106
-第56天，第三季度，安年1106年
+安努姆1106年，第三季度，第56天
 
 Drat! Just as I returned here today, I noticed a praak running off with my Spirit Gem clutched into it's slimy claws!
 该死！我刚回到这里就发现一个普拉克正带着我的灵石逃窜，它用黏腻的爪子紧紧抓着！
@@ -296,7 +296,7 @@ I chased it all the way to the throne room, but he vanished without a trace! The
 我一路追到王座大厅，但它却毫无踪迹地消失了！邪教徒们仍在搜寻它……
 
 Day 57, 3rd Qrt. An. 1106
-第57天，第三季度，安年1106年
+安努姆1106年，第三季度，第57天
 
 It seems like Nithriel is planning to leave to Hell.   She's got an appointment with the Blue Baron I presume... I hope
 看起来妮丝瑞尔计划前往地狱。她应该要与幽蓝男爵会面……我希望她不
@@ -332,7 +332,7 @@ I shall return in due time once I bring the artifact to where it belongs. Tend t
 等我把神器带到它该去的地方后，我将适时归来。履行你的任务，不要让我失望。
 
 Interrogation Report - Day 57, 3rd Quarter, Anum 1106
-审讯报告 - 第57天，第三季度，安年1106年
+审讯报告 - 安努姆1106年，第三季度，第57天
 
 We have commenced the interrogation of the first prisoner. As expected, she has refused to talk. We applied an
 我们已开始审讯第一位囚犯。正如预期，她拒绝开口。我们施加了越来越多的
@@ -461,7 +461,7 @@ Grand Earth Mother Breaza:    However, we can't assault the town gates directly.
 伟大的大地之母布里扎：然而，我们不能直接强攻城门。守卫塔会将我们烧成灰烬！
 
 Reports suggest that the demons are using a nearby abandoned minotaur town to store their supply of hell powder...
-报告指出恶魔们正在利用附近废弃的牛头人镇储存他们的地狱火药...
+报告指出恶魔们正在利用附近废弃的牛头人镇储存他们的地狱火药……
 
 If we could claim it, we could use it to quickly tunnel around the town's walls and launch a surprise attack.
 如果我们能夺取它，就能快速挖掘绕过城镇城墙并发动突袭。
@@ -476,7 +476,7 @@ My ancestors used perfectly cut rubies to open the main gates. And I happen to h
 我的祖先曾用完美切割的红宝石开启主门。而我恰好继承了一颗这样的宝石。
 
 Bonebreaker, take the ruby and place it on the pedestal where it belongs. That will power up the gate's mechanism.
-碎骨者，拿走这颗红宝石并将其放在属于它的地方。这样就能激活大门的机关。
+碎骨者，拿走这颗红宝石并将其放在属于它的底座。这样就能激活大门的机关。
 
 Advisor:    The enemy isn't expecting you, so this should be a safer task, sergeant. Still, keep your guard up.
 顾问：敌人没有预料到你们，所以这应该是一项更安全的任务，中士。不过，仍要保持警惕。
@@ -554,31 +554,31 @@ Oh, and before I forget... try not to hamper our Brewer next time. It cost our E
 .oO   “碎骨者”瓒的日志   Oo.
 
 > Not much going on, I should find my room and get rest
-> 没什么特别的事，我应该去找房间休息一下
+> 没什么大事，我该去找房间休息了
 
 > A Fixer told me her squad vanished - should investigate
-> 一个修复者告诉我她的队伍消失了——应该调查一下
+> 一个修复者告诉我她的小队消失了——应该调查一下
 
 > Found the captives, need to free them and report to Breaza
 > 找到了俘虏，需要解救他们并报告给布里扎
 
 > Get into the Minotaur Town, find and secure the Hell Powder
-> 进入牛头人镇，找到并获取地狱火药
+> 进入牛头人镇，找到并安全获取地狱火药
 
 > Found more than just Hell Powder - should report to Breaza
-> 不仅仅是地狱火药——应该报告给布里扎
+> 发现的不只是地狱火药——应该报告给布里扎
 
 > Enter the old Dwarf Town & check if Lith's visions were true
-> 进入旧矮人镇，检查利思的幻象是否属实
+> 进入旧矮人镇，并检查利思的预言是否属实
 
 > Found a weird corruption sample, should report back to Zura
-> 发现了一个奇怪的腐化样本，应该回报祖拉
+> 找到一个奇怪的腐化样本，应该返回向祖拉汇报
 
 > Sabotage the flame towers protecting the Demon Town gate
-> 破坏保护恶魔镇大门的火焰塔
+> 破坏守护恶魔镇大门的火焰塔
 
 ---Side Notes---
----任务提示---
+---侧注---
 
 > E. Mother Bendi needs a Spirit Gem to charge my Psi Crown
 > E.之母本迪需要一颗灵石来充能我的心灵王冠
@@ -587,7 +587,7 @@ Oh, and before I forget... try not to hamper our Brewer next time. It cost our E
 > 大地之母本迪需要一颗灵石来充能我的心灵王冠
 
 > Workshop Boss needs 6 lumps of Dark Iron for gun parts
-> 工坊老板需要6块暗铁用于枪械零件
+> 工坊老板需要6块暗铁来制作枪支零件
 
 > Smith Hectus needs 8 lumps of Iron for a Great Axe
 > 铁匠赫克图斯需要8块铁矿石打造巨斧
@@ -599,43 +599,43 @@ Oh, and before I forget... try not to hamper our Brewer next time. It cost our E
 > 阴暗修复者以10金币出售暗视护目镜
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗视护目镜
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-2个守卫以100金币出售
+以100金币出售2个守卫
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗视护目镜
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-2个守卫以100金币出售
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-储物袋以300金币出售
+以300金币出售1个储物袋
 
 > A Shady Fixer sells Dark Vision Goggles for 10 gold
-> 阴暗修复者以10金币出售暗视护目镜，
+> 一位阴暗修复者以10金币出售暗视护目镜
 
 two Sentries for 100 gold
-2个守卫以100金币出售
+以100金币出售2个守卫
 
 a Bag of Holding for 300 gold
-储物袋以300金币出售
+以300金币出售1个储物袋
 
 Vials of Healing for 10 gold
 以10金币出售治疗药剂
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来以下零件：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、充满空气的气瓶以及几套密封潜水服，铁匠可以组装潜水装备
+水下呼吸器、充满空气的气瓶以及几套密封服装
 
 > A smith could assemble the diving suit if I bring the parts:
-> 如果我带来以下零件：
+> 如果我带来以下零件，铁匠可以组装潜水服：
 
 underwater mask, tank full of air & couple of airtight suits
-水下呼吸器、充满空气的气瓶以及几套密封潜水服，铁匠可以组装潜水装备
+水下呼吸器、充满空气的气瓶以及几套密封服装
 
 Grand E. M. Breaza:    The minotaur town should connect to the mines, search it carefully. And watch your back!
 伟大的E.M.布里扎：牛头人镇应该连接到矿井，仔细搜索。小心身后！
@@ -710,7 +710,7 @@ I will order the girls to secure the fortress and search it for any strategic in
 我会让女孩们守住堡垒，并搜索其中的任何战略情报。
 
 Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready.
-伟大的大地之母布里扎：好吧……现在去休息吧，瓒，之后你可以在营地帮忙。你的房间应该已经准备好了。
+伟大的大地之母布里扎：很好……瓒，现在去休息吧，之后你可以在营地帮忙。你的房间应该准备好了。
 
 Grand E.M. Breaza:    Yet another misfortune... find out what you can, but please be careful, Zan. I can't lose you.
 伟大的E.M.布里扎：又一场不幸……你能查到什么就查什么，但请小心，瓒。我不能失去你。
@@ -983,7 +983,7 @@ Min. Lord Murguth:    You faced the demons bravely and cleansed them from our to
 牛头人领主穆尔古斯：你勇敢地面对恶魔并清除了它们对我们的威胁，我族的感激之情由衷。
 
 Minotaur Lord Murguth:    Look for gates adorned with iron bull heads... the ruby pedestals should be close to them.
-牛头人领主穆尔古斯：寻找装饰着铁牛头像的大门……红宝石基座应该就在附近。
+牛头人领主穆尔古斯：寻找装饰着铁牛头像的大门……红宝石底座应该就在附近。
 
 Minotaur Lord Murguth:    You're welcome among us, Halfblood. I can tell your worth from the fire burning in your eyes.
 牛头人领主穆尔古斯：欢迎你加入我们，混血儿。我能从你眼中燃烧的火焰看出你的价值。
@@ -1043,25 +1043,25 @@ Warlord Grund:    Has your mission been successful, warrior? Go ahead and debrie
 男巫格伦德：战士，你的任务完成得如何？去向祖拉汇报吧。
 
 (You pet the warg)
-（你抚摸狼灵）
+（你摸了摸狼灵）
 
 (You scratch the warg)
 （你挠了挠狼灵）
 
 (You pet the warg)
-（你继续抚摸狼灵）
+（你摸了摸狼灵）
 
 Warg:    *Growls softly*
 狼灵：*轻声低吼*
 
 (You scratch the warg)
-（你继续挠着狼灵）
+（你挠了挠狼灵）
 
 Warg:    *Sniffs lazily*
 狼灵：*懒洋洋地嗅了嗅*
 
 (You pet the warg)
-（你继续抚摸狼灵）
+（你摸了摸狼灵）
 
 Warlord Grund:    She's a war machine, not a house pet, sergeant. Keep your hands where they belong.
 男巫格伦德：它可不是家里的宠物，中士。把手放在该放的地方。
@@ -1100,7 +1100,7 @@ They headed out to the mines to the north, in search of an ideal place to tunnel
 他们前往北方的矿井，寻找一个理想的地点绕过恶魔镇进行地道作业。
 
 Unfortunately, the demons have somehow figured out our plan and ambushed them, blowing up the main access tunnel.
-不幸的是，恶魔们 somehow 猜出了我们的计划并伏击了他们，炸毁了主入口隧道。
+不幸的是，恶魔们不知道怎么猜出了我们的计划并伏击了他们，炸毁了主入口隧道。
 
 Grand E. M. Breaza:    We need you to find an alternative path into the mine and see what happened to the sappers.
 伟大的E.M.布里扎：你需要找到进入矿井的替代路径，并查明工兵们的状况。
@@ -1304,16 +1304,16 @@ Workshop Boss:    This new gun you've uncovered is quite a piece of work. Wish I
 工坊老板：你发现的新枪可真是个杰作。要是有更多时间研究它就好了。
 
 Workshop Boss:    You got the ore?  Damn, big girl!   Here, we recovered some ammo boxes. I know it ain't
-工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了一些弹药箱。我
+工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了一些弹药箱。
 
 much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance.
-知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
+我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
 
 Workshop Boss:    You got the ore? Damn, big girl! Here, we recovered this bracer. I know it ain't
-工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了这个护腕。我知
+工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了这个护腕。
 
 much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance.
-道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
+我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
 
 I'll take the ore to Hectus when he's done working, doncha worry about it. Thanks for the help.
 我会把矿石带给赫克图斯，等他完工后你就别担心了。谢谢你的帮助。
@@ -2051,7 +2051,7 @@ Earth Mother:    This looks like the gate to the dwarf town. Priest Jaromir must
 大地之母：这看起来像是矮人镇的大门。贾罗米尔神父一定在内部等着我们。
 
 Witch:    Zan?! Over here!... demon scum have taken us by surprise, we barely made it out alive!
-女巫：瓒？！这边！……恶魔杂种突然袭击了我们，我们 barely 活着逃了出来！
+女巫：瓒？！这边！……恶魔杂种突然袭击了我们，我们差点没活着逃出来！
 
 Fixer:    We were 'bout to blow that wall to bits, but now that you're here, the honour is all yours.
 修复者：我们原本打算炸毁那堵墙，但现在你来了，荣誉全归你了。

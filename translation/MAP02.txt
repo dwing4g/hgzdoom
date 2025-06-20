@@ -8,25 +8,25 @@ You don't have any spell scroll to dispel the magic ward.
 你没有可以解除魔法屏障的咒语卷轴。
 
 This door requires a Vine key to open.
-这扇门需要藤蔓钥匙才能开启。
+这扇门需要用藤蔓钥匙才能打开。
 
 This door requires an Axe key to open.
-这扇门需要斧头钥匙才能开启。
+这扇门需要用斧钥匙才能打开。
 
 This door requires a Vine key to open.
-这扇门需要藤蔓钥匙才能开启。
+这扇门需要用藤蔓钥匙才能打开。
 
 This door requires a Stone key to open.
-这扇门需要石钥匙才能开启。
+这扇门需要用石钥匙才能打开。
 
 This door requires an Iron key to open.
-这扇门需要铁钥匙才能开启。
+这扇门需要用铁钥匙才能打开。
 
 This door requires a Vine key to open.
-这扇门需要藤蔓钥匙才能开启。
+这扇门需要用藤蔓钥匙才能打开。
 
 This door requires an Axe key to open.
-这扇门需要斧头钥匙才能开启。
+这扇门需要用斧钥匙才能打开。
 
 The Red Crystal radiates waves of heat.
 红水晶散发着阵阵热浪。
@@ -50,55 +50,22 @@ Rot. 509, Day 237, Reaver Meza
 第509轮，第237天，掠夺者梅扎
 
 Reaver Tiati has brought in a human prisoner. He had no stolen goods on him apparently, but
-掠夺者提娅媞带进了一个俘虏。他身上似乎没有偷来的物品，但
+掠夺者提娅媞带进了一个俘虏。他身上似乎没有偷来的物品，
 
 I believe he might be tied to the poachers that have been troubling the forests lately...
-我相信他可能与近期困扰森林的盗猎者有关联……
+但我相信他可能与近期困扰森林的盗猎者有关联……
 
 Keep in mind that since we've coupled one of the switches to the park gate, the cells are linked.
 请注意，因为我们把其中一个开关连接到了公园大门上，牢房现在是联动的。
 
 The right switch now opens the park gate, and the left one opens the armory as before. The middle
-右边的开关现在打开公园大门，左边的开关仍如之前那样开启军械库。然而
+右边的开关现在打开公园大门，左边的开关仍如之前那样开启军械库。
 
 one, however, opens both cells at once for now.      Do not operate it without someone guarding the
-中间的那个开关目前会同时打开两个牢房。不要在无人看守囚犯的情况下
+然而中间的那个开关目前会同时打开两个牢房。不要在无人看守囚犯的情况下操作它。
 
 prisoners. If I have to chase any loose captive because of this, you're in for the whip. - Sgt. Barna
-操作它。如果因此让我追捕任何逃跑的俘虏，你将面临鞭刑。- 巴纳上尉
-
-(This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
-（这本日记似乎属于巴纳上尉。最后几条记录引起了你的注意）
-
-Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
-第232天：自从我们的部队离开瓦尔克已经过去一个月了。我没能加入行动，但既然我在这里负责……
-
-Day 236: Since there's not much going on, I might start breaking down that cracked cell wall and fix it.
-第236天：既然没什么事发生，我可能会开始拆除那面裂开的牢房墙并修复它。
-
-Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
-第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。她
-
-found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
-说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
-
-All he does is mumble and groan.    I plucked away a bunch of spikes stuck in his back.   I've got no idea who
-他只会咕哝和呻吟。我拔掉了他背上插着的许多尖刺。我不知道是谁对他做了这些，
-
-did this to him, but he seems possessed to me.  His eyes are all dark and empty, and his skin looks so sickly...
-但我觉得他似乎被附身了。他的眼睛全是黑暗空洞的，皮肤看起来如此病态……
-
-Day 238: Son of a bitch, he's somehow ripped his own arm off! Found him bleeding out, and had to use a whole
-第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，不得不使用一
-
-healing potion to stabilize him. As I came close to him, he started spasming and mumbling some words for the
-瓶治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐并第一次喃喃说出一些
-
-first time. Something about an impending doom about to claim us. Can hardly understand what he says given
-话。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，几乎听不懂
-
-he's missing half his tongue.     He doesn't seem to feel much pain, so we're not sure how to interrogate him...
-他在说什么……他似乎感觉不到太多疼痛，所以我们不确定该如何审问他……
+如果因此让我追捕任何逃跑的俘虏，你将面临鞭刑。- 巴纳中士
 
 (This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
 （这本日记似乎属于巴纳中士。最后几条记录引起了你的注意）
@@ -110,10 +77,43 @@ Day 236: Since there's not much going on, I might start breaking down that crack
 第236天：既然没什么事发生，我可能会开始拆除那面裂开的牢房墙并修复它。
 
 Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
-第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。她
+第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。
 
 found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
-说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
+她说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
+
+All he does is mumble and groan.    I plucked away a bunch of spikes stuck in his back.   I've got no idea who
+他只会咕哝和呻吟。我拔掉了他背上插着的许多尖刺。我不知道是谁对他做了这些，
+
+did this to him, but he seems possessed to me.  His eyes are all dark and empty, and his skin looks so sickly...
+但我觉得他似乎被附身了。他的眼睛全是黑暗空洞的，皮肤看起来如此病态……
+
+Day 238: Son of a bitch, he's somehow ripped his own arm off! Found him bleeding out, and had to use a whole
+第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，
+
+healing potion to stabilize him. As I came close to him, he started spasming and mumbling some words for the
+不得不使用一瓶治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐
+
+first time. Something about an impending doom about to claim us. Can hardly understand what he says given
+并第一次喃喃说出一些话。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，
+
+he's missing half his tongue.     He doesn't seem to feel much pain, so we're not sure how to interrogate him...
+几乎听不懂他在说什么……他似乎感觉不到太多疼痛，所以我们不确定该如何审问他……
+
+(This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
+（这本日记似乎属于巴纳中士。最后几条记录引起了你的注意）
+
+Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
+第232天：自从我们的部队离开瓦尔克已经过去一个月了。我没能加入行动，但既然我在这里负责……
+
+Day 236: Since there's not much going on, I might start breaking down that cracked cell wall and fix it.
+第236天：既然没什么事发生，我可能会开始拆除那面裂开的牢房墙并修复它。
+
+Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
+第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。
+
+found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
+她说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
 
 All he does is mumble and groan.   I plucked away a bunch of spikes stuck in his back.   I've got no idea who
 他只会咕哝和呻吟。我拔掉了他背上插着的许多尖刺。我不知道是谁对他做了这些，
@@ -122,37 +122,37 @@ did this to him, but he seems possessed to me.  His eyes are all dark and empty,
 但我觉得他似乎被附身了。他的眼睛全是黑暗空洞的，皮肤看起来如此病态……
 
 Day 238: Son of a bitch, he's somehow ripped his own arm off! Found him bleeding out, and had to use a whole
-第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，不得不使用一瓶
+第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，
 
 healing potion to stabilize him. As I came close to him, he started spasming and mumbling some words for the
-治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐并喃喃说出一些话——第一
+不得不使用一瓶治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐
 
 first time. Something about an impending doom about to claim us. Can hardly understand what he says, given
-次开口。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，几乎听不
+并第一次喃喃说出一些话。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，
 
 he's missing half his tongue.    He doesn't seem to feel much pain, so we're not sure how to interrogate him...
-懂他在说什么……他似乎感觉不到太多疼痛，所以我们不确定该如何审问他……
+几乎听不懂他在说什么……他似乎感觉不到太多疼痛，所以我们不确定该如何审问他……
 
 (You notice a parchment in the ventilation shaft, and unroll it. It's signed by Reaver Tiati)
 （你注意到通风管道中有一张羊皮纸，展开后发现是掠夺者提娅媞的签名）
 
 Before you curse my cowardly blood, know that I am doing this for our best. I saw Barna die in a
-在你诅咒我懦弱的血脉之前，请知道我是为了我们最好的利益而这么做。我
+在你诅咒我懦弱的血脉之前，请知道我是为了我们最好的利益而这么做。
 
 split moment. This woman... She looked elven to me. I could hardly see, for I barely had time to
-亲眼目睹巴纳在瞬间死去。这个女人……她看起来像精灵。我几乎看不清
+我亲眼目睹巴纳在瞬间死去。这个女人……她看起来像精灵。我几乎看不清，
 
 lock myself in here.  A powerful warlock, spewing bolts of magic as a swarm of cultists came out
-，因为几乎没有时间锁上这间屋子。一个强大的巫师，向空中涌出一群邪
+因为几乎没有时间锁上这间屋子。一个强大的巫师，向空中涌出一群邪教徒，
 
 of thin air...   I watched through the crystal globes as the whole plaza was swarmed with them.
-教徒，他们从虚无中现身……我通过水晶球观察着整个广场被他们淹没。
+他们从虚无中现身……我通过水晶球观察着整个广场被他们淹没。
 
 All our sisters...  are dead.    I need to reach the Lancers, this is a full on invasion!   And if I die,
-我们所有的姐妹……都死了。我必须找到长枪团，这是全面入侵！如果我死
+我们所有的姐妹……都死了。我必须找到长枪团，这是全面入侵！
 
 may these notes stand testament to my intentions.    I need to find out what in hell is going on...
-了，愿这些笔记成为我意图的见证。我需要弄清楚到底发生了什么……
+如果我死了，愿这些笔记成为我意图的见证。我需要弄清楚到底发生了什么……
 
 Monthly list of crystal requests
 月度水晶请求清单
@@ -176,25 +176,25 @@ Monthly list of crystal requests
 （你小心地展开潮湿的羊皮纸。字迹几乎无法辨认，下半部分已腐烂）
 
 If the rum  s  re true, the cave orcs ar     ossession of a massive treas  e. Tons of mag
-如果传言属实，洞穴兽人正在掌控一座巨大的宝藏。成吨的魔法
+如果传言属实，洞穴兽人正在掌控一座巨大的宝藏。成吨的魔法水晶
 
 crystals g  wing all around their dun   n ! We won't be abl  to just wal z in, though, we
-水晶围绕着他们的山洞！我们不可能直接闯入，必须找到一些替
+围绕着他们的山洞！我们不可能直接闯入，必须找到一些替代路线。
 
 gotta  fin  ome alt  ate routes. Make s   to brin  backup  ickaxe, h ard the green  unts
-代路线。务必带上备用铁镐——那些绿色的家伙似乎有某种坚固
+务必带上备用铁镐——那些绿色的家伙似乎有某种坚固的石材。
 
 have som  solid masonry. Something involvin  ench ted sto e. Or perh  s dwar  s are hel
-的石材。涉及强化石柱的机关……或者或许矮人族在帮忙？
+涉及强化石柱的机关……或者或许矮人族在帮忙？
 
 The key is outside the secret entrance here if you need it, my dear.  Again, I'm sorry I have
-钥匙在秘密入口外，亲爱的。再次抱歉必须离开这么久，但你
+钥匙在秘密入口外，亲爱的。再次抱歉必须离开这么久，
 
 to leave for so long, but your sisters need a fine axeman for this campaign, and I'm eager to
-的姐妹们需要一名优秀的斧战士来执行这次战役，而我渴望亲
+但你的姐妹们需要一名优秀的斧战士来执行这次战役，
 
 stomp some demon skulls myself. Take care, I'm sure the tavern will have plenty of visitors
-手踏碎恶魔的头骨。保重，我相信即使大部分铁军军团离营，
+而我渴望亲手踏碎恶魔的头骨。保重，我相信即使大部分铁军军团离营，
 
 even with most of the Iron Division forces away... - Your loyal minotaur blacksmith, Hectus
 酒馆也会有大量访客……——你忠诚的牛头人铁匠赫克图斯
@@ -215,37 +215,37 @@ Dear Prospector Magnus, we're glad that we have settled upon an agreement, then.
 亲爱的勘探者马格努斯，我们很高兴终于达成了协议。
 
 I am sure this new crystal imbued ore will be worth researching,  and we are coming
-我相信这种新水晶充能矿石值得深入研究，随着挖掘加深
+我相信这种新水晶充能矿石值得深入研究，随着挖掘加深，
 
 by more veins as we dig deeper.  We await your arrival in few days.  Simply show this
-，我们会发现更多矿脉。几天后请前来，只需向守卫展示
+我们会发现更多矿脉。几天后请前来，只需向守卫展示此信件，
 
 letter to the gate guard,  along with your signet ring.    -    Captain Dura of the I.D.
-此信件，并出示你的徽章戒指即可。——铁军队长杜拉
+并出示你的徽章戒指即可。——铁军队长杜拉
 
 To VALC'S PARK, LIBRARY & GROVE
 前往瓦尔克公园、图书馆与林地
 
 Making Enchanted Ink is a process that takes two steps:
-制作附魔墨水是一个分两个步骤的过程：
+制作附魔墨水的过程分成两步：
 
 First, you will require a Powered Cauldron. Anything less will not be able to get
-首先，你需要一个魔能坩埚。任何低于标准的设备都无
+首先，你需要一个魔能坩埚。任何低于标准的设备都
 
 the magical ingredients to mix with the pigment well, and the ink will be spoiled.
-法让魔法材料与颜料充分混合，墨水将因此变质。
+无法让魔法材料与颜料充分混合，墨水将因此变质。
 
 Secondly, you must gather the proper ingredients:  a bowl of Fae Dust  -  no more
-第二步，你需要收集合适的材料：一勺妖精之尘——不超过
+第二步，你需要收集合适的材料：一勺妖精之尘——
 
 than what we offer by the Earth Mother statues   -   and the proper reagents for
-我们在大地之母雕像旁提供的量——以及获取颜色所需的合
+不超过我们在大地之母雕像旁提供的量——以及获取颜色所需的
 
 obtaining the color. You will need at least three of the same type, assuming they
-适试剂。你至少需要三种同类型的材料（假设它们含有强效
+合适试剂。你至少需要三种同类型的材料（假设它们含有强效颜料）。
 
 have potent pigment. Once you have all the ingredients, mix them in the cauldron.
-颜料）。一旦准备好所有材料，将其放入坩埚中混合。
+一旦准备好所有材料，将其放入坩埚中混合。
 
 (You notice a parchment with colorful diagrams sitting next to the instructions)
 （你注意到旁边有一张绘有彩色示意图的羊皮纸）
@@ -254,25 +254,25 @@ have potent pigment. Once you have all the ingredients, mix them in the cauldron
 （你取下了附在说明上的配方羊皮纸）
 
 Making Enchanted Ink is a process that takes two steps:
-制作附魔墨水是一个分两步的过程：
+制作附魔墨水的过程分成两步：
 
 First, you will require a Powered Cauldron. Anything less will not be able to get
-首先，你需要一个魔能坩埚。任何低于标准的设备都无
+首先，你需要一个魔能坩埚。任何低于标准的设备都
 
 the magical ingredients to mix with the pigment well, and the ink will be spoiled.
-法让魔法材料与颜料充分混合，墨水将因此变质。
+无法让魔法材料与颜料充分混合，墨水将因此变质。
 
 Secondly, you must gather the proper ingredients:  a bowl of Fae Dust  -  no more
-第二步，你需要收集合适的材料：一勺妖精之尘——不超过
+第二步，你需要收集合适的材料：一勺妖精之尘——
 
 than what we offer by the Earth Mother statues   -   and the proper reagents for
-我们在大地之母雕像旁提供的量——以及获取颜色所需的合
+不超过我们在大地之母雕像旁提供的量——以及获取颜色所需的
 
 obtaining the color.  You will need at least three of the same type, assuming they
-适试剂。你至少需要三种同类型的材料（假设它们含有强效
+合适试剂。你至少需要三种同类型的材料（假设它们含有强效颜料）。
 
 have potent pigment. Once you have all the ingredients, mix them in the cauldron.
-颜料）。一旦准备好所有材料，将其放入坩埚中混合。
+一旦准备好所有材料，将其放入坩埚中混合。
 
 (You notice a parchment with colorful diagrams sitting next to the instructions)
 （你注意到旁边有一张绘有彩色示意图的羊皮纸）
@@ -284,67 +284,67 @@ have potent pigment. Once you have all the ingredients, mix them in the cauldron
 （你发现通风井里藏有一张便条，署名掠夺者提娅媞）
 
 I've been doing my best to hamper this sudden invasion from the shadows. The ventilation shafts helped
-我一直在尽最大努力阻碍暗影势力的突然入侵。通风井帮助我潜行
+我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒正在接收炸毁并坍塌出口的命令。
+而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
-他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店并将所有
+他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
 
 crystal shop and move all the merchandise upstairs. I must delay them from getting their hands on our
-商品搬到了楼上。我必须拖延他们获取我们科技的脚步。我甚至毁掉了
+并将所有商品搬到了楼上。我必须拖延他们获取我们科技的脚步。
 
 tech.   I even trashed a few power cores,  but they heard the noise so I had to break the ladder and go.
-一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
+我甚至毁掉了一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
 
 Lucky me, I found a warding scroll in the shopkeeper's room.   Should my sisters need to break the ward,
-幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要解除屏障，
+幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障，
 
 I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
 我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
 
 Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
-附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该在
+附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
 
 must have a recipe around her shop.  I pray the demons won't break that seal any time soon. Alas, I must
-她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，我必
+在她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，
 
 push on... I have to rush for the Forge and make sure they don't get their hands on any of our schematics.
-须继续前进……我得赶往锻造厂，确保他们无法获取我们的图纸。
+我必须继续前进……我得赶往锻造厂，确保他们无法获取我们的图纸。
 
 (You notice another note hidden in a ventilation shaft. It's signed by Reaver Tiati.)
 （你发现通风井里藏有一张便条，署名掠夺者提娅媞）
 
 I've been doing my best to hamper this sudden invasion from the shadows. The ventilation shafts helped
-我一直在尽最大努力阻碍暗影势力的突然入侵。通风井帮助我潜行
+我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒正在接收炸毁并坍塌出口的命令。
+而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
-他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店并将所有
+他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
 
 crystal shop and move all the merchandise upstairs. I must delay them from getting their hands on our
-商品搬到了楼上。我必须拖延他们获取我们科技的脚步。我甚至毁掉了
+并将所有商品搬到了楼上。我必须拖延他们获取我们科技的脚步。
 
 tech.   I even trashed a few power cores,  but they heard the noise so I had to break the ladder and go.
-一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
+我甚至毁掉了一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
 
 Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters need to break the ward,
-幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要解除屏障，
+幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障，
 
 I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
 我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
 
 Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
-附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该在
+附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
 
 must have a recipe around her shop. I pray the demons won't break that seal any time soon. Alas, I must
-她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，我必
+在她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，
 
 push on... I have to rush for the Forge and make sure they don't get their hands on any of our schematics.
-须继续前进……我得赶往锻造厂，确保他们无法获取我们的图纸。
+我必须继续前进……我得赶往锻造厂，确保他们无法获取我们的图纸。
 
 (A series of magic runes are carved into the tablet. The lower part is not yet complete)
 （一系列魔法符文刻在石板上。下半部分尚未完成）
@@ -383,22 +383,22 @@ History of the Iron Division - Chapter 4: The Castes
 铁军史 - 第四章：种姓
 
 [...]   and upon settling within the caves of Hedon, the greenskins were divided into six castes, each
-[...] 当他们定居在赫顿的洞穴后，绿皮人被划分为六个种姓，每个种
+[...] 他们在赫顿的洞穴中安顿下来后，绿皮人被划分为六个种姓，
 
 responsible with a part of the stability of their no longer nomadic tribe.    They would all use their
-姓负责维持其不再游牧部落的部分稳定。他们将用各自天赋以不同
+每个种姓负责维持其不再游牧部落的部分稳定。他们将用各自天赋以不同方式行事，
 
 gifts in various ways,  with the major purpose of erecting Valc from cold stone and turning it into a
-方式行事，主要目的是从冷石中建造瓦尔克，并将其变为宏伟城市
+主要目的是从冷石中建造瓦尔克，并将其变为宏伟的城市。
 
 grand city. No longer would they seek their place, for the crystal caverns gave them everything.
-。他们不再需要寻找自己的位置，因为水晶洞窟已赋予他们一切。
+他们不再需要寻找自己的位置，因为水晶洞窟已赋予他们一切。
 
 The Lancers became the just keepers of the Crystal Heart.
 长枪团成为水晶之心的公正守护者。
 
 The Earth Mothers harnessed the old ways of magic, and kept the orc traditions alive.
-大地之母们掌握古老魔法之道，并延续兽人传统。
+大地之母们掌握了古老魔法之道，并延续了兽人的传统。
 
 The Bear Warriors held the Division's might high.
 熊战士们高举军团的力量。
@@ -407,10 +407,10 @@ The Witches used their knowledge to push new boundaries.
 女巫们用知识推动新的边界。
 
 The Reavers became feared shadow guardians.
-掠夺者成为令人畏惧的影子守护者。
+掠夺者们成为令人畏惧的影子守护者。
 
 And the Fixers would make the weakest of metal strong.
-修复者会让最脆弱的金属变得强大。
+而修复者将最脆弱的金属变得强大。
 
 NEIHALL'S DWARVEN GEAR
 内哈尔的矮人装备
@@ -437,7 +437,7 @@ The main gear has been broken. You doubt you'll find any replacement around the 
 主装置已损坏。你怀疑在广场附近找不到替代品。
 
 This door seems to be locked from the other side.
-这扇门似乎从另一侧被锁住了。
+这扇门似乎被另一侧锁住了。
 
 CENTRAL PLAZA GATE CONTROLS
 中央广场闸门控制台
@@ -452,20 +452,20 @@ Handle with care
 小心处理
 
 Scroll of Magma Ball - 1x bowl of Scribe Embers, basic warm inks, plain parchment
-熔岩球卷轴 - 1碗抄写者余烬，基础温墨水，普通羊皮纸
+熔岩球卷轴 - 1碗抄写者余烬、基础温墨水、普通羊皮纸
 
 (A drawing stencil depicts a clump of fire and earth shaped into a ball)
-（一幅绘图模板描绘一团火与土凝聚成球状）
+（一幅绘图模板描绘着一团火与土融合成球状）
 
 Scroll of Nourish - 1x mortar of Earth Pigment, basic warm inks, plain parchment
-滋养卷轴 - 1碗大地颜料，基础暖墨水，普通羊皮纸
+滋养卷轴 - 1碗大地颜料、基础温墨水、普通羊皮纸
 
 (A drawing stencil depicts a sprouting earth plant)
-（一幅绘图模板描绘一株萌芽的大地植物）
+（一幅绘图模板描绘着一株萌芽的大地植物）
 
 Scroll of Dispel Magic - 1x can of Enchanted Purple Ink, basic ink, plain parchment
-驱魔卷轴 - 1罐附魔紫墨水，基础墨水，普通羊皮纸
+驱魔卷轴 - 1罐附魔紫墨水、基础墨水、普通羊皮纸
 
 (A drawing stencil depicts a shattered spirit spiral)
-（一幅绘图模板描绘破碎的精神螺旋）
+（一幅绘图模板描绘着破碎的精神螺旋）
 

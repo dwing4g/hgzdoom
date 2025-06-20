@@ -1,5 +1,5 @@
 Welcome to Hedon's beta testing hub!
-欢迎来到赫顿的测试中心！
+欢迎来到赫顿的beta测试中心！
 
 Select a level by jumping in one of the pits and using the front wall.
 请跳入其中一个坑洞并利用前墙选择关卡。
@@ -53,7 +53,7 @@ Map12 - Mansion (Moderate Spoilers)
 地图12 - 庄园（中度剧透）
 
 Map13/14/15 - Besieged (Major Spoilers)
-地图13/14/15 - 被围攻的（重度剧透）
+地图13/14/15 - 围攻（重度剧透）
 
 Map14 - Brazen Bull (Major Spoilers)
 地图14 - 青铜公牛（重度剧透）
@@ -329,7 +329,7 @@ Current monsters deal less friendly fire.
 21. 黄色
 
 Thanks to EVERYONE who financially supported Hedon I - Crystal Heart on Patreon!
-感谢所有在Patreon上为《赫顿I - 水晶之心》提供资金支持的朋友们！
+感谢在Patreon上为《赫顿I - 水晶之心》提供资助的所有人！
 
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
 Copper Boltwire, Karitan Aegis, Danyx992, Kyurae Minasaki, ekwood, papyLaPlage, Robopatron,
@@ -350,16 +350,16 @@ D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, All
 D3str0y3r176, AMIG, Dark Castle, Spardajackal, Grant Ruhoff, Clair Redfield, Allegory, John Poole
 
 WELCOME TO HEDON'S EPISODE I PATREON GALLERY!
-欢迎来到赫顿第一篇的Patreon画廊！
+欢迎来到赫顿第I章节的Patreon画廊！
 
 Do you want to feature in here as a supporter of Hedon?
-你是否想在这里作为赫顿的支持者被展示？
+您是否希望以赫顿的支持者身份在这里展示吗？
 
 Do you want a chance at having drawn a custom avatar of your choosing?
-你是否想要一个机会绘制自己选择的定制头像？
+您想要一个机会绘制自己选择的定制化身吗？
 
 Do you want to help Hedon grow bigger and hook up to development updates?
-你是否想帮助赫顿发展壮大并连接开发更新？
+您想帮助赫顿成长并获取开发更新吗？
 
 Then join up on Hedon's Patreon!
 那么请加入赫顿的Patreon吧！
@@ -419,7 +419,7 @@ Karitan Aegis (2)
 Karitan Aegis (2)
 
 Sasha The Lynx (Avatar created by Sasha the Lynx)
-Sasha The Lynx (Avatar created by Sasha the Lynx)
+Sasha The Lynx（由Sasha the Lynx创作的形象）
 
 Iceman13
 Iceman13
@@ -449,7 +449,7 @@ DTheRage
 DTheRage
 
 Vivien Lynn (Reward slot gifted by Albatross)
-Vivien Lynn (Reward slot gifted by Albatross)
+Vivien Lynn（由Albatross赠送的奖励槽）
 
 M.A.Kerr
 M.A.Kerr
@@ -485,7 +485,7 @@ AlexZerker
 AlexZerker
 
 Thanks to EVERYONE who financially supported Hedon II - Bloodrite on Patreon!
-感谢所有在Patreon上为《赫顿II - 血祀》提供资金支持的朋友们！
+感谢在Patreon上为《赫顿II - 血祀》提供资助的所有人！
 
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
 LukeB     Eisenhorn     Sleepy Mei     Murdo McClelland     Red Charge     Simon P
@@ -611,16 +611,16 @@ WELCOME TO HEDON'S BLOODRITE PATREON GALLERY!
 欢迎来到赫顿的血祀Patreon画廊！
 
 Do you want to feature in here as a supporter of Hedon?
-您是否想作为赫顿的支持者在这里展示？
+您是否希望以赫顿的支持者身份在这里展示吗？
 
 Do you want a chance at having drawn a custom avatar of your choosing?
-您是否希望有机会绘制一个自定义的专属化身？
+您想要一个机会绘制自己选择的定制化身吗？
 
 Do you want to help Hedon grow bigger and hook up to development updates?
-您是否想帮助赫顿发展壮大并连接开发更新？
+您想帮助赫顿成长并获取开发更新吗？
 
 Then join up on Hedon's Patreon!
-那么请加入赫顿的Patreon！
+那么请加入赫顿的Patreon吧！
 
 KatG
 KatG

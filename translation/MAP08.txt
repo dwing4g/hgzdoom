@@ -1,5 +1,5 @@
 Bear Warrior:    Man, this place is colder than Moon's ass...
-熊战士: 哎呀，这地方冷得比月亮的屁股还寒...
+熊战士: 哎呀，这地方冷得比月亮的屁股还寒……
 
 Reaver:    At least you have some fur on.
 掠夺者: 至少你还有毛发保暖。
@@ -8,7 +8,7 @@ Reaver:    *Shiver* So. Cold.
 掠夺者: *打颤* 太冷了。
 
 Bear Warrior:    Huh, a live one...
-熊战士: 呵呵，活生生的家伙...
+熊战士: 呵呵，活生生的家伙……
 
 Reaver:    Looks like we have a survivor.
 掠夺者: 看来我们捡到个幸存者。
@@ -17,7 +17,7 @@ The thick layer of ice has a cracked spot that could be shattered with the prope
 厚重的冰层有个裂痕，可用合适工具击碎。
 
 The pedestal is empty.
-石 pedestal 是空的。
+底座是空的。
 
 It looks like the bridge has been destroyed by a fallen ice block.
 桥被坠落的冰块摧毁了。
@@ -32,13 +32,13 @@ Bear Warrior:    Too late for him now. C'mon, let's stop wasting time and get mo
 熊战士: 现在他已经没救了。走吧，别浪费时间赶紧动身。
 
 Reaver:    Did he just breathe?... hm, must be my imagination. Let's get going.
-掠夺者: 他刚才...呼吸了吗？...嗯，肯定是我的错觉。快走吧。
+掠夺者: 他刚才……呼吸了吗？……嗯，肯定是我的错觉。快走吧。
 
 Reaver:    Let's hope this was worth it...
-掠夺者: 希望这次行动值得...
+掠夺者: 希望这次行动值得……
 
 Bear Warrior:    There you go, buddy...
-熊战士: 给你，伙计...
+熊战士: 给你，伙计……
 
 Andrik:   *Cough* Argh, that hit the spot! I can feel it purging me veins!
 安德里克: *咳嗽* 啊！这下正中要害！我能感觉到毒血在被净化！
@@ -155,7 +155,7 @@ The switch does nothing.
 开关毫无作用。
 
 This door requires an Earth key to open.
-这扇门需要大地钥匙才能开启。
+这扇门需要用大地钥匙才能打开。
 
 Bear Warrior:    Finally! Let's get back into Valc.
 熊战士：终于！我们回去瓦尔克吧。
@@ -275,10 +275,10 @@ ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn th
 满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
 
 As we have replaced our old bellows with a crystal powered machine, apprentices shall be allowed to use it to smelt
-我们已将旧风箱换成了水晶动力机器，学徒们现在可以使用它来熔炼金
+既然我们将旧风箱换成了水晶动力机器，学徒们现在可以使用它来熔炼
 
 metal.   Simply place yer ore or ingot in the hot hearth, and it shall melt in a mere moment.   Once yer mould fills up
-属了。只需将矿石或金属锭放入炽热熔炉，片刻就能融化。待模具装
+金属了。只需将矿石或金属锭放入炽热熔炉，片刻就能融化。待模具装
 
 ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn the heat off before ye clean the hearth.
 满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
@@ -374,14 +374,14 @@ ELEVATOR TO VALC
 通往瓦尔克的升降梯
 
 This door is locked from the inside.
-这扇门从内部上锁。
+这扇门被内部锁住了。
 
 This door requires an Axe key to open.
-这扇门需要斧钥匙才能打开。
+这扇门需要用斧钥匙才能打开。
 
 This door requires a Stone key to open.
-这扇门需要石钥匙才能打开。
+这扇门需要用石钥匙才能打开。
 
 This door requires an Iron key to open.
-这扇门需要铁钥匙才能打开。
+这扇门需要用铁钥匙才能打开。
 

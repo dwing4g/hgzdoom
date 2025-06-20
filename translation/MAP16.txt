@@ -17,7 +17,7 @@ Lord Igrutius:    ATAAAAACK!!!
 领主伊格鲁提乌斯：攻－－击！！！
 
 Hmmh?... Why are you fleeing, you fools?!
-唔？...你们这些傻瓜为何逃跑？！
+唔？……你们这些傻瓜为何逃跑？！
 
 ARRGH, darn you and your trinkets, Halfblood!!!
 ARRGH，该死的你和你的小玩意儿，混血人！！
@@ -269,34 +269,34 @@ Earth Mother:    Earth protect you!
 大地之母：大地守护你！
 
 The doors are locked from the inside.
-大门从内部锁住了。
+门被内部锁住了。
 
 The gates are locked from the inside.
-闸门从内部锁住了。
+大门被内部锁住了。
 
 The door is locked from the other side.
-这扇门是从另一侧锁住的。
+门被另一侧锁住了。
 
 The gate is locked from the other side.
-这道闸门是从另一侧锁住的。
+大门被另一侧锁住了。
 
 The doors appear to be stuck.
-这些门似乎卡住了。
+门似乎被卡住了。
 
 This door requires a Bloody Axe key to open.
-这扇门需要一把血斧钥匙才能打开。
+这扇门需要用血斧钥匙才能打开。
 
 This door requires a Golden key to open.
-这扇门需要一把黄金钥匙才能打开。
+这扇门需要用黄金钥匙才能打开。
 
 This gate requires a Golden key to open.
-这道闸门需要一把黄金钥匙才能打开。
+这道大门需要用黄金钥匙才能打开。
 
 This door requires a Golden key to open.
-这扇门需要一把黄金钥匙才能打开。
+这扇门需要用黄金钥匙才能打开。
 
 This gate requires a Bloody Axe key to open.
-这道闸门需要一把血斧钥匙才能打开。
+这道大门需要用血斧钥匙才能打开。
 
 My Lord, our craftsdemons have made the adjustments as per your request, using the new machinery at the
 大人，我们的造物恶魔已按照您的要求调整了工艺，使用熔炉中的新机

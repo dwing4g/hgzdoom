@@ -254,7 +254,7 @@ Picked up a Crystal Key.
 拾取了一把水晶钥匙。
 
 Picked up a withered Vine Key.
-拾取了一把枯藤钥匙。
+拾取了一把枯萎的藤蔓钥匙。
 
 Picked up a Copper Key.
 拾取了一把铜钥匙。
@@ -935,7 +935,7 @@ Sleeping Potion - The swirly fluid could put even the most watchful guardian to 
 安眠药水 - 这种漩涡状液体甚至能让最警觉的守卫陷入沉睡。  (任务物品)
 
 Elixir of Life - The mere existence of this extremely potent substance is a myth. Rumors mention of a clan of orcs who discovered the Fountain of Life, centuries ago...   (Quest Item)
-生命药剂 - 这种极其强大的物质的存在本身就是一个传说。传闻中曾有兽人部落在数个世纪前发现了生命之泉...   (任务物品)
+生命药剂 - 这种极其强大的物质的存在本身就是一个传说。传闻中曾有兽人部落在数个世纪前发现了生命之泉……   (任务物品)
 
 Elixir of Death - The pitch dark substance is rumored to not only kill the body, but the soul itself.   (Quest Item)
 死神药剂 - 这种漆黑如墨的物质据说不仅能夺去躯体，更能吞噬灵魂。  (任务物品)

@@ -1,5 +1,5 @@
 Bear Warrior:    Sarge? You awake? Thought you were a goner...
-熊战士：上尉？你醒了吗？我以为你挂了...
+熊战士：上尉？你醒了吗？我以为你挂了……
 
 Reaver:    Sergeant? Are you finally awake? Thought I'd lost you.
 掠夺者：中士？你终于醒了？我还以为丢了你。
@@ -14,10 +14,10 @@ This dirt looks like it could be tunneled through with the proper tool.
 这泥土看起来像是能用合适工具挖穿的。
 
 This switch requires an Earth Key to activate the power source.
-这个开关需要大地钥匙才能激活能源。
+此开关需要用大地钥匙才能激活能源。
 
 This switch requires a Crystal Key to activate the power source.
-这个开关需要水晶钥匙才能激活能源。
+此开关需要用水晶钥匙才能激活能源。
 
 Bear Warrior:    Hey look! The Ward is destroying the cultist pentagrams!
 熊战士：嘿快看！屏障正在摧毁邪教徒的五芒星！
@@ -200,7 +200,7 @@ TO MOUNTAIN PASS
 通往山隘
 
 This door seems to be locked from the other side.
-这扇门似乎从另一侧锁住了。
+这扇门似乎被另一侧锁住了。
 
 Lancer Dendra's Log, Rotation 509, Day 238
 丹德拉上尉的日记，第509轮，第238天
