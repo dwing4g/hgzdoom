@@ -27,8 +27,9 @@ local fnss = {
 	{ "TITLEMAP.txt", "TITLEMAP.me" },
 }
 
-local es = {}
+local t = {}
 for _, fns in ipairs(fnss) do
+	local es = {}
 	if fns[2] then
 		for line in io.lines(fns[2]) do
 			line = line:gsub("^%s+", ""):gsub("%s+$", "")
@@ -37,10 +38,6 @@ for _, fns in ipairs(fnss) do
 			end
 		end
 	end
-end
-
-local t = {}
-for _, fns in ipairs(fnss) do
 	local fn = fns[1]
 	local e = nil
 	local i = 0

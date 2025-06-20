@@ -257,7 +257,7 @@ Cleaning up...
 清理完毕……
 
 DIE!
-去死!
+去死！
 
 Current monsters deal more friendly fire.
 当前怪物造成更多友军伤害。
