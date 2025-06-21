@@ -158,19 +158,19 @@ Monthly list of crystal requests
 月度水晶请求清单
 
 20 x Armor Shard --- Barracks
-20个护甲碎片——兵营
+20个护甲碎片 --- 兵营
 
 3 x Power Core --- Mining Outpost
-3个能量核心——采矿哨站
+3个能量核心 --- 采矿哨站
 
 4 x Large Cyan Crystal --- Earth Mothers' Grove
-4个大型青水晶——大地之母林地
+4个大型青水晶 --- 大地之母林地
 
 1 x Red Crystal --- Plaza Alchemist
-1个红水晶——广场炼金术士
+1个红水晶 --- 广场炼金术士
 
 1 x Red Crystal --- Plaza Tavern
-1个红水晶——广场酒馆
+1个红水晶 --- 广场酒馆
 
 (You carefully unroll the damp parchment. It's hardly legible and the lower part has rotted)
 （你小心地展开潮湿的羊皮纸。字迹几乎无法辨认，下半部分已腐烂）
@@ -197,13 +197,13 @@ stomp some demon skulls myself. Take care, I'm sure the tavern will have plenty 
 而我渴望亲手踏碎恶魔的头骨。保重，我相信即使大部分铁军军团离营，
 
 even with most of the Iron Division forces away... - Your loyal minotaur blacksmith, Hectus
-酒馆也会有大量访客……——你忠诚的牛头人铁匠赫克图斯
+酒馆也会有大量访客…… - 你忠诚的牛头人铁匠赫克图斯
 
 Room 2  -     Striva, the Witch, left two days earlier.   Paid in full.   Should make up for cleanup.
-房间2 —— 斯特里瓦，女巫，两天前已离开。已全额支付。应能弥补清理工作。
+房间2 - 斯特里瓦，女巫，两天前已离开。已全额支付。应能弥补清理工作。
 
 Room 3  -   Mr. Magnus. Dwarf Prospector guy. Paid in advance, will stay for one moon (or more?)
-房间3 —— 马格努斯先生。矮人勘探者。预付了费用，将停留一个月（或更久？）
+房间3 - 马格努斯先生。矮人勘探者。预付了费用，将停留一个月（或更久？）
 
 Not as many customers as I was hoping for since the campaign started. The tavern is also quiet
 自从战役开始以来，顾客数量远不如预期。酒馆也变得冷清。我祈祷赫克图斯
@@ -221,7 +221,7 @@ by more veins as we dig deeper.  We await your arrival in few days.  Simply show
 我们会发现更多矿脉。几天后请前来，只需向守卫展示此信件，
 
 letter to the gate guard,  along with your signet ring.    -    Captain Dura of the I.D.
-并出示你的徽章戒指即可。——铁军队长杜拉
+并出示你的徽章戒指即可。- 铁军队长杜拉
 
 To VALC'S PARK, LIBRARY & GROVE
 前往瓦尔克公园、图书馆与林地

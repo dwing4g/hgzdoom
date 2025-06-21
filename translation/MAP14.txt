@@ -5,13 +5,13 @@ Earth Mother:    So the ancestral home of the minotaurs has been butchered by de
 大地之母：牛头人的祖宅竟被恶魔机械摧毁了……真是丢脸！
 
 Fixer:    Uh... Zan? I d-don't think we should move any further! This place looks d-dangerous!
-修复者：呃……瓒？我觉得我们不应该再往前走了！这里看起来很危险！
+修复者：呃……瓒？我觉——觉得我们不应该再往前走了！这里看起来很危——危险！
 
 Earth Mother:    So the ancestral home of the minotaurs has been butchered by demonic contraptions... disgraceful!
 大地之母：牛头人的祖宅竟被恶魔机械摧毁了……真是丢脸！
 
 Fixer:    Uh... Zan? I d-don't think we should be here! This place looks d-dangerous!
-修复者：呃……瓒？我觉得我们不该待在这里！这里看起来很危险！
+修复者：呃……瓒？我觉——觉得我们不该待在这里！这里看起来很危——危险！
 
 Earth Mother:    'tis nice to see a friendly face within this fiery inferno.
 大地之母：在这烈焰地狱中见到友好的面孔，真好。
@@ -206,7 +206,7 @@ By the order of the Blue Baron, your rations will be halved until the orcish inv
 根据幽蓝男爵的命令，你们的配给将被削减一半，直到兽人入侵被肃清。
 
 The harder you work, the sooner it shall end!     -     Lord Efri
-你们工作越努力，这一切就越快结束！  - 领主埃弗里
+你们工作越努力，这一切就越快结束！- 领主埃弗里
 
 (A sentence is written over the bottom of the poster)
 （海报底部写着一句话）

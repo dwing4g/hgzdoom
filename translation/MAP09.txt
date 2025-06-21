@@ -56,19 +56,19 @@ Valc Clinic Logbook
 瓦尔克诊所日志
 
 Rot. 509 Day 204; Bear Captain Dura: finger reattachment surgery, 120 gold pieces
-腐烂日第509天 第204日；熊队长杜拉：手指再植手术，120金币
+第509轮 第204日；熊队长杜拉：手指再植手术，120金币
 
 Rot. 509 Day 208; Tectus the Minotaur Pyromancer: horn regrowth, 350 gold pieces
-腐烂日第509天 第208日；牛头人火巫师泰克图斯：角再生治疗，350金币
+第509轮 第208日；牛头人火巫师泰克图斯：角再生治疗，350金币
 
 Rot. 509 Day 228-245; Witch Cosena: aesthetic treatment, 2400 gold pieces, 1000 adv.
-腐烂日第509天 第228-245日；女巫科森娜：美容护理，2400金币，1000声望值
+第509轮 第228-245日；女巫科森娜：美容护理，2400金币，1000声望值
 
 To: Witch Chieftain Adjunct Lith
-致：女巫首领助理利思
+收件人：女巫首领助理利思
 
 From: Witch Doctor Adena
-从：女巫医生阿德娜
+寄件人：女巫医生阿德娜
 
 There appears to be an issue with the lab storage doors in the southern operation rooms. The switches seem
 实验室仓库门似乎存在异常。开关会打开对面的门而非它们旁边
@@ -185,7 +185,7 @@ Potion of Greater Healing
 强化治疗药水
 
 1, 2 - Vial of Healing
-1, 2 - 治疗药剂
+1、2 - 治疗药剂
 
 Potion of Haste
 加速药水

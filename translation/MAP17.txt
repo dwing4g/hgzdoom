@@ -38,7 +38,7 @@ Nithriel:    Surprise!
 妮丝瑞尔：惊喜！
 
 Tiati:    Zan... she's...c-controlling... me... urgh-
-提娅媞：瓒……她……在控制我……呃——
+提娅媞：瓒……她在……控——控制……我……呃——
 
 Nithriel:    Surprised to see your little friend here? She was rather helpful with retrieving the Seed for me.
 妮丝瑞尔：没想到会在这里见到你的小跟班？她之前帮了我不少忙，成功找回了种子。
@@ -53,10 +53,10 @@ Nithriel:    Silence, worm! Your pitiful savior is powerless before me now. I'll
 妮丝瑞尔：闭嘴，虫子！你的可怜救世主现在在我面前毫无力量。我会享受从你身上榨取生命——
 
 What?! Where did y-
-什么？！你去哪儿了——
+什么？！你去哪儿——
 
 NOOOOOOOO-
-不！！！
+不——！！！
 
 Eraanthe:    Don't pester me now! I must make sure the boat stays on course.
 埃拉安瑟：现在别烦我！我必须确保船保持航向。
@@ -65,7 +65,7 @@ Fixer:    *Is too absorbed by the surrounding machinery to notice you*
 修复者：*过于专注于周围的机械装置而没注意到你*
 
 Fixer:    N-not now, Zan! I-I need to focus!
-修复者：不……现在，瓒！我……我需要集中注意力！
+修复者：不——不是现在，瓒！我——我需要集中注意力！
 
 Earth Mother:    Let me know if you are in need of my magic. I'll tend to you however I can.
 大地之母：如果你需要我的魔法，请告诉我。我会尽我所能照顾你。
@@ -143,7 +143,7 @@ I will be spending the rest of the journey locked inside the engine room, as it 
 我会在剩下的航程中锁在引擎室里，因为看起来这是唯一能让我摆脱某些侵扰
 
 of shielding me from certain intrusive thoughts. Make sure none of our bumbling cultists open the doors! -Mistress N
-性思绪的地方。确保我们的笨拙邪教徒们不要打开门！——妮丝瑞尔女士
+性思绪的地方。确保我们的笨拙邪教徒们不要打开门！-妮丝瑞尔女士
 
 UPPER DRAWBRIDGE
 上层吊桥

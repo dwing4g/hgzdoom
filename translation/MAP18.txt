@@ -164,7 +164,7 @@ Flame Beacon Ghost:    ...you can still stop the Baron's conquest... find my bro
 火焰灯塔幽灵：……你仍有机会阻止男爵的征服……找到我的兄弟们……他们会帮助你……
 
 Yzbeth's Gardner:    Did mistress Yzbeth's send me one of her hellions? What are you doi-
-伊兹贝思的加德纳：女主人伊兹贝思派来了一名地狱之徒吗？你在做什么——
+伊兹贝思的加德纳：女主人伊兹贝思派来了一名地狱之徒吗？你在做什——
 
 Impaled Brain:    *Sings and hums*
 受刑大脑：*吟唱和哼唱*
@@ -389,7 +389,7 @@ the library.   You are such a trickster, you could almost steal my heart! Use th
 真是个骗子，几乎能偷走我的心！用知识培育更多芬芳的花朵……我就不必
 
 flowers... and I won't be pressed to remove it from your skull and feed it to the worms.   -   Your beloved Matron, Yzbeth
-强行从你颅骨中取出并喂给蠕虫了。——你最亲爱的女主人，伊兹贝思
+强行从你颅骨中取出并喂给蠕虫了。- 你最亲爱的女主人，伊兹贝思
 
 P.S. Oh, and stop using disgusting animals to feed my plants. I have sent you someone with a much fairer blood instead.
 附言：哦，还有，别再用肮脏的动物来浇灌我的植物了。我已经派来了一个拥有更纯净血液的人。
@@ -866,7 +866,7 @@ Shady Fixer:    Nothing's free in this world, babe. It's just how it works.
 （你用10枚金币购买了熔岩球卷轴）
 
 Shady Fixer:    Nuh-uh. You need gold to buy from this shop.
-阴暗修复者：不不不。你需要金币才能从这家店买东西。
+阴暗修复者：不——不。你需要金币才能从这家店买东西。
 
 (You buy a Boltmag for 25 gold)
 （你用25枚金币购买了弹夹）
@@ -1877,13 +1877,13 @@ Fixer:    The Overworld doesn't even know what's going on down here... yet here'
 修复者：上界甚至不知道这里发生了什么……而这里正是他们命运的决定地。
 
 Fixer:    I never imagined I'd see someone jump from ship to ship like you did. Y-you're a real badass!
-修复者：我从未想过会看到有人像你这样从一艘船跳到另一艘船。你这家伙真是个狠角色！
+修复者：我从未想过会看到有人像你这样从一艘船跳到另一艘船。你——你这家伙真是个狠角色！
 
 Fixer:    Grund yelled at us for leaving our troops behind. Hey, we were just trying to stop the Baron!
 修复者：格伦德大喊着责备我们抛弃了部队。嘿，我们只是想阻止男爵而已！
 
 Fixer:    She's right though, I'm pretty sure I'm not supposed to be here. T-this place is so scary!
-修复者：她说得对……我觉得我本不该出现在这里。这地方太吓人了！
+修复者：她说得对……我觉得我本不该出现在这里。这——这地方太吓人了！
 
 Fixer:    The heat makes me think of the frost goblins who live near Icepeak. I'd rather be among them now.
 修复者：这里的炎热让我想起住在冰峰附近的冰霜哥布林。我宁愿现在和他们待在一起。

@@ -239,7 +239,7 @@ near the stone circle.  Once you get the amulet, look behind the fern upstairs f
 一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
-它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
+它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。-德鲁加
 
 As your mastress has probably informed you, I need you to finish making an amulet for me. I've
 正如你的女主人可能已告知你，你需要完成制作一枚护身符的任务。
@@ -257,7 +257,7 @@ near the stone circle.  Once you get the amulet, look behind the fern upstairs f
 一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
-它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。——德鲁加
+它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。-德鲁加
 
 (The parchment is scribbled with various alchemical diagrams)
 （手稿上潦草地画着各种炼金术图示）

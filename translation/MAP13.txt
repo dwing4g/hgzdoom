@@ -35,7 +35,7 @@ Grand Earth Mother Breaza:    Well then, this is it... do you have any questions
 伟大的大地之母布里扎：那么，这就是最后的时刻……你们还有什么问题吗？
 
 Eraanthe:    If I may... now that your precious smurf has returned, I assume our contract still holds?...
-埃拉安瑟：如果可以的话……现在你珍贵的小精灵回来了，我假设我们的契约仍然有效？…
+埃拉安瑟：如果可以的话……现在你珍贵的小精灵回来了，我假设我们的契约仍然有效？……
 
 Grand Earth Mother Breaza:    You will earn your vengeance, Queen of Wrath. Sooner than you may think.
 伟大的大地之母布里扎：愤怒女王，你将获得复仇，而且比你想象得更快。
@@ -107,16 +107,16 @@ Fixer:    Look out!
 修复者：小心！
 
 Fixer:    D-demons!!!
-修复者：D-恶魔！！！
+修复者：恶——恶魔！！！
 
 Fixer:    Y-you! Zan? I need your help!
-修复者：Y-你！瓒？我需要你的帮助！
+修复者：你——你！瓒？我需要你的帮助！
 
 Fixer:    I was part of the forest group!... th-they sent me here to set up that roadblock to the mansion... but
-修复者：我曾是森林小组的一员！……他们派我去庄园那边设置路障……但当我回去查看
+修复者：我曾是森林小组的一员！……他——他们派我去庄园那边设置路障……但当我回去查看
 
 when I returned to check on them, they were all gone!!! A-and cultists were looting our camp! I-I'll show you!
-时，所有人都不见了！！！A-还有邪教徒在洗劫我们的营地！我……我带你们去看看！
+时，所有人都不见了！！！还——还有邪教徒在洗劫我们的营地！我——我带你们去看看！
 
 Fixer:    Brrr, this place gives me the creeps.
 修复者：啧啧，这里真让人毛骨悚然。
@@ -143,13 +143,13 @@ Fixer:    We were trying to tunnel around their wall and take them by surprise, 
 修复者：我们试图绕过他们的城墙突袭，但撞上了这层岩石……
 
 Fixer:    W-wait, you're not going to assault their gate head-on, are you?! That's suicide!
-修复者：W-等一下！你不会直接强攻他们的大门吧？！那可是自杀啊！！
+修复者：等——等一下！你不会直接强攻他们的大门吧？！那可是自杀啊！！
 
 Fixer:    I-I can't believe we're doing this!...
-修复者：I-I不敢相信我们居然要这么做！……
+修复者：我——我不敢相信我们居然要这么做！……
 
 Fixer:    Breaza! I-I'm from the forest group, something bad happened! The cultists have captured our sisters!
-修复者：布里扎！我……我是森林小组的，出了大事了！邪教徒抓走了我们的姐妹们！！
+修复者：布里扎！我——我是森林小组的，出了大事了！邪教徒抓走了我们的姐妹们！！
 
 Grand Earth Mother Breaza:    ...
 伟大的大地之母布里扎：……
@@ -164,7 +164,7 @@ Find out what happened to our warriors, but don't take any unnecessary risks. We
 查明我们战士的下落，但不要冒不必要的风险。现在不能再有人失踪了……
 
 Fixer:    I'll help with what I can. D-don't worry ma'am, we'll stay out of trouble!
-修复者：我会尽我所能帮忙。D-请放心，女士，我们会避开麻烦！
+修复者：我会尽我所能帮忙。请——请放心，女士，我们会避开麻烦！
 
 This wall looks like it could be broken with a proper tool.
 这堵墙看起来可以用合适的工具打破。
@@ -203,7 +203,7 @@ Witch:    Don't cheer yet, we still have to get out of here.
 女巫：别急着庆祝，我们还得从这里逃出去。
 
 Fixer:    Oh, no... w-what have they done...
-修复者：哦不……他…他们到底做了什么……
+修复者：哦不……他——他们到底做了什么……
 
 Reaver:    Bastards...
 掠夺者：该死的……
@@ -230,7 +230,7 @@ Reaver:    I never thought I'd make it back alive. Let's go see Breaza.
 掠夺者：我从没想到还能活着回来。走吧，去见布里扎。
 
 Fixer:    F-finally, back to safety! Let's go t-tell Breaza everything that happened!
-修复者：F-终于回到安全的地方了！快去跟布里扎说发生的一切！
+修复者：终——终于回到安全的地方了！快去跟——跟布里扎说发生的一切！
 
 This switch requires a Copper key to work.
 此开关需要用铜钥匙才能启动。
@@ -356,7 +356,7 @@ For it is him who willingly offers his fleshly eye on the altar, and him who wil
 因为正是他自愿在祭坛上献出自己的血肉之眼，也将因此获得神圣的视野。
 
 (The scroll mentions various strategic positions and interests of the Demons. A code is written at the end - 2367)
-（卷轴提及了恶魔的战略位置与利益。结尾写有密码——2367）
+（卷轴提及了恶魔的战略位置与利益。结尾写有密码 - 2367）
 
 Advisor:    Interesting plan you found... we had no clue that the cultists were infighting over the mansion.
 顾问：你发现的计划很有趣……我们之前完全不知道邪教徒竟在庄园内斗。
@@ -371,7 +371,7 @@ earned the good favor of the Demons, and we will not leave it unpaid. The ice ca
 们的牺牲与奉献已赢得恶魔们的青睐，我们绝不会让这份恩情白费。
 
 Nithriel has ordered. We shall keep any intrusive greenskins away from the abandoned dwarven city. - Lord Igrutius
-冰洞伏击已准备就绪，正如妮丝瑞尔女士所下令。我们将阻止任何入侵者接近废弃的矮人族城市。——领主伊格鲁提乌斯
+冰洞伏击已准备就绪，正如妮丝瑞尔女士所下令。我们将阻止任何入侵者接近废弃的矮人族城市。- 领主伊格鲁提乌斯
 
 Keep the gate barred at all times! Supplies will be arriving via demon gating from now on, by order of the Psi Demons.
 随时封锁大门！从现在起所有补给将通过恶魔传送抵达，由心灵恶魔下达命令。
@@ -383,7 +383,7 @@ I no longer need you at the factory. Take your disciples and move to the dwarven
 我再也不需要你在工厂了。带着你的弟子们前往矮人族城镇。一旦抵达那
 
 will be further instructed with your tasks. Needless to say, this matter will require the utmost discretion.   -  N.
-里，你们将获得进一步的任务指示。毋庸置疑，此事需绝对保密。——N.
+里，你们将获得进一步的任务指示。毋庸置疑，此事需绝对保密。- N.
 
 TO DO:
 待办事项：
@@ -944,7 +944,7 @@ High Priest Jaromir:    Back from the dead? Not many of us could cheat fate duri
 高阶祭司贾罗米尔：从死里复活？在那可怕的围攻中，能骗过命运的我们并不多，姑娘。要知足。
 
 H.Priest Jaromir:    Our Lord has fallen in battle, leaving the future of Icepeak on my shoulders - a humble servant of Stone.
-高阶祭司贾罗米尔：我们的主在战斗中陨落，冰峰的未来如今全压在我这石头仆人肩上——
+高阶祭司贾罗米尔：我们的主在战斗中陨落，冰峰的未来如今全压在我肩上——一个石头仆人。
 
 H.Priest Jaromir:    The news about our homes has dealt another mighty blow against us. I grieve with you, lass, keep strong.
 高阶祭司贾罗米尔：关于家园的消息又给了我们致命一击。我与你同悲，姑娘，保持坚强。
@@ -1844,7 +1844,7 @@ Fixer:    Yes, you could vouch for me if they complain, right? Cool, I'm ready t
 修复者：对了，如果他们抱怨的话，你还能替我证明吧？好啦，那我就跟上你了！
 
 Fixer:    Z-Zan!? O-oh, my, I almost shot you!
-修复者：瓒？！哦，天啊……我差点就开枪了！
+修复者：瓒——瓒？！哦——哦，天啊……我差点就开枪了！
 
 Reaver:    Thanks for freeing us, Zan... I was next on the chopping block, you saved my skin.
 掠夺者：谢谢你能救我们，瓒……我本来就要被砍头了，你救了我的命。

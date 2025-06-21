@@ -23,7 +23,7 @@ High Priest Jaromir:    Nay, they'll be fine. Save your powers for whatever lies
 高阶祭司贾罗米尔：不，他们没事。把法力留着应对下面的东西吧。
 
 Fixer:    T-there are cultists here? I knew it, I wasn't just hearing things!
-修复者：T-这里真的有邪教徒？我就说不是我听错了！
+修复者：这——这里真的有邪教徒？我就说不是我听错了！
 
 High Priest Jaromir:    I should have waited for you, lass... we were ambushed on our way here... lost all my dwarves...
 高阶祭司贾罗米尔：我本该等你的，姑娘……我们来这里的路上遭遇伏击……失去了所有矮人……
@@ -35,7 +35,7 @@ High Priest Jaromir:    I'll be fine, lady. Save your powers for later... someth
 高阶祭司贾罗米尔：我会没事的，女士。把法力留到后面吧……我有种预感你会需要它们。
 
 Fixer:    That's terrible! Zan? A-are you sure we should keep going without any b-backup?
-修复者：太糟糕了！瓒？我们真的应该继续前进而不带任何支援吗？
+修复者：太糟糕了！瓒？我——我们真的应该继续前进而不带任何支——支援吗？
 
 H.Priest Jaromir:    Ah, I see you're trying to put together a diving suit. Very good, but you will need a few items...
 高阶祭司贾罗米尔：啊，我明白你在尝试组装潜水装备。很好，但你需要一些物品……
@@ -152,13 +152,13 @@ Fixer:    Oh no, no, no, I'm *not* going there!
 修复者：哦不不不，我*不是*要去那里！
 
 Fixer:    T-that place looks too scary, I'm staying here!
-修复者：T-那个地方看起来太可怕了，我要留在这里！
+修复者：那——那个地方看起来太可怕了，我要留在这里！
 
 Fixer:    I-I'm afraid of deep water, Zan. I'm staying back!
-修复者：我……我害怕深水，瓒。我要留在后面！
+修复者：我——我害怕深水，瓒。我要留在后面！
 
 Fixer:    Uh-uh, I am not going there! No, no, no!
-修复者：呃——不不不，我不去那里！不不不！
+修复者：呃——呃，我不去那里！不不不！
 
 Fixer:    I'm going to stay back and err... guard the entrance!
 修复者：我要留在后面，嗯……守着入口！

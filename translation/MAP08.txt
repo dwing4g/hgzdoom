@@ -185,7 +185,7 @@ TO ICEPEAK FORTRESS
 前往冰峰要塞
 
 (The last entry in the book is signed by Lancer Dendra)
-（书的最后一页由兰斯尔·登德拉签署）
+（书的最后一页由长枪兵丹德拉签署）
 
 The journey has been a mess. The road's been nearly entirely swallowed by snow, and many of the ice
 这段旅程一团糟。道路几乎被积雪吞没，许多冰洞坍塌了
@@ -284,7 +284,7 @@ ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn th
 满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
 
 Tales of Brother Bernard - Brother Bernard in Hell
-修士伯纳德的故事——修士伯纳德在地狱
+修士伯纳德的故事 - 修士伯纳德在地狱
 
 [...]   and in his search for the dry water and cold flame, brother Bernard hath found himself lost in
 [...] 在寻找干水与冷焰的过程中，修士伯纳德发现自己迷失在了地狱深
@@ -320,7 +320,7 @@ his fellow tricksters to grasp brother Bernard, and throw him out. So hath he es
 他骗子们抓住修士伯纳德并将其驱逐。于是他逃出了烈焰地狱。
 
 The Dwarven Society - Introduction. A Summary of the Guilds
-矮人社会——简介。公会概述
+矮人社会 - 简介。公会概述
 
 [...]    but the Priests are not the only ones to assist the Dwarven Lord. Among his advisors are the
 [...] 但祭司们并非唯一协助矮人领主的人。他的顾问中还包括四大
@@ -353,7 +353,7 @@ known that they dabble in the less honorable art of espionage, but their skill m
 周知，他们也涉足不光彩的间谍艺术，但有时他们的技能可能不可或缺。
 
 My Lord, the lock for the treasury has been successfully installed. The combination is 1357.  - Jaromir
-我的领主，保险库的锁已成功安装完毕。密码是1357。——贾罗米尔
+我的领主，保险库的锁已成功安装完毕。密码是1357。- 贾罗米尔
 
 If you are reading this, then the orc traitor must have fulfilled her task.     Your duty is to finish off any of the
 如果你正在阅读这些文字，那么兽人叛徒必定已完成她的任务。你的职责

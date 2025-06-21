@@ -98,7 +98,7 @@ Bear in mind to not remove the plant from its soil,  or the crystal will harden 
 请注意不要将植物从土壤中拔出来，否则水晶会硬化并变得不可食用。
 
 We will send in more crystals as we grow them, the spell we use is yet to be perfected. -Mother Bendi
-我们将陆续发送更多水晶，目前使用的魔法尚未完善。——大地之母本迪
+我们将陆续发送更多水晶，目前使用的魔法尚未完善。-大地之母本迪
 
 (A coarse layer of dust covers the pages of this journal)
 （这本笔记的页面覆盖着一层粗糙的灰尘）
@@ -287,16 +287,16 @@ a barricade built, send the strongest of your Iron Maidens to hold that line... 
 建防御工事，派出最强壮的铁娘子守卫防线……如果她们倒下，
 
 Halfblood will meet her end before she reaches the portal. I've prepared an ambush. -Master Thadus
-混血人会在她到达传送门前终结她的性命。我已经设下了埋伏。——大师塔杜斯
+混血人会在她到达传送门前终结她的性命。我已经设下了埋伏。-大师塔杜斯
 
 Of Metal & Cave Rock - A study by Earth Mother Bendi
-《金属与洞穴岩石》——大地之母本迪的研究笔记
+《金属与洞穴岩石》 - 大地之母本迪的研究笔记
 
 (The parchment seems to detail an alchemical concoction meant to prevent metal from rusting.)
 （羊皮纸似乎记载了一种防止金属生锈的炼金配方）
 
 Grand Earth Mother Breaza's Journal - Rotation 509, Day 184
-伟大的大地之母布里扎日记——第509轮，第184天
+伟大的大地之母布里扎日记 - 第509轮，第184天
 
 Today, I have witnessed the first working crystal grown by ancestral magic. The seed is finally able
 今天，我见证了由祖先魔法培育出的第一颗功能性水晶。这颗种子终
@@ -392,7 +392,7 @@ I'm afraid I haven't found you home in time, so I will leave you this note. I've
 恐怕我没能及时找到你回家，所以留下这张便条。我把你的物品放在图
 
 your belongings in the library safe. Just look for a purple book, and pull it. -Anda
-书馆保险箱里了，只需找一本紫色的书，然后拉出来即可。——安达
+书馆保险箱里了，只需找一本紫色的书，然后拉出来即可。-安达
 
 Reaver Headquarters Auxilliary Generator
 掠夺者总部辅助发能机
@@ -431,19 +431,19 @@ getting stuck in their office because the doors stop working. Just talk to the E
 怨，因为门关停止运作了。直接和大地交谈
 
 Mothers to let you in the portal cave until we get one of our own Vine keys.    - Boss
-母亲们允许你们进入传送门洞穴，直到我们获得一把自己的藤蔓钥匙。——老板
+母亲们允许你们进入传送门洞穴，直到我们获得一把自己的藤蔓钥匙。- 老板
 
 (You browse through a fancy book recording various magical rituals)
 （你浏览一本记录各种魔法仪式的精美书籍）
 
 [...]  Rot. 509  Day 171  -  We have perfected the enchantment design for the Great Axes.
-[...] 腐蚀。509号日志 第171天 —— 我们已完善了巨斧的附魔设计。
+[...] 第509轮 第171天 - 我们已完善了巨斧的附魔设计。
 
 Aside from significantly increasing the wielder's nature resistance, the new thorn aura
 除了显著提升使用者的自然抗性，新的荆棘光环将把所有
 
 will reflect all the pain and damage back to the aggressor. - Grand Earth Mother Breaza
-伤害和痛苦反射给攻击者。——伟大的大地之母布里扎
+伤害和痛苦反射给攻击者。- 伟大的大地之母布里扎
 
 Scroll of Magma Ball - 1x bowl of Scribe Embers, basic warm inks, plain parchment
 熔岩球卷轴 - 1碗抄写者余烬、基础温墨水、普通羊皮纸

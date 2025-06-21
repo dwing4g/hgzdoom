@@ -680,10 +680,10 @@ The King (easter egg) - Jon St. John
 国王（彩蛋）- Jon St. John
 
 Under the Curator's care, the Disk worked to reinvigorate the dying crystal formations.
-在策展人的照料下，圆盘努力使濒死的晶簇重获生机。
+在策展人的照料下，圆盘努力使濒死的水晶结构重获生机。
 
 The Disk was returned just in time to reinvigorate the dying energy crystal formations.
-圆盘及时返回，以重振濒死的能量水晶结构。
+圆盘及时返回，使濒死的能量水晶结构重获生机。
 
 The Lancers discussed the future of their caste, wondering how they'd replace their fallen.
 长枪团讨论了他们阶级的未来，思索着如何取代那些已逝去的成员。
@@ -716,13 +716,13 @@ Vostyok, JaywalkingKnight, DoomKrakken, Nuke - help with technical issues
 Vostyok, JaywalkingKnight, DoomKrakken, Nuke - 协助解决技术问题
 
 Sgt_Mark_IV - brutal friendly AI
-Sgt_Mark_IV - 极其友好的AI
+Sgt_Mark_IV - 极其强悍友好的AI
 
 Nash Muhandes - improved player movement
 Nash Muhandes - 改进了玩家的移动方式
 
 And thanks to everyone making Hedon fanart and memes!
-感谢所有创作赫顿同人图和表情包的朋友！
+感谢创作赫顿同人图和表情包的所有人！
 
 The Iron Division leaders held council to assess their victory, and discuss the future of their clan.
 铁军领袖们召开议会评估胜利，并讨论他们族群的未来。

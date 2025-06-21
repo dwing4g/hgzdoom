@@ -590,7 +590,7 @@ What sort of cursed place is this? How could a noble man like me end up here?...
 （其余文字逐渐模糊成一片混乱的污渍）
 
 Call of Chaos - First Chant
-混沌召唤 - 第一唱
+混沌召唤 - 第一篇
 
 T'wards the gates of initiation
 朝向启蒙之门前进
@@ -611,7 +611,7 @@ Marching as we chant
 我们齐声吟唱着前行
 
 Read to them the call of chaos
-向他们宣读混沌的召唤
+向他们宣读混沌召唤
 
 Join us in our chant
 加入我们的吟唱
@@ -644,7 +644,7 @@ would we prepare to descend into the blissful womb of afterlife, if we aren't ye
 否则，若非渴望其永无止境的温暖，我们又如何准备进入来世的幸福之境呢？
 
 For the Worthless - 2nd Verse
-只为徒劳 - 第二段
+只为徒劳 - 第二节
 
 For the ones who worshipped Demons before learning the Call of Chaos
 那些在学习混沌召唤前崇拜恶魔的人
@@ -716,13 +716,13 @@ its product to special anointed bottles. Do not squander these bottles, as they 
 供给特选的圣瓶使用。切勿浪费这些瓶子，它们专用于重要仪式。
 
 Healing - mix blood with green and pink arcane salts, pour result in vials
-治疗——将血液与绿色和粉色秘盐混合，倒入标有标签的瓶子中
+治疗 - 将血液与绿色和粉色秘盐混合，倒入标有标签的瓶子中
 
 Haste - hellfire oil, sacrificial blood and pink arcane salts, store in the labelled bottles
-加速——地狱火油、献祭之血和粉色秘盐混合，存入标注的瓶子中
+加速 - 地狱火油、献祭之血和粉色秘盐混合，存入标注的瓶子中
 
 Hellfire cans - mix hellfire oil with green arcane salts and store in metal cans
-地狱火罐——将地狱火油与绿色秘盐混合后存入金属罐中
+地狱火罐 - 将地狱火油与绿色秘盐混合后存入金属罐中
 
 The instructions are clear now. If the cerberi run out of breath during the ritual, the guilt falls upon you.
 现在指示已经很清楚了。如果在仪式中地狱犬耗尽了气息，罪责将落在你身上。
@@ -734,7 +734,7 @@ strengthening potion, the boon this substance offers must be paid for with blood
 就像任何强化药水一样，这种物质带来的好处必须用血液来偿还——应与魔力
 
 with the mana. The potency of this potion is guaranteed by adding arcane salts - namely the green and cyan ones [...]
-等量混合。通过添加秘盐（尤其是绿色和青色的）来保证药水的效果 [...]
+等量混合。通过添加秘盐来保证药水的效果——尤其是绿色和青色的 [...]
 
 (You browse through what looks like an alchemist's notebook. The last entry details how to brew a sleep potion)
 （你翻阅着看起来像炼金术士笔记的书页。最后一条记录详细说明了如何酿造睡眠药水）
@@ -761,7 +761,7 @@ Taking it on an empty stomach causes frightening hallucinations. I should infuse
 （这本书似乎写于数千年前。一个古老的恶魔封印标记着这是被禁止的知识）
 
 Chronicles of the Schism - Dawn of the First Century
-《分裂纪年——第一世纪黎明》
+《分裂纪年 - 第一世纪黎明》
 
 [...]  as their numbers kept dwindling, the Old God worshipping pagans were forced to relinquish their beliefs, or lose
 [...] 随着人数不断减少，崇拜旧神的异教徒被迫放弃信仰，否则就会

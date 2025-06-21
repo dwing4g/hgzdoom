@@ -5,7 +5,7 @@ Loading...
 加载中……
 
 Yzbeth's Gardner:    I brought you flowers, my queen... oh no. What-? Please! Not again! Noooo!... *Fades*
-伊兹贝思的加德纳：我带来了花，我的女王……哦不。什么？请！别再这样了！不要啊！！… *消散*
+伊兹贝思的加德纳：我带来了花，我的女王……哦不。什么——？请！别再这样了！不要啊！…… *消散*
 
 Yzbeth:    Reality is a bitch, isn't it? Truth is, my pristine cathedral is nothing more but a rotten hive of sin.
 伊兹贝思：现实真是个婊子，不是吗？真相是，我那纯粹的大教堂不过是个腐败的罪恶蜂巢。
@@ -131,13 +131,13 @@ A game of hide-and-seek! Something to entertain your wits with. Oh, and if you'r
 ……在找到如何获得碎片的方法后，我可能会帮你完成阿杜尔的试炼。*眨眨眼*
 
 Yzbeth:    Ow- Heey! Too rough! Do you not care for what I have to say?...
-伊兹贝思：哎呀——嘿！太用力了！你就不在乎我说的话吗？…
+伊兹贝思：喔——嘿！太用力了！你就不在乎我说的话吗？…
 
 Yzbeth:    Ugh! Hey, why so mean now? I just wanted to talk!
 伊兹贝思：唔！嘿，怎么突然这么刻薄？我只是想和你谈谈！
 
 Yzbeth:    Ough! Hey, aren't you curious about what I have to say?...
-伊兹贝思：唔！嘿，难道你不好奇我要说什么吗？…
+伊兹贝思：噢！嘿，难道你不好奇我要说什么吗？…
 
 Careful how hard you want to play!... I might just get upset and scratch back...
 小心你想要玩得多激烈……我可能会生气并抓回去反击！
@@ -179,7 +179,7 @@ Yzbeth:    Go ahead. Claim the fragment, and then we will play...
 伊兹贝思：去吧。拿走碎片，然后我们再玩……
 
 Yzbeth:    Nuh-uh. Claim the fragment first. Then, you can claim me.
-伊兹贝思：不不不。先拿走碎片。然后，你才能拥有我。
+伊兹贝思：不——不。先拿走碎片。然后，你才能拥有我。
 
 Yzbeth:    Augh! Mmmh, save that for when you're on top of me, stud.
 伊兹贝思：唔！唔……留着等你骑在我身上时再用吧，小家伙。
@@ -323,7 +323,7 @@ Lancer:    How long has it been?... Weeks? Moons? Whole rotations? It's difficul
 长枪兵：已经过了多久？……几周？几个月？整整一轮？在这里很难追踪时间流逝。
 
 Lancer:    I...I-I can finally move! Thank you, warrior! May the Gods witness your wits and bless you!
-长枪兵：我……我终于能动了！谢谢战士！愿诸神见证你的智慧并赐福于你！
+长枪兵：我……我——我终于能动了！谢谢战士！愿诸神见证你的智慧并赐福于你！
 
 Let us leave this foul place at once!
 我们立刻离开这个肮脏的地方！
@@ -422,7 +422,7 @@ A primarch offering altar.
 原教献祭祭坛。
 
 Shady Fixer:    Hey, you actually charged it! We can escape now! One moment, let me just-
-阴暗修复者：嘿，你竟然充了能！我们现在已经能逃出去了！稍等一下，让我……
+阴暗修复者：嘿，你竟然充了能！我们现在已经能逃出去了！稍等一下，让我——
 
 ...finish stuffing my boots with coin.
 ……把靴子塞满金币。
@@ -617,7 +617,7 @@ Yzbeth:    Careful! As much as I'd love to merge minds with you, it would be ter
 伊兹贝思：小心点！虽然我很想和你融合意识，但对你的健康可不好。
 
 Yzbeth:    Naughty-naughty! Try not to lose your sanity over here... at least for the time being.
-伊兹贝思：坏孩子——别在这里失去理智……至少暂时不要。
+伊兹贝思：坏孩子！别在这里失去理智……至少暂时不要。
 
 Yzbeth:    Aww, you just keep craving my mind, don't you?
 伊兹贝思：唉，你就是忍不住想要我的意识，对吧？
@@ -869,10 +869,10 @@ chemicals used against our cultists by the green savages. This is how we can eas
 针对我们邪教徒使用的化学物质。这是我们可以轻松自制的方法：
 
 Green Corrosive Acid - can be easily obtained by mixing a deadly Poison with Green and Cyan Arcane Salts
-绿腐蚀酸——可以通过将致命毒药与绿色和青色魔力盐混合来轻易获得
+绿腐蚀酸 - 可以通过将致命毒药与绿色和青色魔力盐混合来轻易获得
 
 Pink Gas - a more elaborate substance, made by mixing Poison with Mana and then adding Pink Arcane Salts
-粉雾剂——一种更复杂的物质，通过将毒药与魔力混合，再加入粉秘盐制成
+粉雾剂 - 一种更复杂的物质，通过将毒药与魔力混合，再加入粉秘盐制成
 
 (None of the recipes detailed below catch your interest)
 （以下详细列出的配方均未引起你的兴趣）

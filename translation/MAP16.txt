@@ -98,7 +98,7 @@ Reaver:    The Baron's fleet isn't here... he must've fled at sea. Let's wait fo
 掠夺者：男爵的舰队不在这里……他一定逃到海上去了。我们等姐妹们来吧。
 
 Fixer:    Uh-oh, I think the Baron's gone. We better stay put here and wait for our sisters...
-修复者：呃——不好，我觉得男爵已经溜走了。我们最好留在原地等姐妹们……
+修复者：呃——哦，我觉得男爵已经溜走了。我们最好留在原地等姐妹们……
 
 Reaver:    Over here, sergeant!
 掠夺者：这边！中士！
@@ -155,10 +155,10 @@ Reaver:    Now that's a punch! Time to finish them off!
 掠夺者：现在这拳可真够狠！该结束他们了！
 
 Fixer:    Ka-boom!
-修复者：轰——！
+修复者：咔——轰！
 
 Witch:    BOOM! Hahahaha!
-女巫：轰！！哈哈哈！
+女巫：轰！哈哈哈！
 
 Bear Warrior:    Push forward! Let's finish them!
 熊战士：继续推进！让我们结束他们！

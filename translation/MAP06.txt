@@ -20,7 +20,7 @@ Abhaoth:   So eager...
 阿波豪斯：如此急切……
 
 Abhaoth:   Woop- You almost missed it!
-阿波豪斯：哇普——你差点错过了！
+阿波豪斯：哇——你差点错过了！
 
 Abhaoth:   Leap, you faithful hound!
 阿波豪斯：跳跃吧，忠诚的狗！
@@ -68,7 +68,7 @@ Abhaoth:  ...burning. Red. Hot.
 阿波豪斯：……燃烧的。红色的。炽热的。
 
 Abhaoth:   The bridge ended there, genius-
-阿波豪斯：聪明人——桥就到那里结束了。
+阿波豪斯：桥就到那里结束了，聪明——
 
 Abhaoth:   Curious are the corners of your mind...
 阿波豪斯：你脑海的角落真是令人好奇……
@@ -218,7 +218,7 @@ Abhaoth:   Now you know how it began. And you know what you must end.
 阿波豪斯：现在你明白一切是如何开始的。也明白你必须终结什么了。
 
 Hurry now, time to stop Nith-
-快点！该去阻止妮丝瑞尔了——
+快点！该去阻止妮丝——
 
 WAIT-
 等等——
@@ -266,7 +266,7 @@ KEEP CLOSED
 保持关闭
 
 Rot. 509, Day 176 (The date of this last entry appears to be from well over two months ago.)
-腐烂。第509号，第176天（此条记录的日期似乎已超过两个月前）
+第509轮，第176天（此条记录的日期似乎已超过两个月前）
 
 Received: Two crates of leather straps and a barrel of salt from lower Valc. Stored by the portal.
 收到：从下层瓦尔克运来的两箱皮革绑带和一桶盐，存放在传送门旁。
