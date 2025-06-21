@@ -134,7 +134,7 @@ Yzbeth:    Ow- Heey! Too rough! Do you not care for what I have to say?...
 伊兹贝思：喔——嘿！太用力了！你就不在乎我说的话吗？…
 
 Yzbeth:    Ugh! Hey, why so mean now? I just wanted to talk!
-伊兹贝思：唔！嘿，怎么突然这么刻薄？我只是想和你谈谈！
+伊兹贝思：啊！嘿，怎么突然这么刻薄？我只是想和你谈谈！
 
 Yzbeth:    Ough! Hey, aren't you curious about what I have to say?...
 伊兹贝思：噢！嘿，难道你不好奇我要说什么吗？…
@@ -185,13 +185,13 @@ Yzbeth:    Augh! Mmmh, save that for when you're on top of me, stud.
 伊兹贝思：唔！唔……留着等你骑在我身上时再用吧，小家伙。
 
 Yzbeth:    Owh! Biting already? Don't worry, big girl. We'll be wrestling soon enough.
-伊兹贝思：啊呜！已经开始咬了？别担心，大女孩。我们很快就会打一架。
+伊兹贝思：啊呜！已经开始咬了？别担心，大妹子。我们很快就会打一架。
 
 Yzbeth:    Hnf! Can't you hold yourself for a moment?
 伊兹贝思：吁！难道你不能忍耐片刻吗？
 
 Yzbeth:    Ow! Why do you hate me?!... You got what you wanted from me and now you broke my heart...
-伊兹贝思：唔！为什么你这么恨我？……你从我身上得到了想要的东西，现在却伤了我的心脏……
+伊兹贝思：唔！为什么你这么恨我？！……你从我身上得到了想要的东西，现在却伤了我的心脏……
 
 Yzbeth:    Hopeless brute! Violence is the only thing you're capable of!
 伊兹贝思：无脑的粗汉！你只会用暴力！
@@ -203,13 +203,13 @@ Elzriel:    ...did I really have to watch that?
 埃尔兹瑞尔：……我真的必须看着这一切吗？
 
 Yzbeth:    *Gasps* Devious brute!!! You got what you wanted from me and now you're shoving me?!...
-伊兹贝思：*喘息* 阴险的粗汉！！！你从我身上得到了想要的东西，现在却推我？……
+伊兹贝思：*喘息* 阴险的粗汉！！！你从我身上得到了想要的东西，现在却推我？！……
 
 Fine!!! So be it!!! I was your only chance to get Adur's taint, but oh well!
 好啊！！！就这样吧！！！我是你唯一能获取阿杜尔污秽的机会，但算了！
 
 Yzbeth:    Ugh!!! How dare you shove me like that?! Oh, you really just hate me, don't you!?
-伊兹贝思：唔！！！你怎么敢这样推我？哦，你真的就那么恨我吗？！
+伊兹贝思：啊！！！你怎么敢这样推我？哦，你真的就那么恨我吗！？
 
 You were so boring anyway! Good luck getting Adur's taint without me showing you some pity!
 你本来就很无聊！没有我的怜悯，你根本无法获得阿杜尔的污秽！
@@ -221,7 +221,7 @@ Yzbeth:    Keeping me waiting, again? I assure you, it does little to excite me.
 伊兹贝思：又让我等你？我保证，这对你毫无吸引力……
 
 Yzbeth:    What?! Are you just going to leave like that?! Ugh, how dare you!
-伊兹贝思：啥？！你就这样离开吗？！唔，你怎么敢这样！
+伊兹贝思：啥？！你就这样离开吗？！啊，你怎么敢这样！
 
 Fine!!! So be it!!! I was your only chance to get Adur's taint, but oh well!
 好啊！！！就这样吧！！！我是你唯一能获取阿杜尔污秽的机会，但算了！
@@ -230,13 +230,13 @@ Yzbeth:    What?! You're just going to walk away from me now?! Am I too much for
 伊兹贝思：啥？！你现在就要从我身边走开吗？！是我太难搞了吗，还是怎么着？
 
 Ugh, you're so boring anyway! Good luck getting Adur's taint without me showing you pity!!!
-唔，你本来就无聊透顶！没有我的怜悯，你根本无法获得阿杜尔的污秽！！！
+啊，你本来就无聊透顶！没有我的怜悯，你根本无法获得阿杜尔的污秽！！！
 
 These switch requires a Golden key to operate.
 这些开关需要用黄金钥匙才能操作。
 
 Lancer Painting:    Zan?!... oh, the Gods have answered my pleas! I am trapped in this painting!
-长枪绘：瓒？……哦，诸神终于回应了我的祈求！我被困在这幅画中了！
+长枪绘：瓒？！……哦，诸神终于回应了我的祈求！我被困在这幅画中了！
 
 Lancer Painting:    I can hardly endure this torment any longer! Please, warrior, help me out!
 长枪绘：我几乎承受不住这种折磨了！战士，请帮我脱离这困境吧！
@@ -404,7 +404,7 @@ Oh and... I did mention I would make you rich, right? *Snickers*
 哦对了……我确实说过会让你发大财，对吧？*轻笑*
 
 Fool!!! Did you really think I'd risk letting you remove the Baron from power!?
-蠢货！！！你真以为我会冒险让你推翻男爵的统治吗！！？
+蠢货！！！你真以为我会冒险让你推翻男爵的统治吗！？
 
 Trade is going far too well for us under his rule! So here's your share! Enjoy counting the coin, for all eternity!
 在他的统治下贸易繁荣得太过顺利了！所以这是你的份额！尽情数着金币，永远都别停！
@@ -428,7 +428,7 @@ Shady Fixer:    Hey, you actually charged it! We can escape now! One moment, let
 ……把靴子塞满金币。
 
 Couldn't you wait for a moment!? Think about how much more gold we could have carried with us!!!
-你不能等等吗？想想我们还能带多少金币走啊！！！
+你不能等等吗！？想想我们还能带多少金币走啊！！！
 
 Ugh, I'm out of here! Come see me at Murguth's camp, maybe selling you some gear will mellow me out.
 啧，我走了！去穆尔古斯的营地找我，也许卖给你些装备能让我平静点。
@@ -557,7 +557,7 @@ Yzbeth:    *Whimpers* Why are you hitting me? Why do you hate me so much?
 伊兹贝思：*呜咽* 为什么要打我？为什么这么讨厌我？
 
 Yzbeth:    You narrow-sighted brute!!! All you know is violence and cruelty!
-伊兹贝思：你这目光短浅的蠢货！！你们只知道暴力和残忍！
+伊兹贝思：你这目光短浅的蠢货！！！你们只知道暴力和残忍！
 
 Yzbeth:    Fuck you!
 伊兹贝思：草泥马！
@@ -812,10 +812,10 @@ the mines. For once, they seem to have no men among their ranks - few legends me
 乎没有士兵——很少有传说提及一支被放逐到地下的部落，因亵渎神圣律法
 
 underground for defiling sacred laws, an amazonian tribe who sought unnatural power in order to dominate all
-而遭此下场，那是一支追求非自然力量以主宰所有战场的亚马逊族部落。哦
+而遭此下场，那是一支追求非自然力量以主宰所有战场的亚马逊族部落。哦，
 
 battlefields.  Oh, and that they did! From what I heard, they sliced through our cultist towns like a hot knife!
-，他们确实做到了！据我所闻，他们像热刀切奶油般劈开我们的教派城镇！
+他们确实做到了！据我所闻，他们像热刀切奶油般劈开我们的教派城镇！
 
 Regardless, they didn't submit to my wishes, but I don't have the heart to torture such brave and fire-hearted
 无论如何，他们并未屈从于我的意愿，但我没狠心折磨这些勇敢且热血的战

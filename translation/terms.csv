@@ -68,8 +68,8 @@ BULLET MACHINE,弹药机,机器/设备名称（大写专有名词）
 Buried (Instrumental),埋葬（器乐版）,歌曲名
 Call of Chaos,混沌召唤,仪式/咒语名称（贯穿文本）
 Calmun,卡尔蒙,人名，可能与剧情中的角色相关
-Captain Dura,队长杜拉,角色名[4]|军官称号/角色名|角色职位与名字|军官职称及人物名|人名（角色）|军事指挥官（Valc势力）
-Captain's Log,队长的日志,记录事件的日志系统或文件类型
+Captain Dura,首领杜拉,角色名[4]|军官称号/角色名|角色职位与名字|军官职称及人物名|人名（角色）|军事指挥官（Valc势力）
+Captain's Log,首领的日志,记录事件的日志系统或文件类型
 Carpenter Guild,木匠公会,组织名称
 CASING MACHINE,装填机,机器/设备名称（大写专有名词）
 Castes,种姓,社会阶层体系
@@ -83,9 +83,9 @@ Chapter 2,第二章,章节编号
 Chapter 3 - The Basic Crystals,第三章 - 基础水晶,章节标题
 Chapter 7: The Pact,第七章：契约,章节标题
 chasecam,追逐镜头,游戏内功能/视角设置
-Chieftain Adjunct Lith,首领助理利思,职位头衔+角色名
-CHIEFTAIN ADJUNCT'S OFFICE,首领助理办公室,设施名称
-Chieftain Zura,首领祖拉,敌对势力领袖（与Valc相关）|敌对角色/人物|角色名|头衔+名字组合的专有名词，可能指敌对势力领袖
+Chieftain Adjunct Lith,酋长助理利思,职位头衔+角色名
+CHIEFTAIN ADJUNCT'S OFFICE,酋长助理办公室,设施名称
+Chieftain Zura,酋长祖拉,敌对势力领袖（与Valc相关）|敌对角色/人物|角色名|头衔+名字组合的专有名词，可能指敌对势力领袖
 Chronicles of the Schism - Dawn of the First Century,分裂纪元 - 第一世纪黎明,文献标题（古代记录）
 Church of Self,自我教会,宗教组织名称
 Citadel,城堡,地点名称（特定场景）|重要地点（恶魔领主据点）|地点名称（指男爵的据点）
@@ -520,7 +520,7 @@ SACRIFICIAL BLOOD,献祭之血,仪式用液体|游戏内物品名称
 Salt and Blood,盐与血,地图名称
 Salt Mine,盐矿,地点名称/特定区域[2]|关键地点
 Sanctum,圣所,游戏中的重要地点或区域名称
-Sarge,上尉,头衔/称谓[2]|军衔非正式称呼
+Sarge,队长,头衔/称谓[2]|军衔非正式称呼
 schematics,图纸,技术文档
 Schism,分裂,历史事件/教派分裂|历史事件或哲学概念，指某种重大分歧
 Scorlag,斯科拉格,角色名|角色名（要求者）|人名（角色）|角色名（前文已出现）|Primarch 名称（蓝色要求者）
@@ -541,7 +541,7 @@ Sentry,守卫,自动防御系统|可能指游戏中的单位或设备|自动防�
 Sentry Turrets,守卫炮塔,游戏装置名称（可能为专有名词）|武器类型|防御装置名称|可拾取/部署的防御装置|装置名称
 sergeant,中士,军衔/职位
 servitors,侍从,忠诚于说话者的仆人/机械生命体
-Sgt. Barna,巴纳上尉,角色职位与名字
+Sgt. Barna,巴纳队长,角色职位与名字
 Shady Fixer,阴暗修复者,角色名（新出现）[2]|商人/情报贩子（出售特殊道具）|角色名称（神秘商人）|人名（神秘商人）|交易商角色，出售暗视护目镜等物品|头衔/角色名称|NPC角色名/商人
 Shaping the Caves - Chapter 2: Magical Quakes,塑造洞穴 - 第二章：魔震,章节标题/书名（需确认是否为专有名称）
 Shark Infested Waters,鲨鱼盘踞之水,危险水域名称
@@ -646,8 +646,8 @@ Wiki page,维基页面,游戏内信息来源
 Windriders,风行者,可能指组织/群体名称
 Witch,女巫,角色名，魔法使用者[2]|战斗角色名字[2]|角色名字（魔法使用者）[2]|角色名[2]|头衔/角色名称|可能指特定角色或群体|角色名/魔法使用者
 Witch Brewer,女巫酿造师,职业/角色名（前文提及）[2]|角色名
-Witch Chieftain Adjunct Lith,女巫首领助理利思,职位头衔+角色名
-Witch Chieftain Zura,女巫首领祖拉,头衔+人名，需上下文确认|重要角色（与Breaza相关）|双重头衔角色（结合魔法与领导权）|特殊头衔+人物名称（带有封印的羊皮纸）
+Witch Chieftain Adjunct Lith,女巫酋长助理利思,职位头衔+角色名
+Witch Chieftain Zura,女巫酋长祖拉,头衔+人名，需上下文确认|重要角色（与Breaza相关）|双重头衔角色（结合魔法与领导权）|特殊头衔+人物名称（带有封印的羊皮纸）
 Witch Clinic,女巫诊所,地点名称
 Witch Cosena,女巫科森娜,高阶魔法使用者角色
 Witch Doctor Adena,女巫医生阿德娜,医疗角色名

@@ -83,7 +83,7 @@ Bear Warrior:    Well I'll be damned... the deserter shows up here, of any place
 熊战士：天哪……逃兵居然会出现在这里，任何地方都行。
 
 Drop your weapons, sergeant. You have some questions to answer...
-中士，放下武器。你有一些问题要回答……
+放下武器，队长。你有一些问题要回答……
 
 Pit Lord:    WE'VE HAD ENOUGH OF YOUR SCHEMING, CULTIST SCUM! WHERE ARE YOU HIDING THE BOOKS?!
 深渊领主：我们受够了你们的阴谋诡计，异端之徒！书在哪里？！
@@ -173,10 +173,10 @@ I'm starting to get real pissed off by these siblings and their schemes. The Spi
 我开始对这些兄弟及其阴谋感到极度愤怒。Spirit Wench突然消失，让她的
 
 leaving her brothers to turn the place into a mess. One of them convinced a part of the servants to lock themselves in
-兄弟们把这里搞得一团糟。其中一个说服部分仆人把自己锁在地下室
+兄弟们把这里搞得一团糟。其中一个说服部分仆人把自己锁在地下室，
 
 the basement while the other took over the chapel. Looks like we'll have to dish out some discipline around this place.
-，另一个则占领了教堂。看来我们得在这儿好好施加一些纪律了。
+另一个则占领了教堂。看来我们得在这儿好好施加一些纪律了。
 
 (The greasy pages of the tome appear to hold the journal of the Body Master)
 （这本油污的典籍似乎记载着体术大师的日记）
@@ -194,10 +194,10 @@ to deal with this.  I can already see the droves of wounded he'll send me to sew
 1106年3季18日。终于！恶魔们来了，他们带来了这些不洁之书……让仆人
 
 to keep an eye out for them.  My cursed siblings will surely want to get them for themselves, so they can show who's
-们留意这些书。我的诅咒兄弟们肯定想据为己有，以此证明谁才是家主
+们留意这些书。我的诅咒兄弟们肯定想据为己有，以此证明谁才是家主。
 
 the house leader.   Oh, but the servitors are loyal to me.  Who else treats their wounds after the sermons, hmm? Hah!
-。哦，但侍从们忠于我。还有谁会在布道后照顾他们的伤口呢？哼！
+哦，但侍从们忠于我。还有谁会在布道后照顾他们的伤口呢？哼！
 
 19/3rd/1106. As foreseen, Orc filth have come knocking at our gates! The unholy seals have made our defenses truly
 1106年3季19日。正如预见的那样，腐烂的兽人竟敲响了我们的大门！不洁封印让我
@@ -242,7 +242,7 @@ yourself from the confines of this shallow world, and hone your three gifts thro
 由与救赎的钥匙。挣脱这浅薄世界的桎梏，在苦难与牺牲中磨砺你的三重天
 
 you shall be ready to ascend into the afterlife as a God, and look with pity upon the blind fools that serve still.  [...]
-赋。唯有如此，你才能在死后升格为神明，俯视仍在盲目侍奉的愚者……
+赋。唯有如此，你才能在死后升格为神明，俯视仍在盲目侍奉的愚者。[...]
 
 (A neat, spiral bound book serves as journal for the Mind Master)
 （一本装订整齐的螺旋笔记本是心灵大师的日记）
@@ -443,7 +443,7 @@ practice and then go retrieve the book. Once you break the seal, our demon will 
 （你按照指示练习竖琴曲）
 
 PS:  Careful with the harp, it's more expensive than you are. And be ready for a raid, the demons' commander
-PS：小心点，这把竖琴可比你值钱多了。而且要准备好迎接突袭，恶魔首领已经察
+附言：小心点，这把竖琴可比你值钱多了。而且要准备好迎接突袭，恶魔首领已经察
 
 has caught onto some of our plans. I can only hope our insider isn't actually planning to get us all butchered.
 觉到了我们的一些计划。我只能希望我们的内线并非真的打算让我们全军覆没。
@@ -494,7 +494,7 @@ claim them for ourselves. And don't raise suspicions! I can't afford to lose you
 - 被恶魔控制在剧院大厅的那本书将是最难获取的……
 
 KEEP OUT
-KEEP OUT
+止步
 
 (The torn, dirt-caked parchment looks like it was carelessly discarded by someone. It is signed by a Pit Lord)
 （被撕裂、沾满尘土的羊皮纸看起来像是被人随意丢弃。它由一位深渊领主签署）

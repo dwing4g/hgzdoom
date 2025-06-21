@@ -65,7 +65,7 @@ H.Priest Jaromir:    Keep your eyes peeled. If you find any dwarven relics, brin
 高阶祭司贾罗米尔：留意四周。如果你发现任何矮人族遗物，带来这里让我尝试辨认。
 
 H.Priest Jaromir:    I wasn't expecting to see cultists here... maybe Chieftain Zura is right and they're onto something.
-高阶祭司贾罗米尔：我没想到会在这里遇到邪教徒……也许首领祖拉说得对，他们确实掌握了什么线索。
+高阶祭司贾罗米尔：我没想到会在这里遇到邪教徒……也许酋长祖拉说得对，他们确实掌握了什么线索。
 
 H.Priest Jaromir:    The underwater structures here would allow my ancestors to closely study the ancient vestiges.
 高阶祭司贾罗米尔：这里的水下建筑能让我的祖先近距离研究远古遗迹。

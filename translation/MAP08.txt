@@ -1,17 +1,17 @@
 Bear Warrior:    Man, this place is colder than Moon's ass...
-熊战士: 哎呀，这地方冷得比月亮的屁股还寒……
+熊战士：哎呀，这地方冷得比月亮的屁股还寒……
 
 Reaver:    At least you have some fur on.
-掠夺者: 至少你还有毛发保暖。
+掠夺者：至少你还有毛发保暖。
 
 Reaver:    *Shiver* So. Cold.
-掠夺者: *打颤* 太冷了。
+掠夺者：*打颤* 太冷了。
 
 Bear Warrior:    Huh, a live one...
-熊战士: 呵呵，活生生的家伙……
+熊战士：呵呵，活生生的家伙……
 
 Reaver:    Looks like we have a survivor.
-掠夺者: 看来我们捡到个幸存者。
+掠夺者：看来我们捡到个幸存者。
 
 The thick layer of ice has a cracked spot that could be shattered with the proper tool.
 厚重的冰层有个裂痕，可用合适工具击碎。
@@ -26,22 +26,22 @@ You don't have enough materials to fix the bridge.
 你没有足够材料修复桥梁。
 
 Sick Dwarf:   *Coughs*
-咳嗽的矮人: *咳嗽*
+咳嗽的矮人：*咳嗽*
 
 Bear Warrior:    Too late for him now. C'mon, let's stop wasting time and get moving.
-熊战士: 现在他已经没救了。走吧，别浪费时间赶紧动身。
+熊战士：现在他已经没救了。走吧，别浪费时间赶紧动身。
 
 Reaver:    Did he just breathe?... hm, must be my imagination. Let's get going.
-掠夺者: 他刚才……呼吸了吗？……嗯，肯定是我的错觉。快走吧。
+掠夺者：他刚才……呼吸了吗？……嗯，肯定是我的错觉。快走吧。
 
 Reaver:    Let's hope this was worth it...
-掠夺者: 希望这次行动值得……
+掠夺者：希望这次行动值得……
 
 Bear Warrior:    There you go, buddy...
-熊战士: 给你，伙计……
+熊战士：给你，伙计……
 
 Andrik:   *Cough* Argh, that hit the spot! I can feel it purging me veins!
-安德里克: *咳嗽* 啊！这下正中要害！我能感觉到毒血在被净化！
+安德里克：*咳嗽* 啊，这下正中要害！我能感觉到毒血在被净化！
 
 Thought she could do ol' Andrik in, did she?
 她以为能干掉老安德里克？呵！
@@ -59,7 +59,7 @@ Reaver:    Lith? That's Zura's aide... yes, this does look like the work of a Wi
 掠夺者：利思？那是祖拉的手下……是的，这确实像女巫干的……
 
 Bear Warrior:    Lith?! Zura's adjunct? That piece of shit...
-熊战士：利思？祖拉的帮手？那杂种……
+熊战士：利思？！祖拉的帮手？那杂种……
 
 She came by a few days ago. The snake must have slipped something in our well...
 她几天前就来了。那条蛇肯定往我们的井里下了什么东西……
@@ -110,7 +110,7 @@ Bear Warrior:    What are you trying to tell us, dwarf?...
 熊战士：你在跟我们说什么，矮人？...
 
 Bear Warrior:    He looks pretty bad. I don't know, sarge...
-熊战士：他的样子看起来很糟。我不知道，上尉……
+熊战士：他的样子看起来很糟。我不知道，队长……
 
 Bear Warrior:    His tongue looks so dry. Maybe a drink could fix him?
 熊战士：他的舌头干得像枯枝。也许喝点东西就能救他？
@@ -188,10 +188,10 @@ TO ICEPEAK FORTRESS
 （书的最后一页由长枪兵丹德拉签署）
 
 The journey has been a mess. The road's been nearly entirely swallowed by snow, and many of the ice
-这段旅程一团糟。道路几乎被积雪吞没，许多冰洞坍塌了
+这段旅程一团糟。道路几乎被积雪吞没，许多冰洞坍塌了，
 
 caves have collapsed, I've even lost my lance in a cave-in, and perhaps I would have lost a lot more
-，我甚至在一次塌方中失去了长矛……若不是及时躲藏，
+我甚至在一次塌方中失去了长矛……若不是及时躲藏，
 
 if I hadn't shielded myself in time...    It feels unnatural for the ground to tremble like this, and the
 恐怕会损失更多。地面如此剧烈震颤感觉很不自然，
@@ -248,7 +248,7 @@ looks far too sophisticated for the humans.  The least I could do was bury her i
 这种毒药的复杂程度显然超出了人类的能力范围。我至少该把她埋在土里，让她
 
 rest with her kin at last, but now I'm headed for Valc. Witch Chieftain Zura will have some questions to
-与族人安息，但现在我要前往瓦尔克了。女巫首领祖拉肯定有很多问题要问。如
+与族人安息，但现在我要前往瓦尔克了。女巫酋长祖拉肯定有很多问题要问。如
 
 answer.  And if you who did this returns here, you have my word that no hole will hide you from justice.
 果你做了这一切的人再次回来，我向你保证，没有哪个洞穴能让你逃避正义。
@@ -260,7 +260,7 @@ what in all hells is he doing with that orcish junk.   He shrugged me off and to
 这家伙怎么把兽人杂物搬进来了？他摆手让我别管，还说这很时尚！
 
 than what WE make?! Next time he comes around asking for new kegs, make sure to point him to that bleedin'
-比我们做的更时尚？下次他再来找我们要新酒桶时，记得指给他下面那个该死的升降梯，
+比我们做的更时尚？！下次他再来找我们要新酒桶时，记得指给他下面那个该死的升降梯，
 
 elevator below, and tell him to go ask the orcs fer help. Surely they can craft him some stylish ale kegs too.
 让他去问兽人要帮忙。他们肯定能帮他打造些时尚的酒桶。

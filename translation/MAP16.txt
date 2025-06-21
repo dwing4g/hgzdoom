@@ -20,7 +20,7 @@ Hmmh?... Why are you fleeing, you fools?!
 唔？……你们这些傻瓜为何逃跑？！
 
 ARRGH, darn you and your trinkets, Halfblood!!!
-ARRGH，该死的你和你的小玩意儿，混血人！！
+啊啊，该死的你和你的小玩意儿，混血人！！！
 
 Crystal Curator:    FOR OUR HONOR! FOR OUR HOME! CHARGE!
 水晶管理员：为了我们的荣誉！为了我们的家园！冲锋！
@@ -56,13 +56,13 @@ Witch:    Aww, no more bodies to throw at us?! You're next, tentacle face!!!
 女巫：哎呀，没有更多尸体扔给我们了？！下一个就是你，触手脸！！！
 
 Bear Warrior:    ARRRGH, BOW BEFORE THE IRON DIVISION! DO YOU HEAR ME?! WE'RE COMING FOR YOU!!!
-熊战士：啊——向铁军臣服！你们听到了吗？我们正在向你逼近！！！
+熊战士：啊啊，向铁军臣服！你们听到了吗？！我们正在向你逼近！！！
 
 Reaver:    Our vengeance draws near! You're next on your list, Baron!
 掠夺者：我们的复仇即将来临！你将是名单上的下一位，男爵！
 
 Fixer:    Fuck! We survived? We aren't going after him without reinforcements, now, right?!
-修复者：该死！我们活下来了？现在没有增援的话，我们不追他了吧？！
+修复者：卧槽！我们活下来了？现在没有增援的话，我们不追他了吧？！
 
 Earth Mother:    Earth's might! Victory! Witness us, Baron, for we are coming after you!
 大地之母：大地的伟力！胜利！见证吧，男爵，我们将向你发起进攻！
@@ -101,7 +101,7 @@ Fixer:    Uh-oh, I think the Baron's gone. We better stay put here and wait for 
 修复者：呃——哦，我觉得男爵已经溜走了。我们最好留在原地等姐妹们……
 
 Reaver:    Over here, sergeant!
-掠夺者：这边！中士！
+掠夺者：这边！队长！
 
 Reaver:    Workshop Boss said you're the one who got the dark iron to fix our guns. We're ready to assist you!
 掠夺者：工坊老板说你是那个拿到暗铁零件修理我们枪支的人。我们准备好了，可以协助你！
@@ -116,7 +116,7 @@ Fixer:    Ugh! I'm gonna throw up...
 修复者：呕！我都要吐了……
 
 Bear Warrior:    The fuck was that abomination?
-熊战士：那是什么鬼东西？
+熊战士：他喵的是什么鬼东西？
 
 Witch:    This torture chamber... such a cruel exhibition of flesh...
 女巫：这刑房……如此残忍的肉体展示……
@@ -170,13 +170,13 @@ The cracked window looks like it could be easily shattered.
 那扇裂开的窗户看起来很容易被击碎。
 
 Lord Igrutius:    Imbeciles! Why did you bring the experimental cannon?! Can't you see none of the shells are loaded!?
-领主伊格鲁提乌斯：蠢货！你们为什么带了实验性大炮？！难道没看到任何炮弹都没装填吗！！
+领主伊格鲁提乌斯：蠢货！你们为什么带了实验性大炮？！难道没看到任何炮弹都没装填吗！？
 
 Lord Igrutius:    And why is it facing the wrong door?! Take it away!!! GRRRH!
-领主伊格鲁提乌斯：还有，这门炮对着的是错误的门！！把这玩意拿走！！啊——！！
+领主伊格鲁提乌斯：还有，这门炮对着的是错误的门？！把这玩意拿走！！！啊啊！
 
 Bear Warrior:    They're trying to run!!! CRUSH THEM! NO SURVIVORS!
-熊战士：他们在逃跑！！碾碎他们！一个不留！！
+熊战士：他们在逃跑！！！碾碎他们！一个不留！
 
 Witch:    Hahaha, look at them flee! You can run, but can you hide?!
 女巫：哈哈哈，看他们逃窜！你们可以跑，但能藏起来吗？！
@@ -206,13 +206,13 @@ Witch:    *Grins wickedly, with pupils expanded from whatever frenzying potion s
 女巫：*邪恶地咧嘴笑，瞳孔因某种狂暴药剂而放大*
 
 Witch:    Urgh...sorry sarge, but I'd rather keep my teeth clenched than have them clattering.
-女巫：呃……对不起上尉，但与其让牙齿发出声响，我宁愿咬紧牙关。
+女巫：呃……对不起队长，但与其让牙齿发出声响，我宁愿咬紧牙关。
 
 Witch:    Took a bullet from one of those new demon guns. Bounced inside my arm... hurts like a bitch!
 女巫：被那把新恶魔枪的子弹击中了。弹丸在我手臂里反弹……疼得像狗一样！
 
 Witch:    *Groans* My amulet's shield only stopped it from exiting my body. Fuck this piece of shit!
-女巫：*呻吟* 我的护身符只阻止它离开身体。操这玩意儿！
+女巫：*呻吟* 我的护身符只阻止它离开身体。卧槽这玩意儿！
 
 Witch:    *Groans heavily*
 女巫：*沉重地呻吟*
@@ -242,22 +242,22 @@ Bear Warrior:    Victory or death! This battle decides the fate of the Underworl
 熊战士：胜利或死亡！这场战斗将决定地下世界的命运！！
 
 Captain Dura:    Still alive, sergeant? Our foes have been far more prepared than we expected.
-队长杜拉：中士，你还活着吗？我们的敌人比预想中准备得更充分。
+首领杜拉：你还活着吗，队长？我们的敌人比预想中准备得更充分。
 
 Captain Dura:    So you've cleared the eastern part of the town, right? And no sign of any of our targets?
-队长杜拉：所以你已经清除了镇子东部区域，对吧？没发现任何目标的踪迹？
+首领杜拉：所以你已经清除了镇子东部区域，对吧？没发现任何目标的踪迹？
 
 Captain Dura:    Grund ordered us to secure the bell tower so the cultists can't signal for reinforcements.
-队长杜拉：格伦德命令我们守住钟楼，防止邪教徒求援。
+首领杜拉：格伦德命令我们守住钟楼，防止邪教徒求援。
 
 Captain Dura:    Scout ahead, see if you can pick up any clue on where Nithriel and the Baron are hiding.
-队长杜拉：派侦察兵前去探查，看看能否发现妮丝瑞尔和男爵藏身之处。
+首领杜拉：派侦察兵前去探查，看看能否发现妮丝瑞尔和男爵藏身之处。
 
 Captain Dura:    Hey, have you seen Tiati? She was supposed to sneak past their defenses and assist my squad!
-队长杜拉：嘿，你看到提娅媞了吗？她本该潜行越过他们的防线来协助我的小队！
+首领杜拉：嘿，你看到提娅媞了吗？她本该潜行越过他们的防线来协助我的小队！
 
 Captain Dura:    Hmm, looks like you could use a healer. Take my Earth Mother along, I'll tend to the wounded here.
-队长杜拉：嗯……看来你需要个治疗者。带上我的大地之母，我会在这里照料伤员。
+首领杜拉：嗯……看来你需要个治疗者。带上我的大地之母，我会在这里照料伤员。
 
 Earth Mother:    As you wish. Ready when you are, Zan.
 大地之母：如您所愿。瓒，随时待命。
@@ -305,7 +305,7 @@ smeltery.   The finely ground crystals have yielded surprising results when mixe
 械。我们研磨的水晶与地狱火药混合后，产生了令人惊讶的效果。
 
 The attached warhead is the new highest diameter that won't blow the cannoneer apart. High regards,  M.
-附带的弹头是目前直径最大的，不会将炮手炸飞。敬上，M。
+附带的弹头是目前直径最大的，不会将炮手炸飞。敬上，M.
 
 CONDEMNED
 被诅咒的

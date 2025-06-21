@@ -23,7 +23,7 @@ Reaver:    What is this sludge? It looks like it's alive... and feeding off the 
 掠夺者：这是什么泥浆？看起来它好像活过来了……还在汲取传送门的力量源。
 
 Bear Warrior:    Oh shit... This isn't going to go down easily, is it?
-熊战士：哦shit……这仗恐怕不好打吧？
+熊战士：卧槽……这仗恐怕不好打吧？
 
 Reaver:    Get ready, I feel like we're in for a big fight.
 掠夺者：准备好了，我感觉我们要经历一场大战。
@@ -269,10 +269,10 @@ orc tree... as for the goblins, I will send a handful of Crawlers after them, ri
 哥布林，我会在喂饱那些未能杀死这些烦人的绿皮小家伙的蠢货后，
 
 fools that failed to slay these pesky green runts. Blocking the way to the northern wing did nothing but
-派一小队爬行者去对付他们。阻挡北翼入口毫无意义，只会拖延时间
+派一小队爬行者去对付他们。阻挡北翼入口毫无意义，只会拖延时间。
 
 delay us. They SHOULD have realized you can't trap them in a place sprawling with ventilation shafts.
-。他们本该明白，你无法将它们困在一个通风管道遍布的区域。
+他们本该明白，你无法将它们困在一个通风管道遍布的区域。
 
 The Demonblood lives!   And she is here. She's slaughtered our entire force in the Plaza, and knowing
 恶魔之血活了！她来了。她在广场上屠杀了我们整支队伍，而根据
@@ -305,16 +305,16 @@ to grow a fully edible vegetal crystal instilled with healing powers. The testin
 于能够生长出完全可食用的植物水晶，其中蕴含着治愈的力量。测试
 
 with favorable results...   as long as we don't remove the stem from its soil.   Luckily for us, we still
-已经顺利完成……只要我们不将它的茎从土壤中拔出即可。幸运的是
+已经顺利完成……只要我们不将它的茎从土壤中拔出即可。幸运的是，
 
 have eighteen days until the campaign begins, and I have made arrangements for a Reaver team to go
-，我们还有十八天直到战役开始，我已经安排了一支掠夺者小队去传
+我们还有十八天直到战役开始，我已经安排了一支掠夺者小队去传
 
 forth and spread the crystal plant seed ahead of our future path. With a bit of luck, we will be able
-播水晶植物种子，提前铺设在我们未来的行进路线上。若能侥幸成功
+播水晶植物种子，提前铺设在我们未来的行进路线上。若能侥幸成功，
 
 to reap the healing pods just as we are making our advance towards the accursed, fiery pits of Hell...
-，我们将在向诅咒的火坑地狱推进时，收获这些治愈果实……
+我们将在向诅咒的火坑地狱推进时，收获这些治愈果实……
 
 We've dealt with the last intruder - she's managed to get all the way up to the second floor, but she
 我们已经处理了最后一个入侵者——她成功抵达二楼，但无法突破根之
@@ -422,16 +422,16 @@ had better luck than us... Come on, you bastards, come get me so I can send you 
 气更好……来吧，你们这些混蛋，快来抓我，让我送你们回地狱深渊！
 
 Make sure to turn the auxiliary power on before you shut down the generator for any
-在进行任何维护工作关闭发能机前务必先开启辅助能源。我
+在进行任何维护工作关闭发能机前务必先开启辅助能源。
 
 maintenance work. I don't wanna hear anymore complaints from the archive curators
-不想再听到档案管理员们被困在办公室里的抱
+我不想再听到档案管理员们被困在办公室里的抱怨
 
 getting stuck in their office because the doors stop working. Just talk to the Earth
-怨，因为门关停止运作了。直接和大地交谈
+因为门关停止运作了。直接和大地母亲们交谈
 
 Mothers to let you in the portal cave until we get one of our own Vine keys.    - Boss
-母亲们允许你们进入传送门洞穴，直到我们获得一把自己的藤蔓钥匙。- 老板
+允许你们进入传送门洞穴，直到我们获得一把自己的藤蔓钥匙。- 老板
 
 (You browse through a fancy book recording various magical rituals)
 （你浏览一本记录各种魔法仪式的精美书籍）

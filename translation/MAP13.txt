@@ -128,7 +128,7 @@ Fixer:    Uh, it's so cold here... I hope you know where you're taking us.
 修复者：呃，这里好冷……希望你知道要带我们去哪儿。
 
 Fixer:    Can you believe this? A rainstorm in the underground?! I told 'em it's a bad omen, I did!
-修复者：你能相信吗？地下居然有暴雨！我早就说过这是不祥之兆了！
+修复者：你能相信吗？地下居然有暴雨？！我早就说过这是不祥之兆了！
 
 Fixer:    We had supplies stashed here, but it looks like the cultists have stolen most of them.
 修复者：我们在这里存了一些物资，但看起来邪教徒偷走了大部分。
@@ -308,10 +308,10 @@ Official order from the authority of High Mistress Nithriel
 高阶女主人妮丝瑞尔的官方命令
 
 My dearest sister, I am departing to Hell today.  It is time for each of us to tend to their duties, and yours will
-我亲爱的妹妹，我今日将启程前往地狱。如今是时候让每个人履行各自的职责了
+我亲爱的妹妹，我今日将启程前往地狱。如今是时候让每个人履行各自的职责了，
 
 be just as important as mine. I will break the orc siege, and offer you the greenskin prisoners for interrogation.
-，你的任务与我的同样重要。我会击破兽人围攻，并将绿皮俘虏交予你审讯。
+你的任务与我的同样重要。我会击破兽人围攻，并将绿皮俘虏交予你审讯。
 
 Your duty is to find out the number of the survivors and their positions, so we can devise a plan to put an end
 你的任务是查明幸存者的数量及其位置，以便我们制定计划，彻底终结这些可
@@ -467,7 +467,7 @@ If we could claim it, we could use it to quickly tunnel around the town's walls 
 如果我们能夺取它，就能快速挖掘绕过城镇城墙并发动突袭。
 
 Advisor:    This is where you come in, sergeant. We need you to secure the depot. The problem is... Lord Murguth?
-顾问：这就是你的任务了，中士。我们需要你占领仓库。问题是……牛头人领主穆尔古斯？
+顾问：这就是你的任务了，队长。我们需要你占领仓库。问题是……牛头人领主穆尔古斯？
 
 Minotaur Lord Murguth:    The access to the town has been long sealed off. Demons can teleport inside. We can't.
 牛头人领主穆尔古斯：通往镇子的入口早已被封死。恶魔可以瞬移进入，我们无法阻止。
@@ -479,7 +479,7 @@ Bonebreaker, take the ruby and place it on the pedestal where it belongs. That w
 碎骨者，拿走这颗红宝石并将其放在属于它的基座。这样就能激活大门的机关。
 
 Advisor:    The enemy isn't expecting you, so this should be a safer task, sergeant. Still, keep your guard up.
-顾问：敌人没有预料到你们，所以这应该是一项更安全的任务，中士。不过，仍要保持警惕。
+顾问：敌人没有预料到你们，所以这应该是一项更安全的任务，队长。不过，仍要保持警惕。
 
 Grand Earth Mother Breaza:    We're counting on you, Zan. Take care... dismissed.
 伟大的大地之母布里扎：我们寄予厚望于你，瓒。小心……解散了。
@@ -494,7 +494,7 @@ Abhaoth:    ...some secrets are best left untouched... but that won't stop you, 
 阿波豪斯：……有些秘密最好不触碰……但那不会阻止你，对吧？……
 
 Reaver Tiati:    Zan, wake up! Chieftain Zura has arrived from Valc with a few others.
-掠夺者提娅媞：瓒，醒来！女巫首领祖拉从瓦尔克带着几个人抵达了。
+掠夺者提娅媞：瓒，醒来！女巫酋长祖拉从瓦尔克带着几个人抵达了。
 
 Remember the dark corruption that Lith was growing back in the Clinic's labs?
 还记得利思在诊所实验室里逐渐滋生的黑暗腐化吗？
@@ -503,13 +503,13 @@ Zura has found some information on that. Come on, get up, she wants to brief you
 祖拉找到了关于此事的一些信息。快点起来，她想给你布置新任务。
 
 Witch Chieftain Zura:    Ah, look who has just arrived. Our most treasured champion!
-女巫首领祖拉：啊，看看谁刚刚到来了。我们最珍视的冠军！
+女巫酋长祖拉：啊，看看谁刚刚到来了。我们最珍视的冠军！
 
 Grand Earth Mother Breaza:    I'm sure you're delighted to meet Chieftain Zura too, Zan. Pleasantries aside-
-伟大的大地之母布里扎：我确信你也高兴见到女巫首领祖拉，瓒。闲话暂且放下——
+伟大的大地之母布里扎：我确信你也高兴见到女巫酋长祖拉，瓒。闲话暂且放下——
 
 Witch Chieftain Zura:    I've studied one of Lith's diaries back in Valc and uncovered... certain details.
-女巫首领祖拉：我曾在瓦尔克研究过利思的一本日记，并发现了……某些细节。
+女巫酋长祖拉：我曾在瓦尔克研究过利思的一本日记，并发现了……某些细节。
 
 It appears that Nithriel had managed to pierce her mind and feed her visions, gradually driving her insane.
 看来妮丝瑞尔成功穿透了她的意识，将幻象灌输给她，逐渐使她陷入疯狂。
@@ -530,7 +530,7 @@ Grand E. M. Breaza:    Jaromir knows of an underwater town built by his ancestor
 伟大的E.M.布里扎：贾罗米尔知道一座由他祖先建造的水下城镇，用于考古研究。
 
 Witch Chieftain Zura:    ...studies of old ruins. Elven ruins... that might well be connected to Nithriel's goals.
-女巫首领祖拉：……对古代遗迹的研究。精灵遗迹……这很可能与妮丝瑞尔的目标有关联。
+女巫酋长祖拉：……对古代遗迹的研究。精灵遗迹……这很可能与妮丝瑞尔的目标有关联。
 
 Crystal Curator:    Of course! The Sacred Disk! She must know of something else it could be used for.
 水晶管理员：当然！圣盘！她一定知道它还能用于其他用途。
@@ -539,7 +539,7 @@ Advisor:    Our knowledge of crystals stems from elven ruins too, after all. Thi
 顾问：毕竟我们对水晶的认知也源自精灵遗迹。这种黏液或许也是类似的情况。
 
 Witch Chieftain Zura:    Regardless, you are to investigate the place, warrior. The information could be crucial.
-女巫首领祖拉：无论如何，战士，你需前往调查那个地方。这些信息可能至关重要。
+女巫酋长祖拉：无论如何，战士，你需前往调查那个地方。这些信息可能至关重要。
 
 Grand E. M. Breaza:    Jaromir left our camp an hour ago. Head south-east of here and meet up with him.
 伟大的E.M.布里扎：贾罗米尔一小时前就离开了我们的营地。向东南方向前进，与他会合。
@@ -773,7 +773,7 @@ Advisor:    You have completed your task? Go ahead and tell Breaza, I'll be all 
 顾问：你的任务完成了吗？去告诉布里扎吧，我会洗耳恭听。
 
 Advisor:    We need that powder by the time reinforcements arrive. Time is short, sergeant, get moving.
-顾问：增援部队抵达前必须拿到那种粉末。时间紧迫，中士，快点行动！
+顾问：增援部队抵达前必须拿到那种粉末。时间紧迫，队长，快走吧。
 
 Advisor:    You've made progress with the investigation? Report to Breaza right away!
 顾问：你调查取得了进展吗？立刻向布里扎报告！
@@ -863,7 +863,7 @@ Crystal Curator:    The Seed seems important, but we still have to retrieve the 
 水晶管理员：种子似乎很重要，但我们仍需取回圆盘。让我们准备战斗吧。
 
 Crystal Curator:    You've discovered an ancient elven vault!? Fascinating! Zura is burning to hear about it!
-水晶管理员：你发现了一座古代精灵地窖？！太有趣了！祖拉急着听这个消息！
+水晶管理员：你发现了一座古代精灵地窖！？太有趣了！祖拉急着听这个消息！
 
 Crystal Curator:    Look out for strange devices. Who knows what technological wonder lies dormant in these ruins...
 水晶管理员：留意奇怪的装置。谁知道这些废墟中沉睡着什么科技奇迹……
@@ -935,7 +935,7 @@ High Priest Jaromir:    So, the final battle is about to begin. There is no bett
 高阶祭司贾罗米尔：所以，最终之战即将开始。此刻祈祷再合适不过了。
 
 High Priest Jaromir:    I hope you have discovered something worthwhile down there. Tell Chieftain Zura of your findings.
-高阶祭司贾罗米尔：希望你在下面发现了些有价值的东西。把你的发现告诉首领祖拉。
+高阶祭司贾罗米尔：希望你在下面发现了些有价值的东西。把你的发现告诉酋长祖拉。
 
 High Priest Jaromir:    I see you've gathered a few bruises from the minotaur town. I'm sure a nap will help.
 高阶祭司贾罗米尔：我看到你从牛头人镇身上带回来几道伤痕。想必小憩片刻会有所帮助。
@@ -1010,10 +1010,10 @@ Min. Lord Murguth:    You orcs know how to wield an axe. You fight with great mi
 牛头人领主穆尔古斯：你们兽人懂得如何挥舞斧头。你们战斗时充满力量，这就是我尊重你们的原因。
 
 Warlord Grund:    I heard we have guests from Valc, mh? Send Zura my regards, I'm still too busy down here.
-男巫格伦德：我听说我们有来自瓦尔克的客人， mh？让祖拉代我向你问好，我现在还忙于这里的事情。
+男巫格伦德：我听说我们有来自瓦尔克的客人，嗯？让祖拉代我向你问好，我现在还忙于这里的事情。
 
 Warlord Grund:    No hard feelings, sergeant. When we couldn't find your body we assumed you had deserted us.
-男巫格伦德：别介意，中士。当我们找不到你的尸体时，以为你已经抛弃了我们。
+男巫格伦德：别介意，队长。当我们找不到你的尸体时，以为你已经抛弃了我们。
 
 Warlord Grund:    I don't need to take Tiati's word. I can see myself that you've been through some shit...
 男巫格伦德：我不需要听提娅媞的话。我自己就能看出你经历了多少磨难……
@@ -1037,7 +1037,7 @@ Warlord Grund:    Tiati said you did well leading your squad, back in Valc. A sk
 男巫格伦德：提娅媞说你在瓦尔克带领小队表现不错，这是我们需要的技能。
 
 Warlord Grund:    We're preparing for the assault, sergeant. You have your orders, let us be.
-男巫格伦德：我们正在准备突袭，中士。你有你的任务，让我们行动吧。
+男巫格伦德：我们正在准备突袭，队长。你有你的任务，让我们行动吧。
 
 Warlord Grund:    Has your mission been successful, warrior? Go ahead and debrief with Zura.
 男巫格伦德：战士，你的任务完成得如何？去向祖拉汇报吧。
@@ -1064,13 +1064,13 @@ Warg:    *Sniffs lazily*
 （你摸了摸狼灵）
 
 Warlord Grund:    She's a war machine, not a house pet, sergeant. Keep your hands where they belong.
-男巫格伦德：它可不是家里的宠物，中士。把手放在该放的地方。
+男巫格伦德：它可不是家里的宠物，队长。把手放在该放的地方。
 
 Witch Chieftain Zura:    I believe your task is clear. Leave us be now, we have an assault plan to finalize.
-女巫首领祖拉：我相信你的任务已经清楚了。现在让我们安静一下，我们还有最后的突袭计划要制定。
+女巫酋长祖拉：我相信你的任务已经清楚了。现在让我们安静一下，我们还有最后的突袭计划要制定。
 
 Witch Chieftain Zura:    My, my, my... turns out Lith's fevered visions were true. Let me take a look at this baby...
-女巫首领祖拉：唉，唉，唉……原来利思的狂热幻象是真的。让我看看这个小家伙……
+女巫酋长祖拉：唉，唉，唉……原来利思的狂热幻象是真的。让我看看这个小家伙……
 
 The Seed of Corruption, hmm? This will be invaluable if we want to understand this alien organism-
 腐化之种？如果我们要理解这种外星生物——
@@ -1079,7 +1079,7 @@ Grand Earth Mother Breaza:    Combat it, Zura. If we want to combat it.
 伟大的大地之母布里扎：对抗它，祖拉。如果我们想对抗它。
 
 Witch Chieftain Zura:    Of course, my dear. You don't think I'd want to weaponize it against our enemy, hmm?
-女巫首领祖拉：当然，亲爱的。你难道以为我不想将它武器化来对付我们的敌人吗？哼？
+女巫酋长祖拉：当然，亲爱的。你难道以为我不想将它武器化来对付我们的敌人吗？哼？
 
 Advisor:    Regardless of what we'll do with it, we have other matters pressing us right now, ladies.
 顾问：无论我们打算如何利用它，现在有更重要的事情需要处理，女士们。
@@ -1127,28 +1127,28 @@ Fixer:    I, uhh... I'll make sure to cover her back, Breaza! Take care!
 修复者：呃……我一定会保护她的后背，布里扎！保重！
 
 Witch Chieftain Zura:    Our journey here was surprisingly smooth. I believe it's you who cleared the path, yes?
-女巫首领祖拉：我们来到这里的旅程出乎意料地顺利。我相信是你清除了道路，对吧？
+女巫酋长祖拉：我们来到这里的旅程出乎意料地顺利。我相信是你清除了道路，对吧？
 
 Witch Chieftain Zura:    Captain Dura is marching with Valc's remnants as we speak. We're expecting them tomorrow.
-女巫首领祖拉：队长杜拉正率领瓦尔克残部前进，我们预计明天就能见到他们。
+女巫酋长祖拉：首领杜拉正率领瓦尔克残部前进，我们预计明天就能见到他们。
 
 Witch Chieftain Zura:    The slime corruption is not just a disease... a disease doesn't think. This does.
-女巫首领祖拉：黏液腐化并非仅仅是疾病……疾病不会思考，但这个却会。
+女巫酋长祖拉：黏液腐化并非仅仅是疾病……疾病不会思考，但这个却会。
 
 Witch Chieftain Zura:    I'm concerned with how easily Nithriel managed to turn my adjunct into her puppet.
-女巫首领祖拉：我担心妮丝瑞尔竟能如此轻易地将我的助手变为她的傀儡。
+女巫酋长祖拉：我担心妮丝瑞尔竟能如此轻易地将我的助手变为她的傀儡。
 
 Witch Chieftain Zura:    It's clear that the Elf needed someone with knowledge of crystal technology. One of us.
-女巫首领祖拉：显然，精灵需要一个掌握晶体科技的人。是我们中的一位。
+女巫酋长祖拉：显然，精灵需要一个掌握晶体科技的人。是我们中的一位。
 
 Witch Chieftain Zura:    The slime Golems are mere warnings of what this dark parasite is capable of creating.
-女巫首领祖拉：这些黏液怪不过是这个黑暗寄生虫能创造之物的警告。
+女巫酋长祖拉：这些黏液怪不过是这个黑暗寄生虫能创造之物的警告。
 
 Witch Chieftain Zura:    I bear traces of corruption thanks to Lith, but I can suppress it with the right potions.
-女巫首领祖拉：多亏了利思，我身上留有腐化的痕迹，不过只要使用正确的药剂就能抑制。
+女巫酋长祖拉：多亏了利思，我身上留有腐化的痕迹，不过只要使用正确的药剂就能抑制。
 
 Witch Chieftain Zura:    I'm not sure what Nithriel plans to do with the Disk. But I'm sure that we must stop her.
-女巫首领祖拉：我不确定妮丝瑞尔打算用圆盘做什么。但可以肯定的是，我们必须阻止她。
+女巫酋长祖拉：我不确定妮丝瑞尔打算用圆盘做什么。但可以肯定的是，我们必须阻止她。
 
 Warlord Grund:    Leave the pussycat alone, she's still recovering after the last interrogation, heh heh...
 男巫格伦德：别打扰那只小猫，她还在上次审讯后恢复中呢，嘿嘿……
@@ -1286,13 +1286,13 @@ Witch Brewer:    Hey! Watch what you're breaking, that's hours of my work gone!
 女巫酿造师：嘿！小心点别碰坏了，那是我好几个小时的工作成果！
 
 Witch Brewer:    What the fuck?! Stop breaking my stuff!!!
-女巫酿造师：见鬼！停下你的破坏行为！！！
+女巫酿造师：卧槽？！停下你的破坏行为！！！
 
 Witch Brewer:    Okay dipshit, you wanna screw us over?! Fine, no more healing for you!
-女巫酿造师：好啊，你这混蛋想坑我们？行啊，那你永远别指望再得到治疗了！
+女巫酿造师：好啊混蛋，你想坑我们？！行啊，那你永远别指望再得到治疗了！
 
 Witch Brewer:    You fucking dipshit... I'm not going to forget this anytime soon!
-女巫酿造师：你这个该死的混蛋……我很快就会忘记这件事的！
+女巫酿造师：你他喵的混蛋……我很快就会忘记这件事的！
 
 Earth Mother Bendi:    Can you practice your might on something else please?
 大地之母本迪：请用你的力量去对付其他东西吧？
@@ -1304,13 +1304,13 @@ Workshop Boss:    This new gun you've uncovered is quite a piece of work. Wish I
 工坊老板：你发现的新枪可真是个杰作。要是有更多时间研究它就好了。
 
 Workshop Boss:    You got the ore?  Damn, big girl!   Here, we recovered some ammo boxes. I know it ain't
-工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了一些弹药箱。
+工坊老板：你拿到矿石了吗？该死，大妹子！这里我们找到了一些弹药箱。
 
 much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance.
 我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
 
 Workshop Boss:    You got the ore? Damn, big girl! Here, we recovered this bracer. I know it ain't
-工坊老板：你拿到矿石了吗？该死，大姑娘！这里我们找到了这个护腕。
+工坊老板：你拿到矿石了吗？该死，大妹子！这里我们找到了这个护腕。
 
 much, but I'm sure the Reavers will be happy to hear you've earned them a better fighting chance.
 我知道这不算什么，但相信掠夺者们听到你赢得更好的战斗机会一定会高兴。
@@ -1325,7 +1325,7 @@ Look, I appreciate the help, but let me be now, I can't work with all these dist
 看吧，我感激你的帮忙，但现在让我安静一下，我没法在这么多干扰中工作！
 
 Workshop Boss:    What do you want, big girl? Can't you see I'm busy? Urgh, I'm trying to think here!
-工坊老板：大姑娘，你想干啥？我看你没看见我在忙吧？啧！我连想都得好好想想！
+工坊老板：大妹子，你想干啥？我看你没看见我在忙吧？啊，我在这冥思苦想呢！
 
 Workshop Boss:    ...first the power crystals start losing energy for no reason and now this. Ugh! Can't I catch a break?!
 工坊老板：……先是能量水晶莫名其妙地失去能量，现在又是这个。啧！我能不能喘口气啊？！
@@ -1517,10 +1517,10 @@ Shady Fixer:    You really want that Bag of Holding, don't you? Three hundred go
 阴暗修复者：你真的想要那个储物袋吗？三百枚金币，亲爱的。
 
 Shady Fixer:    *Gasps* You're a rich orc, Zan. My type of orc. You've bought out all my special merch,
-阴暗修复者：*惊呼* 你是个富有的兽人，瓒。正是我这种类型的兽人。你已经买光了我所有的特制商品
+阴暗修复者：*惊呼* 你是个富有的兽人，瓒。正是我这种类型的兽人。你已经买光了我所有的特制商品，
 
 but I can keep selling you Vials of Healing for ten gold each.   They'll keep you alive like nothing else.
-，但我仍可以继续以十枚金币的价格卖给你治疗药剂。它们能像其他任何东西一样让你保持生命。
+但我仍可以继续以十枚金币的价格卖给你治疗药剂。它们能像其他任何东西一样让你保持生命。
 
 Shady Fixer:    Come now, can't spare a mere ten gold for a vial that can save your life?
 阴暗修复者：快点吧，难道连十枚金币都舍不得为一瓶能救你性命的药剂吗？
@@ -1694,7 +1694,7 @@ Dwarf Shieldguard:    Come in, gate's open fer ya!
 矮人盾卫：进来吧，大门为你敞开！
 
 Bear Warrior:    Keeping me company, sarge? It does get a bit lonely up here alright.
-熊战士：和我一起待着，上尉？这里确实有点寂寞。
+熊战士：和我一起待着，队长？这里确实有点寂寞。
 
 Bear Warrior:    So Valc was swarmed by cultists after we left? Slithering bastards, how did they plan so well?
 熊战士：所以瓦尔克离开后就被邪教徒围攻了？滑溜的杂种，他们怎么计划得这么周密？
@@ -1757,7 +1757,7 @@ Fixer:    With ammo supplies dwindling, we'll have to adapt and improvise... gla
 修复者：弹药储备日益枯竭，我们必须适应并想办法……好在我以前做过拾荒者，这点经验派上用场了。
 
 Reaver:    I don't mean any disrespect, but I'm not in the mood for chit-chat, sergeant.
-掠夺者：我不是有意冒犯，但我不太想闲聊，中士。
+掠夺者：我不是有意冒犯，但我不太想闲聊，队长。
 
 Reaver:    It's stressful enough having to keep my eyes peeled for a demon strike, I don't need any distractions.
 掠夺者：光是时刻警惕恶魔袭击就够让人头疼的了，我可不需要任何分心的事。
@@ -1808,7 +1808,7 @@ Bear Warrior:    The fortress is clear, and we've also secured the stolen suppli
 熊战士：堡垒已清空，偷来的物资也安全收缴了。随便拿走剩下的东西吧。
 
 Bear Warrior:    Heh. We've besieged them for weeks and you broke through in only a few hours. Not bad, big girl.
-熊战士：哼。我们围攻他们数周，你却只用几个小时就突破防线。不错啊，大姑娘。
+熊战士：哼。我们围攻他们数周，你却只用几个小时就突破防线。不错啊，大妹子。
 
 Bear Warrior:    The cultists were unusually well organized here. I bet it's the demons who whipped them into shape.
 熊战士：这里的邪教徒组织得异常严密……我打赌是恶魔们把他们训练成这样。
@@ -1844,7 +1844,7 @@ Fixer:    Yes, you could vouch for me if they complain, right? Cool, I'm ready t
 修复者：对了，如果他们抱怨的话，你还能替我证明吧？好啦，那我就跟上你了！
 
 Fixer:    Z-Zan!? O-oh, my, I almost shot you!
-修复者：瓒——瓒？！哦——哦，天啊……我差点就开枪了！
+修复者：瓒——瓒！？哦——哦，天啊，我差点就开枪了！
 
 Reaver:    Thanks for freeing us, Zan... I was next on the chopping block, you saved my skin.
 掠夺者：谢谢你能救我们，瓒……我本来就要被砍头了，你救了我的命。
@@ -1880,7 +1880,7 @@ Bear Warrior:    This war is far from over. And now that I'm free I can carve my
 熊战士：这场战争远未结束。现在我重获自由，又能再次在恶魔头骨上刻下我的名字了！
 
 Bear Warrior:    You're a stout warrior, sarge. I'll make sure to drink with you once this is over.
-熊战士：你是位坚强的上尉，我会确保战后与你共饮一杯。
+熊战士：你是位坚强的队长，我会确保战后与你共饮一杯。
 
 Witch:    We've secured the area. That was a thrilling prison break, thanks for assisting us.
 女巫：我们已控制住这片区域。这次越狱真是惊险刺激，感谢你的协助。
@@ -1907,7 +1907,7 @@ Bear Warrior:    Keep an eye out for glowing pentagrams. They're always a bad si
 熊战士：留意发光的五芒星。它们总是不祥之兆……
 
 Bear Warrior:    What a prison break! And we got away almost unscratched. You're a beast, sarge!
-熊战士：多么精彩的越狱啊！而且我们几乎毫发无损地逃了出来。上尉，你是头号猛兽！
+熊战士：多么精彩的越狱啊！而且我们几乎毫发无损地逃了出来。队长，你是头号猛兽！
 
 Bear Warrior:    Breaza ordered us to hold here. I hate seeing this place, but orders are orders.
 熊战士：布里扎命令我们在此坚守。我讨厌看到这个地方，但命令就是命令。
@@ -1916,7 +1916,7 @@ Bear Warrior:    The cultists had well organized defenses. Well, not well enough
 熊战士：邪教徒的防御组织得很严密……不过也没严密到能阻止你们！
 
 Bear Warrior:    I miss Valc... I don't even know if we'll get to see it again. Fuck this place.
-熊战士：我怀念瓦尔克……甚至不确定我们还能不能再次见到它。操这地方。
+熊战士：我怀念瓦尔克……甚至不确定我们还能不能再次见到它。卧槽这地方。
 
 Fixer:    We've recovered the hell powder barrels from the minotaur town, thanks for securing them.
 修复者：我们从牛头人镇回收了地狱火药桶，感谢你保护它们。
@@ -1973,64 +1973,64 @@ Bear Warrior:    ...
 熊战士：……
 
 Bear Warrior:    Well met, sergeant! Wanna train with me?
-熊战士：欢迎，中士！想和我一起训练吗？
+熊战士：欢迎，队长！想和我一起训练吗？
 
 Bear Warrior:    Feel the wrath of the Iron Division! Hrrargh!!!
 熊战士：感受铁军的怒火！哈啊——！！！
 
 Captain Dura:    Earth's strength, Bonebreaker! At last, we're all here together, and we're thirsty for vengeance!
-队长杜拉：大地的力量，碎骨者！终于，我们所有人齐聚一堂，渴望复仇！
+首领杜拉：大地的力量，碎骨者！终于，我们所有人齐聚一堂，渴望复仇！
 
 Captain Dura:    We marched here like the wind when we heard about the survivors. We're longing for battle!
-队长杜拉：当我们得知幸存者的消息时，我们如风般疾行至此。我们渴望战斗！
+首领杜拉：当我们得知幸存者的消息时，我们如风般疾行至此。我们渴望战斗！
 
 Captain Dura:    Lancer Dendra remained back in Valc with those who haven't fully recovered from their wounds.
-队长杜拉：长枪兵丹德拉留在瓦尔克与那些尚未完全康复的同伴们在一起。
+首领杜拉：长枪兵丹德拉留在瓦尔克与那些尚未完全康复的同伴们在一起。
 
 Captain Dura:    This is our final chance to put an end to the demon menace. May the Gods guide our wrath!
-队长杜拉：这是终结恶魔威胁的最后机会。愿诸神指引我们的怒火！
+首领杜拉：这是终结恶魔威胁的最后机会。愿诸神指引我们的怒火！
 
 Captain Dura:    A sapper team was supposed to disable the flame towers at the gate, but they got ambushed.
-队长杜拉：原本应由爆破小队摧毁城门的火焰塔楼，但他们遭遇伏击了。
+首领杜拉：原本应由爆破小队摧毁城门的火焰塔楼，但他们遭遇伏击了。
 
 Captain Dura:    If we can't bring the towers down we'll have to go through an inferno to get past their walls.
-队长杜拉：如果我们无法摧毁这些塔楼，就必须穿越烈焰地狱才能突破他们的城墙。
+首领杜拉：如果我们无法摧毁这些塔楼，就必须穿越烈焰地狱才能突破他们的城墙。
 
 Captain Dura:    You have your orders, sergeant. Now excuse me, I have to prepare my squads for the assault.
-队长杜拉：你的命令已下达，中士。现在请原谅我，我得准备突击队迎战。
+首领杜拉：你的命令已下达，队长。现在请原谅我，我得准备突击队迎战。
 
 Captain Dura:    We shall not falter! For the Iron Division!
-队长杜拉：我们绝不会退缩！为了铁军！
+首领杜拉：我们绝不会退缩！为了铁军！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*
 
 Captain Dura:    For Valc! For our fallen sisters!
-队长杜拉：为了瓦尔克！为了我们的逝去姐妹！
+首领杜拉：为了瓦尔克！为了我们的逝去姐妹！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*
 
 Captain Dura:    Our axes shall be drenched in demon blood!
-队长杜拉：我们的战斧将浸透恶魔之血！
+首领杜拉：我们的战斧将浸透恶魔之血！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*
 
 Captain Dura:    Fight with pride! Fight with honour!
-队长杜拉：以骄傲战斗！以荣誉战斗！
+首领杜拉：以骄傲战斗！以荣誉战斗！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*
 
 Captain Dura:    We embrace death! The Earth will shelter our bones!
-队长杜拉：我们拥抱死亡！大地将庇护我们的骸骨！
+首领杜拉：我们拥抱死亡！大地将庇护我们的骸骨！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*
 
 Captain Dura:    We shall crush them under our boots! Demons will fear our name for centuries to come!
-队长杜拉：我们必将踏碎他们！恶魔将对我们这个名字心生畏惧数百年之久！
+首领杜拉：我们必将踏碎他们！恶魔将对我们这个名字心生畏惧数百年之久！
 
 Orc Warriors:    *Cheers*
 兽人战士们：*欢呼*

@@ -65,10 +65,10 @@ one, however, opens both cells at once for now.      Do not operate it without s
 然而中间的那个开关目前会同时打开两个牢房。不要在无人看守囚犯的情况下操作它。
 
 prisoners. If I have to chase any loose captive because of this, you're in for the whip. - Sgt. Barna
-如果因此让我追捕任何逃跑的俘虏，你将面临鞭刑。- 巴纳中士
+如果因此让我追捕任何逃跑的俘虏，你将面临鞭刑。- 巴纳队长
 
 (This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
-（这本日记似乎属于巴纳中士。最后几条记录引起了你的注意）
+（这本日记似乎属于巴纳队长。最后几条记录引起了你的注意）
 
 Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
 第232天：自从我们的部队离开瓦尔克已经过去一个月了。我没能加入行动，但既然我在这里负责……
@@ -101,7 +101,7 @@ he's missing half his tongue.     He doesn't seem to feel much pain, so we're no
 几乎听不懂他在说什么……他似乎感觉不到太多疼痛，所以我们不确定该如何审问他……
 
 (This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
-（这本日记似乎属于巴纳中士。最后几条记录引起了你的注意）
+（这本日记似乎属于巴纳队长。最后几条记录引起了你的注意）
 
 Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
 第232天：自从我们的部队离开瓦尔克已经过去一个月了。我没能加入行动，但既然我在这里负责……
@@ -221,7 +221,7 @@ by more veins as we dig deeper.  We await your arrival in few days.  Simply show
 我们会发现更多矿脉。几天后请前来，只需向守卫展示此信件，
 
 letter to the gate guard,  along with your signet ring.    -    Captain Dura of the I.D.
-并出示你的徽章戒指即可。- 铁军队长杜拉
+并出示你的徽章戒指即可。- 铁军首领杜拉
 
 To VALC'S PARK, LIBRARY & GROVE
 前往瓦尔克公园、图书馆与林地

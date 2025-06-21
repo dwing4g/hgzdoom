@@ -35,7 +35,7 @@ The primarch's avatar remains silent.
 原教的化身保持沉默。
 
 Scorlag:    ...uegh!!! Why torment me with such a tiny sip?!... there is an Everflowing Chalice in the upper crypts... use it...
-斯科拉格：……呜啊！！！为何用如此微小的一口折磨我？……上层墓穴里有一只永流圣杯……使用它……
+斯科拉格：……呜啊！！！为何用如此微小的一口折磨我？！……上层墓穴里有一只永流圣杯……使用它……
 
 Scorlag:    ...yes!!! Give Scorlag more mana!...
 斯科拉格：……是的！！！赐予斯科拉格更多魔力吧……
@@ -797,10 +797,10 @@ far beyond the savage elements, healing and soothing our existence far more reli
 已远超原始元素，比任何神明更能可靠地治愈并抚慰我们的存
 
 time nature has punished us, we pushed it back to its place with our own powers, instead of praying it away.  But,
-在。每当自然惩罚我们时，我们便以自身力量将其驱逐回原位
+在。每当自然惩罚我们时，我们便以自身力量将其驱逐回原位，
 
 as we know, every garden has its weeds.  In the last years, more and more rumors have been mentioning the name
-，而非祈求消灾。但正如我们所知，每座花园都有杂草。近年
+而非祈求消灾。但正如我们所知，每座花园都有杂草。近年
 
 of a heretical Cult growing in the shadow of the Self.   Drunkards fill the taverns with talk of humans being lured
 来，越来越多传闻提及在自我阴影下滋生的异端邪教。醉汉们
@@ -812,10 +812,10 @@ an easy way out for the lowlifes and miscreants who aren't capable of honing the
 凿证据，我们只能认为这邪教不过是那些无法锤炼自我的低人
 
 superior life.  Besides, demons have long been conquered and driven below the earth, where they fester and fight
-和恶徒逃避现实的捷径。况且，恶魔早已被征服并驱逐至地底
+和恶徒逃避现实的捷径。况且，恶魔早已被征服并驱逐至地底，
 
 with the pagans, the dwarves and all the other stubborn rats who couldn't withstand the might of our light.  [...]
-，在那里与异教徒、矮人及其他顽固的老鼠们争斗不休……
+在那里与异教徒、矮人及其他顽固的老鼠们争斗不休。[...]
 
 Abedun:    Enjoying the read? My kin saw the worshipers of Air as foolish pagans... but I now believe otherwise.
 阿贝顿：享受阅读吗？我的族人曾将天空之神的信徒视为愚昧的异教徒……但如今我确信并非如此。

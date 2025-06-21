@@ -1,5 +1,5 @@
 Bear Warrior:    For the Iron Division, sarge! Kick the Baron's ass!
-熊战士：为铁军，上尉！踢碎男爵的狗头！
+熊战士：为铁军，队长！踢碎男爵的狗头！
 
 Lancer:    Slay the Baron and avenge our fallen, Zan!
 长枪兵：斩杀男爵，为阵亡者复仇，瓒！
@@ -11,7 +11,7 @@ Reaver:    For Valc! Make the Baron pay, Zan!
 掠夺者：为了瓦尔克！让男爵付出代价，瓒！
 
 Fixer:    You got this, sarge! Kick the Baron's ass!
-修复者：上尉你行的！踢碎男爵的狗头！
+修复者：队长你行的！踢碎男爵的狗头！
 
 Earth Mother:    Return to us victorious, Zan!
 大地之母：以胜利归来，瓒！
@@ -449,10 +449,10 @@ Gaun will most oftenly reflect the halfblood's deepest pride in a request for a 
 与加恩会面时，半血统者往往通过请求展示奢华物品来体现其最深层的傲慢。
 
 Adur is the Primarch of Hearts and Emotions. It is no secret that Demons are unparalleled seducers, always knowing
-阿杜尔是掌管心与情感的心之原教。众所周知，恶魔是无与伦比的诱惑者
+阿杜尔是掌管心与情感的心之原教。众所周知，恶魔是无与伦比的诱惑者，
 
 which strings to pull.    Adur will often ask those who wish to bear her taint to prove that they can employ the same
-，总能精准地牵动人心。那些渴望承受她污秽之人需证明自己具备相同的
+总能精准地牵动人心。那些渴望承受她污秽之人需证明自己具备相同的
 
 persuasive abilities.   The halfblood should better be prepared to find a Demon that's willing to teach this art form.
 说服力。混血人最好做好准备，寻找一位愿意教授这门技艺的恶魔。
@@ -653,19 +653,19 @@ Minotaur Lord Murguth:    You can't reach the Baron without the five primarch ta
 牛头人领主穆尔古斯：你若没有五位原教主的污染，便无法抵达男爵身边。这本书会告诉你更多……
 
 Captain Dura:    I was wondering when you'd show up... wait, what? Our lookouts got into trouble?
-队长杜拉：我正纳闷你何时才会出现……等等，什么？我们的哨兵陷入麻烦了？
+首领杜拉：我正纳闷你何时才会出现……等等，什么？我们的哨兵陷入麻烦了？
 
 Damn it! Alright, I'll send a squad up there to clean up the mess. As for you, come in, Grund wants to see you.
 该死！好吧，我会派一队人上去清理残局。至于你，进来吧，格伦德想见你。
 
 Captain Dura:    You're late, sergeant... and what the fuck happened to the lookout squad? Ugh, Earth's mercy...
-队长杜拉：你来晚了，中士……那哨兵小队到底发生了什么？他妈的，地球的怜悯啊……
+首领杜拉：你来晚了，队长……那哨兵小队他喵的到底发生了什么？啊，大地的怜悯啊……
 
 Move your ass inside! Grund wants to have a word with you...
 快点进去！格伦德想和你谈谈……
 
 Captain Dura:    I was wondering when you'd show up... come inside, Grund wants to have a word with you...
-队长杜拉：我正纳闷你何时才会出现……进来吧，格伦德想和你谈谈……
+首领杜拉：我正纳闷你何时才会出现……进来吧，格伦德想和你谈谈……
 
 Warlord Grund:    So, you're alive. Maybe next time you decide to leave us behind, you won't be as lucky.
 男巫格伦德：所以，你还活着。也许下次你决定甩下我们时，就不会这么幸运了。
@@ -677,7 +677,7 @@ We're in the belly of the beast right now. A savage, fiery and unforgiving beast
 我们现在正处在敌人的心脏地带。一个野蛮、炽热且无情的巨兽。我们几乎撑不住了。
 
 We could've brought more supplies or troops, but we had one less boat thanks to you. As for Tiati's fuck up...
-本可以多带些补给或部队，但因为你的缘故少了一艘船。至于提娅媞的失误……
+本可以多带些补给或部队，但因为你的缘故少了一艘船。至于提娅媞搞砸的……
 
 Grrh... so. Murguth has told you about the demon primarchs. I personally don't put any trust in demon tales...
 呃……所以穆尔古斯已经告诉你关于恶魔原教的事了。我个人对恶魔的故事完全不信任……
@@ -692,7 +692,7 @@ I'm not relying on the Queen of Wrath. You will be the one leading the charge. A
 我不依赖愤怒女王。你会是冲锋的主力。明白了吗？很好。退下吧。
 
 Captain Dura:    You're late to the bloodbath! What the fuck happened to our lookouts? What a fucking mess...
-队长杜拉：你来晚了！血战已经开始！那哨兵小队到底怎么了？这他妈一团糟……
+首领杜拉：你来晚了！血战已经开始！那哨兵小队到底怎么了？这他喵的一团糟……
 
 Press Use to skip briefing
 按使用键跳过简报
@@ -713,7 +713,7 @@ Reaver:    Damn it, Zan, don't die on me!!!
 掠夺者：该死，瓒，别在我面前死了！！！
 
 Warlord Grund:    Time's up early, sergeant. The demons are making a major move. We must act now.
-男巫格伦德：中士，时间不等人了。恶魔们正在发动大规模进攻。我们必须立刻行动。
+男巫格伦德：时间不等人，队长。恶魔们正在发动大规模进攻。我们必须立刻行动。
 
 You're moving in! I hope appeasing the primarchs was worth stealing my elixir and poisoning my warg...
 你们上来了！我希望安抚原教主值得偷走我的药剂并毒害我的狼灵……
@@ -728,7 +728,7 @@ Warlord Grund:    And fire blazing from the spires. Tiati's freaking out... they
 男巫格伦德：并且塔尖燃起烈焰。提娅媞惊慌失措……他们正在准备什么。
 
 Enough wasting time! This is it, sergeant. The time to fulfil your destiny! The fight of your life!
-别浪费时间了！中士，这就是你实现命运的时刻！你一生中最重要的一战！
+别浪费时间了！队长，这就是你实现命运的时刻！你一生中最重要的一战！
 
 Lead our troops and push the demons back! Then cross through that portal and finish the Baron off!
 带领我们的军团击退恶魔！然后穿过那个传送门，彻底解决男爵！
@@ -896,7 +896,7 @@ Bear Warrior:    Hey, you can't just confiscate our gold like that!
 熊战士：嘿，你不能就这样没收我们的金币！
 
 Reaver:    Yes she can, dumbass! Errm... are we all good, sarge? No need for Grund to know about this, right?
-掠夺者：是啊，她可以，笨蛋！呃……我们大家都没事吧，上尉？不需要让格伦德知道这件事，对吧？
+掠夺者：是啊，她可以，笨蛋！呃……我们大家都没事吧，队长？不需要让格伦德知道这件事，对吧？
 
 You don't have any proper food to mix the substance with.
 你没有合适的食材来混合这种物质。
@@ -1157,7 +1157,7 @@ Bear Warrior:    Wretched cultists! They're coming out of the white ashes, I'm t
 熊战士：可恶的邪教徒！他们从白灰中爬出来，我告诉你！
 
 Bear Warrior:    Enjoying Hell, sarge? This place is a plague on the bottom of the Underworld.
-熊战士：上尉，你享受地狱吗？这里简直是地下世界的瘟疫。
+熊战士：队长，你享受地狱吗？这里简直是地下世界的瘟疫。
 
 Bear Warrior:    Keep an eye on those piles of white ash! Don't breathe in too hard around 'em.
 熊战士：留意那些白灰堆！别太靠近它们呼吸。
@@ -1172,34 +1172,34 @@ Bear Warrior:    I can bear the fire and brimstone... but those white ashes... I
 熊战士：我能忍受火焰和硫磺……但那些白灰……我发誓它们是被诅咒的！
 
 Captain Dura:    Why haven't you crossed that portal yet? You can do this, warrior. Don't hesitate.
-队长杜拉：你还没穿过那个传送门？战士，你能做到的。别犹豫。
+首领杜拉：你还没穿过那个传送门？战士，你能做到的。别犹豫。
 
 Captain Dura:    Our scouts have failed us... this is what happens when we fail to obey orders.
-队长杜拉：我们的侦察兵失败了……这就是我们不服从命令的后果。
+首领杜拉：我们的侦察兵失败了……这就是我们不服从命令的后果。
 
 Captain Dura:    You're lucky to be the only reliable halfblood around. You really pissed Grund off.
-队长杜拉：你幸运地成为唯一可靠的混血人。你真的把格伦德惹恼了。
+首领杜拉：你幸运地成为唯一可靠的混血人。你真的把格伦德惹恼了。
 
 Captain Dura:    I see more and more of us are giving in to bloodlust and overstepping our orders.
-队长杜拉：我看到越来越多的人屈服于血腥欲望，逾越了命令的界限。
+首领杜拉：我看到越来越多的人屈服于血腥欲望，逾越了命令的界限。
 
 Captain Dura:    We are the strongest warriors of the Underworld. That's might, wit and discipline.
-队长杜拉：我们是地下世界最强壮的战士。那是力量、智慧和纪律的结合。
+首领杜拉：我们是地下世界最强壮的战士。那是力量、智慧和纪律的结合。
 
 Captain Dura:    I wonder where Eraanthe is now. I doubt she'd be willing to team up with you, though.
-队长杜拉：我想知道埃拉安瑟现在在哪里。我不认为她愿意与你并肩作战。
+首领杜拉：我想知道埃拉安瑟现在在哪里。我不认为她愿意与你并肩作战。
 
 Captain Dura:    I know it was the Queen of Wrath who piloted the boat, but you should've waited for us.
-队长杜拉：我知道是愤怒女王驾驶的那艘船，但你本该等我们。
+首领杜拉：我知道是愤怒女王驾驶的那艘船，但你本该等我们。
 
 Captain Dura:    The Gods must favor you and Tiati if they save you from certain death even down here.
-队长杜拉：诸神一定偏爱你和提娅媞……连在这里都能救你一命。
+首领杜拉：诸神一定偏爱你和提娅媞……连在这里都能救你一命。
 
 Captain Dura:    We crammed everyone on a trading ship and sailed off here. We're few, but we're angry.
-队长杜拉：我们将所有人塞进一艘贸易船上，驶向这里。我们人数虽少，但怒火滔天。
+首领杜拉：我们将所有人塞进一艘贸易船上，驶向这里。我们人数虽少，但怒火滔天。
 
 Captain Dura:    The future of our world is decided here. I expect you to be at your absolute best now.
-队长杜拉：我们世界的未来就决定于此。我期待你能发挥出绝对的实力。
+首领杜拉：我们世界的未来就决定于此。我期待你能发挥出绝对的实力。
 
 Bear Warrior:    Thank you, Halfblood. Here... take these boltmags, I won't be needing them anymore.
 熊战士：谢谢，混血人。来……拿这些弹夹，我不再需要它们了。
@@ -1256,7 +1256,7 @@ Witch:    Our ship only had room for a few dozen troops. Grund picked us because
 女巫：我们的船只能容纳几十名士兵。格伦德选择我们是因为我们是军团中最优秀的。
 
 Warlord Grund:    Stop wasting time, sergeant. We won't be able to hold this place much longer.
-男巫格伦德：中士，别浪费时间了！我们恐怕撑不了多久了。
+男巫格伦德：别浪费时间，队长！我们恐怕撑不了多久了。
 
 Warlord Grund:    Why are you still here?! Get your ass in there and get the job done, warrior!
 男巫格伦德：你为什么还在这里？！快进去完成任务，战士！
@@ -1265,7 +1265,7 @@ Warlord Grund:    You better be prepared. The Baron is bound to have many tricks
 男巫格伦德：你最好做好准备。男爵肯定有许多诡计藏在袖子里。
 
 Warlord Grund:    Poison won't work against demons, sergeant. Get whatever gear you can and move it.
-男巫格伦德：毒药对恶魔无效，中士。拿走你能拿到的装备，立刻行动！
+男巫格伦德：毒药对恶魔无效，队长。拿走你能拿到的装备，立刻行动！
 
 Warlord Grund:    This is the fight of your life, give it everything you've got!
 男巫格伦德：这是你一生中最重要的一战！全力以赴吧！
@@ -1298,7 +1298,7 @@ Warlord Grund:    The primarchs are playing with you! They couldn't have known a
 男巫格伦德：原教主们在戏弄你！他们不可能知道生命药剂的事……
 
 Warlord Grund:    Do not insist, sergeant. I made myself clear. There are some lines that we don't cross.
-男巫格伦德：别再坚持了，中士。我已经说得很清楚了。有些界限我们不能跨越。
+男巫格伦德：别再坚持了，队长。我已经说得很清楚了。有些界限我们不能跨越。
 
 Warlord Grund:    The Elixir of Life is a sacred part of our clan. I will not let it fall into demon hands.
 男巫格伦德：生命药剂是我们族中神圣的一部分。我绝不会让它落入恶魔之手。
@@ -1568,7 +1568,7 @@ Lady Ingrim:    Look who made it! Help yourself to what you can. Our champion ne
 因格利姆女士：看谁来了！随意取用你需要的物资吧。我们的冠军现在必须保持最佳状态。
 
 Lady Ingrim:    [...] pungent yellow root?... are you sure?
-因格利姆女士：……浓烈的黄色根茎？……你确定吗？
+因格利姆女士：[...] 浓烈的黄色根茎？……你确定吗？
 
 Maid:    If it worked for my mother, it should work for you...
 侍女：如果对我的母亲有效，对你应该也适用……
@@ -1586,16 +1586,16 @@ Maid:    Are you really going into the Baron's castle all alone? What can I say,
 侍女：你真的要独自进入男爵的城堡吗？唉，愿诸神保佑你！
 
 Dwarf Militia:    W...what do you want... hic! Demon! Have you... come to take me? Hic! Hahahah!
-矮人民兵：呃……你想干什么…… hic！恶魔！你……来抓我吗？ hic！哈哈哈！
+矮人民兵：你……你想干什么……嘿！恶魔！你……来抓我吗？嘿！哈哈哈！
 
 Dwarf Militia:    Go on... hic! Drag me away in chains. Hic! I'll pick their lock when I'm sober, hahaha! Hic.
-矮人民兵：去吧…… hic！把我用锁链拖走。 hic！等我清醒了就撬开他们的锁，哈哈哈！ hic。
+矮人民兵：去吧……嘿！把我用锁链拖走。嘿！等我清醒了就撬开他们的锁，哈哈哈！嘿。
 
 Dwarf Militia:    Hic!... are you lost? If you can't find it in a cupboard, look it up in a book! Hic!
-矮人民兵：hic！……你迷路了吗？如果找不到，就查书啊！ hic！
+矮人民兵：嘿！……你迷路了吗？如果找不到，就查书啊！嘿！
 
 Dwarf Militia:    ...aye! Fate may lead you astray, but you own the legs that walk her path... hic!
-矮人民兵：……对！命运或许会误导你，但你拥有踏出这条路的双腿…… hic！
+矮人民兵：……对！命运或许会误导你，但你拥有踏出这条路的双腿……嘿！
 
 High Priest Jaromir:    How was the baptism in the sea of flames? Fire Himself has forged you into a steel titan!
 高阶祭司贾罗米尔：火焰之海中的洗礼如何？火神亲自将你锻造成钢铁巨人！
@@ -1670,10 +1670,10 @@ Workshop Boss:    Going up against the Baron? Remember, the mind freaks can't do
 工坊老板：要对抗男爵？记住，那些精神错乱者根本无法对抗我们的守卫炮。
 
 Workshop Boss:    What's up, big girl? Aren't you supposed to be searching for the primarch shrines or something?
-工坊老板：嘿，大姑娘？你不是该去寻找原教神殿吗？
+工坊老板：嘿，大妹子？你不是该去寻找原教神殿吗？
 
 Workshop Boss:    This place sucks. I'd rather be sweating my ass over the Great Forge back home, thank you.
-工坊老板：这地方真他妈糟糕。我宁愿在家大锻炉上流汗，谢谢。
+工坊老板：这地方真糟糕。我宁愿在家大锻炉上流汗，谢谢。
 
 Workshop Boss:    We couldn't carry our siege weapons here. We might have to... relieve the demons of their own.
 工坊老板：我们没法带重型武器过来。也许得……从恶魔手里夺回它们的装备。
@@ -1688,7 +1688,7 @@ Workshop Boss:    It's hard to stay focused in here. I gotta hurry up and fix th
 工坊老板：这里很难保持专注。我得赶紧修好这守卫，不然侦察队回来就麻烦了。
 
 Workshop Boss:    Breaking this Paingun down was easy... now, to put it back together... ugh, I can't stay focused.
-工作坊老板：拆解这痛击枪很容易……现在要重新组装……呃，我实在没法集中精神了。
+工坊老板：拆解这痛击枪很容易……现在要重新组装……呃，我实在没法集中精神了。
 
 Hectus:    You found an Iron-Bound Tome? Show me!...
 赫克图斯：你找到了铁封典籍？给我看看！……
@@ -1769,7 +1769,7 @@ E.M. Bendi:    Did you know that demons can go without eating for ages? As long 
 E.M.本迪：你知道吗？恶魔可以长时间不进食，只要它们能汲取人类的苦难……
 
 Fixer:    Not now, sarge! We've got demons to kill!
-修复者：上尉！现在不是时候！我们还有恶魔要消灭！
+修复者：队长！现在不是时候！我们还有恶魔要消灭！
 
 Fixer:    I wonder who built these portals. They don't look demon-made, and cultists don't seem to use them.
 修复者：我很好奇是谁建造了这些传送门。它们看起来不像恶魔所为，邪教徒似乎也不使用它们。
@@ -2009,7 +2009,7 @@ Eraanthe:    I'm still bargaining with Gaun, by the way. Hurry up and find that 
 埃拉安瑟：顺便说一句，我还在和加恩讨价还价。快点找到那把剑，别让交易黄了。
 
 Eraanthe:    A salt statue?! Really? That's it? Oh, he's given you an easy task just to spite me, I bet!
-埃拉安瑟：盐雕？真的？这就是你要找的东西？哦，他一定是故意给你安排个轻松任务来气我！
+埃拉安瑟：盐雕？！真的？这就是你要找的东西？哦，他一定是故意给你安排个轻松任务来气我！
 
 Eraanthe:    What? Adur asked you to rut a demon and you came to me?... Hah! I'm not that desperate... yet.
 埃拉安瑟：什么？阿杜尔让你和恶魔交配，你却来找我？……哈！我还没绝望到那个地步……至少现在还不是。
@@ -2072,11 +2072,11 @@ Fixer:    Urgh! I don't think I'm getting any closer to that citadel, Zan. You'r
 修复者：呃！我觉得我离那座城堡越来越远了，瓒。现在你只能独自面对了！
 
 Reaver:    This is as far as we can go, sergeant. Once you pass that portal, you're on your own.
-掠夺者：我们只能走到这里了，中士。一旦你穿过那道传送门，就只能靠你自己了。
+掠夺者：我们只能走到这里了，队长。一旦你穿过那道传送门，就只能靠你自己了。
 
 Witch:    Ugh. I can feel my veins writhe! I won't go far past that portal and live, Bonebreaker.
 女巫：呃！我感觉血管在抽搐！我绝不会越过那道传送门苟活下来，碎骨者。
 
 Bear Warrior:    I hate staying back, but we can't get past the portal. It's up to you now, sarge.
-熊战士：我讨厌留在后面，但我们无法突破传送门。现在轮到你了，中士。
+熊战士：我讨厌留在后面，但我们无法突破传送门。现在轮到你了，队长。
 

@@ -83,7 +83,7 @@ Orc:    Zan! Over here!
 兽人：瓒！这边！
 
 Goblin:    Over here, sergeant!
-哥布林：这边，中士！
+哥布林：这边，队长！
 
 Orc:    Over here! By the windows!
 兽人：这边！窗边！
@@ -95,16 +95,16 @@ Orc:    Hey, Zan! Come over here!
 兽人：嘿，瓒！过来这边！
 
 Goblin:    Wait, sargeant! Need some help here!
-哥布林：等等，上尉！这里需要帮忙！
+哥布林：等等，队长！这里需要帮忙！
 
 Bear Warrior:    Am I glad to see you, sarge! The demons got us trapped in here, we need help.
-熊战士：见到你真是太好了，上尉！恶魔把我们困在这里了，我们需要帮助。
+熊战士：见到你真是太好了，队长！恶魔把我们困在这里了，我们需要帮助。
 
 Bear Warrior:    The horned bastards have sealed off every exit! There's no way we can get out of here.
 熊战士：那些长角的杂种封死了所有出口！我们根本逃不出去。
 
 Bear Warrior:    These bars are way too thick, I can't break them. Help us figure something out, sarge!
-熊战士：这些铁栏太厚了，我砸不碎。帮我们想办法，上尉！
+熊战士：这些铁栏太厚了，我砸不碎。帮我们想办法，队长！
 
 Bear Warrior:    All these ambushes... our squad got separated and torn apart one by one.
 熊战士：这么多伏击……我们的小队被分散了，一个接一个地被撕裂了。
@@ -161,7 +161,7 @@ on, I might as well inform the Lancer Council about our problems here. Be back i
 不如顺便向长枪兵议会报告我们在这里的问题。两天后回来。-杜拉
 
 Chieftain Zura, I have news. We managed to capture one of the worms that have been troubling us
-首领祖拉，我有消息了。我们成功捕捉到一只近期困扰我们的蠕虫。
+酋长祖拉，我有消息了。我们成功捕捉到一只近期困扰我们的蠕虫。
 
 lately.   You could send in one of your Witches now, we will do our best to aid her research. I hope
 你可以现在派一位女巫进来，我们会尽最大努力协助她的研究。
@@ -293,7 +293,7 @@ the rest of my gear.   I will pitch in with this nice ruby I've... acquired.   M
 （你展开一张潮湿的纸条。有人可能没注意到就把它丢掉了）
 
 Captain Dura's Log - Rot. 509 Day 238
-队长杜拉的日志 - 第509轮 第238天
+首领杜拉的日志 - 第509轮 第238天
 
 I really don't like these small quakes.    Earth forbid we wake up with more cave-ins.   And the
 我真的非常讨厌这些小规模地震。要是再发生塌方那就糟了……

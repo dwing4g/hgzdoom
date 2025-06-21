@@ -20,7 +20,7 @@ Lith:   *Gasps*
 利思：*惊呼*
 
 You see Chieftain Zura inside the tank. She doesn't seem to be conscious.
-你看到罐子里的首领祖拉了。她似乎失去了意识。
+你看到罐子里的酋长祖拉了。她似乎失去了意识。
 
 Cerberus:    *Whines*
 地狱三头犬：*呜咽着*
@@ -56,7 +56,7 @@ Valc Clinic Logbook
 瓦尔克诊所日志
 
 Rot. 509 Day 204; Bear Captain Dura: finger reattachment surgery, 120 gold pieces
-第509轮 第204日；熊队长杜拉：手指再植手术，120金币
+第509轮 第204日；熊首领杜拉：手指再植手术，120金币
 
 Rot. 509 Day 208; Tectus the Minotaur Pyromancer: horn regrowth, 350 gold pieces
 第509轮 第208日；牛头人火巫师泰克图斯：角再生治疗，350金币
@@ -65,7 +65,7 @@ Rot. 509 Day 228-245; Witch Cosena: aesthetic treatment, 2400 gold pieces, 1000 
 第509轮 第228-245日；女巫科森娜：美容护理，2400金币，1000声望值
 
 To: Witch Chieftain Adjunct Lith
-收件人：女巫首领助理利思
+收件人：女巫酋长助理利思
 
 From: Witch Doctor Adena
 寄件人：女巫医生阿德娜
@@ -92,10 +92,10 @@ commence the assault. Using our newly researched toxic gas, the forward units wi
 发起进攻。利用我们最新研究的毒气，先锋单位会攻击栅栏（同
 
 the Division advances) and hinder the defenders.   It is a known risk that the gas might spread within the outpost
-时军团推进），干扰守卫者。已知风险是毒气可能在哨站内扩散
+时军团推进），干扰守卫者。已知风险是毒气可能在哨站内扩散，
 
 but since the inhabitants have been confirmed to be possessed, 'civilian' casualties are more than acceptable.
-，但鉴于居民已被确认为被附身者，"平民"伤亡是可以接受的。
+但鉴于居民已被确认为被附身者，"平民"伤亡是可以接受的。
 
 The assault is expected to be over in few hours, with no losses on our side.     We do not expect the humans to be
 突袭预计将在数小时内结束，我方无伤亡。我们不认为人类能恢复战
@@ -113,7 +113,7 @@ COUNCIL ROOM
 议会厅
 
 CHIEFTAIN ADJUNCT'S OFFICE
-首领助理办公室
+酋长助理办公室
 
 VALC LABORATORIES - NO UNAUTHORISED PERSONNEL ALLOWED
 瓦尔克实验室 - 禁止未经授权的人员进入
@@ -122,7 +122,7 @@ EMERGENCY ONLY
 仅限急用
 
 (The diary appears to belong to Witch Chieftain Adjunct Lith. Many of the final pages seem to have been torn away...)
-（这本日记似乎属于女巫首领助理利思。许多最后几页似乎被撕去了……）
+（这本日记似乎属于女巫酋长助理利思。许多最后几页似乎被撕去了……）
 
 Day 188. No. No! NO! That wretch Zura has denied my project! Dangerous?! I would have expected anyone but HER to
 第188天。不！不！不！那个卑鄙的祖拉竟然否定了我的计划！危险？！我本以为除了她之
@@ -149,7 +149,7 @@ Day 190. Oh, the swine... she asked the Council to remain in Valc during the cam
 第190天。哦，那下贱的东西……她请求议会留在瓦尔克进行战役期间的行动。进一步推进她的武器研究……
 
 What a worthless lie! I can already feel her coming for my work... [...] The voice! The sweet cure... I passed out while
-多么毫无价值的谎言！我已能感受到她正向我的成果靠近……[...] 那声音！那甜蜜的治愈……我
+多么毫无价值的谎言！我已能感受到她正向我的成果靠近…… [...] 那声音！那甜蜜的治愈……我
 
 working in the midst of dark fumes.  Her words were soothing... an Elf.  A beautiful, pale Elf! I thought they had been
 在黑暗烟雾中工作时晕倒了。她的言语如此安抚……一个精灵。一位美丽苍白的精灵！我以为他
@@ -164,10 +164,10 @@ Day 196. It's been almost a week and Zura still hasn't approached me.  I have no
 第196天。已经快一周了，祖拉仍然没来找我。我对她的胡言乱语毫无兴趣！妮丝瑞尔会帮助我完
 
 help me fulfill my research.  Yes, she still talks to me in my dreams...  words so old and true.  And only I can help her
-成研究。是的，她仍在我的梦中与我说话……那些古老而真实的言语。只有我能帮助她击败恶魔
+成研究。是的，她仍在我的梦中与我说话……那些古老而真实的言语。只有我能帮助她击败恶魔，
 
 crush the Demons, all while my ignorant sisters litter the battlefield.    Yes, Nithriel is right.   Today, it all begins...
-，而我的愚昧姐妹们却在战场上制造混乱。是的，妮丝瑞尔说得对。今天，一切将开始……
+而我的愚昧姐妹们却在战场上制造混乱。是的，妮丝瑞尔说得对。今天，一切将开始……
 
 Day 197. They are beautiful! And Zura still hasn't noticed the missing Goblins... no, she was not there to see my dear
 第197天。它们太美了！祖拉仍然没注意到失踪的哥布林……不，她根本没看到我亲爱的
@@ -209,7 +209,7 @@ Potion of Stoneskin
 （利思日记中的一些条目散落在脏污的床垫上）
 
 Day 202: I can hear them marching from here! Cluck cluck cluck! How dare they disturb my quiet sewer!?... oh!
-第202天：我能听到它们从这里行军！咯咯咯！他们怎么敢打扰我的安静下水道？……哦！
+第202天：我能听到它们从这里行军！咯咯咯！他们怎么敢打扰我的安静下水道！？……哦！
 
 They are leaving Valc!   The mighty Iron Division and their dim witted allies headed for the meat grinder.  This
 它们正在离开瓦尔克！强大的铁军和他们的愚钝盟友正前往绞肉机。这意味
@@ -281,7 +281,7 @@ Lith has gone completely mad!   She was behind the missing staff members...  and
 利思彻底疯了！她策划了失踪的工作人员……还有这黑暗黏液……不知道她用什么方法打
 
 managed to make it grow and expand... for how long has she been doing this? Chieftain Zura is nowhere to be found
-理让它们生长蔓延……她究竟做了多久？首领祖拉无影无踪，（文字在此处突
+理让它们生长蔓延……她究竟做了多久？酋长祖拉无影无踪，（文字在此处突
 
 and (the text stops briefly). Humans! Warping in everywhere, we've been betrayed, we are falling back to Icepeak!
 然中断）。人类！到处都是扭曲的身影，我们被背叛了，正撤退到冰峰！
@@ -296,10 +296,10 @@ my first generation of the successful experiment. My beautiful Golems... humans,
 成功实验体一同运走。我美丽的石像鬼……人类、兽人，皆无差别。完美了。
 
 Yes, I have made them all perfect, all beautiful! And right now, they are on their way to put an end to the scum
-是的，我已经让它们全部完美、美丽！此刻，它们正前往地狱的渣滓中终结一切
+是的，我已经让它们全部完美、美丽！此刻，它们正前往地狱的渣滓中终结一切！
 
 of Hell!    And after my foolish sisters retreat from the demons, I shall embrace them!    They will be perfect too!
-！在愚蠢的姐妹们从恶魔手中撤退后，我将拥抱她们！她们也会变得完美！
+在愚蠢的姐妹们从恶魔手中撤退后，我将拥抱她们！她们也会变得完美！
 
 Day 241: It cannot be!   My children!   Stupid, stupid, stupid!   She jumped from a ledge to her own death!   This is
 第241天：这不可能！我的孩子们！愚蠢、愚蠢、愚蠢！她从悬崖跳下自杀了！这就是
@@ -308,10 +308,10 @@ how they reward me for dulling their sense of pain!   Carelessness!   Do they be
 他们对我钝化痛感的回报？粗心大意！难道他们以为自己能飞翔了？！傻瓜！！！
 
 Day 242: They are angry. No matter how hard I try, they fail to respect their mother. Traces of their precursor
-第242天：它们很愤怒。无论我如何努力，都无法让它们尊重母亲。残留着前身的自我痕迹。哦
+第242天：它们很愤怒。无论我如何努力，都无法让它们尊重母亲。残留着前身的自我痕迹。哦，
 
 self.  Oh, how they struggle!  Silly dolls, you have long transcended individuality.  You are part of the web now.
-，它们挣扎得多可怜啊！愚蠢的玩偶，你们早已超越个体性。现在你们是网络的一部分了。
+它们挣扎得多可怜啊！愚蠢的玩偶，你们早已超越个体性。现在你们是网络的一部分了。
 
 (A blood-soiled diary page rests on the floor. The raw, red letters look freshly written)
 （一张染血的日记页躺在地板上。鲜红的字迹看起来刚写不久）

@@ -50,7 +50,7 @@ Reaver:    I swear I heard voices coming from one of the machines. What kind of 
 掠夺者：我发誓听到其中一台机器里传来声音。它们内部运行的是什么力量？
 
 Fixer:    Aaah! A demon!!! ... oh.... Zan, it's you. You startled me!
-修复者：啊！恶魔！！……哦……瓒，是你。你吓到我了！
+修复者：啊！恶魔！！！……哦……瓒，是你。你吓到我了！
 
 Fixer:    I'm supposed to document the way these machines operate... but I'm too nervous to stay focused!
 修复者：我本该记录这些机器的运作方式……但我太紧张，无法集中注意力！
@@ -74,7 +74,7 @@ You'll need a proper tool to mine this ore vein.
 你需要一把合适的工具才能开采这条矿脉。
 
 Lord Efri:    YOU SLIME!!! I WILL BRING YOUR HEAD TO THE BLUE BARON MYSELF!
-领主埃弗里：你这个污泥！！我亲自将你的头颅带到幽蓝男爵面前！
+领主埃弗里：你这个污泥！！！我亲自将你的头颅带到幽蓝男爵面前！
 
 You have nothing to offer to this shrine.
 你无法向这座神殿献上任何东西。
@@ -287,10 +287,10 @@ POWER SURGE WARNING: DO NOT ACTIVATE WHILE THE OTHER 3 PILLARS ARE IN FUNCTION
 能量激增警告：在其他三个柱子正常运作时切勿激活
 
 Though the power pillars can produce enough energy for the entire factory, the new machines have been straining
-尽管能量柱能为整座工厂提供充足能源，但新机器正让分配系统不堪重负
+尽管能量柱能为整座工厂提供充足能源，但新机器正让分配系统不堪重负，
 
 the distribution, like bloated ticks feeding upon a slumbering bull.       Make sure to turn off any idle machines and
-，如同臃肿的蜱虫啃食着沉睡的公牛。请务必关闭任何闲置的机器并将能
+如同臃肿的蜱虫啃食着沉睡的公牛。请务必关闭任何闲置的机器并将能
 
 redirect the power to the central pool - the fiery gauges will show us precisely how much energy there is to spare.
 量引导至中央池——火红的仪表会精确显示我们还能节省多少能量。

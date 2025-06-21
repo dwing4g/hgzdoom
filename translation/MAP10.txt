@@ -1,5 +1,5 @@
 Bear Warrior:    Sarge, you're alive! Thought you were done for in that crashed elevator.
-熊战士：上尉，你活下来了！我以为你在那台坠毁的升降梯里挂了。
+熊战士：队长，你活下来了！我以为你在那台坠毁的升降梯里挂了。
 
 Reaver:    Good to have you back. We hadn't made it too far before we got pinned down by Forge Elementals.
 掠夺者：欢迎回来。我们还没走多远就遭到了锻造元素的围堵。
@@ -155,7 +155,7 @@ Lith had already met her swift demise. She was prepared for cremation and stripp
 利思早已迎来了她迅速的死亡。她已准备好火化，并被剥夺了所有荣誉。
 
 Chieftain Zura was recovered from Lith's tank, and urgently put under intensive treatment.
-首领祖拉从利思的水箱中被救出，并紧急接受强化治疗。
+酋长祖拉从利思的水箱中被救出，并紧急接受强化治疗。
 
 Cover art by Fragua Studio (Dario Martinez, Pau Barz)
 封面插画由Fragua Studio（Dario Martinez, Pau Barz）创作
@@ -230,7 +230,7 @@ Gutawer, Kodi, Brohnesorge, Enjay, ZZYZX, Lord Iheanacho
 Gutawer, Kodi, Brohnesorge, Enjay, ZZYZX, Lord Iheanacho
 
 Captain Dura gathered a handful of warriors and headed to the Forge.
-队长杜拉召集了一群战士前往锻造厂。
+首领杜拉召集了一群战士前往锻造厂。
 
 They readied to hunt down rogue Forge Elementals and re-establish a connection with the Minotaur caves below.
 他们准备猎杀逃窜的锻造元素，并重新与下方的牛头人洞穴建立联系。
@@ -290,7 +290,7 @@ Reaver:    Over there! A Lancer!
 掠夺者：那边！一个长枪兵！
 
 Bear Warrior:    Oh, fuck!
-熊战士：哦，见鬼！
+熊战士：哦，卧槽！
 
 Reaver:    Have you seen the size of that thing?
 掠夺者：你看到那个东西的体型了吗？
@@ -335,7 +335,7 @@ Bear Warrior:    A demon!!!
 熊战士：一个恶魔！！！
 
 Bear Warrior:    Look at this thing... What the fuck were they trying to conjure here?
-熊战士：看这个东西……他们在这里到底想召唤什么？
+熊战士：看这个东西……他们他喵的在这里到底想召唤什么？
 
 Reaver:    Guess we'll soon find out.
 掠夺者：猜我们很快就会知道了。
@@ -353,7 +353,7 @@ Gotta find a way to open it... I can also hold here and attack them when it goes
 得想办法打开它……如果你想的话，我可以在这里守着，等闸门升起时攻击他们。
 
 Bear Warrior:    Not a bad idea, I'll stay here too if you want, sarge.
-熊战士：不坏的主意，如果你想的话，我也愿意留下，上尉。
+熊战士：不坏的主意，如果你想的话，我也愿意留下，队长。
 
 Bear Warrior:    Damn it, they've locked us out with that shutter. There should be a way to open it...
 熊战士：该死，他们用这个闸门把我们锁在外面了。应该有办法打开它……
@@ -371,7 +371,7 @@ Bear Warrior:    The pump is right there, turn it on and get me out of here!
 熊战士：泵就在那儿，把它打开把我救出去！
 
 Lancer:    A timely arrival, sergeant. I could use your help.
-长枪兵：中士，及时赶到。我正需要你的帮助。
+长枪兵：及时赶到，队长。我正需要你的帮助。
 
 Lancer:    I heard Nithriel and a demon passing by a while ago. He sounded awfully... large.
 长枪兵：我刚听到妮丝瑞尔和一个恶魔不久前提着箱子经过。那家伙听起来……格外庞大。
@@ -431,7 +431,7 @@ Bear Warrior:    Hail, sisters!
 熊战士：致敬，姐妹们！
 
 Reaver:    Am I glad to see you, sergeant! We could really use your help!
-掠夺者：我真高兴见到你，中士！我们真的需要你的帮助！
+掠夺者：我真高兴见到你，队长！我们真的需要你的帮助！
 
 Reaver:    Die y- ...Zan?! I can't believe it's you!
 掠夺者：死吧……等等，瓒？！我简直不敢相信是你！
@@ -452,7 +452,7 @@ Bear Warrior:    Hey, stop that! We need these bowls.
 熊战士：喂，别动！我们需要这些碗。
 
 Witch:    The fuck are you doing? Knock it off!
-女巫：你在干什么？停下！
+女巫：你他喵的在干什么？停下！
 
 Earth Mother:    What are you doing, Zan?! I really need the mana...
 大地之母：瓒，你在干什么？！我真的很需要魔力……
@@ -461,37 +461,37 @@ Wounded Shieldguard:    Aye, aye, what good is a bottle if it's empty?
 受伤的盾卫兵：是是是，空瓶子有什么用？
 
 Captain Dura:    Well, well, well, look who made it...
-队长杜拉：哎呀，哎呀，哎呀，看看谁活下来了……
+首领杜拉：哎呀，哎呀，哎呀，看看谁活下来了……
 
 Captain Dura:    Dendra wants to talk to you, she's in the patio behind us.
-队长杜拉：丹德拉想和你说话，她在我们身后的露台。
+首领杜拉：丹德拉想和你说话，她在我们身后的露台。
 
 Captain Dura:    I'd rather have my Crushbow at hand if you don't mind. We have other supplies to spare if you need 'em.
-队长杜拉：如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
+首领杜拉：如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
 
 Lancer Dendra:    The crystal key, Zan. Don't forget to take it before you leave.
 长枪兵丹德拉：水晶钥匙，瓒。离开前别忘了带走它。
 
 Captain Dura:    Good hunting, warrior.
-队长杜拉：祝你狩猎顺利，战士。
+首领杜拉：祝你狩猎顺利，战士。
 
 Captain Dura:    So, Tiati saved your ass, eh? She's not here if you wanna thank her, Dendra sent her on recon duty.
-队长杜拉：所以，提娅媞救了你的命，对吧？如果你想感谢她，她现在不在这里——丹德拉派她去执行侦察任务了。
+首领杜拉：所以，提娅媞救了你的命，对吧？如果你想感谢她，她现在不在这里——丹德拉派她去执行侦察任务了。
 
 Captain Dura:    I was at the Witch Clinic just over a week ago. Everything looked so... normal back then.
-队长杜拉：我就在一周前的女巫诊所。那时候一切都看起来那么……正常。
+首领杜拉：我就在一周前的女巫诊所。那时候一切都看起来那么……正常。
 
 Captain Dura:    That bitch Lith was behind all this mess! I still can't believe what she did. She's ruined us...
-队长杜拉：那个婊子利思就是这一切混乱的幕后黑手！我至今都无法相信她做了什么。她毁了我们……
+首领杜拉：那个婊子利思就是这一切混乱的幕后黑手！我至今都无法相信她做了什么。她毁了我们……
 
 Captain Dura:    Bah, to all Hells with Lith! We gotta focus on the battle at hand. We haven't come this far to lose it now!
-队长杜拉：哼，把利思扔进地狱吧！我们要专注于眼前的战斗。我们已经走到这一步，绝不能现在放弃！
+首领杜拉：哼，把利思扔进地狱吧！我们要专注于眼前的战斗。我们已经走到这一步，绝不能现在放弃！
 
 Captain Dura:    It looks like the cultists have taken a break from attacking this wing. They're up to something...
-队长杜拉：看起来邪教徒暂时停止了对这个区域的攻击。他们一定在策划什么……
+首领杜拉：看起来邪教徒暂时停止了对这个区域的攻击。他们一定在策划什么……
 
 Captain Dura:    Good to have you on board, sergeant. Must have been a hell to make it here.
-队长杜拉：很高兴你加入我们，中士。想必一路过来很艰难吧。
+首领杜拉：很高兴你加入我们，队长。想必一路过来很艰难吧。
 
 Lancer Dendra:    Over here, Zan.
 长枪兵丹德拉：瓒，这边来。
@@ -533,7 +533,7 @@ Yes, I need you to go find out what Nithriel is up to.   It will not be an easy 
 是的，你需要去查明妮丝瑞尔的动向。这不会是一场轻松的任务，但你
 
 on your own. As a sergeant of the Bear Warriors, I shall entrust you with commanding your own squad.
-不会独自面对。作为熊战士的中士，我会将指挥你的小队交托给你。
+不会独自面对。作为熊战士的队长，我会将指挥你的小队交托给你。
 
 Take along a few sisters to aid you, if you wish.  You will also need this crystal key to gain further
 带上几位姐妹助你一臂之力吧，如果你想的话。 你还需要这把水晶钥匙才能继
@@ -578,10 +578,10 @@ Wounded Fixer:    ...
 受伤的修复者：……
 
 Bear Warrior:    You're a sight for sore eyes, sarge. Are our sisters finally sending back reinforcements?
-熊战士：上尉，你可算来了。我们的姐妹终于派来增援了吗？
+熊战士：队长，你可算来了。我们的姐妹终于派来增援了吗？
 
 Bear Warrior:    We carved our way here from the Barracks with Captain Dura. These cultists are everywhere!
-熊战士：我们是从兵营一路杀到这里，和队长杜拉一起。这些邪教徒到处都是！
+熊战士：我们是从兵营一路杀到这里，和首领杜拉一起。这些邪教徒到处都是！
 
 Bear Warrior:    Sounded like a hell of a fight outside. Too bad Dura ordered me to stay here and protect the wounded.
 熊战士：听起来外面打得很惨。可惜杜拉让我留在这里保护伤员。
@@ -674,7 +674,7 @@ Reaver:    What a mess...
 掠夺者：真是乱七八糟……
 
 Reaver:    Not now, Sarge.
-掠夺者：不要现在，上尉。
+掠夺者：不要现在，队长。
 
 Reaver:    We held them off... for now.
 掠夺者：我们暂时挡住了他们……
@@ -689,7 +689,7 @@ Reaver:    ...
 掠夺者：……
 
 Bear Warrior:    Fuck! Can't believe we survived that onslaught!
-熊战士：见鬼的！真不敢相信我们能活下来！
+熊战士：卧槽！真不敢相信我们能活下来！
 
 Bear Warrior:    For the Iron Division!
 熊战士：为了铁军！
@@ -698,7 +698,7 @@ Bear Warrior:    Keep your eyes peeled, this isn't over.
 熊战士：留意四周，这还没结束。
 
 Bear Warrior:    Grrrh!...
-熊战士：咕噜……
+熊战士：嗷！……
 
 This door requires a Crystal key to open.
 这扇门需要用水晶钥匙才能打开。

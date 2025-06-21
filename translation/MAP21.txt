@@ -2,7 +2,7 @@ Pit Lord Commander:    The Halfblood has arrived! Prepare for your final stand, 
 深渊领主指挥官：混血人来了！蠢货们，准备迎接你们的最终决战！！！
 
 Pit Lord Commander:    How is she still alive?!! COME ON!!! It's just ONE. FUCKING. ORC!!!
-深渊领主指挥官：她怎么还活着？！！快点！！！就一个！该死的！兽人！！！
+深渊领主指挥官：她怎么还活着？！！快点！！！就一个！卧槽！兽人！！！
 
 Pit Lord Commander:    Where did she go?! We can't lose track of her!!! Arrgh, too much blood clouding my vision!!!
 深渊领主指挥官：她去了哪里？！！我们不能失去她的踪迹！！！啊呜，太多血模糊了我的视线！！！
@@ -11,7 +11,7 @@ Pit Lord Commander:    No!!! We can't let her get any closer! Do something!!!
 深渊领主指挥官：不！！！我们不能让她靠近！快想办法！！！
 
 Pit Lord Commander:    NO!!! How is this possible?!... we have failed the Baron!!!
-深渊领主指挥官：不！！！这怎么可能？……我们辜负了男爵！！！
+深渊领主指挥官：不！！！这怎么可能？！……我们辜负了男爵！！！
 
 A powerful magic ward keeps the gate sealed.
 一道强大的魔法屏障封住了大门。
@@ -233,7 +233,7 @@ Earth Mother:    Saved you. Come, sisters! With Zan here, we may stand a chance!
 大地之母：救了你。来吧，姐妹们！有瓒在，我们或许还有机会！
 
 Reaver:   Demon reinforcements will be here any moment now. What do we do, sarge?
-掠夺者：恶魔增援随时会到。上尉，我们现在该怎么办？
+掠夺者：恶魔增援随时会到。队长，我们现在该怎么办？
 
 Abhaoth:    ...defend yourselves...
 阿波豪斯：……保护自己……
@@ -338,7 +338,7 @@ Bear Warrior:    Hey, look who's here! Our fallen hero. Pay up, ladies, I won th
 熊战士：嘿，看看谁来了！我们的落败英雄。姐妹们，付钱吧，我赢了赌注。
 
 Witch:    Oh, shut up... help yourself to some food, sarge. There aren't many mouths left to feed as of late.
-女巫：哦，闭嘴……上尉，帮自己拿点吃的吧。最近能喂的人越来越少啦。
+女巫：哦，闭嘴……队长，帮自己拿点吃的吧。最近能喂的人越来越少啦。
 
 Bear Warrior:    Hey, look who's here! Our fallen hero... wait. It's the time, right?
 熊战士：嘿，看看谁来了！我们的落败英雄……等等。该是时候了，对吗？
@@ -416,7 +416,7 @@ Advisor:    The north-western peaks are hard to reach... perhaps the frost gobli
 顾问：西北部的高峰难以抵达……或许冰霜哥布林能为我们提供庇护？……
 
 Reaver:    It's nice to have you back, sergeant. Don't be too hard on yourself about our defeat.
-掠夺者：很高兴你回来，中士。别太责怪自己这次的失败。
+掠夺者：很高兴你回来，队长。别太责怪自己这次的失败。
 
 Reaver:    I heard you fought valiantly against the Baron. We all did everything we could to stop him.
 掠夺者：我听说你与男爵殊死搏斗了。我们都尽了全力阻止他。
@@ -458,7 +458,7 @@ Witch:    There aren't many fun things left to do around here. The demons have t
 女巫：这里剩下的有趣事情已经不多了。恶魔们把一切都夺走了……
 
 Witch:    Yeah, yeah, we tried to fight back. It's just suicide at this point. Fuck it...
-女巫：是啊，是啊，我们试过反抗。但现在连自杀都不值得了。管他了……
+女巫：是啊，是啊，我们试过反抗。但现在连自杀都不值得了。卧槽了……
 
 Witch:    Hey, guess we can pride ourselves with how far we got. Too bad history won't remember us.
 女巫：嘿，猜猜我们能为走这么远感到自豪吧。可惜历史不会记住我们。
@@ -470,7 +470,7 @@ Bear Warrior:    The demons let us escape back here only so they could watch us 
 熊战士：恶魔们只让我们逃回这里，好看着我们慢慢死去。恶心的杂种……
 
 Bear Warrior:    I hate to just stay here and take this shit! Breaza is too cowardly to rally us to battle!
-熊战士：我实在受不了就待在这里接受这一切！布里扎太懦弱了，连号召大家战斗都不敢！
+熊战士：我实在受不了待在这里吃屎！布里扎太懦弱了，连号召大家战斗都不敢！
 
 Bear Warrior:    You've slain more demons than all of us combined! Don't tell me you're willing to accept defeat.
 熊战士：你已经斩杀了比我们所有人加起来还多的恶魔！别告诉我你愿意接受失败。
@@ -728,7 +728,7 @@ The Iron Division leaders held council to assess their victory, and discuss the 
 铁军领袖们召开议会评估胜利，并讨论他们族群的未来。
 
 Chieftain Zura brought up the dark corruption. It was one of the many threats that still loomed over.
-首领祖拉提到了黑暗腐化的问题。这是众多仍笼罩在头顶的威胁之一。
+酋长祖拉提到了黑暗腐化的问题。这是众多仍笼罩在头顶的威胁之一。
 
 GZDOOM ENGINE
 GZDOOM引擎

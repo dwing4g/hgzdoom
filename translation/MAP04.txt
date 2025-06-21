@@ -1,5 +1,5 @@
 Bear Warrior:    You okay, sarge?
-熊战士：上尉你没事吧？
+熊战士：队长你没事吧？
 
 Looks like we're at the Forge... hey, is that a Sentry? We could use one of these.
 看起来我们到了锻造厂……嘿，那是守卫吗？我们可以用一个。
@@ -212,10 +212,10 @@ more. And those new leaders had a great thirst for vengeance. Great enough to fo
 些新领导者对复仇有着强烈的渴望。足以与曾经鄙视的敌人结
 
 the ones they once despised. [...] Now both Dwarves and Minotaurs stand by the same purpose. To fight
-盟……如今矮人和牛头人都站在共同的目标上：对抗恶魔并重
+盟。[...] 如今矮人和牛头人都站在共同的目标上：对抗恶魔并重
 
 the Demons and rebuild their fallen prosperity. And here, the Iron Division Orcs make them an offer[...]
-建昔日的繁荣。在这里，铁军兽人向他们提出了一项提议……
+建昔日的繁荣。在这里，铁军兽人向他们提出了一项提议[...]
 
 It will probably take days before the portal recharges enough power to be activated again.
 传送门可能需要几天时间才能充能到足以再次激活的程度。
@@ -254,10 +254,10 @@ have also noticed that the park gate leading to it got sabotaged by the cultists
 也注意到了，通往那里的公园大门被邪教徒在广场上破坏了……
 
 The main gear that was operating the gate mechanism was broken. You will have to search around for
-驱动闸门机制的主要齿轮已损坏。你得四处寻找备用零件。前往工坊吧
+驱动闸门机制的主要齿轮已损坏。你得四处寻找备用零件。前往工坊吧，
 
 spare parts. Head to the workshop, there has to be some information about what kind of gear you need
-，那里一定有关于你需要更换哪种齿轮的信息，或者至少能教你如何制
+那里一定有关于你需要更换哪种齿轮的信息，或者至少能教你如何制
 
 to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them.
 作它。拿着这把钥匙，还有我准备的一些备用弹匣。你肯定用得上。
@@ -278,10 +278,10 @@ have also noticed that the park gate leading to it got sabotaged by the cultists
 也注意到了，通往那里的公园大门被邪教徒在广场上破坏了……
 
 The main gear that was operating the gate mechanism was broken. You will have to search around for
-驱动闸门机制的主要齿轮已损坏。你得四处寻找备用零件。前往工坊吧
+驱动闸门机制的主要齿轮已损坏。你得四处寻找备用零件。前往工坊吧，
 
 spare parts. Head to the workshop, there has to be some information about what kind of gear you need
-，那里一定有关于你需要更换哪种齿轮的信息，或者至少能教你如何制
+那里一定有关于你需要更换哪种齿轮的信息，或者至少能教你如何制
 
 to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them.
 作它。拿着这把钥匙，还有我准备的一些备用弹匣。你肯定用得上。
@@ -329,10 +329,10 @@ Some stupid Iron Urchin wandered into one of the testing caves yesterday and the
 昨天有个愚蠢的铁刺误闯了其中一个测试洞穴，守卫开始向它开
 
 started shooting at it.     Little fucker didn't shy away and charged right at it,  blowing
-火。小混蛋不但没躲开，反而直接冲上去，把守卫炸成了碎片
+火。小混蛋不但没躲开，反而直接冲上去，把守卫炸成了碎片。
 
 it to bits. As you can see,  the Sentry's messed up,  but I reckon you can fix the hull...
-。如你所见，守卫已经损坏，但我猜你能修复它的外壳……
+如你所见，守卫已经损坏，但我猜你能修复它的外壳……
 
 I'll handle its brain once you're done here.  Clearly I need to talk to the Lancers, since it
 等你这边处理完，我会处理它的核心。显然我需要和长枪团谈谈，因为他
@@ -341,10 +341,10 @@ seems they forgot to program the damn thing to not shoot at our own maintenance 
 们似乎忘记给这个家伙编程——让它不要攻击我们自己的维护无人机。
 
 Anyway, I've dropped you a working Sentry for reference. Remember that once you deploy
-无论如何，我已为你放置了一个能正常运作的守卫作为参考。记住，一旦你部署它
+无论如何，我已为你放置了一个能正常运作的守卫作为参考。记住，一旦你部署它，
 
 it, you will need the right tools to unpack it or it will self destruct.   Call me for help.   -V.
-，你需要正确的工具来拆解它，否则它会自我毁灭。如果需要帮助，请找我。-V.
+你需要正确的工具来拆解它，否则它会自我毁灭。如果需要帮助，请找我。-V.
 
 It will be long until we return from the war against the demons, but as always, you
 我们从对抗恶魔的战争中归来还需要很久，但一如往常，你必须
@@ -389,7 +389,7 @@ horde of foul beasts, and I trust that you'll stand up to our name. Stone be wit
 斗一样艰难，我相信你会挺起我们的名号。愿石头与你同在。
 
 (This parchment bears the seal of Witch Chieftain Zura. It must be of some importance)
-（这卷羊皮纸带有女巫首领祖拉的封印。它必定有某种重要性）
+（这卷羊皮纸带有女巫酋长祖拉的封印。它必定有某种重要性）
 
 My dear Fixer, I hope you have well received this new box of potions. You must be allured
 亲爱的修复者，我希望你已妥善收到这盒新的药水。你一定会被它们的香
@@ -596,10 +596,10 @@ P.S. What's with all the tension brewing up lately? Ever since the tremors start
 P.S. 最近的紧张局势是怎么回事？自从地震开始后，你们就一直发疯
 
 have been losing your shit. I even saw the barkeeper haul in this weird looking gun along with
-似的。我甚至看到酒馆老板拖进来一把奇怪的枪，还有几个大箱子
+似的。我甚至看到酒馆老板拖进来一把奇怪的枪，还有几个大箱子。
 
 some giant boxes. He's keeping it in his secret spot I bet. I also bet he'll never get to use it.
-。他肯定把枪藏在秘密地点了。我打赌他这辈子都不会用上它。
+他肯定把枪藏在秘密地点了。我打赌他这辈子都不会用上它。
 
 TO VALC'S PLAZA
 前往瓦尔克广场
