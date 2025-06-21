@@ -27,6 +27,10 @@ local fnss = {
 	{ "TITLEMAP.txt", "TITLEMAP.me" },
 }
 
+local function toKey(e)
+	return e:gsub("%s+", ""):lower()
+end
+
 local t = {}
 for _, fns in ipairs(fnss) do
 	local es = {}
@@ -52,12 +56,12 @@ for _, fns in ipairs(fnss) do
 				if not es[e] and fns[2] then
 					print("ERROR: not found original line at " .. fn .. "(" .. i .. "): " .. e)
 				end
-			elseif not t[e] then
-				t[e] = { line, fn, i }
-				e = nil
 			else
-				if t[e][1] ~= line then
-					print("ERROR: unmatch translation at " .. fn .. "(" .. i .. ") and " .. t[e][2] .. "(" .. t[e][3] .. ")")
+				local k = toKey(e)
+				if not t[k] then
+					t[k] = { line, fn, i, e }
+				elseif t[k][1] ~= line and (t[k][4] ~= t[k][1] or line ~= e) then
+					print("ERROR: unmatch translation at " .. fn .. "(" .. i .. ") and " .. t[k][2] .. "(" .. t[k][3] .. ")")
 				end
 				e = nil
 			end

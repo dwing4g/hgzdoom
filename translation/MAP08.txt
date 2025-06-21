@@ -17,7 +17,7 @@ The thick layer of ice has a cracked spot that could be shattered with the prope
 厚重的冰层有个裂痕，可用合适工具击碎。
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 It looks like the bridge has been destroyed by a fallen ice block.
 桥被坠落的冰块摧毁了。

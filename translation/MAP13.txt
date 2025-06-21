@@ -98,10 +98,10 @@ You'll need a proper tool to mine this ore vein.
 你需要一把合适的工具才能开采这条矿脉。
 
 The pedestal's locking mechanism prevents the ruby from being removed.
-底座的锁定机制阻止了红宝石被移除。
+基座的锁定机制阻止了红宝石被移除。
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 Fixer:    Look out!
 修复者：小心！
@@ -476,7 +476,7 @@ My ancestors used perfectly cut rubies to open the main gates. And I happen to h
 我的祖先曾用完美切割的红宝石开启主门。而我恰好继承了一颗这样的宝石。
 
 Bonebreaker, take the ruby and place it on the pedestal where it belongs. That will power up the gate's mechanism.
-碎骨者，拿走这颗红宝石并将其放在属于它的底座。这样就能激活大门的机关。
+碎骨者，拿走这颗红宝石并将其放在属于它的基座。这样就能激活大门的机关。
 
 Advisor:    The enemy isn't expecting you, so this should be a safer task, sergeant. Still, keep your guard up.
 顾问：敌人没有预料到你们，所以这应该是一项更安全的任务，中士。不过，仍要保持警惕。
@@ -983,7 +983,7 @@ Min. Lord Murguth:    You faced the demons bravely and cleansed them from our to
 牛头人领主穆尔古斯：你勇敢地面对恶魔并清除了它们对我们的威胁，我族的感激之情由衷。
 
 Minotaur Lord Murguth:    Look for gates adorned with iron bull heads... the ruby pedestals should be close to them.
-牛头人领主穆尔古斯：寻找装饰着铁牛头像的大门……红宝石底座应该就在附近。
+牛头人领主穆尔古斯：寻找装饰着铁牛头像的大门……红宝石基座应该就在附近。
 
 Minotaur Lord Murguth:    You're welcome among us, Halfblood. I can tell your worth from the fire burning in your eyes.
 牛头人领主穆尔古斯：欢迎你加入我们，混血儿。我能从你眼中燃烧的火焰看出你的价值。

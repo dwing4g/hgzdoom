@@ -1,8 +1,8 @@
 Pit Lord Commander:    The Halfblood has arrived! Prepare for your final stand, fools!!!
-深渊领主指挥官：混血人来了！准备迎接你们的最终对决吧，蠢货们！！！
+深渊领主指挥官：混血人来了！蠢货们，准备迎接你们的最终决战！！！
 
 Pit Lord Commander:    How is she still alive?!! COME ON!!! It's just ONE. FUCKING. ORC!!!
-深渊领主指挥官：她怎么还活着？！！该死的！就一个兽人而已！！！
+深渊领主指挥官：她怎么还活着？！！快点！！！就一个！该死的！兽人！！！
 
 Pit Lord Commander:    Where did she go?! We can't lose track of her!!! Arrgh, too much blood clouding my vision!!!
 深渊领主指挥官：她去了哪里？！！我们不能失去她的踪迹！！！啊呜，太多血模糊了我的视线！！！
@@ -11,7 +11,7 @@ Pit Lord Commander:    No!!! We can't let her get any closer! Do something!!!
 深渊领主指挥官：不！！！我们不能让她靠近！快想办法！！！
 
 Pit Lord Commander:    NO!!! How is this possible?!... we have failed the Baron!!!
-深渊领主指挥官：不！！！这怎么可能？！！……我们辜负了男爵！！！
+深渊领主指挥官：不！！！这怎么可能？……我们辜负了男爵！！！
 
 A powerful magic ward keeps the gate sealed.
 一道强大的魔法屏障封住了大门。
@@ -20,13 +20,13 @@ Blue Baron:    ...
 幽蓝男爵：……
 
 Blue Baron:    Tell me, Halfblood - how much does a fly know of the world around the rotten fruit it feasts upon?
-幽蓝男爵：告诉我，混血人——你对腐烂果实在上空盘旋的苍蝇，究竟了解多少世界？
+幽蓝男爵：告诉我，混血人——你可知腐烂果实在上空盘旋的苍蝇，究竟了解多少世界？
 
 You had the chance to burrow yourself away from the horrors of the Void... but you persisted.
-你曾有机会逃离虚无深渊的恐怖……却依然坚持前行。
+你曾有机会逃离虚空的恐怖……却依然坚持前行。
 
 ...and every insect that lives to irritate is doomed to the same fate...
-……而每只活到扰人的昆虫，终将面临同样的命运……
+……而每只活到扰人的昆虫，终将迎来同样结局……
 
 ...it gets squashed.
 ……它会被碾碎。
@@ -35,16 +35,16 @@ Abhaoth:    Good. You made it. Quickly, now! Use the soul key fragments to free 
 阿波豪斯：很好。你终于来了。快点！现在就！用灵魂钥匙碎片把我从男爵的地窖中解放出来。
 
 Primarch Adur:    ...my, oh my! I had no clue you're in cahoots with her! Of course...
-原教阿杜尔：……我的天啊，我竟不知你和她联手了！当然……
+原教阿杜尔：……我的天啊！我竟不知你和她联手了！当然……
 
 Primarch Elzriel:    Are you sure you wanna free her? It's not too late to join the winning side!
 原教埃尔兹瑞尔：确定要放她自由吗？加入胜利的一方还来得及！
 
 Primarch Erudin:    Let her pursue her delusions. It should at least entertain us...
-原教埃鲁丁：让她继续她的妄想吧。至少能娱乐我们……
+原教埃鲁丁：让她继续她的妄想吧，至少能给我们点乐趣……
 
 Abhaoth:    This forsaken place will erode your sanity. Don't let them sway you from your task.
-阿波豪斯：这被遗弃的地方会侵蚀你们的理智。别让它们动摇你的任务。
+阿波豪斯：这荒芜之地会侵蚀你们的理智。别让它们动摇你的任务。
 
 Primarch Gaun:    A warrior of your magnitude, taking orders from a shadowy rat. Pathetic.
 原教加恩：一个如此强大的战士，却要听从一只阴暗老鼠的命令。真是可悲。
@@ -71,25 +71,25 @@ Primarch Erudin:    You're a cold heart killer. Your orc sisters know it too. Th
 原教埃鲁丁：你是冷血的杀手。你的兽人姐妹也清楚这一点。她们甚至害怕你。
 
 Primarch Erudin:     You sunk so low, jumping through all our hoops only so you could die here. Was it worth it?
-原教埃鲁丁：你堕落得如此之低，只为跳过我们所有的障碍才能在这里死去。值得吗？
+原教埃鲁丁：你堕落得如此之深，跳过我们所有的陷阱只为在这里死去。值得吗？
 
 Abhaoth:    We all have to sacrifice something to preserve our world.
-阿波豪斯：我们所有人都必须牺牲一些东西来守护这个世界。
+阿波豪斯：我们所有人都必须为守护世界付出代价。
 
 Primarch Scorlag:    You value death more than you value life... but is your death worth more than your life?...
-原教斯科拉格：你更看重死亡而非生命……但你的死亡是否比你的生命更有价值呢？…
+原教斯科拉格：你更看重死亡而非生命……但你的死亡是否比生命更有价值？
 
 Primarch Scorlag:    You value life more than you value death... but is your life worth more than your death?...
-原教斯科拉格：你更看重生命而非死亡……但你的生命是否比死亡更有价值呢？…
+原教斯科拉格：你更看重生命而非死亡……但你的生命是否比死亡更有价值？
 
 Abhaoth:    All our lives will be worthless if we fail to stop them, Zan.
-阿波豪斯：如果我们没能阻止他们，我们的生命都将毫无意义，瓒。
+阿波豪斯：如果没能阻止他们，我们的生命都将毫无意义，瓒。
 
 Abhaoth:    At long last... release the cell lock! I believe the time has come for us to meet in the flesh.
 阿波豪斯：终于……释放细胞锁！我相信我们该以真身相见的时刻到了。
 
 Abhaoth:    Yes! That's one of the soul locks! Keep going...
-阿波豪斯：对！那是其中一个灵魂锁！继续前进……
+阿波豪斯：对！那就是一个灵魂锁！继续前进……
 
 Primarch Elzriel:    Come now, oh great Bonebreaker! Can you really trust the shadow?
 原教埃尔兹瑞尔：来吧，伟大的碎骨者！你真的能信任阴影吗？
@@ -125,7 +125,7 @@ Abhaoth:    I tried to stop them... guess you can tell how that went. But there 
 阿波豪斯：我曾试图阻止他们……猜猜结果如何。但你仍有希望！
 
 Abhaoth:    If demons don't overtake the world, then Nithriel will. She is vulnerable now... kill her.
-阿波豪斯：若恶魔无法征服世界，那么妮丝瑞尔会。她此刻最为脆弱……杀了她。
+阿波豪斯：若恶魔不征服世界，妮丝瑞尔将取而代之。她此刻脆弱……击杀她！
 
 Abhaoth:    I will do everything I can to protect you from their mind tricks. Keep me in your mind.
 阿波豪斯：我会尽全力保护你免受他们的心理陷阱影响。保持与我的心灵连接。
@@ -137,13 +137,13 @@ Abhaoth:    Well... who did you expect?
 阿波豪斯：嗯……你期望谁出现？
 
 Abhaoth:    I... they drained me of all power. Go without me! Take the elevator to the top of the spire...
-阿波豪斯：我……他们抽干了我所有的力量。快带着我离开！乘坐升降梯到尖塔顶端……
+阿波豪斯：我……他们抽干了我所有的力量。独自前行吧！乘坐升降梯前往尖塔顶端……
 
 The soul screen blocks your passage.
 灵魂屏障阻挡你的去路。
 
 Abhaoth:    The barrier won't yield until you put all three soul fragments in place.
-阿波豪斯：除非你将三块灵魂碎片全部归位，否则屏障不会消散。
+阿波豪斯：屏障不会消散，直到你将三块灵魂碎片全部归位。
 
 The soul key crystals are not aligned.
 灵魂钥匙水晶尚未对齐。
@@ -155,7 +155,7 @@ Nithriel:    Stomp her, you fool! Why did you let her escape?!
 妮丝瑞尔：踩死她，你这个蠢货！为什么放她逃走了？！
 
 Nithriel:    She has released Abhaoth! Fool! How could you let this happen!?
-妮丝瑞尔：她释放了阿波豪斯！蠢货！你怎么能让她这样逃脱？！
+妮丝瑞尔：她释放了阿波豪斯！蠢货！你怎么能让她这样！？
 
 Blue Baron:    Your tone is ripe with arrogance. You would do well to uphold our pact.
 幽蓝男爵：你的语气充满傲慢。你最好遵守我们的协议。
@@ -182,13 +182,13 @@ I will show you the true horror of my world!
 我会让你见识我世界真正的恐怖！
 
 Abhaoth:    Dive!
-阿波豪斯：潜入！
+阿波豪斯：跳入！
 
 Abhaoth:    Look out!
 阿波豪斯：小心！
 
 Darn it!... Okay... find a way to climb the spires and turn the beacons off!
-该死……好吧……找到办法攀上尖塔并关闭灯塔！
+该死……好吧……找到方法攀上尖塔并关闭灯塔！
 
 Blue Baron:    Your struggle has been entertaining, but I am the master of your destiny... now perish!
 幽蓝男爵：你的挣扎很有趣，但我是你命运的主宰……现在去死吧！
@@ -200,28 +200,28 @@ Abhaoth:    One down, two more to go!
 阿波豪斯：一个倒下，还有两个要对付！
 
 Abhaoth:    Two down, get the last one before it's too late!
-阿波豪斯：两个倒下了，趁还来得及赶紧解决最后一个！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
 
 Abhaoth:    One down, two more to go!
-阿波豪斯：一个倒下了，还有两个要对付！
+阿波豪斯：一个倒下，还有两个要对付！
 
 Abhaoth:    Two down, get the last one before it's too late!
-阿波豪斯：两个倒下了，趁还来得及赶紧解决最后一个！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
 
 Abhaoth:    One down, two more to go!
-阿波豪斯：一个倒下了，还有两个要对付！
+阿波豪斯：一个倒下，还有两个要对付！
 
 Abhaoth:    Two down, get the last one before it's too late!
-阿波豪斯：两个倒下了，趁还来得及赶紧解决最后一个！
+阿波豪斯：两个倒下了，趁还来得及赶紧拿下最后一个！
 
 Grand Earth Mother Breaza:    Zan!!! Thank the Earth!...
 伟大的大地之母布里扎：瓒！！！感谢大地……
 
 Grand E. M. Breaza:    Easy now... walk a bit if you can. Your body has weakened a lot ever since...
-伟大的E.M.布里扎：别急……如果你还能走动就慢慢走。你的身体自从……已经虚弱很多了……
+伟大的E.M.布里扎：别慌……如果还能走的话就慢慢走。你的身体自从……已经虚弱很多了……
 
 Hellion:    Are you ready now, my green darlings? Open the door slowly. Don't try anything naughty!
-地狱之徒：你们现在准备好了吗，我的绿色小可爱们？慢慢打开门。不要做任何调皮的事！
+地狱之徒：你们现在准备好了吗，我的绿色小可爱们？慢慢打开门。别想什么恶作剧！
 
 Abhaoth:    Make. Them. Pay.
 阿波豪斯：让他们付出代价。
@@ -311,10 +311,10 @@ Hellion:    Hey there, dearies! You know what we're here for, so don't try to de
 地狱之徒：嘿，亲爱的！你们知道我们为何而来，所以别拖延乐趣！
 
 Hellion:    Come now, babes. The more you keep us waiting, the slower the sacrifice will be!
-地狱之徒：来吧，宝贝们。你越拖延，牺牲就越缓慢！
+地狱之徒：来吧，宝贝们。你们越等，牺牲就越慢！
 
 Hellion:    What's taking you so long? This isn't the time to put on makeup.
-地狱之徒：你们怎么这么慢？这不是化妆的时间！
+地狱之徒：你磨蹭什么？这不是化妆的时间！
 
 Hellion:    If you don't appease us soon, I'll have my lovely brute here open the door...
 地狱之徒：如果你不尽快安抚我们，我就让我的可爱粗汉打开门……
@@ -323,7 +323,7 @@ Earth Mother:    ...the key is over there. Open the doors now, Zan.
 大地之母：……钥匙在那边。瓒，现在打开大门。
 
 Abhaoth:    ...you are their only hope...
-阿波豪斯：……你们是他们唯一的希望……
+阿波豪斯：……你是他们唯一的希望……
 
 Reaver:    ...who do you think they will take away today?
 掠夺者：……你觉得今天他们会带走谁？
@@ -335,10 +335,10 @@ Reaver:    The demons are knocking at our gate already?... Okay. Let's go...
 掠夺者：恶魔已经在敲我们的门了？……好吧。我们走吧……
 
 Bear Warrior:    Hey, look who's here! Our fallen hero. Pay up, ladies, I won the bet.
-熊战士：嘿，看看谁来了！我们的落败英雄。女士们，付钱吧，我赢了赌注。
+熊战士：嘿，看看谁来了！我们的落败英雄。姐妹们，付钱吧，我赢了赌注。
 
 Witch:    Oh, shut up... help yourself to some food, sarge. There aren't many mouths left to feed as of late.
-女巫：哦，闭嘴……上尉，帮自己拿点食物吧。最近能喂的人越来越少。
+女巫：哦，闭嘴……上尉，帮自己拿点吃的吧。最近能喂的人越来越少啦。
 
 Bear Warrior:    Hey, look who's here! Our fallen hero... wait. It's the time, right?
 熊战士：嘿，看看谁来了！我们的落败英雄……等等。该是时候了，对吗？
@@ -347,31 +347,31 @@ Witch:    Good thing I'm drunk enough. Let's go, ladies. The culling awaits.
 女巫：幸好我喝得够醉。来吧，女士们。收割即将开始。
 
 Reaver:    You're back... the time has come, right?...
-掠夺者：你回来了……时机已到，对吧？……
+掠夺者：你回来了……时机到了，对吧？……
 
 Witch:    Well, I guess I'm drunk enough now. Let's go, ladies. The culling awaits.
 女巫：嗯，我想我已经喝得够醉了。来吧，女士们。收割即将开始。
 
 Lancer:    I knew you'd recover... alas, the fight against the Baron has let us all scarred.
-长枪兵：我知道你会恢复……唉，与男爵的战斗让我们所有人都留下了伤疤。
+长枪兵：我知道你会恢复……唉，与男爵的战斗让我们所有人都伤痕累累。
 
 Lancer:    The demons have come?... Well then... let us gather up.
-长枪兵：恶魔来了？……那好吧……我们该集合了。
+长枪兵：恶魔来了吗？……好吧，那我们赶紧集合吧。
 
 Lancer:    Zan! I knew you'd recover!... Oh... the demons are here? I see. Let us gather up.
-长枪兵：瓒！我知道你会恢复！……哦……恶魔已经到了？我明白了。我们该集合了。
+长枪兵：瓒！我知道你会恢复！……哦……恶魔已经到了？我明白了。我们赶紧集合吧。
 
 Lancer:    We are all that is left... I suppose cheating fate has only lasted us so long.
 长枪兵：我们已经是最后的希望……我想命运的欺骗也只能维持这么久。
 
 Lancer:    The Crystal Heart has fallen. Our world has almost entirely withered away...
-长枪兵：水晶之心已坠落。我们的世界几乎完全枯萎了……
+长枪兵：水晶之心已经陨落。我们的世界几乎完全枯萎了……
 
 Lancer:    The demons have allowed us to preserve our library here, but we must pay in blood.
 长枪兵：恶魔允许我们将图书馆保存在这里，但我们必须用鲜血来偿还。
 
 Lancer:    Every several days they return and choose one of us for sacrifice. A slow, sad end...
-长枪兵：每隔几天他们就会回来，选择我们中的一人献祭。一种缓慢而悲惨的结局……
+长枪兵：每隔几天他们就会回来，选择我们中的一人献祭。缓慢而悲惨的结局……
 
 Lancer Dendra:    Why are you still here?! Go, we can't keep them waiting!
 长枪兵丹德拉：你为什么还在这里？！快走吧，我们不能让他们等太久！
@@ -380,10 +380,10 @@ Lancer Dendra:    Please, Zan. We have no means of opposing them anymore. Just d
 长枪兵丹德拉：请，瓒。我们已经无法再与他们对抗了。照我说的做……
 
 Lancer Dendra:    We can't negotiate with them! If we don't offer one of our own, they will kill us all!
-长枪兵丹德拉：我们不能和他们谈判！如果我们不献出自己人，他们会杀了我们所有人！
+长枪兵丹德拉：我们不能和他们谈判！如果我们不献出自己人，他们会杀死我们所有人！
 
 Lancer Dendra:    Our sisters are upstairs. Gather them here at once!
-长枪兵丹德拉：我们的姐妹在楼上。立刻把她们召集到这里来！
+长枪兵丹德拉：我们的姐妹们在楼上。立刻把她们召集到这里来！
 
 Abhaoth:    ...what kind of life is this?...
 阿波豪斯：……这算什么生活？……
@@ -392,10 +392,10 @@ Abhaoth:    ...you can't let the Baron's grasp tighten...
 阿波豪斯：……别让男爵的控制力进一步加强……
 
 Grand E. M. Breaza:    Don't push yourself too hard now. Go upstairs and get something to eat.
-伟大的E.M.布里扎：现在别太勉强自己。上楼去吃点东西吧。
+伟大的E.M.布里扎：现在别逼自己太紧了。上楼去吃点东西吧。
 
 Grand E. M. Breaza:    I did everything in my power to heal you. You've been out for months...
-伟大的E.M.布里扎：我尽了全力来治愈你。你已经昏迷了几个月……
+伟大的E.M.布里扎：我尽了全力来治愈你。你已经昏迷了好几个月……
 
 Grand E. M. Breaza:    You did everything you could. Try not to think about it right now.
 伟大的E.M.布里扎：你已经尽力了。现在试着不要想这些事。
@@ -416,22 +416,22 @@ Advisor:    The north-western peaks are hard to reach... perhaps the frost gobli
 顾问：西北部的高峰难以抵达……或许冰霜哥布林能为我们提供庇护？……
 
 Reaver:    It's nice to have you back, sergeant. Don't be too hard on yourself about our defeat.
-掠夺者：很高兴你回来，中士。别太责备自己我们的失败。
+掠夺者：很高兴你回来，中士。别太责怪自己这次的失败。
 
 Reaver:    I heard you fought valiantly against the Baron. We all did everything we could to stop him.
-掠夺者：我听说你与男爵的战斗中表现英勇。我们所有人都竭尽全力阻止他。
+掠夺者：我听说你与男爵殊死搏斗了。我们都尽了全力阻止他。
 
 Reaver:    We knew it was a losing battle... we never had a chance. Still, it was worth giving it a shot.
-掠夺者：我们知道这是一场注定失败的战役……我们从未有过机会。但即便如此，尝试过也值得。
+掠夺者：我们知道这是一场注定失败的战斗……我们从未有过机会。但至少尝试过也算值得。
 
 Reaver:    Might as well kick back and enjoy what's left of our world. It's going to end soon enough.
-掠夺者：不如放松一下，享受剩下世界的美好吧。它终将结束，迟早而已。
+掠夺者：不如放松一下，享受我们所剩无几的世界吧。它很快就会结束的。
 
 Fixer:    Every week, they come take one of us away. I can't bear this anymore!
-修复者：他们每周都会带走我们中的一个！我再也受不了了！
+修复者：他们每周都会带走我们中的一人！我再也受不了了！
 
 Fixer:    They're treating us like cattle... they won't stop until we're all sacrificed.
-修复者：他们把我们当牲口一样对待……他们不会停止直到我们都被献祭！
+修复者：他们把我们当牲口一样对待……他们不会停止直到我们全部被献祭。
 
 Fixer:    Is there any chance you could save us?... But where will we flee to?... they're everywhere!
 修复者：你有没有可能救我们？……但我们能逃到哪里去？……他们无处不在！
@@ -440,16 +440,16 @@ Fixer:    *Shivers and breathes anxiously*
 修复者：*颤抖着焦虑地呼吸*
 
 Reaver:    This is pointless. We're trapped in here like a bunch of startled praaks.
-掠夺者：这毫无意义。我们像一群受惊的普拉克人一样被困在这里。
+掠夺者：这毫无意义。我们就像一群受惊的普拉克人一样被困在这里。
 
 Reaver:    We should've fled the Underworld while we still had a chance. I guess we'll die alongside Valc.
-掠夺者：我们应该趁还有机会时逃离地下世界。我想我们只能和瓦尔克一起死了。
+掠夺者：我们应该趁还有机会时逃离地下世界。我想我们只能和瓦尔克一起死去。
 
 Reaver:    You've been unconscious for quite long, haven't you? Here's a tip - try not to look outside.
-掠夺者：你已经昏迷很久了吧？这里有个提示——尽量别往外看。
+掠夺者：你已经昏迷很久了，对吧？这里有个提示——尽量别往窗外看。
 
 Reaver:    The Baron's influence has spread like wildfire. Nothing can stop the demons now that they're united.
-掠夺者：男爵的影响如野火般蔓延开来。现在恶魔们团结一致，没有任何东西能阻止他们了。
+掠夺者：男爵的影响力像野火一样蔓延开来。现在恶魔们团结一致，没有任何东西能阻止他们了。
 
 Witch:    You look like you could really use a drink. It'll help you more than any potion at this point.
 女巫：你看起来像是真的需要一杯酒。现在这比任何药水都更能帮到你。
@@ -458,7 +458,7 @@ Witch:    There aren't many fun things left to do around here. The demons have t
 女巫：这里剩下的有趣事情已经不多了。恶魔们把一切都夺走了……
 
 Witch:    Yeah, yeah, we tried to fight back. It's just suicide at this point. Fuck it...
-女巫：是啊，是啊，我们尝试过反抗。但现在只是自杀行为。管他了……
+女巫：是啊，是啊，我们试过反抗。但现在连自杀都不值得了。管他了……
 
 Witch:    Hey, guess we can pride ourselves with how far we got. Too bad history won't remember us.
 女巫：嘿，猜猜我们能为走这么远感到自豪吧。可惜历史不会记住我们。
@@ -473,7 +473,7 @@ Bear Warrior:    I hate to just stay here and take this shit! Breaza is too cowa
 熊战士：我实在受不了就待在这里接受这一切！布里扎太懦弱了，连号召大家战斗都不敢！
 
 Bear Warrior:    You've slain more demons than all of us combined! Don't tell me you're willing to accept defeat.
-熊战士：你已经斩杀的恶魔比我们所有人加起来还多！别告诉我你愿意接受失败。
+熊战士：你已经斩杀了比我们所有人加起来还多的恶魔！别告诉我你愿意接受失败。
 
 Bear Warrior:    Who's it going to be next, huh? I bet they'll leave you last. They want you to suffer.
 熊战士：下一个要轮到谁呢？嘿，我打赌他们会留到最后折磨你。他们想让你受苦。
@@ -485,19 +485,19 @@ Bear Warrior:    Hey... if you wanna try doing something stupid... we've got you
 熊战士：嘿……如果你想尝试做点愚蠢的事……我们会在你身后！
 
 Bear Warrior:    Do we really wanna die like a bunch of mongrels? What happened to our warrior spirit?
-熊战士：我们真的要像一群杂种一样死去吗？我们的战士精神去哪儿了？
+熊战士：我们真的要像一群野狗一样死去吗？我们的战士精神去哪儿了？
 
 Earth Mother:    Make peace with the Gods, warrior. Stay true and they will embrace you.
 大地之母：战士，与诸神和解吧。保持真诚，他们终将拥抱你。
 
 Earth Mother:    We cannot outlive the Earth... the demons have poisoned her beyond hope.
-大地之母：我们无法超越大地……恶魔们已毒害她至无望之地。
+大地之母：我们无法与大地共存……恶魔们已毒害她至无望之地。
 
 Earth Mother:    All that matters now is the memory we leave behind. It will carry our soul onwards.
 大地之母：现在唯一重要的就是我们留下的记忆。它会带着我们的灵魂前行。
 
 Earth Mother:    The Iron Division will not live in chains. I'm ready to die with honor, if so are you. *Winks*
-大地之母：铁军不会屈服于锁链！如果你也愿意，我随时准备以荣誉死去。*眨眨眼*
+大地之母：铁军不会屈服于锁链！如果你也愿意，我随时准备以荣誉赴死。*眨眨眼*
 
 Blue Baron:    Your grasp over reality is weak... come... jump into the abyss...
 幽蓝男爵：你对现实的掌控太薄弱了……来吧……跳入深渊……
@@ -548,34 +548,34 @@ Blue Baron:    Arrrrrgh!...
 幽蓝男爵：啊啊啊！……
 
 Abhaoth:    *Pants in exhaustion* Zan... get behind me... I...
-阿波豪斯：*喘息着* 瓒……到我身后……我……
+阿波豪斯：*喘息着* 瓒……躲在我后面……我……
 
 Nithriel:    Finally! Well done, my dear Baron! Nothing can stop us now! Prepare this world for my return...
-妮丝瑞尔：终于！做得很好，我的亲爱的男爵！现在无人能阻挡我们！准备让这个世界迎接我的归来吧……
+妮丝瑞尔：终于！亲爱的男爵，干得好！现在无人能阻挡我们！准备让这个世界迎接我的归来吧……
 
 Blue Baron:    Noooooo!!! This... how could I fail so?... This cannot... this cannot be-
-幽蓝男爵：不！！！这……我为何会失败？……这不可能……这不可能是——
+幽蓝男爵：不！！！这……我为何会失败？……这不可能……这不可能——
 
 Nithriel:    Good job getting rid of him, Halfblood, but you are always too late! Enjoy peace! It won't last long...
 妮丝瑞尔：干得不错，混血人，但你总是来得太晚！享受片刻的安宁吧！它不会持续太久……
 
 Battered and bloodied from head to toe, Zan gazed upon the Icon's body as it twitched and spurted purple slime.
-瓒浑身伤痕累累、满身鲜血地凝视着图腾的尸体，那具躯体仍在抽搐并喷出紫色黏液。
+瓒浑身伤痕累累、满身鲜血地凝视着图腾的尸体，只见它抽搐着喷出紫色黏液。
 
 It was no mind trick... the Baron was truly dead.      A shadowy figure darted over the Halfblood's head, shaking her
-这并非心灵操控……男爵真的死了。一个阴影般的身影掠过混血人的头
+这并非心灵操控……男爵真的死了。一个阴影般的身影掠过混血人的头顶，
 
 out of her trance.      All she could hear next was Nithriel's rasp laughter.   Abhaoth conjured dark tendrils, lashing
-顶，将她从幻境中唤醒。接下来她只听到妮丝瑞尔沙哑的笑声。阿波
+将她从恍惚中唤醒。接下来她只听到妮丝瑞尔沙哑的笑声。
 
 them at the pod with fury and desperation, but alas, it was hopeless. As she collapsed to the ground in exhaustion,
-豪斯召唤出黑暗触须，愤怒而绝望地向茧体挥舞，但终究无济于事。
+阿波豪斯召唤出黑暗触须，愤怒而绝望地向茧体挥舞，但终究无济于事。
 
 the image of bright rays of light decomposing the Elf's body was ingrained in her fading vision.      Zan hopped next to
-当她因疲惫倒地时，明亮光线分解精灵躯体的画面已深深烙印在她逐
+当她因疲惫倒地时，明亮光线分解精灵躯体的画面已深深烙印在
 
 her and pounded on the glass, but it was too late...
-渐模糊的视野中。瓒跳到她身旁并猛敲玻璃，但一切都太迟了……
+她逐渐模糊的视野中。瓒跳到她身旁并猛敲玻璃，但一切都太迟了……
 
 Nithriel:    Masters! Your daughter has arrived!... Wait... No!... What happened here?!
 妮丝瑞尔：大师们！你们的女儿终于到了！……等等……不！……这里发生了什么？！
@@ -584,13 +584,13 @@ As the Baron's dying echoes riled up the spirits of the sacrificed, Zan made her
 随着男爵临终的回响激起了献祭者的灵魂，瓒迅速逃离回到营地。
 
 Having overcome all the hellish trials through wit and might, her heart pounded proudly. She was victorious.
-历经智慧与力量克服所有地狱般的试炼后，她的心脏骄傲地跳动着。她胜利了。
+凭借智慧与力量战胜所有地狱般的试炼，她的心跳骄傲地鼓动着。她取得了胜利。
 
 Having overcome many of the hellish trials through wit and might, her heart eased with relief. She had won.
-历经智慧与力量战胜了许多地狱般的试炼后，她的内心因释然而平复。她赢了。
+凭借智慧与力量战胜了许多地狱般的试炼，她的内心因释然而平静下来。她赢了。
 
 Now that the hellish trials she had endured were finally behind, her heart's beat would mellow. It was over.
-如今那些她承受过的地狱般试炼终于过去，心脏的跳动将逐渐放缓。一切都结束了。
+如今那些她历经的地狱般试炼终于过去，她的心跳声将变得平缓。一切都结束了。
 
 The hellish trials she had endured had left her heart scarred. She glanced back briefly. It was finally over.
 她所经历的地狱般试炼在心中留下了伤痕。她短暂地回望了一眼。终于结束了。
@@ -605,7 +605,7 @@ After losing their Icon, the hordes of chaos were quick to turn on each other, d
 失去图腾后，混沌军团迅速转向彼此争斗，被对权力的渴望驱使。
 
 As the plan for a united invasion was ruined, their foul influence over the world would soon begin to dwindle.
-随着联合入侵计划的失败，他们对世界的恶劣影响将很快开始减弱。
+随着联合入侵计划的失败，他们对世界的恶劣影响将很快减弱。
 
 SOUNDTRACK
 音轨
@@ -722,10 +722,10 @@ And thanks to everyone who made Hedon fanart and memes!
 感谢所有创作赫顿同人艺术与恶搞图的粉丝们！
 
 The Iron Division leaders held council to assess their victory, and discuss the future of their clan.
-铁军领袖召开议会评估胜利成果，并商讨其部族的未来。
+铁军领袖们召开议会评估胜利，并讨论他们族群的未来。
 
 Chieftain Zura brought up the dark corruption. It was one of the many threats that still loomed over.
-首领祖拉提及了黑暗腐化。这是众多仍笼罩在头顶的威胁之一。
+首领祖拉提到了黑暗腐化的问题。这是众多仍笼罩在头顶的威胁之一。
 
 GZDOOM ENGINE
 GZDOOM引擎
@@ -746,10 +746,10 @@ Daniel Jenssen - Hedon Linux version compilation & testing
 Daniel Jenssen - 赫顿Linux版本编译与测试
 
 A plan was devised to rebuild Valc into a stronghold worthy of those who stood brave against the Demons.
-制定计划重建瓦尔克，使其成为值得勇敢对抗恶魔的部族的据点。
+制定了一项计划，将瓦尔克重建为值得那些勇敢对抗恶魔之人驻守的据点。
 
 Visitors came eager to trade goods and war stories. The legend of the Iron Division spread far and wide.
-访客们热切地前来交易物资和战争故事。铁军的传奇在各地流传开来。
+来访者们热切地前来交易物资和战争故事。铁军的传奇在各地流传开来。
 
 SLADE3 DOOM EDITOR by Simon Judd
 SLADE3 DOOM编辑器由Simon Judd开发
@@ -905,7 +905,7 @@ Sunshine     Zane Ward     Uncle Fass     Michel Mohr
 Sunshine     Zane Ward     Uncle Fass     Michel Mohr
 
 After so many months of hardship and struggle, the war was finally won by the greenskins and their allies.
-经历了数月的艰难与挣扎后，兽人及其盟友终于赢得了这场战争。
+历经数月的艰难困苦，兽人及其盟友终于赢得了这场战争。
 
 The few remaining Cult towns fell swiftly under the vengeance-thirsty orc blades. The Earth drank well.
 剩下的少数邪教城镇迅速被渴望复仇的兽人利刃所攻陷。大地畅饮着鲜血。
@@ -926,7 +926,7 @@ Loading...
 加载中……
 
 The tendrils won't move apart.
-这些触手不会分开。
+这些触须无法分开。
 
 These doors won't budge.
 这些门纹丝不动。
@@ -944,22 +944,22 @@ This switch requires a Bloody Axe key to operate.
 此开关需要用血斧钥匙才能操作。
 
 (A journal appears to have been brutally tossed around by an outburst of corrupt tendrils)
-（一本日记似乎曾因腐化触手的暴怒而被残忍地翻滚过）
+（一本日记似乎被腐化触手的爆发撕扯得支离破碎）
 
 This is the end of an era. An era of hiding in the dark and seeking a way to summon my dormant
-这是个时代的终结。一个隐藏于黑暗中的时代，寻求一种方式将我的沉睡
+这是一个时代的终结。一个在黑暗中隐藏、寻找一条让我的沉睡祖先回归
 
 ancestors to the world where they belong. Soon enough, the demon thralls will begin to purge
-祖先召唤到他们应属的世界。不久后，恶魔仆从们将开始清除任何潜在的
+他们应属世界方法的时代。很快，恶魔仆从们将开始肃清任何潜在的反对者，
 
 any potential opposition and prepare a new world for our people. And I will lead them as their
-反对者，并为我们的人民准备一个新世界。而我将作为他们的正统女王带
+并为我们的人民打造一个新世界。而我将成为他们的正统女王带领他们！
 
 rightful queen!  The Baron has come to terms with this plan  -  he knows better than to oppose
-领他们！男爵已接受这个计划——他比任何人都清楚反抗我只会徒劳无功
+男爵已接受这个计划——他比任何人都清楚反抗我只会徒劳无功！
 
 me!  And now that the Corrupt Seed is in my hands, I shall finally ascend.  The void awaits me.
-！如今腐化种子在我手中，我终将踏上升华之路。虚空在等待着我。
+如今腐化种子在我手中，我终将踏上升华之路。虚空在等待着我。
 
 South - The Great Stump
 南 - 巨树桩

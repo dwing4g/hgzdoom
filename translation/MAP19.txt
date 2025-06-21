@@ -275,10 +275,10 @@ Lancer Painting:    The matron used a doll as a vessel for my curse. Find where 
 长枪绘：女主人用一个娃娃作为我的诅咒容器。找到她存放的位置并将它带给我！
 
 Lancer Painting:    There is a pedestal inside the painting. I believe that's where the doll goes. However...
-长枪绘：画中有一个底座。我认为那正是娃娃该去的地方。然而……
+长枪绘：画中有一个基座。我认为那正是娃娃该去的地方。然而……
 
 Lancer Painting:    ...how would you ever reach the pedestal? You'd have to get inside the painting first...
-长枪绘：……你如何才能到达那个底座？你得先进入这幅画才行……
+长枪绘：……你如何才能到达那个基座？你得先进入这幅画才行……
 
 Lancer Painting:    By the Gods, I can hardly endure this any longer... having been paralyzed for so long...
 长枪绘：诸神啊，我几乎无法再忍受了……被困这么久已经瘫痪了……
@@ -287,7 +287,7 @@ Lancer Painting:    The few other captives have simply been petrified. I'd rathe
 长枪绘：其他几个俘虏只是被石化了。与其这样活着不如成为一尊死雕像……
 
 Lancer:    Quick! Place the doll on the nearby pedestal!
-长枪兵：快！把娃娃放在附近的底座上！
+长枪兵：快！把娃娃放在附近的基座上！
 
 Lancer:    It's great that you found a way inside here, but without the doll, I can't be freed!
 长枪兵：你能找到进入这里的办法真是太好了，但没有娃娃，我无法获得自由！
@@ -338,7 +338,7 @@ But before you go... while trapped in the painting, my crystals have gathered an
 ……我会将它引导到这个护甲符咒中。拿去吧，连同我的感激之情。愿它能好好保护你！
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 Primarch Avatar:    You! Down there! You're no servant of Yzbeth, is that right?
 原教化身：你！在下面！你可不是伊兹贝思的手下，对吧？

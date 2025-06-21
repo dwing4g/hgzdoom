@@ -299,16 +299,16 @@ An empty socket.
 一个空套件。
 
 A set of amber glyphs is etched into the sides of the empty pedestal.
-一组琥珀色符文刻在空底座的侧面。
+一组琥珀色符文刻在空基座的侧面。
 
 A set of green glyphs is etched into the sides of the empty pedestal.
-一组绿色符文刻在空底座的侧面。
+一组绿色符文刻在空基座的侧面。
 
 A set of silver glyphs is etched into the sides of the empty pedestal.
-一组银色符文刻在空底座的侧面。
+一组银色符文刻在空基座的侧面。
 
 A set of aqua glyphs is etched into the sides of the empty pedestal.
-一组青色符文刻在空底座的侧面。
+一组青色符文刻在空基座的侧面。
 
 Bear Warrior:    They're opening the Council Room! Get ready for another wave!
 熊战士：他们正在打开议会厅！准备迎接下一波攻击！

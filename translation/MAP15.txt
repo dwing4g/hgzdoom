@@ -170,7 +170,7 @@ High Priest Jaromir:    I see you've found a spare gear. Good, this shall ease y
 高阶祭司贾罗米尔：我看到你找到了备用齿轮。很好，这将帮助你进入水下设施。
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 Blue Baron:    Here she is, at last. The call is irresistible... so many questions running through her mind.
 幽蓝男爵：终于来了，她。那呼唤无法抗拒……她的脑海中充满了无数疑问。

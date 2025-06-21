@@ -35,7 +35,7 @@ Crystal Curator:    Can't... hold out... much... longer... go! Go!!!
 水晶管理员：撑不住了……坚持不了多久……去吧！快走！！！
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 Conscript:    *Annoyed mumble*
 征兵者：*烦躁地嘟囔*

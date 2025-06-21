@@ -80,10 +80,10 @@ You have nothing to offer to this shrine.
 你无法向这座神殿献上任何东西。
 
 The pedestal's locking mechanism prevents the ruby from being removed.
-底座的锁定机制阻止了红宝石被移除。
+基座的锁定机制阻止了红宝石被移除。
 
 The pedestal is empty.
-底座是空的。
+基座是空的。
 
 The door does not seem to have enough power to be operated.
 这扇门似乎没有足够的能量运作。
