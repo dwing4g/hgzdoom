@@ -382,9 +382,6 @@ Picked up an Empty Potion Bottle.   (Quest Item)
 Picked up a Mana Potion.   (Quest Item)
 拾取了一瓶魔力药水。  (任务物品)
 
-Picked up a Shovel.   (Quest Item)
-拾取了一把铲子。  (任务物品)
-
 Picked up a Sledgehammer.   (Quest Item)
 拾取了一把巨锤。  (任务物品)
 
@@ -663,6 +660,12 @@ Picked up a Mansion Sketch.
 
 Added an Ancient City Map to the journal.
 日志中增加了一幅古城地图。
+
+Picked up a few spikes.
+拾取了一些尖刺。
+
+Picked up a DepletedShard.
+拾取了一块枯竭碎片。
 
 Iron pickaxe - A simple iron pickaxe used for mining.   (Quest Item)
 铁镐 - 用于采矿的简单铁制镐。  (任务物品)
