@@ -953,10 +953,10 @@ const char* C_Translate(const char* msg)
 {
 	const int MAX_BUF_SIZE = 4000;
 	char buf[MAX_BUF_SIZE];
-	static std::unordered_map<std::string, std::string>* trans = 0;
-	if (!trans)
+	static std::unordered_map<std::string, std::string>* s_trans = 0;
+	if (!s_trans)
 	{
-		trans = new std::unordered_map<std::string, std::string>;
+		s_trans = new std::unordered_map<std::string, std::string>;
 		int n = 0;
 		WIN32_FIND_DATAW fd;
 		HANDLE hf = FindFirstFileW(L"translation\\*.txt", &fd);
@@ -977,13 +977,16 @@ const char* C_Translate(const char* msg)
 							while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
 								n--;
 							buf[n] = 0;
-							if (*buf)
+							const char* pbuf = buf;
+							while (*pbuf && (unsigned char)*pbuf <= 0x20)
+								pbuf++;
+							if (*pbuf)
 							{
 								if (bufe.empty())
-									bufe = buf;
+									bufe = pbuf;
 								else
 								{
-									trans->insert(std::make_pair(bufe, buf));
+									s_trans->insert(std::make_pair(bufe, pbuf));
 									bufe.clear();
 								}
 							}
@@ -997,7 +1000,7 @@ const char* C_Translate(const char* msg)
 			while (FindNextFileW(hf, &fd));
 			FindClose(hf);
 		}
-		Printf(PRINT_HIGH | PRINT_NONOTIFY, "Loaded %d pairs in %d files\n", (int)trans->size(), n);
+		Printf(PRINT_HIGH | PRINT_NONOTIFY, "Loaded %d pairs in %d files\n", (int)s_trans->size(), n);
 	}
 	while (*msg && (unsigned char)*msg <= 0x20)
 		msg++;
@@ -1017,8 +1020,8 @@ const char* C_Translate(const char* msg)
 	while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
 		n--;
 	buf[n] = 0;
-	std::unordered_map<std::string, std::string>::const_iterator it = trans->find(buf);
-//	if (it == trans->end())
+	std::unordered_map<std::string, std::string>::const_iterator it = s_trans->find(buf);
+//	if (it == s_trans->end())
 //		Printf(PRINT_HIGH | PRINT_NONOTIFY, "[%s]\n", buf);
-	return it != trans->end() ? it->second.c_str() : 0;
+	return it != s_trans->end() ? it->second.c_str() : 0;
 }
