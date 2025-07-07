@@ -167,7 +167,7 @@ I've been doing my best to hamper this sudden invasion from the shadows. The ven
 我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
+而不被察觉。我无意中听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
 他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
@@ -239,7 +239,7 @@ The Lancers became the just keepers of the Crystal Heart.
 长枪团成为水晶之心的公正守护者。
 
 The Earth Mothers harnessed the old ways of magic, and kept the orc traditions alive.
-大地之母们掌握了古老魔法之道，并延续了兽人的传统。
+大地之母掌握了古老魔法之道，并延续了兽人的传统。
 
 The Bear Warriors held the Division's might high.
 熊战士们高举军团的力量。
@@ -251,7 +251,7 @@ The Reavers became feared shadow guardians.
 掠夺者们成为令人畏惧的影子守护者。
 
 And the Fixers would make the weakest of metal strong.
-而修复者将最脆弱的金属变得强大。
+而修复者能将最脆弱的金属变得强大。
 
 Now that these hanging cyan crystals have been destroyed, the nature's grasp will begin to weaken...
 现在这些悬挂的青水晶已被摧毁，自然的力量将开始减弱……

@@ -29,7 +29,7 @@ Reaver:    Get ready, I feel like we're in for a big fight.
 *叹气* 你非要试试看，对吧？
 
 The gate mechanism is missing a gear.
-
+这个大门机关缺少一个齿轮。
 
 Tip: You can switch between ammo types by pressing the Potion Launcher key \1c[White](DEFAULT: 6)\1c-
 提示：按药水发射器键可切换弹药类型\1c[White]（默认：6键）\1c-
@@ -168,7 +168,7 @@ I've been doing my best to hamper this sudden invasion from the shadows. The ven
 我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
+而不被察觉。我无意中听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
 他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
@@ -240,7 +240,7 @@ The Lancers became the just keepers of the Crystal Heart.
 长枪团成为水晶之心的公正守护者。
 
 The Earth Mothers harnessed the old ways of magic, and kept the Orc traditions alive.
-大地之母们掌握了古老魔法之道，并延续了兽人的传统。
+大地之母掌握了古老魔法之道，并延续了兽人的传统。
 
 The Bear Warriors held the Division's might high.
 熊战士们高举军团的力量。
@@ -252,7 +252,7 @@ The Reavers became feared shadow guardians.
 掠夺者们成为令人畏惧的影子守护者。
 
 And the Fixers would make the weakest of metal strong.
-而修复者将最脆弱的金属变得强大。
+而修复者能将最脆弱的金属变得强大。
 
 Now that these hanging cyan crystals have been destroyed, the nature's power will begin to dwindle...
 现在这些悬挂的青水晶已被摧毁，自然的力量将开始减弱……
@@ -407,7 +407,7 @@ Return Vine Keys after use
 The cultists...  they somehow corrupted the portal...  this black slime, what the hell is this? Back at the
 邪教徒……他们竟然扭曲了传送门……这黑乎乎的黏液……到底是什么东西？回到
 
-Forge, we stepped in right after Dura and the others, but then this flash of light...  and something felt so
+Forge, we stepped in right after Dura and the others, but then this flash of light... and something felt so
 锻造厂，我们是在杜拉和其他人之后进入的，但随后那道光闪现……传送门似
 
 off with the portal, and next we woke up in the Grove. Arva and what's left of me. The gateway closed up

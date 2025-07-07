@@ -2,6 +2,7 @@ local fnss = {
 	{ "0.txt", "0.me" },
 	{ "MAP.txt" },
 	{ "MAP01.txt", "MAP01.m" },
+	{ "MAP01_demo.txt", "MAP01_demo.m" },
 	{ "MAP02.txt", "MAP02.m" },
 	{ "MAP03.txt", "MAP03.m" },
 	{ "MAP04.txt", "MAP04.m" },

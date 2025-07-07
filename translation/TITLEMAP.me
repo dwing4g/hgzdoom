@@ -1,4 +1,5 @@
 Zan presents... 
+ver. 2.4.0 - DEMO 
 ver. 2.4.2 
 Press any key to begin. 
 Tip #1: Rocket jumping allows for shortcuts and different approaches of a level.

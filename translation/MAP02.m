@@ -34,7 +34,7 @@ first time. Something about an impending doom about to claim us. Can hardly unde
 he's missing half his tongue.     He doesn't seem to feel much pain, so we're not sure how to interrogate him... 
 (This journal appears to have belonged to Sergeant Barna. The last entries catch your attention)
 Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
-Day 236: Since there's not much going on, I might start breaking down that cracked cell wall and fix it.
+Day 236: Since there's not much going on, I might start breaking down that \1c[Gold]cracked cell wall\1c- and fix it.
 Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
 found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
 All he does is mumble and groan.   I plucked away a bunch of spikes stuck in his back.   I've got no idea who

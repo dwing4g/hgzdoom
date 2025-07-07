@@ -1190,7 +1190,7 @@ Maid:    Oh, you found my goggles? Hmm, know what? Why don't you keep them? The 
 侍女：哦，你找到我的护目镜了？嗯……你知道吗？不如你就留着吧，地窖可以再等一会儿。
 
 Maid:    Dust everywhere. And I told the Earth Mothers to be more careful when quaking up the caves.
-侍女：到处都是灰尘。我还告诉大地之母们在震动洞穴时要更小心些。
+侍女：到处都是灰尘。我还告诉大地之母在震动洞穴时要更小心些。
 
 Maid:    What a mess... if only they were as good at cleaning after themselves as they are at drinking.
 侍女：这真是个乱摊子……要是他们能像喝醉那样收拾自己就好了。
@@ -1247,7 +1247,7 @@ E.M. Bendi:    The Self Worship practiced by the Cult has revealed other kinds o
 E.M.本迪：邪教实践的自我崇拜揭示了不同于元素之神的其他魔法类型。
 
 Witch Brewer:    Sorry, no new healing pots. The Earth Mothers are suddenly in need of even more mana...
-女巫酿造师：抱歉，没有新的治疗药水了……大地之母们突然需要更多魔力……
+女巫酿造师：抱歉，没有新的治疗药水了……大地之母突然需要更多魔力……
 
 Witch Brewer:    Aww, you need me to check your recipe? Maybe you should've thought about it before breaking my stuff!
 女巫酿造师：哎呀，你需要我检查你的配方？也许你该先考虑好再打破我的东西！
@@ -1268,7 +1268,7 @@ Witch Brewer:    Help yourself to these potions if you need. They'll get you bac
 女巫酿造师：需要的话随便拿这些药剂吧。它们能让你迅速恢复战斗力！
 
 Witch Brewer:    With the Earth Mothers busy keeping the crystals functional, I have to handle the healing by myself.
-女巫酿造师：由于大地之母们正忙着维持水晶的运转，我只能自己处理治疗工作了。
+女巫酿造师：由于大地之母正忙着维持水晶的运转，我只能自己处理治疗工作了。
 
 Witch Brewer:    I have to make mana potions right now... don't suppose you warriors have any use for them, do you?
 女巫酿造师：现在我得赶紧制作魔力药剂……你们战士们有用吗？
