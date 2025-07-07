@@ -43,6 +43,24 @@ A chaotic difficulty that shifts gameplay towards more combat and carnage. There
 You can't use guns, but you get access to a new set of melee weapons to help you overcome this challenge! Monster strength is normal but spawns are similar to Brutalizing. You may also find a few additional companions. Perfect for second playthroughs.
 你不能使用枪械，但可以获得一套新的近战武器，以帮助你克服这一挑战！怪物强度是普通级的，但数量跟狂暴难度相似。你也可能找到几位额外的同伴。非常适合二周目通关。
 
+You'll find plenty of ammo, health and armor. Enemies are less resilient and powerful, making for easier fights. Keys, important locations and readables are marked on the map.
+你会找到大量的弹药、健康包和护甲。敌人的抵抗和强度更弱，以便更容易战斗。地图上标注了重要的地点和可读物。
+
+Normal difficulty, recommended for most players. Enemies are slightly less resilient, and you'll find a bit more ammo. Important readables are marked on the map.
+普通难度，推荐给大多数玩家。敌人的抵抗稍弱，你会发现有点多的弹药。地图上标注了重要可读物。
+
+Enemies have full strength and you'll have to better manage your ammo and consumables. Recommended for skilled players.
+敌人会使出全力，你必须更好地管理你的弹药和消耗品。推荐给熟练的玩家。
+
+Enemies deal 50% more damage and you will find less ammo around. Progression hints are no longer highlighted in readables. Fit for those who really want to challenge their survival skill and wit.
+敌人造成的伤害增加50%，且你会找到更少的弹药。可读物里的进度提示不再高亮。适合那些真正想挑战自己生存技能和智慧的玩家。
+
+A chaotic difficulty that shifts gameplay towards more combat and carnage. There are new monster spawns, higher tier enemies appear earlier and are stronger and more aggressive than usual. However, you also get the weapons, consumables and ammo required to put them down. You also have the chance to encounter a couple of companions along the way.
+一种狂乱的难度，其玩法会倾向更多的战斗和杀戮。有更多新怪物出现，高阶敌人提前登场，而且比平时更强、更具攻击性。然而，你也能得到打倒它们所需的武器、消耗品和弹药。你也有机会在途中遇到几位同伴。
+
+You can't use guns, but you get access to a new set of melee weapons to help you overcome this challenge! Monster strength is normal but spawns are similar to Brutalizing.
+你不能使用枪械，但可以获得一套新的近战武器，以帮助你克服这一挑战！怪物强度是普通级的，但数量跟狂暴难度相似。
+
 Got a hefty Axe.
 得到了一把重斧。
 

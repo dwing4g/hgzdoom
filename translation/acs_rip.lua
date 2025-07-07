@@ -8,7 +8,7 @@ for line in io.lines(arg[1]) do
 	local msg = line:match "[hH]ud[mM]essage%s*%(%s*s:%s*\"(.-)\""
 	if not msg then msg = line:match "[pP]rint%s*%(%s*s:%s*\"(.-)\"" end
 	if msg then
-		msg = msg:gsub("\\c%[.-%]", ""):gsub("\\c%-", "") -- \c[Gold]waterfall gate\c-
+		msg = msg:gsub("\\(c%[.-%])", "\\1%1"):gsub("\\c%-", "\\1c-") -- \c[Gold]waterfall gate\c-
 		msg = msg:gsub("^%s+", ""):gsub("%s+$", "")
 		if #msg > 1 and msg:find "%a%a" and msg ~= lastMsg then
 			lastEnd = false

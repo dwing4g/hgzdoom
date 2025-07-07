@@ -949,6 +949,12 @@ bool C_IsBlank(const char* msg)
 	}
 }
 
+inline static int hex2num(int c)
+{
+	int h = c >> 6;
+	return (c & 15) + h + (h << 3);
+}
+
 const char* C_Translate(const char* msg)
 {
 	const int MAX_BUF_SIZE = 4000;
@@ -973,12 +979,30 @@ const char* C_Translate(const char* msg)
 						std::string bufe;
 						while (fgets(buf, MAX_BUF_SIZE, fp))
 						{
-							int n = (int)strlen(buf);
+							// for escape: \xx => byte(xx)
+							int n = 0;
+							for (int i = 0;; i++, n++)
+							{
+								int c = buf[i];
+								if (c == 0)
+								{
+									if (i != n)
+										buf[n] = 0;
+									break;
+								}
+								if (c == '\\')
+								{
+									c = hex2num(buf[++i]);
+									c = (c << 4) + hex2num(buf[++i]);
+								}
+								if (i != n)
+									buf[n] = (char)c;
+							}
 							while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
 								n--;
 							buf[n] = 0;
 							const char* pbuf = buf;
-							while (*pbuf && (unsigned char)*pbuf <= 0x20)
+							for (unsigned char c; (c = *pbuf) && c <= 0x20 && c != 0x1c;)
 								pbuf++;
 							if (*pbuf)
 							{
@@ -986,7 +1010,9 @@ const char* C_Translate(const char* msg)
 									bufe = pbuf;
 								else
 								{
-									s_trans->insert(std::make_pair(bufe, pbuf));
+									std::string bufc = pbuf;
+									if (bufe != bufc)
+										s_trans->insert(std::make_pair(bufe, bufc));
 									bufe.clear();
 								}
 							}
@@ -1002,26 +1028,29 @@ const char* C_Translate(const char* msg)
 		}
 		Printf(PRINT_HIGH | PRINT_NONOTIFY, "Loaded %d pairs in %d files\n", (int)s_trans->size(), n);
 	}
-	while (*msg && (unsigned char)*msg <= 0x20)
+	for (unsigned char c; (c = *msg) && c <= 0x20 && c != 0x1c;)
 		msg++;
-	int n = 0;
-	for (int i = 0, f = 0;;)
+	int n = (int)strlen(msg);
+	while (n > 0 && (unsigned char)msg[n - 1] <= 0x20)
+		n--;
+	std::unordered_map<std::string, std::string>::const_iterator it = s_trans->find(std::string(msg, n));
+	if (it != s_trans->end())
+		return it->second.c_str();
+	for (int i = 0, j = 0, f = 0;;)
 	{
+		if (i >= n || j >= MAX_BUF_SIZE)
+		{
+			it = s_trans->find(std::string(buf, j));
+			// if (it == s_trans->end())
+			//	Printf(PRINT_HIGH | PRINT_NONOTIFY, "[%s]\n", buf);
+			return it != s_trans->end() ? it->second.c_str() : 0;
+		}
 		char c = msg[i++];
-		if (c == 0 || n >= MAX_BUF_SIZE - 1)
-			break;
 		if (c == TEXTCOLOR_ESCAPE)
 			f = 1;
 		else if (!f)
-			buf[n++] = c;
+			buf[j++] = c;
 		else if (c == ']' || c == '-')
 			f = 0;
 	}
-	while (n > 0 && (unsigned char)buf[n - 1] <= 0x20)
-		n--;
-	buf[n] = 0;
-	std::unordered_map<std::string, std::string>::const_iterator it = s_trans->find(buf);
-//	if (it == s_trans->end())
-//		Printf(PRINT_HIGH | PRINT_NONOTIFY, "[%s]\n", buf);
-	return it != s_trans->end() ? it->second.c_str() : 0;
 }

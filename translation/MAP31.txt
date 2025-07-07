@@ -28,6 +28,9 @@ Map03 - Barracks (Minor Spoilers)
 Map04 - Technical Space (Minor Spoilers)
 地图04 - 技术空间（轻微剧透）
 
+Map05 - Grove (Play Demo) 
+地图05 - 林地（试玩）
+
 Map05 - Grove (Moderate Spoilers)
 地图05 - 林地（中度剧透）
 

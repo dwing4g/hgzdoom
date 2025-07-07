@@ -1,0 +1,538 @@
+Bear Warrior:    The Grove portal should still be usable, let's head in there quickly.
+熊战士：绿洲传送门应该还能使用，我们快进去吧。
+
+Reaver:    Don't shoot! Friendly.
+掠夺者：别开枪！是友军。
+
+Those darned cultists have boxed me in. Let's take 'em on together!
+那些可恶的邪教徒把我围住了。我们一起上吧！
+
+Bear Warrior:    Tagging along would be more helpful than hiding in a closet indeed.
+熊战士：跟在后面确实比躲在储物柜里更有用。
+
+Bear Warrior:    What is this... slime? It looks like it's alive!
+熊战士：这是什么……黏液？看起来它好像活过来了一样！
+
+Reaver:    These dark hearts seem to be feeding off the portal's energy sources.
+掠夺者：这些黑暗心脏似乎在汲取传送门的能量源。
+
+Reaver:    What is this sludge? It looks like it's alive... and feeding off the portal's power sources.
+掠夺者：这是什么泥浆？看起来它好像活过来了……还在汲取传送门的力量源。
+
+Bear Warrior:    Oh shit... This isn't going to go down easily, is it?
+熊战士：卧槽……这仗恐怕不好打吧？
+
+Reaver:    Get ready, I feel like we're in for a big fight.
+掠夺者：准备好了，我感觉我们要经历一场大战。
+
+*Sigh* You just HAD to try this, didn't you?
+*叹气* 你非要试试看，对吧？
+
+The gate mechanism is missing a gear.
+
+
+Tip: You can switch between ammo types by pressing the Potion Launcher key \1c[White](DEFAULT: 6)\1c-
+提示：按药水发射器键可切换弹药类型\1c[White]（默认：6键）\1c-
+
+The glass is heavily cracked, and looks like it could break any moment.
+玻璃严重裂开，看起来随时可能碎裂。
+
+(This tablet seems to be instilled with an Earth Magic spell. You don't know how to read it, though.)
+（这块石板似乎蕴含着大地魔法咒语。不过你不会读这种文字。）
+
+This switch requires a Vine key to open the door.
+此开关需要用藤蔓钥匙才能开门。
+
+This door requires an Earth key to open.
+这扇门需要用大地钥匙才能打开。
+
+The portal's activation seems to be funneling away the door's power.
+传送门的激活似乎正在抽走门的能量。
+
+This switch requires a Vine key to open the door.
+此开关需要用藤蔓钥匙才能开门。
+
+The portal's activation seems to be funneling away the door's power.
+传送门的激活似乎正在抽走门的能量。
+
+Looks like the auxiliary power is out.
+看起来备用能量已经耗尽了。
+
+This door requires a Vine key to open.
+这扇门需要用藤蔓钥匙才能打开。
+
+Reaver:    Don't shoot! Friendly.
+掠夺者：别开枪！是友军。
+
+Those darned cultists have boxed me in.  Let's take 'em on together!
+那些可恶的邪教徒把我围住了。我们一起上吧！
+
+Bear Warrior:    Tagging along would be more helpful than hiding in a closet indeed.
+熊战士：跟在后面确实比躲在储物柜里更有用。
+
+This door requires a Stone key to open.
+这扇门需要用石钥匙才能打开。
+
+Bear Warrior:    Now THAT was a blast! Can't believe we're still in one piece.
+熊战士：那家伙可真够劲！简直不敢相信我们还能完好无损。
+
+Reaver:    The portal is active now, let's hurry up!
+掠夺者：传送门现在激活了，快点！
+
+Reaver:    We... survived? ...well the portal's up, let's get out of here while we can!
+掠夺者：我们……活下来了？……好吧，传送门已经启动了，趁现在赶紧离开吧！
+
+I realised I've had this key on me since yesterday. I'm running late for the council, can you be kind
+我意识到我昨天起就一直带着这把钥匙。我迟到了，能帮我把它送回
+
+and return it to the portal cave for me? If anyone scolds you, tell her it's my fault and I apologise.
+传送门洞穴吗？如果有人责备你，就说是我的错，并向她道歉。
+
+Here are some of the new green crystal plants we have grown. Not only will they heal and soothe any
+这是我们新培育的一些绿色水晶植物。它们不仅能治愈和舒缓任何
+
+wound, but even extend the patient's vitality, should they not find themselves in a grave condition.
+伤口，甚至还能增强患者的活力，即使他们没有陷入危急状态。
+
+Bear in mind to not remove the plant from its soil,  or the crystal will harden and become inedible.
+请注意不要将植物从土壤中拔出来，否则水晶会硬化并变得不可食用。
+
+We will send in more crystals as we grow them, the spell we use is yet to be perfected. -Mother Bendi
+我们将陆续发送更多水晶，目前使用的魔法尚未完善。-大地之母本迪
+
+(A slight pellicle of dust covers the pages of this journal.)
+（这本笔记的页面覆盖着一层薄薄的灰尘。）
+
+
+[...]days pass on, and so does my progress advance with each and every hour. I've been able to shrink
+[...]日子一天天过去，我的进展也随着每一小时而推进。这次我成功缩
+
+down a fairly large stump this time... makes writing this so much more comfortable too! This spell will
+小了一块相当大的树桩……这让书写变得轻松多了！这种魔法终将成
+
+become a true marvel. And now with the bulk of the Division departing, I will have more time to pursue
+为真正的奇迹。如今军团主力已撤离，我会拥有更多时间追求其完美
+
+its perfection...   I'm planning on shrinking some live plants next. Or perhaps some seeds, and see if I
+化……我计划接下来尝试缩小一些活体植物，或者种子，看看是否能
+
+can grown my own food here. Who would have ever imagined that one could shrink her entire library and
+在此地种植自己的食物。谁能想到一个人竟能将整个图书馆和储物间
+
+pantry and be able to carry it all into a mere clay tablet? Still, it does toll on my mana quite a bit...
+都缩小到一块陶土板上并携带？不过，这仍会大量消耗我的魔力……
+
+South - The Great Stump
+南 - 巨树桩
+
+East - Reaver Headquarters
+东 - 掠夺者总部
+
+West - Grove Portal Cave
+西 - 绿洲传送洞穴
+
+(You look over what seems to be a report written in bloody demonic runes.)
+（你俯视似乎是一份用血腥恶魔符文书写的报告。）
+
+When I was told I would be expected by a welcoming party here, I assumed they would be ALIVE. How hard
+当我被告知会在这里遇到迎接派对时，我原以为他们会是活生生的。怎么可能
+
+can it be to overcome a few measly Orcs? Gah, at least the fumes from those incompetents' bodies should
+会难倒几个可怜的兽人？唉，至少这些无能之辈尸体散发的气味应该能帮我们
+
+help silence these maddening crickets outside... I must get to work, cremating the dead was not my duty.
+压制外面恼人的蟋蟀声……我得赶紧干活了，处理遗体并不是我的职责。
+
+I have already discovered a message left behind by an I.D. survivor.   I do believe she is still alive and
+我已经发现了一名铁军幸存者留下的信息。我认为她仍然活着，并且不惜
+
+bent on slowing down our advance at any cost. I must inform mistress Nithriel as soon as I am recalled.
+一切代价阻碍我们的推进。我必须在被召回时立刻通知妮丝瑞尔女士。
+
+This Reaver also mentions crystals in her note, so the I.D. must be somewhat aware of our purpose here.
+这位掠夺者笔记中也提到了水晶，因此铁军至少对我们的目的有所了解。
+
+I will commence my research on the Crystal Heart right now,  but it will be harder without assistance.
+我将立即开始对水晶之心的研究，但没有协助会更加困难。
+
+The plaza seems devoid of any life, yet I feel unsafe - rumor has it the Halfblood has vanished from the
+广场似乎毫无生机，但我仍感到不安——传言混血人已从战场上消失。没人能
+
+battlefield. Nobody could find her corpse...But I worry too much, it's not like she would just barge in h-
+找到她的尸体……不过我可能想太多了，她不会就这样贸然闯入这里——
+
+(You notice an old note dropped by Tiati. It seems like nearby the cultist has found it.)
+（你注意到提娅媞留下的旧笔记。看起来附近邪教徒已经发现了它。）
+
+I've been doing my best to hamper this sudden invasion from the shadows. The ventilation shafts helped
+我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
+
+me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
+而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
+
+They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
+他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
+
+Crystal Shop and move all the merchandise upstairs. I must delay them from getting their hands on our
+并将所有商品搬到了楼上。我必须拖延他们获取我们科技的脚步。
+
+tech.    I even trashed a few Power Cores,  but they heard the noise so I had to break the ladder and go.
+我甚至毁掉了一些能量核心，但他们听到了动静，所以我不得不打破梯子逃走了。
+
+Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters need to break the ward[...]
+幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障[...]
+
+(A series of magic runes are carved into the tablet. The lower part is not yet complete.)
+（一系列魔法符文刻在石板上。下半部分尚未完成。）
+
+The Forbidden Caves - Chapter 2: The Crystal Heart
+禁地洞穴 - 第二章：水晶之心
+
+[...]  There is a proper reason why only the strongest of the Iron Division are allowed access into the
+[...] 只有铁军中最强大的成员才能进入这里，是有充分理由的。
+
+Inner Crystal Sanctuary. The Heart can alter the very flow of Hedon, and even what lies above it, in
+水晶圣殿内部。心脏能够改变赫顿的本质流动，甚至影响其上界
+
+the overworld, where crystals don't grow. Its powers are vast, and rightly difficult to comprehend -
+——那里本不该生长水晶——的力量。它的能力浩瀚无边，难以
+
+for it is not one's knowledge that can unlock it, but their wisdom.  If the Heart were to be grasped by
+理解，因为并非知识能解开它，而是智慧。若这颗心脏落入恶意
+
+malicious hands, it could be used to bring unparalleled suffering, perhaps even the end of the world as
+之手，便可能引发无与伦比的苦难，甚至终结我们所知的世界。
+
+we know it.  It is thus our duty to protect it at any cost, for without it, we would crumble into pieces.
+因此我们必须不惜一切代价保护它，否则我们将分崩离析。
+
+The Lancers are the prime guardians of the Heart, and the foremost custodians of the crystal technology.
+长枪团是守护心脏的核心力量，也是水晶科技最坚定的保管者。
+
+Although Earth Mothers and Witches have both contested the right to become keepers of the Heart, it was
+尽管大地之母和女巫都曾争夺成为心脏守护者的权利，但真正拒绝她
+
+the Elemental Gods themselves that refused them and their unbalanced nature.  The Mothers wish to use
+们及其失衡本性的，是元素之神本身。大地之母希望借助水晶强化自
+
+crystals to further their own magical powers and cure the world of all its ailments,  while Witches seek to
+身魔力，并治愈世界所有疾患；而女巫则渴望突破极限、塑造未来。
+
+uncover new limits and shape the future.  But good today may well be evil tomorrow.   Truth is the judge.
+然而今日的善行，或许正是明日的恶果。真理才是最终审判者。
+
+History of the Iron Division - Chapter 4: The Castes
+铁军史 - 第四章：种姓
+
+[...]   and upon settling within the caves of Hedon, the greenskins were divided into six castes, each
+[...] 他们在赫顿的洞穴中安顿下来后，绿皮人被划分为六个种姓，
+
+responsible with a part of the integrity of their no longer nomadic tribe.    They would all use their
+每个种姓负责维持其不再游牧部落的部分稳定。他们将用各自天赋以不同方式行事，
+
+gifts in various ways,  with the major purpose of erecting Valc from cold stone and turning it into a
+主要目的是从冷石中建造瓦尔克，并将其变为宏伟的城市。
+
+grand city. No longer would they search their place, for the crystal caverns gave them everything.
+他们不再需要寻找自己的位置，因为水晶洞窟已赋予他们一切。
+
+The Lancers became the just keepers of the Crystal Heart.
+长枪团成为水晶之心的公正守护者。
+
+The Earth Mothers harnessed the old ways of magic, and kept the Orc traditions alive.
+大地之母们掌握了古老魔法之道，并延续了兽人的传统。
+
+The Bear Warriors held the Division's might high.
+熊战士们高举军团的力量。
+
+The Witches used their knowledge to push new boundaries.
+女巫们用知识推动新的边界。
+
+The Reavers became feared shadow guardians.
+掠夺者们成为令人畏惧的影子守护者。
+
+And the Fixers would make the weakest of metal strong.
+而修复者将最脆弱的金属变得强大。
+
+Now that these hanging cyan crystals have been destroyed, the nature's power will begin to dwindle...
+现在这些悬挂的青水晶已被摧毁，自然的力量将开始减弱……
+
+At least if my conclusions based on what I've researched here are correct. If so, expect the portal's
+至少如果我根据在这里的研究得出的结论正确的话。如果是这样，传
+
+power source to help expand the corruption with one less obstacle in its wake. However, we'll have to
+送门的能量源将在减少一个阻碍后帮助腐化进一步扩散。然而我们得
+
+deal with the Halfblood first... I understand that the cultists are in position right before the massive
+先处理混血人……我了解到邪教徒正位于那棵巨型兽人树前方，至于
+
+Orc tree... as for the Goblins, I will send a handful of Crawlers after them, right after I feed them the
+哥布林，我会在喂饱那些未能杀死这些烦人的绿皮小家伙的蠢货后，
+
+fools that failed to slay these pesky green runts. Blowing the way to the northern wing did nothing but
+派一小队爬行者去对付他们。阻挡北翼入口毫无意义，只会拖延时间。
+
+delay us. They SHOULD have imagined you can't trap them in a place sprawling with ventilation shafts.
+他们本该明白，你无法将它们困在一个通风管道遍布的区域。
+
+The Demonblood lives!   And she is here. She's slaughtered our entire force in the Plaza, and knowing
+恶魔之血活了！她来了。她在广场上屠杀了我们整支队伍，而根据
+
+how competent our worshipers have proven themselves to be so far, I am certain that she is making
+我观察到的信徒们迄今为止展现出的能力，我确信她正朝我们的
+
+her way towards our...  goal.  Do NOT let her touch the portal here.  Reinforce the main gates, have
+……目标前进。绝不能让她抵达这里的传送门！加固主城门，搭
+
+a barricade built, send the strongest of your Iron Maidens to hold that line...   should they fall, the
+建防御工事，派出最强壮的铁娘子守卫防线……如果她们倒下，
+
+Halfblood will meet her end before she reaches the portal. I've prepared an ambush. -Master Thadus
+混血人会在她到达传送门前终结她的性命。我已经设下了埋伏。-大师塔杜斯
+
+Of Metal & Cave Rock - A study by Earth Mother Bendi
+《金属与洞穴岩石》 - 大地之母本迪的研究笔记
+
+(The parchment seems to detail an alchemical concoction meant to prevent metal from rusting.)
+（羊皮纸似乎记载了一种防止金属生锈的炼金配方）
+
+Grand Earth Mother Breaza's Journal - Rotation 509, Day 184
+伟大的大地之母布里扎日记 - 第509轮，第184天
+
+Today, I have witnessed the first working crystal grown by ancestral magic. The seed is finally able
+今天，我见证了由祖先魔法培育出的第一颗功能性水晶。这颗种子终
+
+to grow a fully edible vegetal crystal instilled with healing powers. The testing has been completed
+于能够生长出完全可食用的植物水晶，其中蕴含着治愈的力量。测试
+
+with favorable results...   as long as we don't remove the stem from its soil.   Luckily for us, we still
+已经顺利完成……只要我们不将它的茎从土壤中拔出即可。幸运的是，
+
+have eighteen days until the campaign begins, and I have made arrangements for a Reaver team to go
+我们还有十八天直到战役开始，我已经安排了一支掠夺者小队去传
+
+forth and spread the crystal plant seed ahead of our future path. With a bit of luck, we will be able
+播水晶植物种子，提前铺设在我们未来的行进路线上。若能侥幸成功，
+
+to reap the healing pods just as we are making our advance towards the accursed, fiery pits of Hell...
+我们将在向诅咒的火坑地狱推进时，收获这些治愈果实……
+
+We've dealt with the last intruder - she's managed to get all the way up to the second floor, but she
+我们已经处理了最后一个入侵者——她成功抵达二楼，但无法突破根之
+
+couldn't get past the root gate. Still, neither can we... we've tried everything, but the roots simply
+门。不过，我们同样无法通过……我们尝试过一切方法，但根部的再生
+
+regenerate faster than we can damage them! We know they're using the tablets to recite a spell that
+速度远比我们破坏得更快！我们知道他们正用石板吟唱咒语以获得通行
+
+grants them passage, but that bitch guarding the library must have hidden the tablet before we got
+权限，但守卫图书馆的那个女人肯定在我们到达前就藏起了石板。无论
+
+here. Whatever lies on the floor above, it must be valuable to them! Perhaps it's the very key to the
+楼上有什么东西，对它们而言必定价值连城！或许正是通往传送门控制
+
+Portal controls! Nobody else has found it, right? We NEED to find that darned tablet. And I need aid.
+的关键！没人找到它吧？我们需要找到那该死的石板！我需要帮助。
+
+The greenskin couldn't have had much time to hide the tablet after hearing us warp and commence the
+绿皮人听到我们发动攻击后恐怕没太多时间藏起石板，所以我推测它一定在这
+
+attack, so I assume it must be on this floor somewhere. I've had the cultists search the place, but to
+层楼的某个地方。我已经让邪教徒们搜索过这里，但毫无结果。我需要你派
+
+no avail.   I need you to send more thralls here so we can cover more ground. Imagine how pleased will
+更多仆从来这里，以便我们能覆盖更多的区域。想象一下，妮丝瑞尔女士听
+
+mistress Nithriel be to hear we have gotten that portal running! Trust me, that tablet MUST be here...
+到我们成功启动了传送门会有多高兴！相信我，那块石板一定在这里……
+
+We've dealt with the last intruder - she's managed to get all the way up to the second floor, but she
+我们已经处理了最后一个入侵者——她成功抵达二楼，但无法突破根之
+
+couldn't get past the root gate. Still, neither can we... we've tried everything, but the roots simply
+门。不过，我们同样无法通过……我们尝试过一切方法，但根部的再生
+
+regenerate faster than we can damage them! We know they're using the tablets to recite a spell that
+速度远比我们破坏得更快！我们知道他们正用石板吟唱咒语以获得通行
+
+grants them passage, but that bitch guarding the library must have \1c[Gold]hidden the tablet\1c- before we got
+权限，但守卫图书馆的那个女人肯定在我们到达前就\1c[Gold]藏起了石板\1c-。无论
+
+here. Whatever lies on the floor above, it must be valuable to them! Perhaps it's the very key to the
+楼上有什么东西，对它们而言必定价值连城！或许正是通往传送门控制
+
+Portal controls! Nobody else has found it, right? We NEED to find that darned tablet. And I need aid.
+的关键！没人找到它吧？我们需要找到那该死的石板！我需要帮助。
+
+The greenskin couldn't have had much time to hide the tablet after hearing us warp and commence the
+绿皮人听到我们发动攻击后恐怕没太多时间藏起石板，所以我推测它一定在这
+
+attack, so I assume it must be on this floor somewhere. I've had the cultists search the place, but to
+层楼的某个地方。我已经让邪教徒们搜索过这里，但毫无结果。我需要你派
+
+no avail.   I need you to send more thralls here so we can cover more ground. Imagine how pleased will
+更多仆从来这里，以便我们能覆盖更多的区域。想象一下，妮丝瑞尔女士听
+
+mistress Nithriel be to hear we have gotten that portal running! Trust me, that tablet MUST be here...
+到我们成功启动了传送门会有多高兴！相信我，那块石板一定在这里……
+
+(Several tablets have been piled up on the table. It seems the cultists haven't found any use for them.)
+（数块石板堆在桌上。看起来邪教徒们还没发现它们的用途。）
+
+(A number of carvings have been made in the soft clay, but the inscription seems far from finished.)
+（软泥上刻着一些图案，但铭文似乎尚未完成。）
+
+Shaping the Caves - Chapter 2: Magical Quakes
+塑造洞穴 - 第二章：魔震
+
+(The tablet proceeds to describe a spell, but does not contain any useful incantation.)
+（石板继续描述一个咒语，但并未包含任何有用的咒文。）
+
+I'm afraid I haven't found you home in time, so I will leave you this note. I've put
+恐怕我没能及时找到你回家，所以留下这张便条。我把你的物品放在图
+
+your belongings in the library safe. Just look for a purple book, and pull it. -Anda
+书馆保险箱里了，只需找一本紫色的书，然后拉出来即可。-安达
+
+Reaver Headquarters Auxilliary Generator
+掠夺者总部辅助发能机
+
+Return Vine Keys after use
+使用后归还藤蔓钥匙
+
+(The last page of this otherwise uninteresting log book has been written over by someone else.)
+（这本原本乏味的日志本最后一张纸却被另一个人写满了内容。）
+
+The cultists...  they somehow corrupted the portal...  this black slime, what the hell is this? Back at the
+邪教徒……他们竟然扭曲了传送门……这黑乎乎的黏液……到底是什么东西？回到
+
+Forge, we stepped in right after Dura and the others, but then this flash of light...  and something felt so
+锻造厂，我们是在杜拉和其他人之后进入的，但随后那道光闪现……传送门似
+
+off with the portal, and next we woke up in the Grove. Arva and what's left of me. The gateway closed up
+乎出了什么问题，接着我们就醒在了林地里。阿尔瓦和我残存的部分。门关突
+
+suddenly and sliced my leg clean. I'm done for... Arva went out to search for the key to turn the damned
+然关闭并割断了我的腿。我完了……阿尔瓦离开去寻找能重启这该死装置的钥
+
+thing back on, but she's been away for too long now...   I can only pray Dura and what's left of the squad
+匙，但她已经离开太久了……我只能祈祷杜拉和其他队员剩下的部分比我们运
+
+had better luck than us... Come on, you bastards, come get me so I can send you back to the pits of hell!
+气更好……来吧，你们这些混蛋，快来抓我，让我送你们回地狱深渊！
+
+Make sure to turn the auxiliary power on before you shut down the generator for any
+在进行任何维护工作关闭发能机前务必先开启辅助能源。
+
+maintenance work. I don't wanna hear anymore complaints from the archive curators
+我不想再听到档案管理员们被困在办公室里的抱怨
+
+getting stuck in their office because the doors stop working. Just talk to the Earth
+因为门关停止运作了。直接和大地母亲们交谈
+
+Mothers to let you in the portal cave until we get one of our own Vine keys.    - Boss
+允许你们进入传送门洞穴，直到我们获得一把自己的藤蔓钥匙。- 老板
+
+(You browse through a fancy book recording various magical rituals)
+（你浏览一本记录各种魔法仪式的精美书籍）
+
+[...]  Rot. 509  Day 171  -  We have perfected the enchantment design for the Great Axes.
+[...] 第509轮 第171天 - 我们已完善了巨斧的附魔设计。
+
+Aside from significantly increasing the wielder's nature resistance, the new thorn aura
+除了显著提升使用者的自然抗性，新的荆棘光环将把所有
+
+will reflect all the pain and damage back to the aggressor. - Grand Earth Mother Breaza
+伤害和痛苦反射给攻击者。- 伟大的大地之母布里扎
+
+Tip: Press \1c[White]F1\1c- at any time to view the quick reference screen.
+提示：随时按\1c[White]F1\1c-键查看快速参考界面。
+
+All messages can be reviewed in the console \1c[White](default: Tilde)\1c-
+所有消息都可以在控制台中查看\1c[White]（默认：波浪号键）\1c-
+
+Tip: You won't get far without a map \1c[White](default: TAB)\1c-
+提示：没有地图寸步难行\1c[White]（默认：Tab键）\1c-
+
+It has an overlay and normal mode that can be configured from: Options - Automap Options
+它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置。
+
+While in normal mode, you can zoom in/out \1c[White](default: MWheel)\1c- and mark your current position with \1c[White](default: M)\1c-
+在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）\1c-标记当前位置。
+
+Tip: Quest Items are not required to be manually selected.
+提示：任务物品无需手动选择。
+
+They are used automatically with \1c[White](default: E)\1c-
+它们会被自动使用\1c[White]（默认：E键）\1c-
+
+Tip: Use consumables with \1c[White](default: F)\1c-
+提示：使用消耗品时按\1c[White]（默认：F键）\1c-
+
+Consumables and Quest Items are stored in your inventory. Scroll through it with \1c[White](default: Z/X)\1c-
+消耗品和任务物品存放在你的背包中，可通过\1c[White]（默认：Z/X键）\1c-滚动查看。
+
+You can inspect the currently selected item for a brief description with \1c[White](default: ENTER)\1c-
+你可以按\1c[White]（默认：回车键）\1c-查看当前选中物品的简要描述。
+
+You can also set hotkeys for these items, or see the default ones in the help screen \1c[White](default: F1)\1c-
+你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键\1c[White]（默认：F1键）\1c-。
+
+Tip: Crystal Amulets provide you with a set amount of armor.
+提示：水晶护符会为你提供固定数量的护甲值。
+
+Small Power Shards can provide a further bonus to your armor reserve.
+小型能量碎片可以进一步提升你的护甲储备。
+
+Tip: Every weapon has an alternative attack mode \1c[White](default: RMB)\1c-
+提示：每种武器都有替代攻击模式\1c[White]（默认：鼠标右键）\1c-。
+
+You can perform quick kick attacks with \1c[White](default: Q)\1c-
+你可以按\1c[White]（默认：Q键）\1c-进行快速踢击。
+
+Kicks are stronger when combined with jumping and crouching.
+跟跳跃和蹲下结合时踢击会更强。
+
+Tip: You can only carry one Axe without a Bag of Holding.
+提示：没有储物袋时，你只能携带一把斧头。
+
+Tip: \1c[White]Keys\1c- show at the bottom right of the HUD.
+提示：\1c[White]钥匙\1c-会显示在屏幕右下角的HUD中。
+
+Locked doors have a corresponding icon that can be seen on the map \1c[White](default: TAB)\1c-
+锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）\1c-显示。
+
+Tip: Read scrolls, signs, tablets and books with \1c[White](default: E)\1c-
+提示：使用卷轴、路标、石板和书籍时按\1c[White]（默认：E键）\1c-。
+
+Tip: You can avoid alerting groups of enemies by attacking with your fists \1c[White](default: 1)\1c-
+提示：用拳头攻击\1c[White]（默认：1键）\1c-可避免惊动敌人群体。
+
+Tip: Scroll through your inventory with \1c[White](default: Z/X)\1c-
+提示：按\1c[White]（默认：Z/X键）\1c-滚动查看背包内容。
+
+Inspect your currently selected item with \1c[White](default: ENTER)\1c-
+按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息。
+
+Tip: Inspect your currently selected item with \1c[White](default: ENTER)\1c-
+提示：按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息。
+
+Tip: You can toggle sprinting with \1c[White](default: Caps Lock)\1c-
+提示：按\1c[White]（默认：大写锁定键）\1c-切换冲刺状态。
+
+Tip: Use the door with the Fist Symbol to end the level.
+提示：使用带有拳击符号的门结束关卡。
+
+Tip: \1c[White]Consumables\1c- can be used anytime with \1c[White](default: F)\1c-
+提示：\1c[White]消耗品\1c-可随时使用\1c[White]（默认：F键）\1c-。
+
+They can also be bound to hotkeys in the options.
+它们也可在选项中绑定快捷键。
+
+Tip: Quest Items are not required to be manually selected.
+提示：任务物品无需手动选择。
+
+They are used automatically with \1c[White](default: E)\1c-
+它们会被自动使用\1c[White]（默认：E键）\1c-
+

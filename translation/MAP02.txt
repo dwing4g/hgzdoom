@@ -32,10 +32,10 @@ The Red Crystal radiates waves of heat.
 红水晶散发着阵阵热浪。
 
 The cauldron's power source is missing.
-坩埚的能源缺失。
+坩埚的能源缺失了。
 
 The cauldron is not powered.
-坩埚没有能量。
+坩埚没有能量了。
 
 You don't have the ingredients to brew anything.
 你没有制作任何物品所需的材料。
@@ -50,7 +50,7 @@ Rot. 509, Day 237, Reaver Meza
 第509轮，第237天，掠夺者梅扎
 
 Reaver Tiati has brought in a human prisoner. He had no stolen goods on him apparently, but
-掠夺者提娅媞带进了一个俘虏。他身上似乎没有偷来的物品，
+掠夺者提娅媞带来了一个俘虏。他身上似乎没有偷来的物品，
 
 I believe he might be tied to the poachers that have been troubling the forests lately...
 但我相信他可能与近期困扰森林的盗猎者有关联……
@@ -77,7 +77,7 @@ Day 236: Since there's not much going on, I might start breaking down that crack
 第236天：既然没什么事发生，我可能会开始拆除那面裂开的牢房墙并修复它。
 
 Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
-第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。
+第237天：该死的，就在我要开始工作时，提娅媞带来这个瘦弱的人类俘虏。
 
 found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
 她说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
@@ -92,7 +92,7 @@ Day 238: Son of a bitch, he's somehow ripped his own arm off! Found him bleeding
 第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，
 
 healing potion to stabilize him. As I came close to him, he started spasming and mumbling some words for the
-不得不使用一瓶治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐
+不得不使用一整瓶治疗药水才能稳定他的伤势。正当我靠近他时，他开始抽搐
 
 first time. Something about an impending doom about to claim us. Can hardly understand what he says given
 并第一次喃喃说出一些话。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，
@@ -106,11 +106,11 @@ he's missing half his tongue.     He doesn't seem to feel much pain, so we're no
 Day 232: A month passed since our forces left Valc. Hate I couldn't join in, but since I'm in charge here...
 第232天：自从我们的部队离开瓦尔克已经过去一个月了。我没能加入行动，但既然我在这里负责……
 
-Day 236: Since there's not much going on, I might start breaking down that cracked cell wall and fix it.
-第236天：既然没什么事发生，我可能会开始拆除那面裂开的牢房墙并修复它。
+Day 236: Since there's not much going on, I might start breaking down that \1c[Gold]cracked cell wall\1c- and fix it.
+第236天：既然没什么事发生，我可能会开始拆除那面\1c[Gold]裂开的牢房墙\1c-并修复它。
 
 Day 237: Well damn me, just as I was about to start working, Tiati brings in this scrawny human. Said she'd
-第237天：该死的，就在我要开始工作时，提娅媞带进这个瘦弱的人类俘虏。
+第237天：该死的，就在我要开始工作时，提娅媞带来这个瘦弱的人类俘虏。
 
 found him roaming around the forest camp. He doesn't look like a poacher, though... He's not talking either.
 她说是在森林营地附近发现他的。他看起来不像盗猎者……但他也不说话。
@@ -125,7 +125,7 @@ Day 238: Son of a bitch, he's somehow ripped his own arm off! Found him bleeding
 第238天：该死的，他竟然自己扯断了自己的手臂！发现他流血不止，
 
 healing potion to stabilize him. As I came close to him, he started spasming and mumbling some words for the
-不得不使用一瓶治疗药水才能稳定他的伤势。当我靠近他时，他开始抽搐
+不得不使用一整瓶治疗药水才能稳定他的伤势。正当我靠近他时，他开始抽搐
 
 first time. Something about an impending doom about to claim us. Can hardly understand what he says, given
 并第一次喃喃说出一些话。他说着关于即将降临在我们头上的灾难。由于他失去了半张舌头，
@@ -287,7 +287,7 @@ I've been doing my best to hamper this sudden invasion from the shadows. The ven
 我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
+而不被察觉。我无意中听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
 他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
@@ -302,10 +302,10 @@ Lucky me, I found a warding scroll in the shopkeeper's room.   Should my sisters
 幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障，
 
 I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
-我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
+我读到使用驱魔卷轴只需使用附魔紫墨水在羊皮纸上画出一个破碎
 
 Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
-附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
+螺旋即可。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
 
 must have a recipe around her shop.  I pray the demons won't break that seal any time soon. Alas, I must
 在她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，
@@ -320,7 +320,7 @@ I've been doing my best to hamper this sudden invasion from the shadows. The ven
 我一直在尽力阻碍这场突如其来的暗中入侵。通风井帮助我潜行
 
 me move around unseen.    I have overheard the cultists getting orders to blow up and cave in the exits.
-而不被察觉。我听到邪教徒收到命令要炸毁并坍塌出口。
+而不被察觉。我无意中听到邪教徒收到命令要炸毁并坍塌出口。
 
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
 他们正在封锁整个据点。混蛋！……不过我成功潜入了水晶商店
@@ -335,10 +335,10 @@ Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters n
 幸运的是，我在店主房间里找到了一张屏障卷轴。如果我的姐妹们需要打破屏障，
 
 I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
-我读到使用驱魔卷轴只需在羊皮纸上画出一个破碎螺旋即可……
+我读到使用驱魔卷轴只需使用附魔紫墨水在羊皮纸上画出一个破碎
 
 Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
-附魔紫墨水。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
+螺旋即可。可惜我在书写桌附近没找到这种墨水，但炼金术士应该
 
 must have a recipe around her shop. I pray the demons won't break that seal any time soon. Alas, I must
 在她的商店里有配方。我祈祷恶魔们不久后不会打破那个封印。唉，
@@ -356,7 +356,7 @@ Path of the Lancer - Chapter 2
 长枪兵之路 - 第二章
 
 You will keep the balance, for balance is nothing without everything.
-你将维持平衡，因为没有一切，平衡便无从谈起。
+你将维持平衡，因为没有了一切，平衡便无从谈起。
 
 You will keep the secret, for the poor mind will break away the
 你将守护秘密，因为贫瘠的头脑会
@@ -368,7 +368,7 @@ You will fight with truth
 你将以真相为武器
 
 For truth shatters the foe from inside.
-因真相能从内部击溃敌人。
+因为真相能从内部击溃敌人。
 
 (The text shifts suddenly, right before your eyes, letters turning into twitching shadows...)
 （文字突然变化，就在你眼前，字母变成抽搐的阴影……）
@@ -398,7 +398,7 @@ The Lancers became the just keepers of the Crystal Heart.
 长枪团成为水晶之心的公正守护者。
 
 The Earth Mothers harnessed the old ways of magic, and kept the orc traditions alive.
-大地之母们掌握了古老魔法之道，并延续了兽人的传统。
+大地之母掌握了古老魔法之道，并延续了兽人的传统。
 
 The Bear Warriors held the Division's might high.
 熊战士们高举军团的力量。
@@ -410,16 +410,16 @@ The Reavers became feared shadow guardians.
 掠夺者们成为令人畏惧的影子守护者。
 
 And the Fixers would make the weakest of metal strong.
-而修复者将最脆弱的金属变得强大。
+而修复者能将最脆弱的金属变得强大。
 
 NEIHALL'S DWARVEN GEAR
 内哈尔的矮人装备
 
 Closed until the end of the Iron Division campaign.
-本战役期间铁军行动结束前暂不开放。
+本次铁军战役行动结束前暂不开放。
 
 Still open to orders - slip your notes under the door.
-仍可接收订单——将笔记滑入门下。
+仍可接收订单——将单子从门下滑入。
 
 To VALC'S BARRACKS AND BATH HOUSE
 前往瓦尔克兵营与浴室
@@ -443,7 +443,7 @@ CENTRAL PLAZA GATE CONTROLS
 中央广场闸门控制台
 
 Mana Potions
-魔力药剂
+魔力药水
 
 Destination: Parapet
 目的地：城垛
