@@ -60,7 +60,7 @@ Most demons control us through fear. But not Yzbeth. Her servants are... very wi
 But let us not despair. You wouldn't have gotten so far without being resourceful. You must find a way, Halfblood...
 ...and find it quickly. The Baron is holding a ritual as we speak. Who knows what evils he will unearth if not stopped? 
 This mithril padlock requires an Iron key to open. 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Abedun:    You need Yzbeth's soul key fragments to defeat the Baron. Use your wits, Halfblood, you're our only hope. 
 The humming well bubbles with mana. 
 Abedun:    Please, Halfblood, we need the bottles for when we depart. If you need mana, take it from the fountain. 
@@ -207,20 +207,24 @@ Join us in our chant
 For, to pass the initiation
 Marching as we chant
 First, we must consume the Knowledge 
+First, we must consume the \1c[Gold]Knowledge\1c- 
 Join us in our chant 
 Path to Chaos - Chapter III
 Knowing the right teachings gives us the key to open the path.     Devotion gives us the strength to start walking it.
 But only a lifetime of Hedonism will soften the body, the mind and the spirit in anticipation for the chaotic embrace 
+But only a lifetime of \1c[Gold]Hedonism\1c- will soften the body, the mind and the spirit in anticipation for the chaotic embrace 
 that awaits us.     Only when life becomes pain, and pain becomes pleasure can we fulfil our purpose.     For how else
 would we prepare to descend into the blissful womb of afterlife, if we aren't yearning for its never-ending warmth? 
 For the Worthless - 2nd Verse
 For the ones who worshipped Demons before learning the Call of Chaos
 For the ones who indulged themselves to a life of pleasure before pledging to Worship 
+For the ones who indulged themselves to a life of pleasure before pledging to \1c[Gold]Worship\1c- 
 For the ones who fell into afterlife before preparing themselves for chaos' embrace
 You have no worth, and still we remember you. 
 Embrace of the Afterlife - Final Word
 [...]  but ultimately, we are not immortal. Unlike the Demon, who lives within the embrace of chaos, we have to
 die for it.    And for those who devote their lives to this final moment, Death itself will end their journey and 
+die for it.    And for those who devote their lives to this final moment, \1c[Gold]Death\1c- itself will end their journey and 
 lower them below the earth, where the tendrils of chaos will tear them limb from limb and set their spirit free. 
 KNOWLEDGE 
 WORSHIP 
@@ -230,8 +234,10 @@ ALCHEMY MACHINE INSTRUCTIONS
 For our devotion and sacrifice, our Demon masters have bestowed upon us this alchemy machine - a contraption that
 will allow even the most foolish of initiates to prepare the substances required for rituals. Observe the components:
 The four tanks are destined for prime fluids - oil, mana, poison and blood. Do not mismatch them! For a tank to lend 
+\1c[Gold]The four tanks are destined for prime fluids - oil, mana, poison and blood.\1c- Do not mismatch them! For a tank to lend 
 its content to the final concoction, the switch must be flipped up.      Opposingly, flipping it down will close the tap.
 The three kegs are destined for arcane salts. Once again, do not mismatch the color! Simply pour the salts into the 
+\1c[Gold]The three kegs are destined for arcane salts.\1c- Once again, do not mismatch the color! Simply pour the salts into the 
 top pan, and they will be ready to catalyse the final concoction.  When everything is prepared, pull the main lever.
 (A note appears to have been recently added at the bottom)
 It appears that some of us have taken excessive advantage of this great machine and produced potions for their own
@@ -282,8 +288,8 @@ come see me at my mansion, as I have the only key to the padlock. Worry not - I 
 Oh, crypt keeper, be a dear and do me a favor.  If the Halfblood comes knocking at your door, be as kind as to give her
 one of your Trinket Enchantment scrolls.     Don't worry about aiding your master's foe, it's very unlikely that she will
 know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether 
-one of your Trinket Enchantment scrolls.     Don't worry about aiding your master's foe, it's very unlikely that she will
-know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether 
+one of your \1c[Gold]Trinket Enchantment scrolls\1c-.     Don't worry about aiding your master's foe, it's very unlikely that she will
+know what to do with the scroll.   Unless, of course, she's carrying a \1c[Gold]Pendant of True Sight\1c-.    But even then... whether 
 you anger the Cult and the Baron, or the local Matron, the price of disobeying will be high.   Weigh your choices.   Mwah! 
 At long last, I can write down my frustration! I went through such an arduous journey, enduring whip and
 starvation as I disguised myself among the cultists.      I braved the Sea of Flames, with only a sliver of

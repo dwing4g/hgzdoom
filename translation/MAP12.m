@@ -112,10 +112,10 @@ Demons have been around for three days and I've already grown tired of them.    
 entire mansion, and the uncouth looks they give me and my Warlocks are disgusting. I'd have them put in cages if it
 weren't for the orcish scum they're holding at bay. There is so much tension flowing around... I grow ever restless.
 Day 50, 3rd Qrt. An. 1106
-An Initiate has approached me today, asking for a Soul Stone. Apparently, the all-enlightened Body Master has
+An Initiate has approached me today, asking for a \1c[Gold]Soul Stone\1c-. Apparently, the all-enlightened Body Master has
 been trapped by his brother into the temple ruins and needs my help to escape. Couldn't care less for his fate, I
 won't allow such powerful artifact into the hands of a lowly apprentice. To make sure he won't try to steal it, I
-have enchanted it to always shift its position when faced.  It should be enough keep it safe for the time being...
+have enchanted it to \1c[Gold]always shift its position when faced\1c-.  It should be enough keep it safe for the time being...
 Day 54, 3rd Qrt. An. 1106
 To my great surprise, Mistress Nithriel has visited us today. She looked rather exhausted, carrying this strange
 disk with her. I asked if it was related to the recent storm and the decay of the crystals, but she wouldn't tell.
@@ -137,8 +137,8 @@ for the scum and found him in the chapel, guarding the temple key with a powerfu
 we outnumber his men, so he's planning to starve my master out! And no other cyan crystals we tried could free him...
 We've got to move in and claim the stolen one. After some research I've found a way to create a crown that provides
 psychical protection. We could break the field and take the bastards out! But first, I need a few more items to finish
-it...   the brain was easy to obtain, and the Spirit Mistress certainly has a Soul Stone. But then I would also need one
-of those Psi-shrooms... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
+it...   the brain was easy to obtain, and the Spirit Mistress certainly has a \1c[Gold]Soul Stone\1c-. But then I would also need one
+of those \1c[Gold]Psi-shrooms\1c-... they only grow in areas affected by high psionic emissions, so it will take a while to find them. 
 Since our conscripts may either miss their tongues or ears, we concluded that the best way to handle
 the password is to write a set of words on a paper and simply show it to the door guard after knocking.
 You will receive a new scroll every week. Make sure to take care of it, and incinerate the old one. 
@@ -156,7 +156,7 @@ claim them for ourselves. And don't raise suspicions! I can't afford to lose you
 - One is in the chapel, shielded by my wretched brother and his mentalists...
 - A servant saw him move another book to his quarters using his mind powers
 - The one held by the Demons in the theatre hall will be the hardest to get... 
-Keep an eye out on the Demons and see if they move any of the unholy books. We need to know where they are if we are to
+Keep an eye out on the Demons and see if they move any of the \1c[Gold]unholy books\1c-. We need to know where they are if we are to
 claim them for ourselves. And don't raise suspicions! I can't afford to lose you, I need someone who can read!        -  B.M.
 - One book is kept inside the recently dug out temple vault, under my watch
 - One is in the mess hall. Keep the cellar door shut and use the password!

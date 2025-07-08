@@ -38,7 +38,7 @@ Oh, and don't forget to patch up the leaking pipes in the inner courtyard, alrig
 Hey, pass by the archive when you have time, and bring your shovel too. I've heard some strange
 noise behind one of the wall panels,  better check to make sure we don't have water leaking in. 
 Hey, pass by the archive when you have time, and bring your shovel too. I've heard some strange
-noise behind one of the wall panels, better check to make sure we don't have water leaking in. 
+noise \1c[Gold]behind one of the wall panels\1c-, better check to make sure we don't have water leaking in. 
 Rot. 509, Day 237
 First they finished that elevator linking the Dwarven Fortress with Valc, and now the campaign
 began. I'm starting to think we won't have any of the bearded fellas coming through here for a
@@ -107,9 +107,9 @@ The Crystal Ward may only be deactivated under direct order from the Lancer Coun
 a powerful magical ritual require to be performed,  the commanding officer will be instructed
 directly on when and for how long should the defence be lowered.  Reactivating the ward can be
 done following three steps:       first, the commanding officer and her aide will use their keys on
-the two switches that control the power crystal sources. Secondly, the maintenance crew must
-manually turn on the four support pillars at the ward's base.   The pillars can be activated at
-any time, but should not stay idle for hours.  Lastly, the middle switch will activate the ward.
+the \1c[Gold]two switches\1c- that control the power crystal sources. Secondly, the maintenance crew must
+manually turn on the \1c[Gold]four support pillars\1c- at the ward's base.   The pillars can be activated at
+any time, but should not stay idle for hours.  Lastly, the \1c[Gold]middle switch\1c- will activate the ward.
 WARNING:  Do not activate if any large scale magic is being performed in Valc or its proximity. 
 I haven't received word from our cultists tasked with taking over the dwarven fortress.
 The attack is either still going, or these fools have perished in the snow before they could
@@ -120,7 +120,7 @@ I haven't received word from our cultists tasked with taking over the dwarven fo
 The attack is either still going, or these fools have perished in the snow before they could
 even get to draw steel. Mistress Nithriel has specifically ordered to keep this base sealed
 off to any visitors,  as it is critical to our ability to teleport reinforcements in.      I have
-blocked the switch for the mountain gate with a magical seal. Nobody is to tamper with it. 
+blocked the switch for the \1c[Gold]mountain gate\1c- with a magical seal. Nobody is to tamper with it. 
 (A fancy journal sits on the nightstand. The pages are decorated with earthly symbols)
 It's been six days since that Witch, Lith, came here with a Ward deactivation order. I can't help
 but wonder what they are doing... the order was indeed signed by their chieftain, Zura, and had

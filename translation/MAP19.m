@@ -243,10 +243,10 @@ He even tried to convince my gardener to free him when visiting my chambers. Too
 than he ever did...     I told him so many secrets, just to spite the primarch.     He is so smart and perceptive and... weak.
 His human body did not last, but I shall keep his mind.    Somewhere in his garden, where his art will keep growing on... 
 (The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
-My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these
+My heart is broken...   The \1c[Gold]little port town just outside my domain's gates\1c- has had an uprising but the fire of these
 brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?
 How dare he bring order into our world? My tears of sorrow have drenched the port in bleak mist. The fire is gone...
-How ironic... much like myself, they are using magic walls to conceal their hideout.   If only they could conceal their
+How ironic... much like myself, they are \1c[Gold]using magic walls to conceal their hideout\1c-.   If only they could conceal their
 starvation. I had the crypts sealed off and the only key brought here, where I can cherish it. Sooner or later, little
 rats will claw away at their coffin, and I shall rescue them like a brooding mother. Our common enemy will unite us.
 In how many pieces must my heart be shattered? As I strolled through the bathing hall, I witnessed the gold primarch

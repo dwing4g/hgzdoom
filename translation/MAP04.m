@@ -19,7 +19,7 @@ The Forgotten One:   ...I was a legendary axesmith... they sealed away my anvil.
 The Forgotten One:   ...the walls here... they speak... they hold the key to freedom...
 Bear Warrior:    Well I did notice some odd looking walls around here. 
 The Forgotten One:   ...I cannot have rest... I need my anvil... help me... 
-Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6) 
+Tip: You can switch between ammo types by pressing the Potion Launcher key \1c[White](DEFAULT: 6)\1c- 
 Looks like the main power has been shut down. 
 The switch is stuck. Seems like you'll need the proper tools to unjam it without damaging it. 
 This switch requires an Iron key to open the door. 
@@ -91,8 +91,8 @@ The portal gate is fading out, so I really have to go.  I'm not sure if you'll g
 but if you read this, know that your only hope to reach the Crystal Heart now lies inside the Grove.
 The portal there should still be functional since it has a stronger power source... however, I think you
 have also noticed that the park gate leading to it got sabotaged by the cultists back in the Plaza...
-The main gear that was operating the gate mechanism was broken. You will have to search around for
-spare parts. Head to the workshop, there has to be some information about what kind of gear you need
+The \1c[Gold]main gear\1c- that was operating the gate mechanism was broken. You will have to search around for
+spare parts. Head to the \1c[Gold]workshop\1c-, there has to be some information about what kind of gear you need
 to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them. 
 I can't take this pressure anymore!  First, the Forge Elementals suddenly tried to kill me
 for no reason and now these giant hungry worms popped out of nowhere! Vica went out to
@@ -124,7 +124,7 @@ horde of foul beasts, and I trust that you'll stand up to our name. Stone be wit
 It will be long until we return from the war against the demons, but as always, you
 have to learn the reins of patience, my son. You've been fulfilling your apprenticeship
 well, so I will allow you to finally reach beyond our old ways of smelting. At last, you
-may finally use the Smelting Machine to make precise iron bars.   Drop the iron ore into
+may finally use the \1c[Gold]Smelting Machine\1c- to make precise iron bars.   Drop the \1c[Gold]iron ore\1c- into
 the red hot hearth and marvel as it melts and drips into the shape of an ingot.   Don't
 forsake your duty, and do not envy mine.   Your task here is as difficult as fighting a
 horde of foul beasts, and I trust that you'll stand up to our name. Stone be with you. 
@@ -139,13 +139,13 @@ if there is any big fire nearby. The pink gas can be quite volatile... such trag
 (The schematics depict some mechanisms the Fixers were working on) 
 I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
 to the mould forge, this thing makes so much noise I can't hear my own thoughts. 
-I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
+I've finally repaired the \1c[Gold]Key Machine\1c-.   Tell the minotaurs to come haul it back
 to the mould forge, this thing makes so much noise I can't hear my own thoughts. 
 IRON KEY MOULD MACHINE
 1. Insert an Iron Ingot inside the hearth and close the hatch
 2. Once the right hatch is open, remove the Key from the mould 
 IRON KEY MOULD MACHINE
-1. Insert an Iron Ingot inside the hearth and close the hatch
+1. Insert an \1c[Gold]Iron Ingot\1c- inside the hearth and close the hatch
 2. Once the right hatch is open, remove the Key from the mould 
 SPIKE MOULD MACHINE
 1. Insert an Iron Ingot inside the hearth and close the hatch
@@ -179,10 +179,10 @@ Once the final notch is hammered, allow the finished gear to cool down before us
 Gate Mechanisms - Gear A2
 A2 type gears are the main component of many mechanical gate engines. Unlike the other
 ones,  however,  they must be forged out of Mithril to be able to last through extended
-use without being deformed or damaged. Crafting Mithril Gears requires the Great Forge.
-Firstly, drop five lumps of Mithril Ore into the Forge's Smelting Machine to obtain an Ingot.
-Secondly, you must place the corresponding Mould under the Forge's Cauldron and cast the Gear.
-Last step involves hammering the crude gear on the Forge's Anvil, to correct any imperfections.
+use without being deformed or damaged. Crafting Mithril Gears requires the \1c[Gold]Great Forge\1c-.
+Firstly, drop \1c[Gold]five lumps of Mithril Ore\1c- into the \1c[Gold]Forge's Smelting Machine\1c- to obtain an Ingot.
+Secondly, you must place the corresponding Mould under the \1c[Gold]Forge's Cauldron\1c- and cast the Gear.
+Last step involves hammering the crude gear on the \1c[Gold]Forge's Anvil\1c-, to correct any imperfections.
 Once the final notch is hammered, allow the finished gear to cool down before using it.
 (You notice a parchment with detailed diagrams sitting next to the instructions) 
 (You've already taken the diagram parchment that was attached to the instructions) 
@@ -204,6 +204,6 @@ TO VALC'S PLAZA
 IDIOTS!  That's NOT the tunnel you were supposed to cave in! How are we supposed to get back
 up to the orcish plaza now?    Get the spare powder kegs here RIGHT NOW.   And try not to blow
 yourselves up now, how many times do I have to tell you to get a longer fuse and STAY AWAY!!! 
-Tip: You can pick up Sentry Turrets with (DEFAULT: E) and drop them with (DEFAULT: LMB) 
+Tip: You can pick up Sentry Turrets with \1c[White](DEFAULT: E)\1c- and drop them with \1c[White](DEFAULT: LMB)\1c- 
 This door seems to be locked from the other side. 
 ELEVATOR TO ICEPEAK 

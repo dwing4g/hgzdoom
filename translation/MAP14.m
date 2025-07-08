@@ -39,19 +39,19 @@ shall soon wage a new form of war!  The battlefield will shake under our force o
 After the recent theft, master Igrutius has ordered the demonic gates to be cursed so that only Pit Lords and
 their Hellblaze guards may use them. Keep the cultist scum away from our precious machines at any cost! Start
 carrying the supplies by yourselves, and remember that the Blue Baron is expecting results soon!      -     Lord Efri 
-After the recent theft, master Igrutius has ordered the demonic gates to be cursed so that only Pit Lords and
-their Hellblaze guards may use them. Keep the cultist scum away from our precious machines at any cost! Start
+After the recent theft, master Igrutius has ordered the demonic gates to be cursed so that only \1c[Gold]Pit Lords\1c- and
+their \1c[Gold]Hellblaze\1c- guards may use them. Keep the cultist scum away from our precious machines at any cost! Start
 carrying the supplies by yourselves, and remember that the Blue Baron is expecting results soon!      -     Lord Efri 
 The gating channel has been re-established. When you have any new items to transport,
 ring the bell three times and a servant will be summoned most hastily to retrieve them. 
 The gating channel has been re-established. When you have any new items to transport,
-ring the bell three times and a servant will be summoned most hastily to retrieve them. 
+ring the bell \1c[Gold]three times\1c- and a servant will be summoned most hastily to retrieve them. 
 I told you it would be foolish to overload the machines! Now that we've lost that power pillar, we cannot
 use both the elevators and production machines at once!     Get someone to release the safety of the 4th
 pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here! 
 I told you it would be foolish to overload the machines! Now that we've lost that power pillar, we cannot
-use both the elevators and production machines at once!     Get someone to release the safety of the 4th
-pillar before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here! 
+use both the elevators and production machines at once!     Get someone to \1c[Gold]release the safety of the 4th\1c-
+\1c[Gold]pillar\1c- before I have you all flayed!     The Blue Baron himself will feast upon our souls if we fail here! 
 SECURITY GRATES 
 CASING MACHINE 
 BULLET MACHINE 
@@ -82,16 +82,16 @@ As the gate reveals the halls.
 (The symbols etched into the ancient tablet resemble a familiar form of the common cave language)
 If knowledge in the arts you seek
 But your hoof melts in the pit
-Pay respect to your six masters
+\1c[Gold]Pay respect to your six masters\1c-
 And the power you shall muster
 When your goals will fail to hide
-Walk the fire pit with pride
+\1c[Gold]Walk the fire pit with pride\1c-
 For your hoof will hurt no more
 As the gate reveals the halls. 
 ELEVATOR TO
 WEAPONS & HELL POWDER STORAGE 
 ELEVATOR TO
-WEAPONS & HELL POWDER STORAGE 
+WEAPONS & \1c[Gold]HELL POWDER\1c- STORAGE 
 AUXILIARY POWER PILLAR
 POWER SURGE WARNING: DO NOT ACTIVATE WHILE THE OTHER 3 PILLARS ARE IN FUNCTION 
 Though the power pillars can produce enough energy for the entire factory, the new machines have been straining

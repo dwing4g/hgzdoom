@@ -214,7 +214,7 @@ Gaun, Adur, Elzriel, Scorlag and Erudin. They are the five primarchs whom you mu
 They are weavers of chaos and sin, and will undoubtedly try to corrupt you. Use your wits to gain their favor.
 And make haste. The Queen of Wrath is already ahead of you, but we can't put the same trust in her as in you.
 If we don't slay the Baron here, the hordes of chaos will conquer the world. So go! Fire burn in your heart! 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more... 
 Captain Dura:    I was wondering when you'd show up... wait, what? Our lookouts got into trouble?
 Damn it! Alright, I'll send a squad up there to clean up the mess. As for you, come in, Grund wants to see you. 
@@ -230,7 +230,7 @@ Grrh... so. Murguth has told you about the demon primarchs. I personally don't p
 One day. That's the time you've got to prepare. Once I call for the final assault, you better be right here.
 I'm not relying on the Queen of Wrath. You will be the one leading the charge. Am I clear? Good. Dismissed. 
 Captain Dura:    You're late to the bloodbath! What the fuck happened to our lookouts? What a fucking mess... 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Warlord Grund:    Whether you appease the primarchs or not, you have one day. Then, we're going for the kill. 
 Reaver:    Zan! I was sent after you. Something big is going on. Come with me, Grund will brief us.
 And keep your head down. The forest is crawling with demons... 
@@ -250,7 +250,7 @@ Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight bes
 I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
 I funneled it into this armor amulet. Take it, along with my gratitude. Now let's go! The battle awaits! 
 Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle! 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight along my sisters once more!
 I have something for you... while trapped in the painting, my crystals have gathered an excess of energy...
 ...I funneled it into this armor amulet. Take it, along with my gratitude. Now let's go! The battle awaits! 

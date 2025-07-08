@@ -18,16 +18,16 @@ Advisor:    And take this Crylance, for the love of all Gods. How have you even 
 Grand E. M. Breaza:    I'd rather she avoided fighting now, Advisor. Give your bruises some time to heal, Zan. 
 Oh, and take this journal if you wish. Perhaps a little writing will help you ease your mind before we set off.
 Dismissed. 
-Press Use to skip briefing 
-Press Use to skip debriefing 
+Press \1c[White]Use\1c- to skip briefing 
+Press \1c[White]Use\1c- to skip debriefing 
 Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready. 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Grand Earth Mother Breaza:    Use the ruby to get into the minotaur town, Zan. And please, be careful. 
-Press Use to skip debriefing 
+Press \1c[White]Use\1c- to skip debriefing 
 Grand Earth Mother Breaza:    You look so tired. Get some sleep and we'll talk when you are awake. 
-Press Use to skip briefing 
+Press \1c[White]Use\1c- to skip briefing 
 Grand E. M. Breaza:    Jaromir has left our camp an hour ago. Head south-east of here and meet up with him. 
-Press Use to skip debriefing 
+Press \1c[White]Use\1c- to skip debriefing 
 Grand E.M. Breaza:    Figure a way to get into the mine north of here and find our sappers. We're counting on you. 
 This wall looks like it could be broken with a proper tool. 
 You'll need a proper tool to mine this ore vein. 

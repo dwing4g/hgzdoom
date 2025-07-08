@@ -1,3 +1,9 @@
+ver. 2.4.0 - DEMO
+版本：2.4.0 - 试玩版
+
+Map05 - Grove (Play Demo)
+地图05 - 林地（试玩）
+
 Found a secret!
 发现一处秘密！
 

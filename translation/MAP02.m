@@ -84,11 +84,11 @@ have potent pigment. Once you have all the ingredients, mix them in the cauldron
 (You notice a parchment with colorful diagrams sitting next to the instructions) 
 (You've taken the recipe parchment that was attached to the instructions) 
 Making Enchanted Ink is a process that takes two steps:
-First, you will require a Powered Cauldron. Anything less will not be able to get
+First, you will require a \1c[Gold]Powered Cauldron\1c-. Anything less will not be able to get
 the magical ingredients to mix with the pigment well, and the ink will be spoiled.
-Secondly, you must gather the proper ingredients:  a bowl of Fae Dust  -  no more
+Secondly, you must gather the proper ingredients:  a bowl of \1c[Gold]Fae Dust\1c-  -  no more
 than what we offer by the Earth Mother statues   -   and the proper reagents for
-obtaining the color.  You will need at least three of the same type, assuming they
+obtaining the color.  You will need at least \1c[Gold]three of the same type\1c-, assuming they
 have potent pigment. Once you have all the ingredients, mix them in the cauldron.
 (You notice a parchment with colorful diagrams sitting next to the instructions) 
 (You've already taken the recipe parchment that was attached to the instructions) 
@@ -109,9 +109,9 @@ me move around unseen.    I have overheard the cultists getting orders to blow u
 They're locking down the entire stronghold.  Bastards!...   Nonetheless, I have managed to get inside the
 crystal shop and move all the merchandise upstairs. I must delay them from getting their hands on our
 tech.   I even trashed a few power cores,  but they heard the noise so I had to break the ladder and go.
-Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters need to break the ward,
-I've read that all you need for a Dispel Magic Scroll is to draw a shattered spiral on a parchment using
-Enchanted Purple Ink. Sadly, I couldn't find any such ink by the scribing table in here, but the alchemist
+Lucky me, I found a warding scroll in the shopkeeper's room. Should my sisters need to \1c[Gold]break the ward\1c-,
+I've read that all you need for a \1c[Gold]Dispel Magic Scroll\1c- is to draw a shattered spiral on a parchment using
+\1c[Gold]Enchanted Purple Ink\1c-. Sadly, I couldn't find any such ink by the \1c[Gold]scribing table\1c- in here, but the alchemist
 must have a recipe around her shop. I pray the demons won't break that seal any time soon. Alas, I must
 push on... I have to rush for the Forge and make sure they don't get their hands on any of our schematics. 
 (A series of magic runes are carved into the tablet. The lower part is not yet complete) 

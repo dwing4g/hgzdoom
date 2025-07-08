@@ -14,7 +14,7 @@ Crystal Curator:    Thank you, Halfblood. I owe you my life...
 I'd like to commend you for your fight back in the Sanctum, but alas, we all have failed...
 But the Elf is close, I can sense her power! We still have a chance to recover the Disk!
 Crystal Curator:    Let us hurry! We can't let her get away like this!
-Tip: Remember that you can ask friendlies to follow you/hold position with the Use key (DEFAULT: E). 
+Tip: Remember that you can ask friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-. 
 Crystal Curator:    *Groans* 
 Crystal Curator:    Hmm... doesn't look like the handiwork of our sisters. The demons must have executed these poor bastards. 
 Crystal Curator:    Strong mana. I would have been dead weight without it... thank you once again. 
@@ -61,7 +61,7 @@ wisdom of Air descend upon you and His breath carry you from this decaying place
 (You use the dictionary to translate the ancient human dialect contained within the posted parchment)
 I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C 
 (You use the dictionary to translate the ancient human dialect contained within the posted parchment)
-I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C 
+I've buried the key \1c[Gold]behind the farm plot shed\1c-. This will buy us some time. We are leaving as planned. - C 
 (An old parchment is posted on the wall. It's covered in ancient symbols that you can't quite understand)
 Crystal Curator:    Hmm... that looks like an ancient human dialect. I'm not familiar with it. 
 (You use the dictionary to translate the ancient human dialect contained within the partially torn parchment)
@@ -90,11 +90,11 @@ Anyone who disturbs us gets a hundred lashes.
 (A plaque has been crudely bolted into the stone, covering the basin's original inscription)
 Rest easy, weary traveller, but drink not from this fountain
 For it only nourishes those who walk the path of the Initiate 
-Tip: Remember that you can press F1 to view the quick reference screen at any time. 
-Tip: Remember that you can inspect your currently selected item with (default: ENTER) 
+Tip: Remember that you can press \1c[White]F1\1c- to view the quick reference screen at any time. 
+Tip: Remember that you can inspect your currently selected item with \1c[White](default: ENTER)\1c- 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
-Press Strafe Left (default: A) to decrease gamma
-Press Strafe Right (default: D) to increase gamma
-Press Use (default: E) to continue
+Press \1c[Gold]Strafe Left\1c- (default: \1c[Gold]A\1c-) to decrease gamma
+Press \1c[Gold]Strafe Right\1c- (default: \1c[Gold]D\1c-) to increase gamma
+Press \1c[Gold]Use\1c- (default: \1c[Gold]E\1c-) to continue
 You can always adjust this setting from Options - Display Options 
 Somewhere in the Underworld... 

@@ -1,6 +1,6 @@
 Bear Warrior:    Sarge? What the hell is going on here?
 We should stick together, ready when you are.
-Tip: You can order companions to follow you or hold position by interacting with them (DEFAULT: E) 
+Tip: You can order companions to follow you or hold position by interacting with them \1c[White](DEFAULT: E)\1c- 
 Bear Warrior:    Looks like Dura's squad made it to the Forge, but the gate is closed. Gotta find another way. 
 Bear Warrior:    Curse these scumbags! We shall avenge our sisters! 
 Bear Warrior:    These bastards are everywhere! Let's hurry up, we can't let them take the Crystal Heart! 
@@ -69,6 +69,6 @@ Hey, can you go check out the vents behind the gym? The Bears keep telling me.
 they hear some weird hissing noise.    Could be a fissure or perhaps some pests...
 Don't forget to take a fragfire can with you, you might have some purging to do. 
 Tip: You can deploy Sentry Turrets from your inventory.
-Once deployed, you can move them around by interacting with them (DEFAULT: E) 
+Once deployed, you can move them around by interacting with them \1c[White](DEFAULT: E)\1c- 
 This door bears a strange feeling. The lock has a small axe symbol etched into it. 
 This door requires a Stone key to open. 
