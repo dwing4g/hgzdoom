@@ -46,8 +46,8 @@ But the Elf is close, I can sense her power! We still have a chance to recover t
 Crystal Curator:    Let us hurry! We can't let her get away like this!
 水晶管理员：让我们快点！不能让她就这样逃掉！
 
-Tip: Remember that you can ask friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：记住你可以用使用键（默认：E键）让友方单位跟随你或保持位置。
+Tip: Remember that you can ask friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-.
+提示：记住你可以用使用键\1c[White]（默认：E键）\1c-让友方单位跟随你或保持位置。
 
 Crystal Curator:    *Groans*
 水晶管理员：*呻吟着*
@@ -187,8 +187,8 @@ I've buried the key behind the farm plot shed. This will buy us some time. We ar
 (You use the dictionary to translate the ancient human dialect contained within the posted parchment)
 （你使用字典翻译了张贴在墙上的古代人类方言）
 
-I've buried the key behind the farm plot shed. This will buy us some time. We are leaving as planned. - C
-我已经把钥匙埋藏在农田棚屋后面。这将为我们争取一些时间。我们按计划离开。- C
+I've buried the key \1c[Gold]behind the farm plot shed\1c-. This will buy us some time. We are leaving as planned. - C
+我已经把钥匙埋藏在\1c[Gold]农田棚屋后面\1c-。这将为我们争取一些时间。我们按计划离开。- C
 
 (An old parchment is posted on the wall. It's covered in ancient symbols that you can't quite understand)
 （一张旧羊皮纸贴在墙上。上面覆盖着你无法完全理解的古代符号）
@@ -274,23 +274,23 @@ Rest easy, weary traveller, but drink not from this fountain
 For it only nourishes those who walk the path of the Initiate
 因为它只滋养那些踏上入门者之路之人。
 
-Tip: Remember that you can press F1 to view the quick reference screen at any time.
-提示：记住你可以随时按F1查看快速参考界面。
+Tip: Remember that you can press \1c[White]F1\1c- to view the quick reference screen at any time.
+提示：记住你可以随时按\1c[White]F1键\1c-查看快速参考界面。
 
-Tip: Remember that you can inspect your currently selected item with (default: ENTER)
-提示：记得可以按（默认：回车键）检查当前选中的物品。
+Tip: Remember that you can inspect your currently selected item with \1c[White](default: ENTER)\1c-
+提示：记得可以按\1c[White]（默认：回车键）\1c-检查当前选中的物品
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
 如果你无法看清背景的植物，增加伽马值使其勉强可见
 
-Press Strafe Left (default: A) to decrease gamma
-按左移（默认：A键）减少伽马值
+Press \1c[Gold]Strafe Left\1c- (default: \1c[Gold]A\1c-) to decrease gamma
+按\1c[Gold]左移键\1c-（默认：\1c[Gold]A键\1c-）减少伽马值
 
-Press Strafe Right (default: D) to increase gamma
-按右移（默认：D键）增加伽马值
+Press \1c[Gold]Strafe Right\1c- (default: \1c[Gold]D\1c-) to increase gamma
+按\1c[Gold]右移键\1c-（默认：\1c[Gold]D键\1c-）增加伽马值
 
-Press Use (default: E) to continue
-按使用（默认：E键）继续
+Press \1c[Gold]Use\1c- (default: \1c[Gold]E\1c-) to continue
+按\1c[Gold]使用键\1c-（默认：\1c[Gold]E键\1c-）继续
 
 You can always adjust this setting from Options - Display Options
 你可以随时从选项 - 显示设置中调整此设置

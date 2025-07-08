@@ -439,14 +439,14 @@ Reaver:    Die y- ...Zan?! I can't believe it's you!
 We've got to link back up with the defenders!
 我们必须与守卫者重新联系上！
 
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
+Tip: You can order certain friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-.
+提示：你可以按使用键\1c[White]（默认：E键）\1c-命令某些友方单位跟随你/原地驻守。
 
 Iron Division Survivor:    Hey, Zan, you're alive! Let's kick some cultist ass!
 铁军幸存者：嘿，瓒，你还活着！让我们收拾这些邪教徒！
 
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
+Tip: You can order certain friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-.
+提示：你可以按使用键\1c[White]（默认：E键）\1c-命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    Hey, stop that! We need these bowls.
 熊战士：喂，别动！我们需要这些碗。
@@ -547,8 +547,8 @@ Oh, and one more thing...  we don't need to know what happened to the campaign, 
 already, and knowing that we might be the last of our kind won't help us now.     Keep the story for after.
 得知我们可能是最后一批同类这件事，此刻对我们毫无帮助。把故事留到之后再说。
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Lancer Dendra:   Take a few warriors and find out what Nithriel is up to - she might try to break through the west wing!
 长枪兵丹德拉：带上几位战士去查明妮丝瑞尔的动向——她可能会尝试突破西翼！
@@ -634,8 +634,8 @@ Reaver:    Killed a few. Took a few hits as well. Nothing the right potion could
 Reaver:    Setting off to stop the Warlock? I'm ready to join you.
 掠夺者：前往阻止巫师？我随时可以加入你。
 
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
+Tip: You can order certain friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-.
+提示：你可以按使用键\1c[White]（默认：E键）\1c-命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    So, you actually turned the anti-magic ward at the Parapet back on? That really saved our skin.
 熊战士：所以你真的把城垛上的反魔法屏障重新启动了？这真是救了我们的命。
@@ -652,8 +652,8 @@ Bear Warrior:    We're low on supplies and our morale is even lower, but we'll p
 Bear Warrior:    So, you're moving out to the west wing? I'm at your command.
 熊战士：所以你要向西翼移动？我随时听候你的命令。
 
-Tip: You can order certain friendlies to follow you/hold position with the Use key (DEFAULT: E).
-提示：你可以按使用键（默认：E键）命令某些友方单位跟随你/原地驻守。
+Tip: You can order certain friendlies to follow you/hold position with the Use key \1c[White](DEFAULT: E)\1c-.
+提示：你可以按使用键\1c[White]（默认：E键）\1c-命令某些友方单位跟随你/原地驻守。
 
 Bear Warrior:    Easy on the food, there isn't much left here.
 熊战士：别太贪吃，这里剩下的食物不多了。

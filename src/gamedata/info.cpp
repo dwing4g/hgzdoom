@@ -946,7 +946,8 @@ void FMapInfoParser::ParseDamageDefinition()
 		{
 			sc.MustGetStringName("=");
 			sc.MustGetString();
-			dtd.Obituary = sc.String;
+			extern const char* C_Translate(const char* msg);
+			dtd.Obituary = C_Translate(sc.String);
 		}
 		else if (sc.Compare("REPLACEFACTOR"))
 		{

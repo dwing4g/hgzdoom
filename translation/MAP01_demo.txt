@@ -456,10 +456,10 @@ Tip: You won't get far without a map \1c[White](default: TAB)\1c-
 提示：没有地图寸步难行\1c[White]（默认：Tab键）\1c-
 
 It has an overlay and normal mode that can be configured from: Options - Automap Options
-它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置。
+它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置
 
 While in normal mode, you can zoom in/out \1c[White](default: MWheel)\1c- and mark your current position with \1c[White](default: M)\1c-
-在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）\1c-标记当前位置。
+在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）\1c-标记当前位置
 
 Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
@@ -471,13 +471,13 @@ Tip: Use consumables with \1c[White](default: F)\1c-
 提示：使用消耗品时按\1c[White]（默认：F键）\1c-
 
 Consumables and Quest Items are stored in your inventory. Scroll through it with \1c[White](default: Z/X)\1c-
-消耗品和任务物品存放在你的背包中，可通过\1c[White]（默认：Z/X键）\1c-滚动查看。
+消耗品和任务物品存放在你的背包中，可通过\1c[White]（默认：Z/X键）\1c-滚动查看
 
 You can inspect the currently selected item for a brief description with \1c[White](default: ENTER)\1c-
-你可以按\1c[White]（默认：回车键）\1c-查看当前选中物品的简要描述。
+你可以按\1c[White]（默认：回车键）\1c-查看当前选中物品的简要描述
 
 You can also set hotkeys for these items, or see the default ones in the help screen \1c[White](default: F1)\1c-
-你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键\1c[White]（默认：F1键）\1c-。
+你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键\1c[White]（默认：F1键）\1c-
 
 Tip: Crystal Amulets provide you with a set amount of armor.
 提示：水晶护符会为你提供固定数量的护甲值。
@@ -486,10 +486,10 @@ Small Power Shards can provide a further bonus to your armor reserve.
 小型能量碎片可以进一步提升你的护甲储备。
 
 Tip: Every weapon has an alternative attack mode \1c[White](default: RMB)\1c-
-提示：每种武器都有替代攻击模式\1c[White]（默认：鼠标右键）\1c-。
+提示：每种武器都有替代攻击模式\1c[White]（默认：鼠标右键）\1c-
 
 You can perform quick kick attacks with \1c[White](default: Q)\1c-
-你可以按\1c[White]（默认：Q键）\1c-进行快速踢击。
+你可以按\1c[White]（默认：Q键）\1c-进行快速踢击
 
 Kicks are stronger when combined with jumping and crouching.
 跟跳跃和蹲下结合时踢击会更强。
@@ -501,31 +501,31 @@ Tip: \1c[White]Keys\1c- show at the bottom right of the HUD.
 提示：\1c[White]钥匙\1c-会显示在屏幕右下角的HUD中。
 
 Locked doors have a corresponding icon that can be seen on the map \1c[White](default: TAB)\1c-
-锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）\1c-显示。
+锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）\1c-显示
 
 Tip: Read scrolls, signs, tablets and books with \1c[White](default: E)\1c-
-提示：使用卷轴、路标、石板和书籍时按\1c[White]（默认：E键）\1c-。
+提示：使用卷轴、路标、石板和书籍时按\1c[White]（默认：E键）\1c-
 
 Tip: You can avoid alerting groups of enemies by attacking with your fists \1c[White](default: 1)\1c-
-提示：用拳头攻击\1c[White]（默认：1键）\1c-可避免惊动敌人群体。
+提示：用拳头攻击\1c[White]（默认：1键）\1c-可避免惊动敌人群体
 
 Tip: Scroll through your inventory with \1c[White](default: Z/X)\1c-
-提示：按\1c[White]（默认：Z/X键）\1c-滚动查看背包内容。
+提示：按\1c[White]（默认：Z/X键）\1c-滚动查看背包内容
 
 Inspect your currently selected item with \1c[White](default: ENTER)\1c-
-按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息。
+按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息
 
 Tip: Inspect your currently selected item with \1c[White](default: ENTER)\1c-
-提示：按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息。
+提示：按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息
 
 Tip: You can toggle sprinting with \1c[White](default: Caps Lock)\1c-
-提示：按\1c[White]（默认：大写锁定键）\1c-切换冲刺状态。
+提示：按\1c[White]（默认：大写锁定键）\1c-切换冲刺状态
 
 Tip: Use the door with the Fist Symbol to end the level.
 提示：使用带有拳击符号的门结束关卡。
 
 Tip: \1c[White]Consumables\1c- can be used anytime with \1c[White](default: F)\1c-
-提示：\1c[White]消耗品\1c-可随时使用\1c[White]（默认：F键）\1c-。
+提示：\1c[White]消耗品\1c-可随时使用\1c[White]（默认：F键）\1c-
 
 They can also be bound to hotkeys in the options.
 它们也可在选项中绑定快捷键。

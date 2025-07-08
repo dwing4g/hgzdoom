@@ -277,11 +277,11 @@ ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn th
 As we have replaced our old bellows with a crystal powered machine, apprentices shall be allowed to use it to smelt
 既然我们将旧风箱换成了水晶动力机器，学徒们现在可以使用它来熔炼
 
-metal.   Simply place yer ore or ingot in the hot hearth, and it shall melt in a mere moment.   Once yer mould fills up
-金属了。只需将矿石或金属锭放入炽热熔炉，片刻就能融化。待模具装
+metal.   Simply place yer ore or ingot in the \1c[Gold]hot hearth\1c-, and it shall melt in a mere moment.   Once yer mould fills up
+金属了。只需将矿石或金属锭放入\1c[Gold]炽热熔炉\1c-，片刻就能融化。待模具装
 
-ye're as ready to work it over the anvil as ye'll ever be.  Make sure to turn the heat off before ye clean the hearth.
-满后，你便随时可以开始锻打。在清理熔炉前务必关闭加热装置。
+ye're as ready to work it over the \1c[Gold]anvil\1c- as ye'll ever be.  Make sure to turn the heat off before ye clean the hearth.
+满后，你便随时可以开始\1c[Gold]锻打\1c-。在清理熔炉前务必关闭加热装置。
 
 Tales of Brother Bernard - Brother Bernard in Hell
 修士伯纳德的故事 - 修士伯纳德在地狱

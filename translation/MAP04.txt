@@ -61,8 +61,8 @@ Bear Warrior:    Well I did notice some odd looking walls around here.
 The Forgotten One:   ...I cannot have rest... I need my anvil... help me...
 被遗忘者：……我无法安息……我需要我的锻铁台……帮我……
 
-Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6)
-提示：按药水发射器键可切换弹药类型（默认：6键）
+Tip: You can switch between ammo types by pressing the Potion Launcher key \1c[White](DEFAULT: 6)\1c-
+提示：按药水发射器键可切换弹药类型\1c[White]（默认：6键）\1c-
 
 Looks like the main power has been shut down.
 看起来主能量已被切断。
@@ -277,10 +277,10 @@ The portal there should still be functional since it has a stronger power source
 have also noticed that the park gate leading to it got sabotaged by the cultists back in the Plaza...
 也注意到了，通往那里的公园大门被邪教徒在广场上破坏了……
 
-The main gear that was operating the gate mechanism was broken. You will have to search around for
-驱动闸门机制的主要齿轮已损坏。你得四处寻找备用零件。前往工坊吧，
+The \1c[Gold]main gear\1c- that was operating the gate mechanism was broken. You will have to search around for
+驱动闸门机制的\1c[Gold]主要齿轮\1c-已损坏。你得四处寻找备用零件。前往\1c[Gold]工坊\1c-吧，
 
-spare parts. Head to the workshop, there has to be some information about what kind of gear you need
+spare parts. Head to the \1c[Gold]workshop\1c-, there has to be some information about what kind of gear you need
 那里一定有关于你需要更换哪种齿轮的信息，或者至少能教你如何制
 
 to replace. Or at least how to craft it. Take this key, and a couple spare mags I had. You'll need them.
@@ -376,8 +376,8 @@ have to learn the reins of patience, my son. You've been fulfilling your apprent
 well, so I will allow you to finally reach beyond our old ways of smelting. At last, you
 务，因此我可以允许你终于超越我们旧有的冶炼方式。终于，
 
-may finally use the Smelting Machine to make precise iron bars.   Drop the iron ore into
-你可以使用熔炉机制造精确的铁条了。将铁矿石投入炽热的熔
+may finally use the \1c[Gold]Smelting Machine\1c- to make precise iron bars.   Drop the \1c[Gold]iron ore\1c- into
+你可以使用\1c[Gold]熔炉机\1c-制造精确的铁条了。将\1c[Gold]铁矿石\1c-投入炽热的熔
 
 the red hot hearth and marvel as it melts and drips into the shape of an ingot.   Don't
 炉中，惊叹它如何融化并滴落成锭状。不要放弃你的职责，也
@@ -421,8 +421,8 @@ I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
 to the mould forge, this thing makes so much noise I can't hear my own thoughts.
 厂，这玩意儿太吵了，我都听不到自己的想法了。
 
-I've finally repaired the Key Machine.   Tell the minotaurs to come haul it back
-我终于修好了钥匙机。告诉牛头人把它拉回模具锻造
+I've finally repaired the \1c[Gold]Key Machine\1c-.   Tell the minotaurs to come haul it back
+我终于修好了\1c[Gold]钥匙机\1c-。告诉牛头人把它拉回模具锻造
 
 to the mould forge, this thing makes so much noise I can't hear my own thoughts.
 厂，这玩意儿太吵了，我都听不到自己的想法了。
@@ -439,8 +439,8 @@ IRON KEY MOULD MACHINE
 IRON KEY MOULD MACHINE
 铁钥匙模具机
 
-1. Insert an Iron Ingot inside the hearth and close the hatch
-1. 将铁锭放入炉膛内并关闭炉门
+1. Insert an \1c[Gold]Iron Ingot\1c- inside the hearth and close the hatch
+1. 将\1c[铁锭\1c-放入炉膛内并关闭炉门
 
 2. Once the right hatch is open, remove the Key from the mould
 2. 等右侧炉门打开后，从模具中取出钥匙
@@ -541,17 +541,17 @@ A2型齿轮是许多机械门装置的核心组件。与其他齿轮不
 ones,  however,  they must be forged out of Mithril to be able to last through extended
 同的是，它们必须由秘银锻造才能在长时间使用中保
 
-use without being deformed or damaged. Crafting Mithril Gears requires the Great Forge.
-持不变形或损坏。制作秘银齿轮需要使用大锻造厂。
+use without being deformed or damaged. Crafting Mithril Gears requires the \1c[Gold]Great Forge\1c-.
+持不变形或损坏。制作秘银齿轮需要使用\1c[Gold]大锻造厂\1c-。
 
-Firstly, drop five lumps of Mithril Ore into the Forge's Smelting Machine to obtain an Ingot.
-首先，将五块秘银矿石放入锻造厂的熔炉机中以获得铁锭。
+Firstly, drop \1c[Gold]five lumps of Mithril Ore\1c- into the \1c[Gold]Forge's Smelting Machine\1c- to obtain an Ingot.
+首先，将\1c[Gold]五块秘银矿石\1c-放入\1c[Gold]锻造厂的熔炉机\1c-中以获得铁锭。
 
-Secondly, you must place the corresponding Mould under the Forge's Cauldron and cast the Gear.
-其次，需将对应的模具放置在锻造厂的坩埚下方并铸造齿轮。
+Secondly, you must place the corresponding Mould under the \1c[Gold]Forge's Cauldron\1c- and cast the Gear.
+其次，需将对应的模具放置在\1c[Gold]锻造厂的坩埚\1c-下方并铸造齿轮。
 
-Last step involves hammering the crude gear on the Forge's Anvil, to correct any imperfections.
-最后一步是用锻造厂的锻锤敲打粗糙的齿轮，以修正任何瑕疵。
+Last step involves hammering the crude gear on the \1c[Gold]Forge's Anvil\1c-, to correct any imperfections.
+最后一步是用\1c[Gold]锻造厂的锻锤\1c-敲打粗糙的齿轮，以修正任何瑕疵。
 
 Once the final notch is hammered, allow the finished gear to cool down before using it.
 当最后一个凹槽被敲击完成后，请让完成的齿轮冷却后再使用它。
@@ -616,8 +616,8 @@ up to the orcish plaza now?    Get the spare powder kegs here RIGHT NOW.   And t
 yourselves up now, how many times do I have to tell you to get a longer fuse and STAY AWAY!!!
 飞了，我得多少次告诉你们要换更长的引信并远离危险！！！
 
-Tip: You can pick up Sentry Turrets with (DEFAULT: E) and drop them with (DEFAULT: LMB)
-提示：你可以用（默认：E键）拾取守卫炮塔，并用（默认：鼠标左键）丢弃它们。
+Tip: You can pick up Sentry Turrets with \1c[White](DEFAULT: E)\1c- and drop them with \1c[White](DEFAULT: LMB)\1c-
+提示：你可以用\1c[White]（默认：E键）\1c-拾取守卫炮塔，并用\1c[White]（默认：鼠标左键）\1c-丢弃它们
 
 This door seems to be locked from the other side.
 这扇门似乎被另一侧锁住了。

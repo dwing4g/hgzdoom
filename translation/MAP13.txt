@@ -58,35 +58,35 @@ Oh, and take this journal if you wish. Perhaps a little writing will help you ea
 Dismissed.
 退下吧。
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
-Press Use to skip debriefing
-按使用键跳过复盘
+Press \1c[White]Use\1c- to skip debriefing
+按\1c[White]使用键\1c-跳过复盘
 
 Grand Earth Mother Breaza:    Very well... go rest now, Zan, you can help around the camp later. Your room should be ready.
 伟大的大地之母布里扎：很好……瓒，现在去休息吧，之后你可以在营地帮忙。你的房间应该准备好了。
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Grand Earth Mother Breaza:    Use the ruby to get into the minotaur town, Zan. And please, be careful.
 伟大的大地之母布里扎：用红宝石进入牛头人镇，瓒。请务必小心。
 
-Press Use to skip debriefing
-按使用键跳过复盘
+Press \1c[White]Use\1c- to skip debriefing
+按\1c[White]使用键\1c-跳过复盘
 
 Grand Earth Mother Breaza:    You look so tired. Get some sleep and we'll talk when you are awake.
 伟大的大地之母布里扎：你看起来这么累。休息一下，等你醒来我们再谈。
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Grand E. M. Breaza:    Jaromir has left our camp an hour ago. Head south-east of here and meet up with him.
 伟大的E.M.布里扎：贾罗米尔一小时前已经离开了我们的营地。向东南方向走，与他会合。
 
-Press Use to skip debriefing
-按使用键跳过复盘
+Press \1c[White]Use\1c- to skip debriefing
+按\1c[White]使用键\1c-跳过复盘
 
 Grand E.M. Breaza:    Figure a way to get into the mine north of here and find our sappers. We're counting on you.
 伟大的E.M.布里扎：想办法进入这里北方的矿井，找到我们的工兵。我们正依赖你。

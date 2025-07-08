@@ -4,8 +4,8 @@ Bear Warrior:    Sarge? What the hell is going on here?
 We should stick together, ready when you are.
 我们该并肩作战，随时待命。
 
-Tip: You can order companions to follow you or hold position by interacting with them (DEFAULT: E)
-提示：你可以通过与同伴互动来命令他们跟随你或原地待命（默认按键：E）
+Tip: You can order companions to follow you or hold position by interacting with them \1c[White](DEFAULT: E)\1c-
+提示：你可以通过与同伴互动来命令他们跟随你或原地待命\1c[White]（默认按键：E）\1c-
 
 Bear Warrior:    Looks like Dura's squad made it to the Forge, but the gate is closed. Gotta find another way.
 熊战士：看起来杜拉的小队已经抵达锻造厂，但大门关着。得另寻他法。
@@ -211,8 +211,8 @@ Don't forget to take a fragfire can with you, you might have some purging to do.
 Tip: You can deploy Sentry Turrets from your inventory.
 提示：你可以从背包中部署守卫炮塔。
 
-Once deployed, you can move them around by interacting with them (DEFAULT: E)
-部署后，通过与它们互动（默认键：E）可以移动它们。
+Once deployed, you can move them around by interacting with them \1c[White](DEFAULT: E)\1c-
+部署后，通过与它们互动\1c[White]（默认键：E）\1c-可以移动它们
 
 This door bears a strange feeling. The lock has a small axe symbol etched into it.
 这扇门有种奇怪的感觉。锁上刻着一个小斧头的符号。

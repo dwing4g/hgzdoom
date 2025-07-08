@@ -31,8 +31,8 @@ Reaver:    Get ready, I feel like we're in for a big fight.
 ???:    *Sigh* You just HAD to try this, didn't you?
 ？？？：*叹气* 你非要试试看，对吧？
 
-Tip: You can switch between ammo types by pressing the Potion Launcher key (DEFAULT: 6)
-提示：按药水发射器键可切换弹药类型（默认：6键）
+Tip: You can switch between ammo types by pressing the Potion Launcher key \1c[White](DEFAULT: 6)\1c-
+提示：按药水发射器键可切换弹药类型\1c[White]（默认：6键）\1c-
 
 The glass is heavily cracked, and looks like it could break any moment.
 玻璃严重裂开，看起来随时可能碎裂。
@@ -355,8 +355,8 @@ couldn't get past the root gate. Still, neither can we... we've tried everything
 regenerate faster than we can damage them! We know they're using the tablets to recite a spell that
 速度远比我们破坏得更快！我们知道他们正用石板吟唱咒语以获得通行
 
-grants them passage, but that bitch guarding the library must have hidden the tablet before we got
-权限，但守卫图书馆的那个女人肯定在我们到达前就藏起了石板。无论
+grants them passage, but that bitch guarding the library must have \1c[Gold]hidden the tablet\1c- before we got
+权限，但守卫图书馆的那个女人肯定在我们到达前就\1c[Gold]藏起了石板\1c-。无论
 
 here. Whatever lies on the floor above, it must be valuable to them! Perhaps it's the very key to the
 楼上有什么东西，对它们而言必定价值连城！或许正是通往传送门控制

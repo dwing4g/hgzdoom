@@ -172,11 +172,11 @@ we find a way to deter them before they cave in all our tunnels, and fi - (the t
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
 
-Don't use it unless you can signal someone to let you back in.        The waterfall gate
+Don't use it unless you can signal someone to let you back in.        The \1c[Gold]waterfall gate\1c-
 除非你能通知某人让你回来，否则不要使用它。
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-水闸门必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
+\1c[Gold]水闸门\1c-必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
@@ -236,7 +236,7 @@ Flower on the pedestal. It's a pale flower akin to a lotus, I've recently witnes
 这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。
 
 near the stone circle.  Once you get the amulet, look behind the fern upstairs for a switch that
-一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
+一旦获得护身符，请在楼上的蕨类植物后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
 它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。-德鲁加
@@ -253,8 +253,8 @@ to be complete in a month and a week from now. All that is left for you to do is
 Flower on the pedestal. It's a pale flower akin to a lotus, I've recently witnessed one blooming
 这是一种苍白的花朵，类似莲花，我最近在石圈附近目睹它绽放。
 
-near the stone circle.  Once you get the amulet, look behind the fern upstairs for a switch that
-一旦获得护身符，请上楼在蕨类植物后面寻找一个开关，
+near the stone circle.  Once you get the amulet, look behind \1c[Gold]the fern upstairs\1c- for a switch that
+一旦获得护身符，请在\1c[Gold]楼上的蕨类植物\1c-后面寻找一个开关，
 
 opens the secret path to Valc. Head to the Grove, and leave it to the Reavers in charge. -Druga
 它能开启通往瓦尔克的秘密通道。前往林地，并将它交给负责的掠夺者。-德鲁加
@@ -391,44 +391,44 @@ of cave-ins to go break more walls. Oh, Earth, why so furious? Have none of our 
 An empty pedestal.
 一个空荡的基座。
 
-Tip: Remember that you can inspect the selected inventory item with (default: ENTER)
-提示：请记住，您可以按（默认：回车键）查看所选物品的详细信息。
+Tip: Remember that you can inspect the selected inventory item with \1c[White](default: ENTER)\1c-
+提示：请记住，您可以按\1c[White]（默认：回车键）\1c-查看所选物品的详细信息
 
 (This tablet seems to be instilled with an Earth Magic spell. You already recited the spell)
 （这块板子似乎被施加了大地魔法咒语。你已经念出了这个咒语）
 
-Tip: Press F1 to view the quick reference screen.
-提示：按下F1键查看快速参考界面。
+Tip: Press \1c[White]F1\1c- to view the quick reference screen.
+提示：按下\1c[White]F1键\1c-查看快速参考界面。
 
-All messages can be reviewed in the console (default: Tilde)
-所有消息都可以在控制台中查看（默认：波浪号键）
+All messages can be reviewed in the console \1c[White](default: Tilde)\1c-
+所有消息都可以在控制台中查看\1c[White]（默认：波浪号键）\1c-
 
-Tip: You won't get far without a map (default: TAB)
-提示：没有地图寸步难行（默认：Tab键）
+Tip: You won't get far without a map \1c[White](default: TAB)\1c-
+提示：没有地图寸步难行\1c[White]（默认：Tab键）\1c-
 
 It has an overlay and normal mode that can be configured from: Options - Automap Options
-它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置。
+它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置
 
-While in normal mode, you can zoom in/out (default: MWheel) and mark your current position with (default: M)
-在普通模式下，您可以使用鼠标滚轮（默认：鼠标滚轮）缩放，并用（默认：M键）标记当前位置。
+While in normal mode, you can zoom in/out \1c[White](default: MWheel)\1c- and mark your current position with \1c[White](default: M)\1c-
+在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）标记当前位置\1c-
 
 Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
-They are used automatically with (default: E)
-它们会被自动使用（默认：E键）
+They are used automatically with \1c[White](default: E)\1c-
+它们会被自动使用\1c[White]（默认：E键）\1c-
 
-Tip: Use consumables with (default: F)
-提示：使用消耗品时按（默认：F键）
+Tip: Use consumables with \1c[White](default: F)\1c-
+提示：使用消耗品时按\1c[White]（默认：F键）\1c-
 
-Consumables and Quest Items are stored in your inventory. Scroll through it with (default: Z/X)
-消耗品和任务物品存放在你的背包中，可通过（默认：Z/X键）滚动查看。
+Consumables and Quest Items are stored in your inventory. Scroll through it with \1c[White](default: Z/X)\1c-
+消耗品和任务物品存放在你的背包中，可通过\1c[White]（默认：Z/X键）\1c-滚动查看
 
-You can inspect the currently selected item for a brief description with (default: ENTER)
-你可以按（默认：回车键）查看当前选中物品的简要描述。
+You can inspect the currently selected item for a brief description with \1c[White](default: ENTER)\1c-
+你可以按\1c[White]（默认：回车键）\1c-查看当前选中物品的简要描述
 
-You can also set hotkeys for these items, or see the default ones in the help screen (default: F1)
-你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键（默认：F1键）。
+You can also set hotkeys for these items, or see the default ones in the help screen \1c[White](default: F1)\1c-
+你也可以为这些物品设置快捷键，或在帮助界面查看默认快捷键\1c[White]（默认：F1键）\1c-
 
 Tip: Crystal Amulets provide you with a set amount of armor.
 提示：水晶护符会为你提供固定数量的护甲值。
@@ -436,11 +436,11 @@ Tip: Crystal Amulets provide you with a set amount of armor.
 Small Power Shards can provide a further bonus to your armor reserve.
 小型能量碎片可以进一步提升你的护甲储备。
 
-Tip: Every weapon has an alternative attack mode (default: RMB)
-提示：每种武器都有替代攻击模式（默认：鼠标右键）。
+Tip: Every weapon has an alternative attack mode \1c[White](default: RMB)\1c-
+提示：每种武器都有替代攻击模式\1c[White]（默认：鼠标右键）\1c-
 
-You can perform quick kick attacks with (default: Q)
-你可以按（默认：Q键）进行快速踢击。
+You can perform quick kick attacks with \1c[White](default: Q)\1c-
+你可以按\1c[White]（默认：Q键）\1c-进行快速踢击
 
 You can also perform jump kick and crouch-slide kick combos.
 你也可以执行跳跃踢和蹲滑踢连段技。
@@ -448,35 +448,35 @@ You can also perform jump kick and crouch-slide kick combos.
 Tip: You can only carry one Axe without a Bag of Holding.
 提示：没有储物袋时，你只能携带一把斧头。
 
-Tip: Keys show at the bottom right of the HUD.
-提示：钥匙会显示在屏幕右下角的HUD中。
+Tip: \1c[White]Keys\1c- show at the bottom right of the HUD.
+提示：\1c[White]钥匙\1c-会显示在屏幕右下角的HUD中。
 
-Locked doors have a corresponding icon that can be seen on the map (default: TAB)
-锁定的门会在地图上以对应的图腾标识（默认：Tab键）显示。
+Locked doors have a corresponding icon that can be seen on the map \1c[White](default: TAB)\1c-
+锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）显示\1c-
 
-Tip: Read scrolls, signs, tablets and books with (default: E)
-提示：使用卷轴、路标、石板和书籍时按（默认：E键）。
+Tip: Read scrolls, signs, tablets and books with \1c[White](default: E)\1c-
+提示：使用卷轴、路标、石板和书籍时按\1c[White]（默认：E键）\1c-
 
-Tip: You can avoid alerting groups of enemies by attacking with your fists (default: 1)
-提示：用拳头攻击（默认：1键）可避免惊动敌人群体。
+Tip: You can avoid alerting groups of enemies by attacking with your fists \1c[White](default: 1)\1c-
+提示：用拳头攻击\1c[White]（默认：1键）\1c-可避免惊动敌人群体
 
-Tip: Scroll through your inventory with (default: Z/X)
-提示：按（默认：Z/X键）滚动查看背包内容。
+Tip: Scroll through your inventory with \1c[White](default: Z/X)\1c-
+提示：按\1c[White]（默认：Z/X键）\1c-滚动查看背包内容
 
-Inspect your currently selected item with (default: ENTER)
-按（默认：回车键）查看当前选中物品的信息。
+Inspect your currently selected item with \1c[White](default: ENTER)\1c-
+按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息
 
-Tip: Inspect your currently selected item with (default: ENTER)
-提示：按（默认：回车键）查看当前选中物品的信息。
+Tip: Inspect your currently selected item with \1c[White](default: ENTER)\1c-
+提示：按\1c[White]（默认：回车键）\1c-查看当前选中物品的信息
 
-Tip: You can toggle sprinting with (default: Caps Lock)
-提示：按（默认：大写锁定键）切换冲刺状态。
+Tip: You can toggle sprinting with \1c[White](default: Caps Lock)\1c-
+提示：按\1c[White]（默认：大写锁定键）\1c-切换冲刺状态
 
 Tip: Use the door with the Fist Symbol to end the level.
 提示：使用带有拳击符号的门结束关卡。
 
-Tip: Consumables can be used anytime with (default: F)
-提示：消耗品可随时使用（默认：F键）。
+Tip: \1c[White]Consumables\1c- can be used anytime with \1c[White](default: F)\1c-
+提示：\1c[White]消耗品\1c-可随时使用\1c[White]（默认：F键）\1c-
 
 They can also be bound to hotkeys in the options.
 它们也可在选项中绑定快捷键。
@@ -484,20 +484,20 @@ They can also be bound to hotkeys in the options.
 Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
 
-They are used automatically with (default: E)
-它们会被自动使用（默认：E键）
+They are used automatically with \1c[White](default: E)\1c-
+它们会被自动使用\1c[White]（默认：E键）\1c-
 
 If you can't see the plant in the background, increase the gamma so that it's barely visible
 如果你无法看清背景的植物，增加伽马值使其勉强可见
 
-Press Strafe Left (default: A) to decrease gamma
-按左移（默认：A键）减少伽马值
+Press \1c[Gold]Strafe Left\1c- (default: \1c[Gold]A\1c-) to decrease gamma
+按\1c[Gold]左移键\1c-（默认：\1c[Gold]A键\1c-）减少伽马值
 
-Press Strafe Right (default: D) to increase gamma
-按右移（默认：D键）增加伽马值
+Press \1c[Gold]Strafe Right\1c- (default: \1c[Gold]D\1c-) to increase gamma
+按\1c[Gold]右移键\1c-（默认：\1c[Gold]D键\1c-）增加伽马值
 
-Press Use (default: E) to continue
-按使用（默认：E键）继续
+Press \1c[Gold]Use\1c- (default: \1c[Gold]E\1c-) to continue
+按\1c[Gold]使用键\1c-（默认：\1c[Gold]E键\1c-）继续
 
 You can always adjust this setting from Options - Display Options
 你可以随时从选项 - 显示设置中调整此设置
