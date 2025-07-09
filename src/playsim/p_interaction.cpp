@@ -139,6 +139,8 @@ void PronounMessage (const char *from, char *to, int pronoun, const char *victim
 		{ 2, 2, 3, 4, 4 }
 	};
 	const char *substitute = NULL;
+	extern const char* C_Translate(const char* msg);
+	from = C_Translate(from);
 
 	do
 	{
@@ -162,6 +164,7 @@ void PronounMessage (const char *from, char *to, int pronoun, const char *victim
 			}
 			if (substitute != nullptr)
 			{
+				substitute = C_Translate(substitute);
 				size_t len = strlen (substitute);
 				memcpy (to, substitute, len);
 				to += len;

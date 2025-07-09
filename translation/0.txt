@@ -1069,6 +1069,12 @@ Mansion Sketch - Reading this sketch could offer some important information abou
 Ancient City Map - The ancient map inside the breached case seems to have been dmaged by the elements and passage of time.
 古城地图 - 被破坏的箱子里的古代地图似乎因自然元素和时间流逝而受损。
 
+Press Use to load the last save
+按使用键加载上次存档
+
+Zan
+瓒
+
 %o pushed a bit too far.
 %o 做得有点过头了。
 
