@@ -173,19 +173,19 @@ Given the recent events, the shutter has been set to close back after a short pe
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
 
 Don't use it unless you can signal someone to let you back in.        The \1c[Gold]waterfall gate\1c-
-除非你能通知某人让你回来，否则不要使用它。
+除非你能通知某人让你回来，否则不要使用它。\1c[Gold]水闸门\1c-
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-\1c[Gold]水闸门\1c-必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
+必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
 
 Given the recent events, the shutter has been set to close back after a short period.
 鉴于最近发生的事件，闸门会在短暂时间后自动关闭。
 
 Don't use it unless you can signal someone to let you back in.        The waterfall gate
-除非你能通知某人让你回来，否则不要使用它。
+除非你能通知某人让你回来，否则不要使用它。水闸门
 
 is to remain closed until the Witch arrives.   We can't let that accursed worm escape.
-水闸门必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
+必须保持关闭直至女巫抵达。我们不能让那只被诅咒的蠕虫逃走。
 
 The dwarven prospector should arrive by the end of the moon.
 矮人勘探者应该在月底前到达。
@@ -410,7 +410,7 @@ It has an overlay and normal mode that can be configured from: Options - Automap
 它具有叠加模式和普通模式，可在选项 - 自动地图设置中进行配置
 
 While in normal mode, you can zoom in/out \1c[White](default: MWheel)\1c- and mark your current position with \1c[White](default: M)\1c-
-在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）标记当前位置\1c-
+在普通模式下，您可以使用鼠标滚轮\1c[White]（默认：鼠标滚轮）\1c-缩放，并用\1c[White]（默认：M键）\1c-标记当前位置
 
 Tip: Quest Items are not required to be manually selected.
 提示：任务物品无需手动选择。
@@ -452,7 +452,7 @@ Tip: \1c[White]Keys\1c- show at the bottom right of the HUD.
 提示：\1c[White]钥匙\1c-会显示在屏幕右下角的HUD中。
 
 Locked doors have a corresponding icon that can be seen on the map \1c[White](default: TAB)\1c-
-锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）显示\1c-
+锁定的门会在地图上以对应的图腾标识\1c[White]（默认：Tab键）\1c-显示
 
 Tip: Read scrolls, signs, tablets and books with \1c[White](default: E)\1c-
 提示：使用卷轴、路标、石板和书籍时按\1c[White]（默认：E键）\1c-

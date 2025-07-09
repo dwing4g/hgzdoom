@@ -733,8 +733,8 @@ His human body did not last, but I shall keep his mind.    Somewhere in his gard
 (The alluringly perfumed journal appears to belong to Yzbeth. None of the entires seem to be dated)
 （这本散发着诱人香气的日记似乎属于伊兹贝思。但其中的条目似乎都没有日期）
 
-My heart is broken...   The little port town just outside my domain's gates has had an uprising but the fire of these
-我的心碎了……位于我领地外的小港口镇曾爆发过起义，
+My heart is broken...   The \1c[Gold]little port town just outside my domain's gates\1c- has had an uprising but the fire of these
+我的心碎了……\1c[Gold]位于我领地外的小港口镇\1c-曾爆发过起义，
 
 brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos out of our hearts to obey the Icon?
 但这些勇敢的邪教徒点燃的火焰却被男爵迅速扑灭。
@@ -742,8 +742,8 @@ brave cultists was swiftly quenched by the Baron.   Why must we rip the chaos ou
 How dare he bring order into our world? My tears of sorrow have drenched the port in bleak mist. The fire is gone...
 为什么我们必须从心中撕出混乱才能服从图腾？他竟敢将秩序强加于我们的世界？我的悲伤泪水让港口笼罩在阴郁的雾气中……火焰已熄灭……
 
-How ironic... much like myself, they are using magic walls to conceal their hideout.   If only they could conceal their
-多么讽刺……他们和我一样，用魔法墙壁隐藏据点。若他们能掩盖饥饿该多好。
+How ironic... much like myself, they are \1c[Gold]using magic walls to conceal their hideout\1c-.   If only they could conceal their
+多么讽刺……他们和我一样，\1c[Gold]用魔法墙壁隐藏据点\1c-。若他们能掩盖饥饿该多好。
 
 starvation. I had the crypts sealed off and the only key brought here, where I can cherish it. Sooner or later, little
 我把密室封印了，只将钥匙带来此处，好让我珍藏。迟早，这些小老鼠会撕开

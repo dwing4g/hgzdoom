@@ -646,8 +646,8 @@ And make haste. The Queen of Wrath is already ahead of you, but we can't put the
 If we don't slay the Baron here, the hordes of chaos will conquer the world. So go! Fire burn in your heart!
 如果我们不在此处斩杀男爵，混沌军团将征服世界。去吧！让火焰在你心中燃烧！
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Minotaur Lord Murguth:    You can't reach the Baron without the five primarch taints. This book will tell you more...
 牛头人领主穆尔古斯：你若没有五位原教主的污染，便无法抵达男爵身边。这本书会告诉你更多……
@@ -694,8 +694,8 @@ I'm not relying on the Queen of Wrath. You will be the one leading the charge. A
 Captain Dura:    You're late to the bloodbath! What the fuck happened to our lookouts? What a fucking mess...
 首领杜拉：你来晚了！血战已经开始！那哨兵小队到底怎么了？这他喵的一团糟……
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Warlord Grund:    Whether you appease the primarchs or not, you have one day. Then, we're going for the kill.
 男巫格伦德：无论你是否安抚原教主，你只有一天时间。然后，我们就要发起致命一击。
@@ -754,8 +754,8 @@ I funneled it into this armor amulet. Take it, along with my gratitude. Now let'
 Witch:    The demons are cowering inside the forest now. Whenever you're ready, Zan. Let us dive into battle!
 女巫：恶魔们此刻正蜷缩在森林中。瓒，随时准备，让我们投入战斗！
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight along my sisters once more!
 长枪兵：我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！

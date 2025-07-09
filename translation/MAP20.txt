@@ -184,8 +184,8 @@ But let us not despair. You wouldn't have gotten so far without being resourcefu
 This mithril padlock requires an Iron key to open.
 这把秘银锁需要用铁钥匙打开。
 
-Press Use to skip briefing
-按使用键跳过简报
+Press \1c[White]Use\1c- to skip briefing
+按\1c[White]使用键\1c-跳过简报
 
 Abedun:    You need Yzbeth's soul key fragments to defeat the Baron. Use your wits, Halfblood, you're our only hope.
 阿贝顿：你需要伊兹贝思的灵魂钥匙碎片来击败男爵。用你的智慧吧，混血人，你是我们唯一的希望。
@@ -625,6 +625,9 @@ Marching as we chant
 First, we must consume the Knowledge
 首先，我们必须吞食知识
 
+First, we must consume the \1c[Gold]Knowledge\1c-
+首先，我们必须吞食\1c[Gold]知识\1c-
+
 Join us in our chant
 加入我们的吟唱
 
@@ -636,6 +639,9 @@ Knowing the right teachings gives us the key to open the path.     Devotion give
 
 But only a lifetime of Hedonism will soften the body, the mind and the spirit in anticipation for the chaotic embrace
 但唯有终生沉溺于赫顿主义，才能让身体、心智与灵魂在混沌拥抱来临前逐渐软化。
+
+But only a lifetime of \1c[Gold]Hedonism\1c- will soften the body, the mind and the spirit in anticipation for the chaotic embrace
+但唯有终生沉溺于\1c[Gold]赫顿主义\1c-，才能让身体、心智与灵魂在混沌拥抱来临前逐渐软化。
 
 that awaits us.     Only when life becomes pain, and pain becomes pleasure can we fulfil our purpose.     For how else
 那等待我们的……唯有当生命化作痛苦，而痛苦化作愉悦，我们才能完成使命。
@@ -652,6 +658,9 @@ For the ones who worshipped Demons before learning the Call of Chaos
 For the ones who indulged themselves to a life of pleasure before pledging to Worship
 那些在承诺崇拜前沉迷享乐的人
 
+For the ones who indulged themselves to a life of pleasure before pledging to \1c[Gold]Worship\1c-
+那些在承诺\1c[Gold]崇拜\1c-前沉迷享乐的人
+
 For the ones who fell into afterlife before preparing themselves for chaos' embrace
 那些在准备接受混沌拥抱前便堕入来世的人
 
@@ -666,6 +675,9 @@ Embrace of the Afterlife - Final Word
 
 die for it.    And for those who devote their lives to this final moment, Death itself will end their journey and
 去。而对于将一生奉献于此终局时刻的人，死亡本身将终结他们的旅程并……
+
+die for it.    And for those who devote their lives to this final moment, \1c[Gold]Death\1c- itself will end their journey and
+去。而对于将一生奉献于此终局时刻的人，\1c[Gold]死亡\1c-本身将终结他们的旅程并……
 
 lower them below the earth, where the tendrils of chaos will tear them limb from limb and set their spirit free.
 将他们送入地下深处，混沌的触须会撕碎他们的肢体，释放他们的灵魂。
@@ -694,11 +706,17 @@ will allow even the most foolish of initiates to prepare the substances required
 The four tanks are destined for prime fluids - oil, mana, poison and blood. Do not mismatch them! For a tank to lend
 四个罐子专用于基础液体——油、魔力、毒液和血液。切勿混用！若要让
 
+\1c[Gold]The four tanks are destined for prime fluids - oil, mana, poison and blood.\1c- Do not mismatch them! For a tank to lend
+\1c[Gold]四个罐子专用于基础液体——油、魔力、毒液和血液。\1c-切勿混用！若要让
+
 its content to the final concoction, the switch must be flipped up.      Opposingly, flipping it down will close the tap.
 罐中内容物融入最终药剂，开关需向上翻转。相反，向下翻转会关闭阀门。
 
 The three kegs are destined for arcane salts. Once again, do not mismatch the color! Simply pour the salts into the
 三个桶专用于秘盐。再次提醒，切勿混淆颜色！只需将秘盐倒入
+
+\1c[Gold]The three kegs are destined for arcane salts.\1c- Once again, do not mismatch the color! Simply pour the salts into the
+\1c[Gold]三个桶专用于秘盐。\1c-再次提醒，切勿混淆颜色！只需将秘盐倒入
 
 top pan, and they will be ready to catalyse the final concoction.  When everything is prepared, pull the main lever.
 顶部的容器，它们将准备好催化最终药剂。当所有材料准备就绪后，拉动主杠杆。
@@ -850,11 +868,11 @@ one of your Trinket Enchantment scrolls.     Don't worry about aiding your maste
 know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether
 这份卷轴。除非……当然，如果她携带真视吊坠的话。但即使如此……无论是
 
-one of your Trinket Enchantment scrolls.     Don't worry about aiding your master's foe, it's very unlikely that she will
-一份你的饰品附魔卷轴。别担心帮助主人的敌人——她几乎不可能知道如何使用
+one of your \1c[Gold]Trinket Enchantment scrolls\1c-.     Don't worry about aiding your master's foe, it's very unlikely that she will
+一份你的\1c[Gold]饰品附魔卷轴\1c-。别担心帮助主人的敌人——她几乎不可能知道如何使用
 
-know what to do with the scroll.   Unless, of course, she's carrying a Pendant of True Sight.    But even then... whether
-这份卷轴。除非……当然，如果她携带真视吊坠的话。但即使如此……无论是
+know what to do with the scroll.   Unless, of course, she's carrying a \1c[Gold]Pendant of True Sight\1c-.    But even then... whether
+这份卷轴。除非……当然，如果她携带\1c[Gold]真视吊坠\1c-的话。但即使如此……无论是
 
 you anger the Cult and the Baron, or the local Matron, the price of disobeying will be high.   Weigh your choices.   Mwah!
 惹怒邪教与男爵，还是当地的女主人，违抗的代价都会很高。权衡你的选择吧。哇！
