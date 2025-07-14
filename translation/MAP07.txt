@@ -101,7 +101,7 @@ I will be heading out to the dwarven fortress tomorrow to settle a few important
 我明天将前往矮人要塞处理一些重要事务。我几乎没时间给那些
 
 have time to give those rowdy Bear Warriors their due punishment...  their discipline seems to be as
-吵闹的熊战士们应有的惩罚……他们的纪律似乎和一切其他事情
+吵闹的熊战士们应有的惩罚……他们的纪律似乎和一切其它事情
 
 shaky as everything else lately. Nonetheless, I am counting on you to handle things until I return.
 一样摇摇欲坠。不过，我指望你能在我回来前妥善处理一切。
@@ -167,7 +167,7 @@ of these crystals is measured by the intensity of the glow  -  a bright core is 
 量通过其发光强度来衡量——明亮的核心通常适合为大型设施
 
 for powering large installations, but is also more unstable.   For this reason, our energy guns
-供能，但也更加不稳定。因此，我们如守卫炮塔或水晶长矛这
+供能，但也更加不稳定。因此，我们如哨兵炮塔或水晶长矛这
 
 such as Sentry Turrets or Crylances employ depleted shards that have a much duller glow.
 类能量武器会使用耗尽的碎片，它们的发光更为暗淡。
@@ -281,7 +281,7 @@ LIVING QUARTERS
 生活区
 
 REPAIR BAY
-维修湾
+维修间
 
 CRYSTAL WARD ACTIVATION
 水晶屏障激活

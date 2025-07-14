@@ -332,7 +332,7 @@ The Blacksmith Guild is composed of miners, smiths and jewelcrafters, all able t
 铁匠公会由矿工、铁匠和珠宝工匠组成，所有人都能将干岩的生命之血
 
 of dry rock into weapons, armors, ornaments and various mechanisms and other mechanical wonders.
-转化为武器、铠甲、饰品以及各种机械装置和其他奇妙的机械奇迹。
+转化为武器、铠甲、饰品以及各种机械装置和其它奇妙的机械奇迹。
 
 The Carpenter Guild fosters woodcutters, locksmiths, leatherworkers and tinkerers, able to shape
 木匠公会培养伐木者、锁匠、皮革匠和发明家，他们能够将森林塑造成

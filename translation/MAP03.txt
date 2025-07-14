@@ -71,7 +71,7 @@ our best shot is to move to the Forge and use the portal there to rally up with 
 择是前往锻造厂，利用那里的传送门与水晶之心的守卫汇合。
 
 Beza will stay here with the goblins and hold the barracks. Or at least try to slow the new waves down.
-贝扎将留守此处与哥布林周旋，至少尝试延缓新一波攻势。
+贝扎将与哥布林们留守此处周旋，至少尝试延缓新一波攻势。
 
 (A sentence has been added to the bottom, clearly written in haste by someone else. The ink hasn't dried.)
 （添加了一句文字，显然是某人匆忙写下的。墨迹还未干透）
@@ -92,13 +92,13 @@ ever pressing me. I hope you're all well. It is about time you and your orc sist
 来。希望你们都平安。是时候了，你和你的兽人姐妹们该去打
 
 to strike those chaotic savages.    Still,  as much as I like the scars,  try not to bring
-击那些混乱的野蛮人了。不过，尽管我喜欢这些伤疤，但尽量
+击那些制造混乱的野蛮人了。不过，尽管我喜欢这些伤疤，但尽量
 
 back any fresh ones.  I will be watching this conflict carefully, but my resources are
-别带回新的伤口。我会密切关注这场冲突，但我的资源已经捉
+别带着新伤口回来。我会密切关注这场冲突，但我的资源已经捉
 
 stretched thin.   Speaking of, you forgot your sentry toy by the temple, I dropped it
-襟见肘了。说到这个，你把守卫玩具忘在神庙了，我把它放在
+襟见肘了。说到这个，你把哨兵玩具忘在神庙了，我把它放在
 
 in the bedroom.    P.S. You need to find a better place to hide your apartment key. -A.
 卧室里了。附言：你需要找个更好的地方藏你的公寓钥匙。-A.
@@ -113,13 +113,13 @@ TO VALC'S GREAT FORGE
 前往瓦尔克的大锻造厂
 
 All our Crushbows are now enchanted with Air Magic, courtesy to the Lancers and Earth Mothers.
-我们所有的重击弩现在都附带了天空之神魔法，感谢长枪团和大地之母的协助。
+我们所有的重击弩现在都附了天空之神魔法，感谢长枪团和大地之母的协助。
 
 This allows for deadly fast and accurate shots that pierce through all flesh and armor with ease.
 这使得射出的箭矢能以致命的速度和精准度穿透所有肉体与铠甲。
 
 Know that the magic force encasing the bolt dulls the explosion and fragmentation radius, but this
-知晓魔法力量包裹箭矢会削弱爆炸范围与碎片扩散半径，但近距离作战
+要知道魔法力量包裹箭矢会削弱爆炸范围与碎片扩散半径，但近距离作战
 
 can certainly be used to our advantage at closer range.   No demon will withstand this raw power.
 时这无疑能成为我们的优势。任何恶魔都无法承受这种纯粹的力量。
@@ -143,13 +143,13 @@ BATH HOUSE OF THE ANCIENTS
 古代浴室
 
 RESTORED AND PRESERVED BY GRAND EARTH MOTHER BREAZA
-由伟大的大地之母布里扎修复并保存
+由伟大的大地之母布里扎修复并保护
 
 This wall remembers the western wing,  which was damaged beyond repair.
-这面墙铭记着西侧走廊，它已损毁无法修复。
+这面墙铭记着西侧走廊，它已被损毁无法修复。
 
 The recovered materials have been used to restore the other bath chambers.
-回收的材料已用于修复其他浴室房间。
+回收的材料已用于修复其它浴室房间。
 
 (The ledger holds records of supplies brought in from the Forge)
 （账本记录了从锻造厂带来的物资）
@@ -161,19 +161,19 @@ The recovered materials have been used to restore the other bath chambers.
 （卷轴摸起来有些温暖，展开后发现墨迹仍很新鲜）
 
 Zan!   What the hell are you doing here?   Weren't you supposed to be off with our main
-瓒！你他喵的怎么在这里？你不该和主力部队一起进攻地狱之
+瓒！你他喵的怎么在这里？你不该和主力部队一起进攻
 
 force to strike at Hell's core?  Unless... Look, the demons are way up our ass right now.
-核的吗？除非……看吧，恶魔们正追着我们屁股后面。
+地狱之核吗？除非……看吧，恶魔们正追着我们屁股后面。
 
 I saw you coming through the vision globe,  and I think I know where you're headed...
-我看到你从视觉球体中出现，我想我知道你要往哪里去了……
+我看到你从监视球中出现，我想我知道你要往哪里去了……
 
 Cultists are all over the place, and pretty much everyone got ambushed and killed in
 邪教徒到处都是，几乎所有人都在片刻间被伏击并杀死。锻造厂也不例外。
 
 mere moments. The Forge made no exception. An elven warlock seems to be leading this
-似乎有一名精灵法师正领导这次进攻。硬茬子，她直接穿过下层广场，
+似乎有一名精灵法师正领导这次进攻。这个硬茬子直接穿过下层广场，
 
 assault. Tough bitch, went straight through the lower Plaza and used magic to cave in
 用魔法将身后的整条隧道轰塌……长枪团撑不了太久，
@@ -194,13 +194,13 @@ Crystal Heart now.  Hurry up to the Forge, I'll keep the portal open.   -   Reav
 我会保持传送门开放。- 掠夺者提娅媞
 
 By the time it was discovered,  this corridor had completely succumbed to ruin.
-等到发现时，这条走廊已经完全沦为废墟。
+等被发现时，这条走廊已经完全沦为废墟。
 
 The room beyond has been reconstructed from bare rock by the Earth Mothers' magic.
 房间另一侧由大地之母的魔法从岩石中重建而成。
 
 Hey, can you go check out the vents behind the gym? The Bears keep telling me.
-嘿，你能去检查一下健身房后面的通风口吗？熊族们一直在跟我说。
+嘿，你能去检查一下健身房后面的通风口吗？熊战士们一直在跟我说。
 
 they hear some weird hissing noise.    Could be a fissure or perhaps some pests...
 他们听到一些奇怪的嘶嘶声……可能是裂缝，也可能是某种害虫……
@@ -209,7 +209,7 @@ Don't forget to take a fragfire can with you, you might have some purging to do.
 别忘了带上一个碎火罐，你可能会需要清理一番。
 
 Tip: You can deploy Sentry Turrets from your inventory.
-提示：你可以从背包中部署守卫炮塔。
+提示：你可以从背包中部署哨兵炮塔。
 
 Once deployed, you can move them around by interacting with them \1c[White](DEFAULT: E)\1c-
 部署后，通过与它们互动\1c[White]（默认键：E）\1c-可以移动它们

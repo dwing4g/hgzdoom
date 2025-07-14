@@ -626,7 +626,7 @@ Picked up a Potion of Haste.
 拾取了一瓶迅捷药水。
 
 Picked up a Sentry Gun.
-拾取了一把守卫枪。
+拾取了一把哨兵枪。
 
 Picked up an Amulet of Shadows.
 拾取了一枚暗影护符。
@@ -1016,7 +1016,7 @@ Potion of Haste - Drinking this potion will instil you with a burst of magic tha
 迅捷药水 - 饮用此药水将激发魔法爆发，提升攻击速度。持续30秒。
 
 Sentry Gun - One of the most advanced weaponry of the Iron Division, the Sentry Gun can be deployed to provide cover and security within a certain area.
-守卫枪 - 铁军最先进的武器之一，可部署于特定区域提供掩护与安全。
+哨兵枪 - 铁军最先进的武器之一，可部署于特定区域提供掩护与安全。
 
 Amulet of Shadows - Wearing this dark crystal will turn you into a blurry shadow, making you faster and harder to aim at. Lasts 75 seconds.
 暗影护符 - 佩戴此黑暗水晶会使你化为模糊的阴影，使你移动更快且更难被瞄准。持续75秒。
@@ -1199,7 +1199,7 @@ Zan
 %o 被掠夺者意外击中了。
 
 %o was mowed down by a Sentry.
-%o 被守卫横扫而过。
+%o 被哨兵横扫而过。
 
 %o was accidentally hit by a Witch.
 %o 被女巫意外击中了。

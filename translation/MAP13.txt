@@ -533,7 +533,7 @@ Witch Chieftain Zura:    ...studies of old ruins. Elven ruins... that might well
 女巫酋长祖拉：……对古代遗迹的研究。精灵遗迹……这很可能与妮丝瑞尔的目标有关联。
 
 Crystal Curator:    Of course! The Sacred Disk! She must know of something else it could be used for.
-水晶管理员：当然！圣盘！她一定知道它还能用于其他用途。
+水晶管理员：当然！圣盘！她一定知道它还能用于其它用途。
 
 Advisor:    Our knowledge of crystals stems from elven ruins too, after all. This slime might be a similar case.
 顾问：毕竟我们对水晶的认知也源自精灵遗迹。这种黏液或许也是类似的情况。
@@ -1211,7 +1211,7 @@ Earth Mother Bendi:    Oh, you've found a Spirit Gem? How delightful, I shall re
 大地之母本迪：哦，你找到灵石了？太棒了，我马上为你充能王冠！
 
 There it is! If you happen upon any other Spirit Gem, bring it to me and I'll recharge the crown with it!
-看吧！如果你遇到其他灵石，就带给我，我会用它来充能你的王冠！
+看吧！如果你遇到其它灵石，就带给我，我会用它来充能你的王冠！
 
 Earth Mother Bendi:    Oh, another Spirit Gem? How delightful, I shall recharge your crown in a moment!
 大地之母本迪：哦，又发现一颗灵石？太棒了，我马上为你充能王冠！
@@ -1244,7 +1244,7 @@ E.M. Bendi:    The smarter you are, the harder you snap. I suppose us mages shou
 E.M.本迪：你越聪明，就越容易被击碎。我想我们法师应该比你们战士更畏惧念力魔法。
 
 E.M. Bendi:    The Self Worship practiced by the Cult has revealed other kinds of magic than those of our Elemental Gods.
-E.M.本迪：邪教实践的自我崇拜揭示了不同于元素之神的其他魔法类型。
+E.M.本迪：邪教实践的自我崇拜揭示了不同于元素之神的其它魔法类型。
 
 Witch Brewer:    Sorry, no new healing pots. The Earth Mothers are suddenly in need of even more mana...
 女巫酿造师：抱歉，没有新的治疗药水了……大地之母突然需要更多魔力……
@@ -1295,7 +1295,7 @@ Witch Brewer:    You fucking dipshit... I'm not going to forget this anytime soo
 女巫酿造师：你他喵的混蛋……我很快就会忘记这件事的！
 
 Earth Mother Bendi:    Can you practice your might on something else please?
-大地之母本迪：请用你的力量去对付其他东西吧？
+大地之母本迪：请用你的力量去对付其它东西吧？
 
 Minotaur Pyromancer:    Is this the time to horse around, half-orc?
 牛头人火系法师：半兽人，现在可不是开玩笑的时候！
@@ -1520,7 +1520,7 @@ Shady Fixer:    *Gasps* You're a rich orc, Zan. My type of orc. You've bought ou
 阴暗修复者：*惊呼* 你是个富有的兽人，瓒。正是我这种类型的兽人。你已经买光了我所有的特制商品，
 
 but I can keep selling you Vials of Healing for ten gold each.   They'll keep you alive like nothing else.
-但我仍可以继续以十枚金币的价格卖给你治疗药剂。它们能像其他任何东西一样让你保持生命。
+但我仍可以继续以十枚金币的价格卖给你治疗药剂。它们能像其它任何东西一样让你保持生命。
 
 Shady Fixer:    Come now, can't spare a mere ten gold for a vial that can save your life?
 阴暗修复者：快点吧，难道连十枚金币都舍不得为一瓶能救你性命的药剂吗？

@@ -44,7 +44,7 @@ Reaver:    We can't let the horned assholes recover their gear. Too bad we can't
 掠夺者：不能让那些长角的混蛋恢复装备。可惜我们不能直接炸毁这个地方。
 
 Reaver:    Who knows what other weapons would have been made here if you hadn't shown up to stop them...
-掠夺者：谁知道如果没你阻止它们，这里还会制造出什么其他武器……
+掠夺者：谁知道如果没你阻止它们，这里还会制造出什么其它武器……
 
 Reaver:    I swear I heard voices coming from one of the machines. What kind of power runs through them?
 掠夺者：我发誓听到其中一台机器里传来声音。它们内部运行的是什么力量？
@@ -284,7 +284,7 @@ AUXILIARY POWER PILLAR
 辅助能量柱
 
 POWER SURGE WARNING: DO NOT ACTIVATE WHILE THE OTHER 3 PILLARS ARE IN FUNCTION
-能量激增警告：在其他三个柱子正常运作时切勿激活
+能量激增警告：在其它三个柱子正常运作时切勿激活
 
 Though the power pillars can produce enough energy for the entire factory, the new machines have been straining
 尽管能量柱能为整座工厂提供充足能源，但新机器正让分配系统不堪重负，

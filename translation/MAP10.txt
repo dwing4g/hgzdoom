@@ -467,7 +467,7 @@ Captain Dura:    Dendra wants to talk to you, she's in the patio behind us.
 首领杜拉：丹德拉想和你说话，她在我们身后的露台。
 
 Captain Dura:    I'd rather have my Crushbow at hand if you don't mind. We have other supplies to spare if you need 'em.
-首领杜拉：如果你不介意的话，我宁愿握着我的重击弩。如果你需要其他补给，我们还有多余的。
+首领杜拉：如果你不介意的话，我宁愿握着我的重击弩。如果你需要其它补给，我们还有多余的。
 
 Lancer Dendra:    The crystal key, Zan. Don't forget to take it before you leave.
 长枪兵丹德拉：水晶钥匙，瓒。离开前别忘了带走它。

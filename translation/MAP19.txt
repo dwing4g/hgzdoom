@@ -65,7 +65,7 @@ Adur:    Yzbeth is well versed in the art of seduction, and she's eager to share
 阿杜尔：伊兹贝思精通诱惑的艺术，她渴望与你分享。别……太伤她。
 
 Adur:    'tis a pity that you broke Yzbeth's heart. Alas, there are other demonbloods who can initiate you.
-阿杜尔：真可惜你打破了伊兹贝思的心。唉，还有其他恶魔之血可以引导你入门。
+阿杜尔：真可惜你打破了伊兹贝思的心。唉，还有其它恶魔之血可以引导你入门。
 
 Adur:    Ahhh... I can feel your heart writhe. Blackened and emburdened with sin by fleeting Yzbeth...
 阿杜尔：哦……我能感受到你的心在扭曲。被短暂的伊兹贝思玷污、黑化与压垮了……
@@ -392,7 +392,7 @@ Elzriel:    Are you even sure you want to do this? Your world will do better und
 埃尔兹瑞尔：你确定真的想这么做吗？你的世界在拥有……专业能力的人统治下会更好。
 
 Elzriel:    The Baron is a master of trade, among other things. To challenge him, you should be at least as good.
-埃尔兹瑞尔：男爵是贸易大师之一，除此之外还有许多其他才能。要挑战他，你至少得达到同等水平。
+埃尔兹瑞尔：男爵是贸易大师之一，除此之外还有许多其它才能。要挑战他，你至少得达到同等水平。
 
 The scratches covering the golden frame suggest that its content has been pried out recently.
 覆盖黄金框架的划痕表明其内容物最近被强行取出。
@@ -437,7 +437,7 @@ Shady Fixer:    C'mon, grab this artifact already, it's our only real ticket out
 阴暗修复者：快点，赶紧拿这个神器，这是我们唯一能逃出去的机会。
 
 Shady Fixer:    Well, that's it for us, then. There's no other way out of this hellish prison.
-阴暗修复者：好了，这就是我们最后的结局了。这里没有其他出路。
+阴暗修复者：好了，这就是我们最后的结局了。这里没有其它出路。
 
 Shady Fixer:    I doubt we can find an actual exit... this place has no physical access.
 阴暗修复者：我怀疑我们能找到真正的出口……这个地方根本没有物理通道。
@@ -500,7 +500,7 @@ Shady Fixer:    I recently read that in the Overworld kingdoms, a bova would be 
 阴暗修复者：我最近读到，在上界王国里，波瓦要交十六枚硬币的税……
 
 ...now, humans keep devaluing gold by mixing it with other metals. The riddle is old, so it could be six, eight, ten...
-现在人类通过掺杂其他金属来贬值黄金。这个谜题很古老，所以可能是六、八或十枚……
+现在人类通过掺杂其它金属来贬值黄金。这个谜题很古老，所以可能是六、八或十枚……
 
 Shady Fixer:    One gold for one chick feels like too much. But one gold for two chicks... I think I'm onto something.
 阴暗修复者：一只小鸡一枚金币感觉太多了。但两只小鸡一枚……我觉得我有点门道了。

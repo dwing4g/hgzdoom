@@ -740,7 +740,7 @@ Reaver:    We won't fail you, sisters! Come on, Zan, I'll take you to our squad.
 掠夺者：我们不会辜负你，姐妹们！来吧，瓒，我会带你去我们的小队。带领我们取得胜利！
 
 Warlord Grund:    Use the forest to your advantage, we'll keep the other routes secure. Earth protect you!
-男巫格伦德：利用森林地形，我们会守住其他路线。大地庇佑你们！
+男巫格伦德：利用森林地形，我们会守住其它路线。大地庇佑你们！
 
 Lancer:    We've been eagerly awaiting you, Zan. I recovered enough to fight beside my sisters once more!
 长枪兵：我们一直在等待你，瓒。我已经恢复得足以再次与姐妹们并肩作战了！
@@ -1667,7 +1667,7 @@ Reaver:    We would all love to challenge the Baron, but it looks like you're go
 掠夺者：我们都想挑战男爵，但看起来你得独自面对他。
 
 Workshop Boss:    Going up against the Baron? Remember, the mind freaks can't do shit against our sentry guns.
-工坊老板：要对抗男爵？记住，那些精神错乱者根本无法对抗我们的守卫炮。
+工坊老板：要对抗男爵？记住，那些精神错乱者根本无法对抗我们的哨兵枪。
 
 Workshop Boss:    What's up, big girl? Aren't you supposed to be searching for the primarch shrines or something?
 工坊老板：嘿，大妹子？你不是该去寻找原教神殿吗？
@@ -1685,7 +1685,7 @@ Workshop Boss:    I wonder if Nithriel... I mean she's an elf... and the crystal
 工坊老板：我想知道如果妮丝瑞尔……我是说她是个精灵……还有这些水晶……以及你发现的那个神殿……
 
 Workshop Boss:    It's hard to stay focused in here. I gotta hurry up and fix this sentry before our scouts return.
-工坊老板：这里很难保持专注。我得赶紧修好这守卫，不然侦察队回来就麻烦了。
+工坊老板：这里很难保持专注。我得赶紧修好这个哨兵，不然侦察队回来就麻烦了。
 
 Workshop Boss:    Breaking this Paingun down was easy... now, to put it back together... ugh, I can't stay focused.
 工坊老板：拆解这痛击枪很容易……现在要重新组装……呃，我实在没法集中精神了。
@@ -1745,7 +1745,7 @@ E.M. Bendi:    So you're off to fight the Baron? Remember, he's a mind master. S
 E.M.本迪：所以你要去挑战男爵吗？记住，他是心灵大师。用心灵王冠保护自己！
 
 E.M. Bendi:    So you're off to fight the Baron? The Psi Crown would have been useful, but alas, you'll make do.
-E.M.本迪：所以你要去挑战男爵吗？心灵王冠会很有用，但唉，你只能靠其他方式了。
+E.M.本迪：所以你要去挑战男爵吗？心灵王冠会很有用，但唉，你只能靠其它方式了。
 
 E.M. Bendi:    The soil is cursed, no plant can grow by itself in this inferno. We're using magic to form a grove.
 E.M.本迪：这里的土壤被诅咒了，没有植物能自行生长在这地狱般的环境中。我们正在用魔法打造一片林地。

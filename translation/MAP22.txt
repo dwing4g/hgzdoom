@@ -62,7 +62,7 @@ Primarch Adur:    ...Yzbeth has been missing you. You'd have such a good time am
 原教阿杜尔：……伊兹贝思一直在想念你。如果你加入我们，就能在恶魔中享受乐趣……只要你愿意。
 
 Abhaoth:    The other soul locks must be nearby. Make haste and release me already!
-阿波豪斯：其他灵魂锁应该就在附近。快点，把我释放出来！
+阿波豪斯：其它灵魂锁应该就在附近。快点，把我释放出来！
 
 Primarch Erudin:    You already betrayed your sisters for me. Do you still think there is a way back?
 原教埃鲁丁：你已经为了我背叛了姐妹们。你还觉得有回头的路吗？
@@ -161,7 +161,7 @@ Blue Baron:    Your tone is ripe with arrogance. You would do well to uphold our
 幽蓝男爵：你的语气充满傲慢。你最好遵守我们的协议。
 
 Nithriel:    Oh, dear Baron. As long as our interests remain aligned, I have no reason to do otherwise.
-妮丝瑞尔：哦，亲爱的男爵。只要我们的利益保持一致，我也没有理由做其他事。
+妮丝瑞尔：哦，亲爱的男爵。只要我们的利益保持一致，我也没有理由做其它事。
 
 The beacon has enough energy. Activate the Disk! Let us not keep our progenitors waiting.
 灯塔有足够的能量。激活圆盘！让我们不要让先祖们等太久。

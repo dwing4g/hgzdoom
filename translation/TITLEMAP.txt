@@ -71,7 +71,7 @@ Tip #21: Bags of Holding only increase your ammo capacity once.
 提示#21：储物袋仅能提升弹药容量一次。
 
 Tip #22: Sentry Turrets take damage underwater. Swimming while holding one in your hands can be hazardous.
-提示#22：守卫炮塔在水中也会受到伤害。手持炮塔游泳可能十分危险。
+提示#22：哨兵炮塔在水中也会受到伤害。手持炮塔游泳可能十分危险。
 
 Tip #23: Saving the game is the strongest spell in the book.
 提示#23：保存游戏是书中最强的法术。

@@ -149,7 +149,7 @@ This wall looks like it could be broken with a proper pickaxe.
 这堵墙看起来可以用合适的镐子凿开。
 
 This seems to be activated somewhere else.
-这似乎是在其他地方被激活的。
+这似乎是在其它地方被激活的。
 
 I think that tremor from two days ago is related to these giant worms that have been pestering
 我认为两天前的那次震动与这些一直困扰我们的巨型蠕虫有关。
@@ -284,7 +284,7 @@ proper crystals to recharge it.   I know it's no job for a fence,  but see if yo
 我知道这可不是一个普通小偷能干的事，但看看能不能在他们准备补给车队时
 
 shards when they prepare the supply caravan, and drop them at the spot we agreed on, along with
-顺手弄到一些发光碎片，并把它们带到我们约定的地方，连同我的其他装备一起留下。
+顺手弄到一些发光碎片，并把它们带到我们约定的地方，连同我的其它装备一起留下。
 
 the rest of my gear.   I will pitch in with this nice ruby I've... acquired.   Make it worthwhile.   -   G.
 我会用这块红宝石……嗯，我“获得”的东西凑个份子。让这一切物有所值吧。- G.
