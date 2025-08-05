@@ -1,3 +1,69 @@
+Main Menu
+主菜单
+
+Cold Rock
+冷岩
+
+Plaza
+广场
+
+Barracks
+兵营
+
+Technical Space
+技术空间
+
+Grove
+林地
+
+Errant Signal
+偏离信号
+
+Parapet
+城垛
+
+Pale Wind
+苍白之风
+
+Research and Decay
+研究与腐朽
+
+Crystal Heart
+水晶之心
+
+Deep Chill
+深寒
+
+Mansion
+庄园
+
+Besieged
+围攻
+
+Brazen Bull
+青铜公牛
+
+Deep Calls
+深唤
+
+Port to Hell
+通向地狱的港口
+
+Hellscape
+地狱景观
+
+Paradise Lost
+失落天堂
+
+Place Afoul
+污秽之地
+
+Salt and Blood
+盐与血
+
+Bloodrite
+血祀
+
 With a head still sore from waking up in a pile of rocks,
 头痛未消地从一堆岩石中醒来，
 and still no memory of how she even ended up there,
